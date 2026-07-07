@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>BMBL Prospects</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+
+<body>
+
+<header>
+    <h1>BMBL Fantasy Baseball</h1>
+    <p>Prospect Rankings Dashboard</p>
+</header>
+
+
+<main>
+
+<section class="controls">
+
+    <input
+        id="search"
+        type="text"
+        placeholder="Search player..."
+    >
+
+    <select id="levelFilter">
+        <option value="">All Levels</option>
+        <option value="MLB">MLB</option>
+        <option value="AAA">AAA</option>
+        <option value="AA">AA</option>
+        <option value="A">A</option>
+    </select>
+
+
+</section>
+
+
+<section>
+
+<table>
+
+<thead>
+
+<tr>
+    <th>Rank</th>
+    <th>Player</th>
+    <th>Team</th>
+    <th>Position</th>
+    <th>Age</th>
+    <th>Level</th>
+    <th>Value</th>
+    <th>Fantasy Team</th>
+</tr>
+
+</thead>
+
+
+<tbody id="playerTable">
+
+</tbody>
+
+
+</table>
+
+</section>
+
+</main>
+
+
+<script src="app.js"></script>
+
+</body>
+
+</html>

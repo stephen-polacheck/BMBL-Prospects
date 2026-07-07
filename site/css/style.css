@@ -1,0 +1,87 @@
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    margin: 0;
+
+    background: #f5f5f5;
+
+}
+
+
+header {
+
+    padding: 25px;
+
+    background: #111;
+
+    color: white;
+
+}
+
+
+main {
+
+    padding: 25px;
+
+}
+
+
+
+.controls {
+
+    margin-bottom: 20px;
+
+}
+
+
+
+input, select {
+
+    padding: 8px;
+
+    margin-right: 10px;
+
+}
+
+
+
+table {
+
+    width:100%;
+
+    border-collapse: collapse;
+
+    background:white;
+
+}
+
+
+
+th {
+
+    text-align:left;
+
+    padding:10px;
+
+    border-bottom:2px solid #ddd;
+
+}
+
+
+
+td {
+
+    padding:10px;
+
+    border-bottom:1px solid #eee;
+
+}
+
+
+
+tr:hover {
+
+    background:#fafafa;
+
+}
