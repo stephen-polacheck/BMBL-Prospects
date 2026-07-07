@@ -1,0 +1,162 @@
+[
+  {
+    "team_id": 2,
+    "team_name": "Atlantis Aliens",
+    "player_id": 65037,
+    "player_key": "469.p.65037",
+    "name": "Samy Natera Jr.",
+    "first_name": "Samy",
+    "last_name": "Natera Jr.",
+    "position": "RP",
+    "eligible_positions": [
+      "RP"
+    ],
+    "mlb_team": "LAA",
+    "mlb_team_name": "Los Angeles Angels",
+    "status": ""
+  },
+  {
+    "team_id": 4,
+    "team_name": "Carson City Campers",
+    "player_id": 10889,
+    "player_key": "469.p.10889",
+    "name": "Richard Lovelady",
+    "first_name": "Richard",
+    "last_name": "Lovelady",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "WSH",
+    "mlb_team_name": "Washington Nationals",
+    "status": "IL15"
+  },
+  {
+    "team_id": 6,
+    "team_name": "Cokeburg Miners",
+    "player_id": 63965,
+    "player_key": "469.p.63965",
+    "name": "Peyton Gray",
+    "first_name": "Peyton",
+    "last_name": "Gray",
+    "position": "RP",
+    "eligible_positions": [
+      "RP"
+    ],
+    "mlb_team": "TEX",
+    "mlb_team_name": "Texas Rangers",
+    "status": ""
+  },
+  {
+    "team_id": 10,
+    "team_name": "Harleysville Hornets",
+    "player_id": 12179,
+    "player_key": "469.p.12179",
+    "name": "Alika Williams",
+    "first_name": "Alika",
+    "last_name": "Williams",
+    "position": "3B",
+    "eligible_positions": [
+      "3B"
+    ],
+    "mlb_team": "ATH",
+    "mlb_team_name": " Athletics",
+    "status": ""
+  },
+  {
+    "team_id": 10,
+    "team_name": "Harleysville Hornets",
+    "player_id": 11321,
+    "player_key": "469.p.11321",
+    "name": "Nicky Lopez",
+    "first_name": "Nicky",
+    "last_name": "Lopez",
+    "position": "2B",
+    "eligible_positions": [
+      "2B"
+    ],
+    "mlb_team": "TEX",
+    "mlb_team_name": "Texas Rangers",
+    "status": ""
+  },
+  {
+    "team_id": 12,
+    "team_name": "Erie Electric Eels",
+    "player_id": 63444,
+    "player_key": "469.p.63444",
+    "name": "Yovanny Cruz",
+    "first_name": "Yovanny",
+    "last_name": "Cruz",
+    "position": "RP",
+    "eligible_positions": [
+      "RP"
+    ],
+    "mlb_team": "NYY",
+    "mlb_team_name": "New York Yankees",
+    "status": "NA"
+  },
+  {
+    "team_id": 16,
+    "team_name": "SC Scrubs",
+    "player_id": 67137,
+    "player_key": "469.p.67137",
+    "name": "Mike Paredes",
+    "first_name": "Mike",
+    "last_name": "Paredes",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "MIN",
+    "mlb_team_name": "Minnesota Twins",
+    "status": ""
+  },
+  {
+    "team_id": 20,
+    "team_name": "Cranston Chaos",
+    "player_id": 11203,
+    "player_key": "469.p.11203",
+    "name": "Jimmy Herget",
+    "first_name": "Jimmy",
+    "last_name": "Herget",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "COL",
+    "mlb_team_name": "Colorado Rockies",
+    "status": ""
+  },
+  {
+    "team_id": 20,
+    "team_name": "Cranston Chaos",
+    "player_id": 64442,
+    "player_key": "469.p.64442",
+    "name": "Jackson Kent",
+    "first_name": "Jackson",
+    "last_name": "Kent",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "WSH",
+    "mlb_team_name": "Washington Nationals",
+    "status": "NA"
+  },
+  {
+    "team_id": 20,
+    "team_name": "Cranston Chaos",
+    "player_id": 65805,
+    "player_key": "469.p.65805",
+    "name": "Ben Jacobs",
+    "first_name": "Ben",
+    "last_name": "Jacobs",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "DET",
+    "mlb_team_name": "Detroit Tigers",
+    "status": "NA"
+  }
+]

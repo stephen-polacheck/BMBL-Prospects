@@ -1,274 +1,666 @@
-import json
-import unicodedata
-import re
 import csv
+import json
+import re
+import unicodedata
 from collections import defaultdict
+from pathlib import Path
 
 
-# =====================================================
-# PATHS
-# =====================================================
-INTERNAL_PATH = "data/players.json"
-HKB_PATH = "data/hkb_players.json"
-REGISTRY_PATH = "data/player_registry.json"
+# ============================================================
+# Paths
+# ============================================================
 
-CSV_PATH = "data/match_debug.csv"
+DATA_DIR = Path("data")
 
-OUTPUT_ENRICHED = "data/players_enriched.json"
-OUTPUT_UNMATCHED = "data/unmatched.json"
-COUNTER_PATH = "data/universal_id_counter.json"
+PLAYERS_FILE = DATA_DIR / "players.json"
+HKB_FILE = DATA_DIR / "hkb_players.json"
+REGISTRY_FILE = DATA_DIR / "player_registry.json"
+
+OUTPUT_ENRICHED = DATA_DIR / "players_enriched.json"
+OUTPUT_MATCH_DEBUG = DATA_DIR / "match_debug.csv"
+OUTPUT_UNMATCHED_INTERNAL = DATA_DIR / "unmatched_internal.json"
+OUTPUT_UNMATCHED_HKB = DATA_DIR / "unmatched_hkb.json"
 
 
-# =====================================================
-# LOAD / SAVE
-# =====================================================
-def load(path, default):
-    try:
-        with open(path, "r", encoding="utf-8") as f:
-            return json.load(f)
-    except FileNotFoundError:
+# ============================================================
+# File Helpers
+# ============================================================
+
+def load_json(path, default):
+    if not path.exists():
         return default
 
+    with open(path, "r", encoding="utf-8") as f:
+        return json.load(f)
 
-def save(path, data):
+
+def save_json(path, data):
     with open(path, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2)
+        json.dump(data, f, indent=2, ensure_ascii=False)
 
 
-# =====================================================
-# NORMALIZATION
-# =====================================================
-SUFFIXES = {"jr", "sr", "ii", "iii", "iv", "v"}
+def write_csv(path, rows):
+    if not rows:
+        return
 
-
-def normalize_name(name):
-    if not name:
-        return ""
-
-    name = unicodedata.normalize("NFKD", name)
-    name = "".join(c for c in name if not unicodedata.combining(c))
-    name = name.lower()
-    name = re.sub(r"[^\w\s]", "", name)
-
-    parts = name.split()
-    parts = [p for p in parts if p not in SUFFIXES]
-
-    return " ".join(parts).strip()
-
-
-def normalize_team(team):
-    return (team or "").upper().strip()
-
-
-def make_key(name, team):
-    return (normalize_name(name), normalize_team(team))
-
-
-# =====================================================
-# REGISTRY INDEX
-# =====================================================
-def build_registry_maps(registry):
-    internal_map = {}
-    hkb_map = {}
-
-    for uid, r in registry.items():
-        for iid in r.get("internal_ids", []):
-            internal_map[iid] = uid
-        for hid in r.get("hkb_ids", []):
-            hkb_map[hid] = uid
-
-    return internal_map, hkb_map
-
-
-# =====================================================
-# HKB INDEX
-# =====================================================
-def index_hkb(hkb):
-    index = defaultdict(list)
-    for p in hkb:
-        key = make_key(p.get("name"), p.get("team"))
-        index[key].append(p)
-    return index
-
-
-# =====================================================
-# SEQUENTIAL ID GENERATOR
-# =====================================================
-def next_uid(counter):
-    counter["value"] += 1
-    return f"{counter['value']:07d}"
-
-
-# =====================================================
-# REGISTRY UPDATE (ONLY TRUE MATCHES)
-# =====================================================
-def update_registry(internal, hkb, registry, counter):
-    hkb_index = index_hkb(hkb)
-    internal_map, hkb_map = build_registry_maps(registry)
-
-    unmatched = {"internal": [], "hkb": []}
-    debug_rows = []
-
-    for p in internal:
-        iid = p.get("player_id")
-        key = make_key(p.get("name"), p.get("mlb_team"))
-
-        # -------------------------------------------------
-        # 1. already matched → keep ONLY if in registry
-        # -------------------------------------------------
-        if iid in internal_map:
-            uid = internal_map[iid]
-
-            debug_rows.append({
-                "status": "EXISTING",
-                "universal_id": uid,
-                "internal_id": iid,
-                "hkb_id": "",
-                "internal_name": p.get("name"),
-                "internal_team": p.get("mlb_team"),
-                "hkb_name": "",
-                "hkb_team": "",
-                "match_key": str(key),
-                "note": "already in registry"
-            })
-
-            continue
-
-        # -------------------------------------------------
-        # 2. ONLY ACCEPT TRUE MATCHES (internal + HKB)
-        # -------------------------------------------------
-        candidates = hkb_index.get(key, [])
-
-        if candidates:
-            h = candidates[0]
-
-            # reuse existing registry entry if HKB already known
-            if h["id"] in hkb_map:
-                uid = hkb_map[h["id"]]
-            else:
-                uid = next_uid(counter)
-
-                registry[uid] = {
-                    "universal_id": uid,
-                    "canonical_name": p["name"],
-                    "canonical_team": p["mlb_team"],
-                    "internal_ids": [],
-                    "hkb_ids": [],
-                    "aliases": [],
-                    "locked": True
-                }
-
-            # append ONLY
-            if iid not in registry[uid]["internal_ids"]:
-                registry[uid]["internal_ids"].append(iid)
-
-            if h["id"] not in registry[uid]["hkb_ids"]:
-                registry[uid]["hkb_ids"].append(h["id"])
-
-            debug_rows.append({
-                "status": "MATCHED",
-                "universal_id": uid,
-                "internal_id": iid,
-                "hkb_id": h["id"],
-                "internal_name": p.get("name"),
-                "internal_team": p.get("mlb_team"),
-                "hkb_name": h.get("name"),
-                "hkb_team": h.get("team"),
-                "match_key": str(key),
-                "note": "confirmed match"
-            })
-
-        # -------------------------------------------------
-        # 3. NO MATCH → DO NOTHING IN REGISTRY
-        # -------------------------------------------------
-        else:
-            unmatched["internal"].append(p)
-
-            debug_rows.append({
-                "status": "UNMATCHED",
-                "universal_id": "",
-                "internal_id": iid,
-                "hkb_id": "",
-                "internal_name": p.get("name"),
-                "internal_team": p.get("mlb_team"),
-                "hkb_name": "",
-                "hkb_team": "",
-                "match_key": str(key),
-                "note": "no hkb match (manual review required)"
-            })
-
-    return registry, unmatched, debug_rows, counter
-
-
-# =====================================================
-# ENRICHMENT (registry truth only)
-# =====================================================
-def enrich_internal(internal, registry):
-    internal_map, _ = build_registry_maps(registry)
-
-    enriched = []
-
-    for p in internal:
-        uid = internal_map.get(p.get("player_id"))
-
-        enriched.append({
-            **p,
-            "universal_id": uid
-        })
-
-    return enriched
-
-
-# =====================================================
-# CSV WRITER
-# =====================================================
-def write_csv(rows):
-    keys = [
-        "status",
-        "universal_id",
-        "internal_id",
-        "hkb_id",
-        "internal_name",
-        "internal_team",
-        "hkb_name",
-        "hkb_team",
-        "match_key",
-        "note"
-    ]
-
-    with open(CSV_PATH, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=keys)
+    with open(path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=rows[0].keys())
         writer.writeheader()
         writer.writerows(rows)
 
 
-# =====================================================
-# MAIN
-# =====================================================
-def main():
-    internal = load(INTERNAL_PATH, [])
-    hkb = load(HKB_PATH, [])
-    registry = load(REGISTRY_PATH, {})
+# ============================================================
+# Name Normalization
+# ============================================================
 
-    counter = load(COUNTER_PATH, {"value": 0})
+SUFFIXES = {
+    "jr",
+    "sr",
+    "ii",
+    "iii",
+    "iv",
+    "v"
+}
 
-    registry, unmatched, debug_rows, counter = update_registry(
-        internal, hkb, registry, counter
+
+def normalize_name(name: str) -> str:
+
+    if not name:
+        return ""
+
+    # remove accents
+    name = unicodedata.normalize("NFKD", name)
+    name = "".join(c for c in name if not unicodedata.combining(c))
+
+    name = name.lower()
+
+    # remove punctuation
+    name = re.sub(r"[^\w\s]", "", name)
+
+    pieces = [
+        p
+        for p in name.split()
+        if p not in SUFFIXES
+    ]
+
+    return " ".join(pieces)
+
+
+def normalize_team(team):
+
+    if team is None:
+        return ""
+
+    return team.upper().strip()
+
+
+def player_key(name, team):
+    return (
+        normalize_name(name),
+        normalize_team(team)
     )
 
-    enriched = enrich_internal(internal, registry)
 
-    save(REGISTRY_PATH, registry)
-    save(OUTPUT_ENRICHED, enriched)
-    save(OUTPUT_UNMATCHED, unmatched)
-    save(CSV_PATH, debug_rows)
-    save(COUNTER_PATH, counter)
+    # ============================================================
+# Registry Lookup Builders
+# ============================================================
 
-    print("\n=== SUMMARY ===")
-    print(f"Registry size: {len(registry)}")
-    print(f"Internal unmatched: {len(unmatched['internal'])}")
-    print(f"CSV written: {CSV_PATH}")
+def build_registry_indexes(registry):
+    """
+    Converts registry JSON into fast lookup dictionaries.
 
+    Returns:
+        internal_to_uid:
+            internal player id -> universal_id
+
+        hkb_to_uid:
+            HKB player id -> universal_id
+
+        uid_to_record:
+            universal_id -> registry record
+    """
+
+    internal_to_uid = {}
+    hkb_to_uid = {}
+    uid_to_record = {}
+
+    for uid, record in registry.items():
+
+        uid_to_record[uid] = record
+
+        for internal_id in record.get("internal_ids", []):
+            internal_to_uid[str(internal_id)] = uid
+
+        for hkb_id in record.get("hkb_ids", []):
+            hkb_to_uid[str(hkb_id)] = uid
+
+    return (
+        internal_to_uid,
+        hkb_to_uid,
+        uid_to_record
+    )
+
+
+# ============================================================
+# HKB Index Builder
+# ============================================================
+
+def build_hkb_indexes(hkb_players):
+    """
+    Creates fast lookup dictionaries for HKB.
+
+    Returns:
+
+        hkb_by_id:
+            HKB id -> player record
+
+        hkb_by_key:
+            (normalized_name, team) -> list of players
+
+    """
+
+    hkb_by_id = {}
+    hkb_by_key = defaultdict(list)
+
+    for player in hkb_players:
+
+        hkb_id = player.get("id")
+
+        if hkb_id:
+            hkb_by_id[str(hkb_id)] = player
+
+
+        key = player_key(
+            player.get("name"),
+            player.get("team")
+        )
+
+        hkb_by_key[key].append(player)
+
+
+    return (
+        hkb_by_id,
+        hkb_by_key
+    )
+
+
+# ============================================================
+# Registry Display Helpers
+# ============================================================
+
+def get_registry_player(uid, registry):
+    """
+    Returns registry record safely.
+    """
+
+    return registry.get(uid, {})
+
+
+def registry_has_internal_player(
+    internal_id,
+    internal_to_uid
+):
+    return str(internal_id) in internal_to_uid
+
+
+def registry_has_hkb_player(
+    hkb_id,
+    hkb_to_uid
+):
+    return str(hkb_id) in hkb_to_uid
+
+    # ============================================================
+# Player Analysis Engine
+# ============================================================
+
+def analyze_players(
+    internal_players,
+    hkb_by_key,
+    hkb_by_id,
+    registry,
+    internal_to_uid,
+    hkb_to_uid
+):
+    """
+    Analyze internal players against the registry and HKB data.
+
+    Does NOT modify registry.
+
+    Returns:
+        debug_rows
+        unmatched_internal
+        unmatched_hkb_ids
+    """
+
+    debug_rows = []
+    unmatched_internal = []
+
+    matched_hkb_ids = set()
+
+
+    for player in internal_players:
+
+        internal_id = str(player.get("player_id"))
+
+        name = player.get("name")
+        team = player.get("mlb_team")
+
+        key = player_key(
+            name,
+            team
+        )
+
+
+        # ----------------------------------------------------
+        # CASE 1:
+        # Already approved in registry
+        # ----------------------------------------------------
+
+        if internal_id in internal_to_uid:
+
+            uid = internal_to_uid[internal_id]
+
+            registry_record = registry.get(uid, {})
+
+            hkb_ids = registry_record.get(
+                "hkb_ids",
+                []
+            )
+
+            hkb_id = (
+                hkb_ids[0]
+                if hkb_ids
+                else ""
+            )
+
+
+            hkb_player = (
+                hkb_by_id.get(str(hkb_id))
+                if hkb_id
+                else None
+            )
+
+
+            if hkb_id:
+                matched_hkb_ids.add(
+                    str(hkb_id)
+                )
+
+
+            debug_rows.append({
+
+                "status": "MATCHED",
+
+                "universal_id": uid,
+
+                "internal_id": internal_id,
+
+                "internal_name": name,
+
+                "internal_team": team,
+
+                "hkb_id": hkb_id,
+
+                "hkb_name":
+                    hkb_player.get("name")
+                    if hkb_player
+                    else "",
+
+                "hkb_team":
+                    hkb_player.get("team")
+                    if hkb_player
+                    else "",
+
+                "notes":
+                    "Existing registry mapping"
+            })
+
+
+            continue
+
+
+
+        # ----------------------------------------------------
+        # CASE 2:
+        # Suggest possible HKB match
+        # ----------------------------------------------------
+
+        candidates = hkb_by_key.get(
+            key,
+            []
+        )
+
+
+        if candidates:
+
+            # Exact name/team match.
+            # Do NOT select automatically.
+            candidate = candidates[0]
+
+
+            hkb_id = str(
+                candidate.get("id")
+            )
+
+
+            matched_hkb_ids.add(
+                hkb_id
+            )
+
+
+            debug_rows.append({
+
+                "status": "SUGGESTED_MATCH",
+
+                "universal_id": "",
+
+                "internal_id": internal_id,
+
+                "internal_name": name,
+
+                "internal_team": team,
+
+                "hkb_id": hkb_id,
+
+                "hkb_name":
+                    candidate.get("name"),
+
+                "hkb_team":
+                    candidate.get("team"),
+
+                "notes":
+                    "Name/team match. Awaiting registry approval"
+            })
+
+
+            unmatched_internal.append(player)
+
+
+
+        # ----------------------------------------------------
+        # CASE 3:
+        # No HKB match
+        # ----------------------------------------------------
+
+        else:
+
+            debug_rows.append({
+
+                "status": "NO_MATCH",
+
+                "universal_id": "",
+
+                "internal_id": internal_id,
+
+                "internal_name": name,
+
+                "internal_team": team,
+
+                "hkb_id": "",
+
+                "hkb_name": "",
+
+                "hkb_team": "",
+
+                "notes":
+                    "No HKB player found"
+            })
+
+
+            unmatched_internal.append(player)
+
+
+
+    # --------------------------------------------------------
+    # Find HKB players never referenced anywhere
+    # --------------------------------------------------------
+
+    unmatched_hkb = []
+
+    for hkb_id, player in hkb_by_id.items():
+
+        if hkb_id not in matched_hkb_ids:
+
+            unmatched_hkb.append(player)
+
+
+    return (
+        debug_rows,
+        unmatched_internal,
+        unmatched_hkb
+    )
+
+# ============================================================
+# Enrichment
+# ============================================================
+
+def enrich_players(
+    internal_players,
+    registry,
+    internal_to_uid,
+    hkb_by_id
+):
+    """
+    Adds universal_id and HKB data to internal players.
+
+    Does not modify:
+        - players.json
+        - hkb_players.json
+        - player_registry.json
+
+    """
+
+    enriched = []
+
+
+    for player in internal_players:
+
+        internal_id = str(
+            player.get("player_id")
+        )
+
+        uid = internal_to_uid.get(
+            internal_id
+        )
+
+
+        enriched_player = {
+            **player,
+            "universal_id": uid,
+            "hkb": None
+        }
+
+
+        # ----------------------------------------------------
+        # Add HKB information if registry contains it
+        # ----------------------------------------------------
+
+        if uid:
+
+            registry_record = registry.get(
+                uid,
+                {}
+            )
+
+            hkb_ids = registry_record.get(
+                "hkb_ids",
+                []
+            )
+
+
+            if hkb_ids:
+
+                hkb_player = hkb_by_id.get(
+                    str(hkb_ids[0])
+                )
+
+                if hkb_player:
+
+                    enriched_player["hkb"] = hkb_player
+
+
+        enriched.append(
+            enriched_player
+        )
+
+
+    return enriched
+
+# ============================================================
+# Main Pipeline
+# ============================================================
+
+def main():
+
+    print("\nStarting player merge pipeline...\n")
+
+
+    # --------------------------------------------------------
+    # Load data
+    # --------------------------------------------------------
+
+    internal_players = load_json(
+        PLAYERS_FILE,
+        []
+    )
+
+    hkb_players = load_json(
+        HKB_FILE,
+        []
+    )
+
+    registry = load_json(
+        REGISTRY_FILE,
+        {}
+    )
+
+
+    print(
+        f"Internal players loaded: {len(internal_players)}"
+    )
+
+    print(
+        f"HKB players loaded: {len(hkb_players)}"
+    )
+
+    print(
+        f"Registry records loaded: {len(registry)}"
+    )
+
+
+    # --------------------------------------------------------
+    # Build indexes
+    # --------------------------------------------------------
+
+    (
+        internal_to_uid,
+        hkb_to_uid,
+        uid_to_record
+    ) = build_registry_indexes(
+        registry
+    )
+
+
+    (
+        hkb_by_id,
+        hkb_by_key
+    ) = build_hkb_indexes(
+        hkb_players
+    )
+
+
+    # --------------------------------------------------------
+    # Analyze matches
+    # --------------------------------------------------------
+
+    (
+        debug_rows,
+        unmatched_internal,
+        unmatched_hkb
+    ) = analyze_players(
+        internal_players,
+        hkb_by_key,
+        hkb_by_id,
+        registry,
+        internal_to_uid,
+        hkb_to_uid
+    )
+
+
+    # --------------------------------------------------------
+    # Enrich
+    # --------------------------------------------------------
+
+    enriched = enrich_players(
+        internal_players,
+        registry,
+        internal_to_uid,
+        hkb_by_id
+    )
+
+
+    # --------------------------------------------------------
+    # Save outputs
+    # --------------------------------------------------------
+
+    save_json(
+        OUTPUT_ENRICHED,
+        enriched
+    )
+
+    save_json(
+        OUTPUT_UNMATCHED_INTERNAL,
+        unmatched_internal
+    )
+
+    save_json(
+        OUTPUT_UNMATCHED_HKB,
+        unmatched_hkb
+    )
+
+    write_csv(
+        OUTPUT_MATCH_DEBUG,
+        debug_rows
+    )
+
+
+    # --------------------------------------------------------
+    # Summary
+    # --------------------------------------------------------
+
+    status_counts = defaultdict(int)
+
+    for row in debug_rows:
+        status_counts[row["status"]] += 1
+
+
+    print("\n============================")
+    print("Merge Complete")
+    print("============================")
+
+    for status, count in status_counts.items():
+        print(
+            f"{status}: {count}"
+        )
+
+    print("\nOutputs created:")
+    print(
+        OUTPUT_ENRICHED
+    )
+    print(
+        OUTPUT_MATCH_DEBUG
+    )
+    print(
+        OUTPUT_UNMATCHED_INTERNAL
+    )
+    print(
+        OUTPUT_UNMATCHED_HKB
+    )
+
+
+# ============================================================
+# Entry Point
+# ============================================================
 
 if __name__ == "__main__":
     main()

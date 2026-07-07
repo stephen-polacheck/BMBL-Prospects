@@ -1,42 +1,35 @@
 from pathlib import Path
 import sys
+import json
 
 project_dir = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(project_dir))
 
 from yfpy.query import YahooFantasySportsQuery
 
-league_id = "883"
-game_code = "mlb"
-week = 1  # we will adjust later
 
 query = YahooFantasySportsQuery(
-    league_id,
-    game_code,
+    league_id="883",
+    game_code="mlb",
     env_file_location=project_dir,
     save_token_data_to_env_file=True
 )
 
-teams = query.get_league_teams()
 
-first_team = teams[0]
+players = query.get_all_players()
 
-print("TEAM:", first_team.name)
-print("TEAM ID:", first_team.team_id)
+print("NUMBER OF PLAYERS:")
+print(len(players))
 
-roster = query.get_team_roster_by_week(first_team.team_id, week)
 
-print("ROSTER TYPE:", type(roster))
+player = players[0]
 
-players = getattr(roster, "players", None)
+print("\nPLAYER OBJECT:")
+print(player)
 
-roster = query.get_team_roster_by_week(first_team.team_id, week)
-
-players = roster.players
-
-print("ROSTER SIZE:", len(players))
-print("FIRST PLAYER NAME:", players[0].name.full)
-print("FIRST PLAYER ID:", players[0].player_id)
-print("FIRST PLAYER KEY:", players[0].player_key)
-print("POSITION:", players[0].primary_position)
-print("MLB TEAM:", players[0].editorial_team_abbr)
+print("\nPLAYER DICT:")
+print(json.dumps(
+    player.__dict__,
+    indent=4,
+    default=str
+))

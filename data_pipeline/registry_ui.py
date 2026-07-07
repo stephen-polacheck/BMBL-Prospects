@@ -1,178 +1,377 @@
+# streamlit run data_pipeline/registry_ui.py
+
+import csv
 import json
+from pathlib import Path
+from datetime import datetime
+
 import streamlit as st
-import unicodedata
-import re
 
 
-# =====================================================
-# PATHS
-# =====================================================
-INTERNAL_PATH = "data/players.json"
-HKB_PATH = "data/hkb_players.json"
-REGISTRY_PATH = "data/player_registry.json"
-COUNTER_PATH = "data/universal_id_counter.json"
+# ============================================================
+# Paths
+# ============================================================
+
+DATA_DIR = Path("data")
+
+REGISTRY_FILE = DATA_DIR / "player_registry.json"
+DEBUG_FILE = DATA_DIR / "match_debug.csv"
 
 
-# =====================================================
-# LOAD / SAVE
-# =====================================================
-def load(path, default):
-    try:
-        with open(path, "r", encoding="utf-8") as f:
-            return json.load(f)
-    except FileNotFoundError:
+# ============================================================
+# Helpers
+# ============================================================
+
+def load_json(path, default):
+    if not path.exists():
         return default
 
+    with open(path, "r", encoding="utf-8") as f:
+        return json.load(f)
 
-def save(path, data):
+
+def save_json(path, data):
     with open(path, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2)
+        json.dump(
+            data,
+            f,
+            indent=2,
+            ensure_ascii=False
+        )
 
 
-# =====================================================
-# ID GENERATION
-# =====================================================
-def next_uid(counter):
-    counter["value"] += 1
-    return f"{counter['value']:07d}"
+def load_csv(path):
+    if not path.exists():
+        return []
+
+    with open(path, "r", encoding="utf-8") as f:
+        return list(csv.DictReader(f))
 
 
-# =====================================================
-# NORMALIZATION (light use only)
-# =====================================================
-def norm(x):
-    if not x:
-        return ""
-    x = unicodedata.normalize("NFKD", x)
-    x = "".join(c for c in x if not unicodedata.combining(c))
-    x = x.lower()
-    x = re.sub(r"[^\w\s]", "", x)
-    return x.strip()
+def next_universal_id(registry):
+
+    if not registry:
+        return "0000001"
+
+    existing = [
+        int(uid)
+        for uid in registry.keys()
+        if uid.isdigit()
+    ]
+
+    return f"{max(existing) + 1:07d}"
 
 
-def key(p):
-    return (norm(p.get("name")), norm(p.get("team") or p.get("mlb_team")))
+def save_registry_record(
+    registry,
+    internal_id,
+    internal_name,
+    internal_team,
+    hkb_id
+):
+
+    # --------------------------------------------------------
+    # Check if HKB already exists
+    # --------------------------------------------------------
+
+    for uid, record in registry.items():
+
+        if str(hkb_id) in [
+            str(x)
+            for x in record.get("hkb_ids", [])
+        ]:
+
+            # attach internal id if missing
+            if str(internal_id) not in [
+                str(x)
+                for x in record.get("internal_ids", [])
+            ]:
+                record["internal_ids"].append(
+                    int(internal_id)
+                )
+
+            return uid
 
 
-# =====================================================
-# INIT STATE
-# =====================================================
-internal = load(INTERNAL_PATH, [])
-hkb = load(HKB_PATH, [])
-registry = load(REGISTRY_PATH, {})
-counter = load(COUNTER_PATH, {"value": 0})
+    # --------------------------------------------------------
+    # Create new registry entry
+    # --------------------------------------------------------
+
+    uid = next_universal_id(registry)
+
+    registry[uid] = {
+
+        "universal_id": uid,
+
+        "canonical_name": internal_name,
+
+        "canonical_team": internal_team,
+
+        "internal_ids": [
+            int(internal_id)
+        ],
+
+        "hkb_ids": [
+            str(hkb_id)
+        ],
+
+        "aliases": [],
+
+        "locked": True,
+
+        "created": datetime.utcnow().isoformat(),
+
+        "updated": datetime.utcnow().isoformat()
+    }
+
+    return uid
 
 
-# =====================================================
-# INDEX HKB
-# =====================================================
-hkb_index = {}
-for p in hkb:
-    hkb_index.setdefault(key(p), []).append(p)
+# ============================================================
+# Load Data
+# ============================================================
+
+registry = load_json(
+    REGISTRY_FILE,
+    {}
+)
+
+debug_rows = load_csv(
+    DEBUG_FILE
+)
 
 
-# =====================================================
-# STREAMLIT UI
-# =====================================================
-st.title("Player Registry Merge Tool")
-
-st.sidebar.write("Registry size:", len(registry))
-
-# internal players not yet matched
-used_internal = set()
-for r in registry.values():
-    used_internal.update(r.get("internal_ids", []))
-
-pending = [p for p in internal if p.get("player_id") not in used_internal]
-
-st.write(f"Pending internal players: {len(pending)}")
+review_rows = [
+    r
+    for r in debug_rows
+    if r["status"] in (
+        "SUGGESTED_MATCH",
+        "NO_MATCH"
+    )
+]
 
 
-if "i" not in st.session_state:
-    st.session_state.i = 0
+# ============================================================
+# UI
+# ============================================================
+
+st.set_page_config(
+    page_title="Player Registry",
+    layout="wide"
+)
+
+st.title("⚾ Player Registry Manager")
+
+st.sidebar.write(
+    f"Registry size: {len(registry)}"
+)
+
+st.sidebar.write(
+    f"Players needing review: {len(review_rows)}"
+)
 
 
-i = st.session_state.i
+if not review_rows:
 
-if i >= len(pending):
-    st.success("All players reviewed.")
+    st.success(
+        "No players currently require review."
+    )
+
     st.stop()
 
 
-player = pending[i]
-k = key(player)
+# ------------------------------------------------------------
+# Navigation
+# ------------------------------------------------------------
 
-candidates = hkb_index.get(k, [])
-
-st.subheader("Internal Player")
-st.write(player)
-
-st.subheader("HKB Candidates")
-
-if candidates:
-    for idx, c in enumerate(candidates):
-        st.write(f"Candidate {idx+1}")
-        st.json(c)
-else:
-    st.warning("No HKB match found")
+if "index" not in st.session_state:
+    st.session_state.index = 0
 
 
-# =====================================================
-# ACTIONS
-# =====================================================
-col1, col2, col3 = st.columns(3)
+index = st.session_state.index
 
 
-def save_registry():
-    save(REGISTRY_PATH, registry)
-    save(COUNTER_PATH, counter)
+if index >= len(review_rows):
+    index = 0
+    st.session_state.index = 0
+
+
+player = review_rows[index]
+
+
+st.progress(
+    (index + 1) / len(review_rows)
+)
+
+
+st.write(
+    f"Reviewing player {index + 1} of {len(review_rows)}"
+)
+
+
+# ============================================================
+# Player display
+# ============================================================
+
+left, right = st.columns(2)
+
+
+with left:
+
+    st.subheader(
+        "Internal Player"
+    )
+
+    st.write(
+        "Name:",
+        player["internal_name"]
+    )
+
+    st.write(
+        "Team:",
+        player["internal_team"]
+    )
+
+    st.write(
+        "Internal ID:",
+        player["internal_id"]
+    )
+
+
+with right:
+
+    st.subheader(
+        "Suggested HKB Match"
+    )
+
+    if player["hkb_id"]:
+
+        st.write(
+            "HKB Name:",
+            player["hkb_name"]
+        )
+
+        st.write(
+            "HKB Team:",
+            player["hkb_team"]
+        )
+
+        st.write(
+            "HKB ID:",
+            player["hkb_id"]
+        )
+
+    else:
+
+        st.warning(
+            "No suggested HKB player"
+        )
+
+
+# ============================================================
+# Actions
+# ============================================================
+
+st.divider()
+
+
+col1, col2 = st.columns(2)
 
 
 with col1:
-    if st.button("🔗 Merge (Select First HKB)"):
-        if candidates:
-            h = candidates[0]
 
-            # reuse or create UID
-            uid = None
-            for u, r in registry.items():
-                if h["id"] in r.get("hkb_ids", []):
-                    uid = u
-                    break
+    if player["hkb_id"]:
 
-            if not uid:
-                counter["value"] += 1
-                uid = f"{counter['value']:07d}"
+        if st.button(
+            "✅ Approve Suggested Match"
+        ):
 
-                registry[uid] = {
-                    "universal_id": uid,
-                    "canonical_name": player["name"],
-                    "canonical_team": player["mlb_team"],
-                    "internal_ids": [],
-                    "hkb_ids": [],
-                    "aliases": [],
-                    "locked": True
-                }
+            uid = save_registry_record(
 
-            if player["player_id"] not in registry[uid]["internal_ids"]:
-                registry[uid]["internal_ids"].append(player["player_id"])
+                registry,
 
-            if h["id"] not in registry[uid]["hkb_ids"]:
-                registry[uid]["hkb_ids"].append(h["id"])
+                player["internal_id"],
 
-            save_registry()
-            st.success(f"Merged into {uid}")
-            st.session_state.i += 1
+                player["internal_name"],
+
+                player["internal_team"],
+
+                player["hkb_id"]
+
+            )
+
+            save_json(
+                REGISTRY_FILE,
+                registry
+            )
+
+            st.success(
+                f"Created registry match {uid}"
+            )
+
+            st.session_state.index += 1
+
             st.rerun()
 
 
 with col2:
-    if st.button("⏭ Skip"):
-        st.session_state.i += 1
-        st.rerun()
+
+    manual_hkb = st.text_input(
+        "Force HKB ID manually"
+    )
 
 
-with col3:
-    if st.button("💾 Save Only"):
-        save_registry()
-        st.success("Saved registry")
+    if st.button(
+        "🔗 Force Merge"
+    ):
+
+        if not manual_hkb:
+
+            st.error(
+                "Enter an HKB ID first"
+            )
+
+        else:
+
+            uid = save_registry_record(
+
+                registry,
+
+                player["internal_id"],
+
+                player["internal_name"],
+
+                player["internal_team"],
+
+                manual_hkb
+
+            )
+
+            save_json(
+                REGISTRY_FILE,
+                registry
+            )
+
+            st.success(
+                f"Created registry match {uid}"
+            )
+
+            st.session_state.index += 1
+
+            st.rerun()
+
+
+
+# ============================================================
+# Skip
+# ============================================================
+
+st.divider()
+
+if st.button(
+    "⏭ Skip for now"
+):
+
+    st.session_state.index += 1
+
+    st.rerun()

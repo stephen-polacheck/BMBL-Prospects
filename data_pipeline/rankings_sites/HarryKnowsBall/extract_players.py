@@ -25,7 +25,8 @@ def normalize(players):
             "value": p["value"],
             "age": p["age"],
             "source": "harryknowsball",
-            "prospect": p["prospect"]
+            "prospect": p["prospect"],
+            "level": p["level"]
         }
         for p in players
     ]

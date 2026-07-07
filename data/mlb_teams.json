@@ -1,0 +1,272 @@
+[
+  {
+    "abbrev": "AZ",
+    "name": "Arizona Diamondbacks",
+    "city": "Arizona",
+    "nickname": "Diamondbacks",
+    "primary": "#A71930",
+    "secondary": "#E3D4AD",
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/ari.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "abbrev": "ATL",
+    "name": "Atlanta Braves",
+    "city": "Atlanta",
+    "nickname": "Braves",
+    "primary": "#CE1141",
+    "secondary": "#13274F",
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/atl.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "abbrev": "BAL",
+    "name": "Baltimore Orioles",
+    "city": "Baltimore",
+    "nickname": "Orioles",
+    "primary": "#DF4601",
+    "secondary": "#000000",
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/bal.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "abbrev": "BOS",
+    "name": "Boston Red Sox",
+    "city": "Boston",
+    "nickname": "Red Sox",
+    "primary": "#BD3039",
+    "secondary": "#0C2340",
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/bos.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "abbrev": "CHC",
+    "name": "Chicago Cubs",
+    "city": "Chicago",
+    "nickname": "Cubs",
+    "primary": "#0E3386",
+    "secondary": "#CC3433",
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/chc.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "abbrev": "CWS",
+    "name": "Chicago White Sox",
+    "city": "Chicago",
+    "nickname": "White Sox",
+    "primary": "#27251F",
+    "secondary": "#C4CED4",
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/chw.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "abbrev": "CIN",
+    "name": "Cincinnati Reds",
+    "city": "Cincinnati",
+    "nickname": "Reds",
+    "primary": "#C6011F",
+    "secondary": "#000000",
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/cin.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "abbrev": "CLE",
+    "name": "Cleveland Guardians",
+    "city": "Cleveland",
+    "nickname": "Guardians",
+    "primary": "#00385D",
+    "secondary": "#E50022",
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/cle.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "abbrev": "COL",
+    "name": "Colorado Rockies",
+    "city": "Colorado",
+    "nickname": "Rockies",
+    "primary": "#33006F",
+    "secondary": "#C4CED4",
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/col.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "abbrev": "DET",
+    "name": "Detroit Tigers",
+    "city": "Detroit",
+    "nickname": "Tigers",
+    "primary": "#0C2340",
+    "secondary": "#FA4616",
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/det.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "abbrev": "HOU",
+    "name": "Houston Astros",
+    "city": "Houston",
+    "nickname": "Astros",
+    "primary": "#002D62",
+    "secondary": "#EB6E1F",
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/hou.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "abbrev": "KC",
+    "name": "Kansas City Royals",
+    "city": "Kansas City",
+    "nickname": "Royals",
+    "primary": "#004687",
+    "secondary": "#BD9B60",
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/kc.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "abbrev": "LAA",
+    "name": "Los Angeles Angels",
+    "city": "Los Angeles",
+    "nickname": "Angels",
+    "primary": "#BA0021",
+    "secondary": "#003263",
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/laa.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "abbrev": "LAD",
+    "name": "Los Angeles Dodgers",
+    "city": "Los Angeles",
+    "nickname": "Dodgers",
+    "primary": "#005A9C",
+    "secondary": "#FFFFFF",
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/lad.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "abbrev": "MIA",
+    "name": "Miami Marlins",
+    "city": "Miami",
+    "nickname": "Marlins",
+    "primary": "#00A3E0",
+    "secondary": "#EF3340",
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/mia.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "abbrev": "MIL",
+    "name": "Milwaukee Brewers",
+    "city": "Milwaukee",
+    "nickname": "Brewers",
+    "primary": "#12284B",
+    "secondary": "#FFC52F",
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/mil.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "abbrev": "MIN",
+    "name": "Minnesota Twins",
+    "city": "Minnesota",
+    "nickname": "Twins",
+    "primary": "#002B5C",
+    "secondary": "#D31145",
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/min.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "abbrev": "NYM",
+    "name": "New York Mets",
+    "city": "New York",
+    "nickname": "Mets",
+    "primary": "#002D72",
+    "secondary": "#FF5910",
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/nym.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "abbrev": "NYY",
+    "name": "New York Yankees",
+    "city": "New York",
+    "nickname": "Yankees",
+    "primary": "#0C2340",
+    "secondary": "#C4CED4",
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/nyy.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "abbrev": "ATH",
+    "name": "Oakland Athletics",
+    "city": "Oakland",
+    "nickname": "Athletics",
+    "primary": "#003831",
+    "secondary": "#EFB21E",
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/oak.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "abbrev": "PHI",
+    "name": "Philadelphia Phillies",
+    "city": "Philadelphia",
+    "nickname": "Phillies",
+    "primary": "#E81828",
+    "secondary": "#002D72",
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/phi.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "abbrev": "PIT",
+    "name": "Pittsburgh Pirates",
+    "city": "Pittsburgh",
+    "nickname": "Pirates",
+    "primary": "#FDB827",
+    "secondary": "#27251F",
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/pit.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "abbrev": "SD",
+    "name": "San Diego Padres",
+    "city": "San Diego",
+    "nickname": "Padres",
+    "primary": "#2F241D",
+    "secondary": "#FFC425",
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sd.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "abbrev": "SEA",
+    "name": "Seattle Mariners",
+    "city": "Seattle",
+    "nickname": "Mariners",
+    "primary": "#0C2C56",
+    "secondary": "#005C5C",
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sea.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "abbrev": "SF",
+    "name": "San Francisco Giants",
+    "city": "San Francisco",
+    "nickname": "Giants",
+    "primary": "#FD5A1E",
+    "secondary": "#27251F",
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sf.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "abbrev": "STL",
+    "name": "St. Louis Cardinals",
+    "city": "St. Louis",
+    "nickname": "Cardinals",
+    "primary": "#C41E3A",
+    "secondary": "#0C2340",
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/stl.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "abbrev": "TB",
+    "name": "Tampa Bay Rays",
+    "city": "Tampa Bay",
+    "nickname": "Rays",
+    "primary": "#092C5C",
+    "secondary": "#8FBCE6",
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tb.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "abbrev": "TEX",
+    "name": "Texas Rangers",
+    "city": "Texas",
+    "nickname": "Rangers",
+    "primary": "#003278",
+    "secondary": "#C0111F",
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tex.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "abbrev": "TOR",
+    "name": "Toronto Blue Jays",
+    "city": "Toronto",
+    "nickname": "Blue Jays",
+    "primary": "#134A8E",
+    "secondary": "#1D2D5C",
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tor.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "abbrev": "WSH",
+    "name": "Washington Nationals",
+    "city": "Washington",
+    "nickname": "Nationals",
+    "primary": "#AB0003",
+    "secondary": "#14225A",
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/wsh.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  }
+]
