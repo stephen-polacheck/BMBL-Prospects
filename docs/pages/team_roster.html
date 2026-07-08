@@ -65,41 +65,29 @@
         <thead>
 
             <tr>
-                <th data-column="rank">
-                    Rank
-                </th>
 
-                <th data-column="team-rank">
-                    Team Rank
-                </th>
+                <th data-column="team-rank">Team</th>
 
-                <th data-column="name">
-                    Name
-                </th>
+                <th data-column="overall-rank">OVR</th>
 
-                <th data-column="mlb">
-                    MLB
-                </th>
+                <th data-column="prospect-rank">Pros</th>
 
-                <th data-column="position">
-                    Position
-                </th>
+                <th data-column="team-prospect-rank">Team Pros</th>
 
-                <th data-column="age">
-                    Age
-                </th>
+                <th data-column="name">Name</th>
 
-                <th data-column="level">
-                    Level
-                </th>
+                <th data-column="mlb">MLB</th>
 
-                <th data-column="value">
-                    Value
-                </th>
+                <th data-column="position">Pos</th>
 
-                <th data-column="fantasy-team">
-                    Team
-                </th>
+                <th data-column="age">Age</th>
+
+                <th data-column="level">Lvl</th>
+
+                <th data-column="value">Value</th>
+
+                <th data-column="fantasy-team">Team</th>
+
             </tr>
 
         </thead>
@@ -170,10 +158,41 @@ async function loadTeamPage() {
     }
 
 
-
     console.log("Selected Team:", team);
 
+    // -----------------------------------
+    // Overall Rank
+    // -----------------------------------
 
+    const sortedPlayers = [...players].sort(
+        (a, b) => b.value - a.value
+    );
+
+    sortedPlayers.forEach((player, index) => {
+
+        player.overall_rank = index + 1;
+
+    });
+
+
+    // -----------------------------------
+    // Overall Prospect Rank
+    // -----------------------------------
+
+    const sortedProspects = sortedPlayers.filter(
+        player => player.prospect
+    );
+
+    sortedProspects.forEach((player, index) => {
+
+        player.prospect_rank = index + 1;
+
+    });
+
+
+    // -----------------------------------
+    // Filter selected fantasy team
+    // -----------------------------------
 
     const roster =
         players.filter(
@@ -182,15 +201,39 @@ async function loadTeamPage() {
                 String(player.fantasy.team_id) === String(teamId)
         );
 
+    // -----------------------------------
+    // Team Rank
+    // -----------------------------------
+
+    const sortedRoster = [...roster].sort(
+        (a, b) => b.value - a.value
+    );
+
+    sortedRoster.forEach((player, index) => {
+
+        player.team_rank = index + 1;
+
+    });
 
 
-    console.log("Roster:", roster);
+    // -----------------------------------
+    // Team Prospect Rank
+    // -----------------------------------
 
+    const teamProspects =
+        sortedRoster.filter(
+            player => player.prospect
+        );
 
+    teamProspects.forEach((player, index) => {
 
-    renderTeamHeader(team);
+        player.team_prospect_rank = index + 1;
 
+    });
+    
     renderPlayers(roster);
+    
+    renderTeamHeader(team);
 
 }
 
@@ -262,17 +305,29 @@ function renderPlayers(players) {
         const row =
             document.createElement("tr");
 
+            if (player.prospect) {
+
+                row.classList.add("prospect-row");
+
+            }
 
 
         row.innerHTML = `
 
-            <td data-column="rank">
-                ${player.rank ?? ""}
-            </td>
-
-
             <td data-column="team-rank">
                 ${player.team_rank ?? ""}
+            </td>
+
+            <td data-column="overall-rank">
+                ${player.overall_rank ?? ""}
+            </td>
+
+            <td data-column="prospect-rank">
+                ${player.prospect ? player.prospect_rank : ""}
+            </td>
+
+            <td data-column="team-prospect-rank">
+                ${player.prospect ? player.team_prospect_rank : ""}
             </td>
 
 

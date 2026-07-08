@@ -298,5 +298,4 @@ function applyTeamRanking(players) {
 }
 
 
-
 loadPlayers();
