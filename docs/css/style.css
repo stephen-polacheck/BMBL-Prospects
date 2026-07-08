@@ -1,87 +1,302 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Oswald:wght@500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cal+Sans&family=Inter:wght@400;600;700&family=Oswald:wght@500;700&display=swap');
+
 body {
-
-    font-family: Arial, Helvetica, sans-serif;
-
+    font-family:"Inter", sans-serif;
     margin: 0;
-
     background: #f5f5f5;
-
 }
 
 
 header {
 
-    padding: 25px;
+    background:#00653a;
 
-    background: #111;
+    color:white;
 
-    color: white;
+}
+
+
+.header-main {
+
+    padding:20px;
+
+    display:flex;
+
+    align-items:center;
+
+    gap:15px;
+
+}
+
+
+.site-logo {
+
+    width:70px;
+
+    height:70px;
+
+    object-fit:contain;
+
+}
+
+
+h1 {
+
+    margin:0;
+
+    font-size:32px;
+
+    font-family:"Oswald", sans-serif;
+
+}
+
+
+nav {
+
+    background:#8c6239;
+
+    padding:12px 20px;
+
+    width:100%;
+
+    box-sizing:border-box;
+
+}
+
+
+nav a {
+
+    color:white;
+
+    text-decoration:none;
+
+    margin-right:25px;
+
+    font-weight:bold;
 
 }
 
 
 main {
 
-    padding: 25px;
+    padding:20px;
+
+    overflow-x:auto;
 
 }
-
-
-
-.controls {
-
-    margin-bottom: 20px;
-
-}
-
-
-
-input, select {
-
-    padding: 8px;
-
-    margin-right: 10px;
-
-}
-
 
 
 table {
 
     width:100%;
 
-    border-collapse: collapse;
+    border-collapse:collapse;
 
     background:white;
 
-}
+    font-size:14px;
 
+}
 
 
 th {
 
-    text-align:left;
+    background:#00653a;
+
+    color:white;
 
     padding:10px;
 
-    border-bottom:2px solid #ddd;
+    text-align:left;
+
+    font-weight:bold;
 
 }
-
 
 
 td {
 
-    padding:10px;
+    padding:4px;
 
-    border-bottom:1px solid #eee;
+    border-bottom:1px solid #ddd;
+
+    vertical-align:middle;
+
+}
+
+
+img {
+
+    display:block;
+
+}
+
+.fantasy-team {
+
+    display:flex;
+
+    height:32px;
+
+    width:170px;
+
+}
+
+
+.team-name {
+
+    flex:1;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    background:var(--primary);
+
+    color:var(--secondary);
+
+
+    font-family:"Cal Sans", sans-serif;
+
+    font-size:15px;
+
+    white-space:nowrap;
+
+    padding:0 8px;
+
+    box-sizing:border-box;
+
+}
+
+
+.team-stripe {
+
+    display:block;
+
+    width:10px;
+
+    height:32px;
+
+    flex-shrink:0;
+
+    box-sizing:border-box;
+
+}
+
+
+.stripe-one {
+
+    background:var(--secondary);
+
+}
+
+
+.stripe-two {
+
+    background:var(--primary);
 
 }
 
 
 
-tr:hover {
+.mlb-logo {
 
-    background:#fafafa;
+    width:30px;
+
+    height:30px;
+
+    object-fit:contain;
+
+    display:block;
+
+}
+
+th:last-child,
+td:last-child {
+
+    width:180px;
+
+    min-width:180px;
+
+}
+
+th:nth-child(1),
+td:nth-child(1),
+
+th:nth-child(4),
+td:nth-child(4),
+
+th:nth-child(5),
+td:nth-child(5),
+
+th:nth-child(6),
+td:nth-child(6),
+
+th:nth-child(7),
+td:nth-child(7),
+
+th:nth-child(8),
+td:nth-child(8) {
+
+    text-align:center;
+
+}
+
+th:nth-child(1),
+td:nth-child(1) {
+
+    width:60px;
+
+}
+
+
+th:nth-child(5),
+td:nth-child(5) {
+
+    width:70px;
+
+}
+
+
+th:nth-child(6),
+td:nth-child(6) {
+
+    width:80px;
+
+}
+
+
+th:nth-child(7),
+td:nth-child(7) {
+
+    width:90px;
+
+}
+
+
+th:nth-child(8),
+td:nth-child(8) {
+
+    width:170px;
+
+}
+
+/* Center MLB header and logo cells */
+th:nth-child(3),
+td:nth-child(3) {
+
+    text-align:center;
+
+}
+
+
+th:nth-child(3),
+td:nth-child(3) {
+
+    text-align:center;
+
+    vertical-align:middle;
 
 }

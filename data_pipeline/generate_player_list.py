@@ -230,6 +230,18 @@ def build_record(
 
             "team_name":
                 fantasy_team["name"]
+                if fantasy_team else None,
+
+            "nickname":
+                fantasy_team["nickname"]
+                if fantasy_team else None,
+
+            "primary_color":
+                fantasy_team["primary_color"]
+                if fantasy_team else None,
+
+            "secondary_color":
+                fantasy_team["secondary_color"]
                 if fantasy_team else None
         },
 
@@ -246,6 +258,10 @@ def build_record(
 
             "city":
                 mlb["city"]
+                if mlb else None,
+
+            "nickname":
+                mlb["nickname"]
                 if mlb else None,
 
             "primary":

@@ -1,55 +1,172 @@
-let players = [];
-
-
-async function loadPlayers(){
+async function loadPlayers() {
 
     const response = await fetch(
-        "../data/public/prospect_list.json"
+        "/data/public/prospect_list.json"
     );
 
 
-    players = await response.json();
+    let players = await response.json();
 
 
-    renderTable(players);
+    // Remove draft picks from every page
+    players = filterDraftPicks(players);
+
+
+    const isProspectsPage =
+        window.location.pathname.includes("prospects.html");
+
+
+    // Main sorting rule:
+    // Highest value first
+    players = players.sort(
+        (a, b) => b.value - a.value
+    );
+
+
+    // Apply ranking numbers
+    players = applyValueRanking(players);
+
+
+    if (isProspectsPage) {
+
+        players = players.filter(
+            player => player.prospect === true
+        );
+
+        // Re-rank prospects only
+        players = applyValueRanking(players);
+
+    }
+
+
+    renderTable(players, isProspectsPage);
 
 }
 
+function filterDraftPicks(players) {
+
+    return players.filter(player => {
+
+        if (!player.name) {
+            return false;
+        }
+
+        // Remove draft pick placeholders
+        return !player.name.trim().startsWith("2");
+
+    });
+
+}
+
+function applyValueRanking(players) {
+
+    let currentRank = 0;
+    let previousValue = null;
 
 
-function renderTable(data){
+    players.forEach((player, index) => {
+
+        if (player.value !== previousValue) {
+
+            currentRank = index + 1;
+
+        }
 
 
-    const table = document.getElementById(
-        "playerTable"
-    );
+        player.displayRank = currentRank;
+
+        previousValue = player.value;
+
+    });
+
+
+    return players;
+
+}
+
+function renderTable(players, isProspectsPage = false) {
+
+
+    const table =
+        document.getElementById(
+            "playerTable"
+        );
 
 
     table.innerHTML = "";
 
 
-    data.forEach(player => {
+    players.forEach(player => {
 
 
-        const row = document.createElement(
-            "tr"
-        );
+        const row =
+            document.createElement("tr");
+
+
+        const age =
+            player.age !== null &&
+            player.age !== undefined
+            ? Number(player.age).toFixed(1)
+            : "";
+
+
+        const fantasyTeam =
+            player.fantasy?.nickname;
+
+
+        const fantasyBadge =
+            fantasyTeam
+            ?
+            `
+            <div
+                class="fantasy-team"
+                style="
+                    --primary:${player.fantasy.primary_color};
+                    --secondary:${player.fantasy.secondary_color};
+                "
+            >
+                <span class="team-name">
+                    ${fantasyTeam}
+                </span>
+
+                <span class="team-stripe stripe-one"></span>
+                <span class="team-stripe stripe-two"></span>
+
+
+            </div>
+            `
+            :
+            "Available";
+
+
+        const mlbLogo =
+            player.mlb?.logo
+            ?
+            `
+            <img 
+                src="${player.mlb.logo}"
+                class="mlb-logo"
+                alt="${player.mlb.nickname ?? ''}"
+            >
+            `
+            :
+            "";
 
 
         row.innerHTML = `
 
             <td>
-                ${player.rank ?? ""}
+                ${player.displayRank ?? ""}
             </td>
 
 
             <td>
-                ${player.name}
+                ${player.name ?? ""}
             </td>
 
 
             <td>
-                ${player.team ?? ""}
+                ${mlbLogo}
             </td>
 
 
@@ -63,7 +180,7 @@ function renderTable(data){
 
 
             <td>
-                ${player.age ?? ""}
+                ${age}
             </td>
 
 
@@ -78,10 +195,7 @@ function renderTable(data){
 
 
             <td>
-                ${
-                    player.fantasy.team_name
-                    ?? "Available"
-                }
+                ${fantasyBadge}
             </td>
 
         `;
@@ -93,68 +207,6 @@ function renderTable(data){
     });
 
 }
-
-
-
-function filterPlayers(){
-
-
-    const search =
-        document
-        .getElementById("search")
-        .value
-        .toLowerCase();
-
-
-
-    const level =
-        document
-        .getElementById("levelFilter")
-        .value;
-
-
-
-    const filtered =
-        players.filter(player => {
-
-
-            const matchesName =
-                player.name
-                .toLowerCase()
-                .includes(search);
-
-
-            const matchesLevel =
-                !level ||
-                player.level === level;
-
-
-            return matchesName &&
-                   matchesLevel;
-
-        });
-
-
-    renderTable(filtered);
-
-}
-
-
-
-document
-    .getElementById("search")
-    .addEventListener(
-        "input",
-        filterPlayers
-    );
-
-
-document
-    .getElementById("levelFilter")
-    .addEventListener(
-        "change",
-        filterPlayers
-    );
 
 
 
