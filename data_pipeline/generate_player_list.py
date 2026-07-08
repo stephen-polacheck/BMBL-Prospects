@@ -6,8 +6,13 @@ BASE = Path(__file__).resolve().parent.parent
 
 DATA = BASE / "data"
 
-OUTPUT_DIR = DATA / "public"
-OUTPUT_DIR.mkdir(exist_ok=True)
+SITE_DATA = BASE / "docs" / "data"
+
+OUTPUT_DIR = SITE_DATA / "public"
+OUTPUT_DIR.mkdir(
+    parents=True,
+    exist_ok=True
+)
 
 
 def load_json(filename):
