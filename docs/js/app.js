@@ -4,12 +4,17 @@ async function loadPlayers() {
         window.location.hostname.includes("github.io");
 
 
-    const jsonPath = isGithubPages
+    const isSubPage =
+    window.location.pathname.includes("/pages/");
+
+
+    const jsonPath = isSubPage
         ? "../data/public/prospect_list.json"
-        : "../../data/public/prospect_list.json";
+        : "data/public/prospect_list.json";
 
 
-    console.log("Loading JSON from:", jsonPath);
+    console.log("Page:", window.location.pathname);
+    console.log("Loading JSON:", jsonPath);
 
 
     const response = await fetch(jsonPath);
