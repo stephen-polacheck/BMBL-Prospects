@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>BMBL Fantasy Baseball Prospects</title>
+
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+
+
+<header>
+
+    <div class="header-main">
+
+        <img 
+            src="https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/9d58feca49a48d6bb4630f3c56dfe766cd0d041142caff43369a8b04b5085c9e.png"
+            class="site-logo"
+            alt="Bust Mode Baseball League Logo"
+        >
+
+        <h1>
+            Bust Mode Baseball League Prospects
+        </h1>
+
+    </div>
+
+
+    <nav>
+
+        <a href="../index.html">
+            All Players
+        </a>
+
+        <a href="prospects.html">
+            Prospects
+        </a>
+
+        <a href="players.html">
+            Players
+        </a>
+
+        <a href="team.html">
+            Teams
+        </a>
+
+    </nav>
+
+
+</header>
+
+
+
+<main id="team-page">
+
+
+    <section id="team-header"></section>
+
+    <table id="player-table">
+
+
+        <thead>
+
+            <tr>
+                <th data-column="rank">
+                    Rank
+                </th>
+
+                <th data-column="team-rank">
+                    Team Rank
+                </th>
+
+                <th data-column="name">
+                    Name
+                </th>
+
+                <th data-column="mlb">
+                    MLB
+                </th>
+
+                <th data-column="position">
+                    Position
+                </th>
+
+                <th data-column="age">
+                    Age
+                </th>
+
+                <th data-column="level">
+                    Level
+                </th>
+
+                <th data-column="value">
+                    Value
+                </th>
+
+                <th data-column="fantasy-team">
+                    Team
+                </th>
+            </tr>
+
+        </thead>
+
+
+        <tbody></tbody>
+
+
+    </table>
+
+
+</main>
+
+
+
+<script>
+
+
+async function loadTeamPage() {
+
+
+    const params = new URLSearchParams(window.location.search);
+
+    const teamId = params.get("team_id");
+
+
+    if (!teamId) {
+
+        console.error("No team ID found");
+
+        return;
+
+    }
+
+
+
+    const playersResponse =
+        await fetch("../data/public/prospect_list.json");
+
+
+    const players =
+        await playersResponse.json();
+
+
+
+    const teamsResponse =
+        await fetch("../data/public/teams.json");
+
+
+    const teams =
+        await teamsResponse.json();
+
+
+
+    const team =
+        teams.find(
+            t => String(t.team_id) === String(teamId)
+        );
+
+
+
+    if (!team) {
+
+        console.error("Team not found:", teamId);
+
+        return;
+
+    }
+
+
+
+    console.log("Selected Team:", team);
+
+
+
+    const roster =
+        players.filter(
+            player =>
+                player.fantasy &&
+                String(player.fantasy.team_id) === String(teamId)
+        );
+
+
+
+    console.log("Roster:", roster);
+
+
+
+    renderTeamHeader(team);
+
+    renderPlayers(roster);
+
+}
+
+
+
+function renderTeamHeader(team) {
+
+
+    const header =
+        document.getElementById("team-header");
+
+
+    header.innerHTML = `
+
+        <div class="team-header-content">
+
+            <img 
+                src="${team.logo}"
+                class="team-logo"
+            >
+
+            <div>
+
+                <h1>
+                    ${team.name}
+                </h1>
+            </div>
+
+        </div>
+
+    `;
+
+
+    header.style.backgroundColor =
+        team.primary_color;
+
+
+    header.style.color =
+        team.secondary_color;
+
+
+    header.style.setProperty(
+        "--secondary",
+        team.secondary_color
+    );
+
+
+    document.getElementById("team-page").style.backgroundColor =
+        team.primary_color;
+
+}
+
+
+
+function renderPlayers(players) {
+
+
+    const tbody =
+        document.querySelector("#player-table tbody");
+
+
+    tbody.innerHTML = "";
+
+
+
+    players.forEach(player => {
+
+
+        const row =
+            document.createElement("tr");
+
+
+
+        row.innerHTML = `
+
+            <td data-column="rank">
+                ${player.rank ?? ""}
+            </td>
+
+
+            <td data-column="team-rank">
+                ${player.team_rank ?? ""}
+            </td>
+
+
+            <td data-column="name">
+                ${player.name}
+            </td>
+
+
+            <td data-column="mlb">
+
+                <img 
+                    src="${player.mlb?.logo ?? ""}"
+                    class="mlb-logo"
+                    alt="${player.mlb?.abbrev ?? ""}"
+                >
+
+            </td>
+
+
+            <td data-column="position">
+                ${player.positions?.join(", ") ?? ""}
+            </td>
+
+
+            <td data-column="age">
+                ${player.age ?? ""}
+            </td>
+
+
+            <td data-column="level">
+                ${player.level ?? ""}
+            </td>
+
+
+            <td data-column="value">
+                ${player.value ?? ""}
+            </td>
+
+            <td data-column="fantasy-team">
+
+                <div 
+                    class="fantasy-team"
+                    style="
+                        --primary:${player.fantasy.primary_color};
+                        --secondary:${player.fantasy.secondary_color};
+                    "
+                >
+
+                    <div class="team-name">
+                        ${player.fantasy.nickname}
+                    </div>
+
+                    <div class="team-stripe stripe-one"></div>
+
+                    <div class="team-stripe stripe-two"></div>
+
+                </div>
+
+            </td>
+
+        `;
+
+
+
+        tbody.appendChild(row);
+
+
+    });
+
+}
+
+
+
+loadTeamPage();
+
+
+</script>
+
+
+</body>
+</html>

@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -56,64 +55,55 @@
 
 <main>
 
-<table>
-
-<thead>
-
-<tr>
-    <th data-column="rank">
-        Rank
-    </th>
-
-    <th data-column="team-rank">
-        Team Rank
-    </th>
-
-    <th data-column="name">
-        Name
-    </th>
-
-    <th data-column="mlb">
-        MLB
-    </th>
-
-    <th data-column="position">
-        Position
-    </th>
-
-    <th data-column="age">
-        Age
-    </th>
-
-    <th data-column="level">
-        Level
-    </th>
-
-    <th data-column="value">
-        Value
-    </th>
-
-    <th data-column="fantasy-team">
-        Team
-    </th>
-</tr>
-
-</thead>
-
-
-<tbody id="playerTable">
-
-</tbody>
-
-
-</table>
-
+    <div id="team-container" class="team-grid"></div>
 
 </main>
 
 
-<script src="../js/app.js"></script>
+<script>
+
+async function loadTeams() {
+
+    const response = await fetch("../data/public/teams.json");
+    const teams = await response.json();
+
+    const container = document.getElementById("team-container");
+
+
+    teams.forEach(team => {
+
+        const card = document.createElement("a");
+
+        card.href = `team_roster.html?team_id=${team.team_id}`;
+
+        card.className = "team-card";
+
+
+        card.style.backgroundColor = team.primary_color;
+        card.style.color = team.secondary_color;
+        card.style.borderColor = team.secondary_color;
+
+
+        card.innerHTML = `
+
+            <div class="team-card-name">
+                ${team.name}
+            </div>
+
+        `;
+
+
+        container.appendChild(card);
+
+    });
+
+}
+
+
+loadTeams();
+
+</script>
+
 
 </body>
-
 </html>

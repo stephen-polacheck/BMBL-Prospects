@@ -48,7 +48,7 @@ async function loadPlayers() {
 
     // Apply value-based ranking
     players = applyValueRanking(players);
-
+    players = applyTeamRanking(players);
 
     if (isProspectsPage) {
 
@@ -60,6 +60,8 @@ async function loadPlayers() {
 
         // Re-rank prospects after filtering
         players = applyValueRanking(players);
+
+        players = applyTeamRanking(players);
 
     }
 
@@ -184,6 +186,9 @@ function renderTable(players, isProspectsPage = false) {
                 ${player.displayRank ?? ""}
             </td>
 
+            <td>
+                ${player.teamRank ?? ""}
+            </td>
 
             <td>
                 ${player.name ?? ""}
@@ -230,6 +235,65 @@ function renderTable(players, isProspectsPage = false) {
 
 
     });
+
+}
+
+function applyTeamRanking(players) {
+
+    const teams = {};
+
+
+    // Group players by fantasy team
+    players.forEach(player => {
+
+        const team =
+            player.fantasy?.team_id ?? "unrostered";
+
+
+        if (!teams[team]) {
+            teams[team] = [];
+        }
+
+
+        teams[team].push(player);
+
+    });
+
+
+    // Rank each team separately
+    Object.values(teams).forEach(teamPlayers => {
+
+
+        teamPlayers.sort(
+            (a, b) => b.value - a.value
+        );
+
+
+        let currentRank = 0;
+        let previousValue = null;
+
+
+        teamPlayers.forEach((player, index) => {
+
+
+            if (player.value !== previousValue) {
+
+                currentRank = index + 1;
+
+            }
+
+
+            player.teamRank = currentRank;
+
+            previousValue = player.value;
+
+        });
+
+
+    });
+
+
+    return players;
 
 }
 
