@@ -1,12 +1,12 @@
 async function loadPlayers() {
 
-    const isPagesFolder =
-        window.location.pathname.includes("/pages/");
+    const isGithubPages =
+        window.location.hostname.includes("github.io");
 
 
-    const jsonPath = window.location.pathname.includes("/pages/")
-        ? "../../data/public/prospect_list.json"
-        : "../data/public/prospect_list.json";
+    const jsonPath = isGithubPages
+        ? "../data/public/prospect_list.json"
+        : "../../data/public/prospect_list.json";
 
 
     console.log("Loading JSON from:", jsonPath);
@@ -18,7 +18,7 @@ async function loadPlayers() {
     if (!response.ok) {
 
         throw new Error(
-            `Unable to load ${jsonPath}. Status: ${response.status}`
+            `Unable to load ${jsonPath}: ${response.status}`
         );
 
     }
