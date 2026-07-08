@@ -1,8 +1,27 @@
 async function loadPlayers() {
 
-    const response = await fetch(
-        "/data/public/prospect_list.json"
-    );
+    const isPagesFolder =
+        window.location.pathname.includes("/pages/");
+
+
+    const jsonPath = window.location.pathname.includes("/pages/")
+        ? "../../data/public/prospect_list.json"
+        : "../data/public/prospect_list.json";
+
+
+    console.log("Loading JSON from:", jsonPath);
+
+
+    const response = await fetch(jsonPath);
+
+
+    if (!response.ok) {
+
+        throw new Error(
+            `Unable to load ${jsonPath}. Status: ${response.status}`
+        );
+
+    }
 
 
     let players = await response.json();
@@ -16,24 +35,25 @@ async function loadPlayers() {
         window.location.pathname.includes("prospects.html");
 
 
-    // Main sorting rule:
-    // Highest value first
+    // Sort all players by value
     players = players.sort(
         (a, b) => b.value - a.value
     );
 
 
-    // Apply ranking numbers
+    // Apply value-based ranking
     players = applyValueRanking(players);
 
 
     if (isProspectsPage) {
 
+        // Only show prospects
         players = players.filter(
             player => player.prospect === true
         );
 
-        // Re-rank prospects only
+
+        // Re-rank prospects after filtering
         players = applyValueRanking(players);
 
     }
