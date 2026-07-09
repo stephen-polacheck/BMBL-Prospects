@@ -1,11 +1,15 @@
 async function loadSystemRanks() {
 
-    const response = await fetch("../data/public/prospect_list.json");
 
-    const players = await response.json();
+    const response =
+        await fetch("../data/public/prospect_list.json");
 
 
-    // Weighted scoring buckets
+    const players =
+        await response.json();
+
+
+
     const overallBuckets = [
         { limit: 20, weight: 15 },
         { limit: 40, weight: 12 },
@@ -19,6 +23,7 @@ async function loadSystemRanks() {
         { limit: 200, weight: 1 },
         { limit: 220, weight: 1 }
     ];
+
 
 
     const positionBuckets = [
@@ -36,77 +41,87 @@ async function loadSystemRanks() {
 
 
 
-    // Only include true prospects with assigned fantasy teams
-    const prospects = players.filter(player => {
+    /*
+        Remove draft picks only.
+        Keep Available players.
+        Keep all roster statuses.
+    */
 
-        return (
+    const prospects =
+        players.filter(player =>
             player.prospect === true &&
-            player.fantasy &&
-            player.fantasy.team_id &&
-            player.fantasy.nickname !== "Available"
+            !player.name.startsWith("202")
         );
 
-    });
 
 
+    /*
+        OVERALL RANKING
+        Batter + Pitcher together
+    */
 
-    // Split into batters and pitchers
-    const pitchers = prospects.filter(player => {
-
-        return player.positions.some(position =>
-            position.includes("P")
+    const rankedOverall =
+        assignValueRanks(
+            prospects,
+            "overall_rank"
         );
 
-    });
 
 
-    const batters = prospects.filter(player => {
-
-        return !player.positions.some(position =>
-            position.includes("P")
-        );
-
-    });
+    /*
+        POSITION RANKINGS
+    */
 
 
+    const pitchers =
+        prospects.filter(isPitcher);
 
-    // Rank ALL prospects together by value
-    const rankedProspects = assignOverallRanks(prospects);
 
-    // Batter and pitcher rankings:
+    const batters =
+        prospects.filter(player => !isPitcher(player));
+
+
+
     const rankedBatters =
-        assignRanks(batters, "batter_rank_position");
+        assignValueRanks(
+            batters,
+            "batter_rank_position"
+        );
 
 
     const rankedPitchers =
-        assignRanks(pitchers, "pitcher_rank_position");
+        assignValueRanks(
+            pitchers,
+            "pitcher_rank_position"
+        );
 
 
 
-    // Generate rankings
-    const overallRankings = calculateSystemRanks(
-        rankedProspects,
-        overallBuckets,
-        "overall_rank_position"
-    );
+    const overallRankings =
+        calculateSystemRanks(
+            rankedOverall,
+            overallBuckets,
+            "overall_rank"
+        );
 
 
-    const batterRankings = calculateSystemRanks(
-        rankedBatters,
-        positionBuckets,
-        "batter_rank_position"
-    );
+    const batterRankings =
+        calculateSystemRanks(
+            rankedBatters,
+            positionBuckets,
+            "batter_rank_position"
+        );
 
 
-    const pitcherRankings = calculateSystemRanks(
-        rankedPitchers,
-        positionBuckets,
-        "pitcher_rank_position"
-    );
+    const pitcherRankings =
+        calculateSystemRanks(
+            rankedPitchers,
+            positionBuckets,
+            "pitcher_rank_position"
+        );
 
 
 
-    // Create headers
     renderSystemHeader(
         "overall-header",
         overallBuckets
@@ -126,7 +141,6 @@ async function loadSystemRanks() {
 
 
 
-    // Render tables
     renderSystemRanks(
         overallRankings,
         "overall-ranks-body",
@@ -149,6 +163,37 @@ async function loadSystemRanks() {
 
 }
 
+
+
+
+
+function assignValueRanks(players, field){
+
+
+    const ranked =
+        [...players]
+        .sort(
+            (a,b)=>b.value-a.value
+        );
+
+
+    ranked.forEach(
+        (player,index)=>{
+
+            player[field] = index + 1;
+
+        }
+    );
+
+
+    return ranked;
+
+}
+
+
+
+
+
 function calculateSystemRanks(players, buckets, rankField){
 
 
@@ -158,126 +203,112 @@ function calculateSystemRanks(players, buckets, rankField){
     players.forEach(player=>{
 
 
-        const teamId = player.fantasy.team_id;
+        if(
+            !player.fantasy ||
+            player.fantasy.team_id == null
+        ){
+            return;
+        }
 
 
-        if(!teams[teamId]){
 
-            teams[teamId] = {
+        const id =
+            player.fantasy.team_id;
 
-                team_id: teamId,
 
-                nickname: player.fantasy.nickname,
 
-                primary_color: player.fantasy.primary_color,
+        if(!teams[id]){
 
-                secondary_color: player.fantasy.secondary_color,
 
-                players: []
+            teams[id]={
+
+                team_id:id,
+
+                nickname:
+                    player.fantasy.nickname,
+
+                primary_color:
+                    player.fantasy.primary_color,
+
+                secondary_color:
+                    player.fantasy.secondary_color,
+
+                players:[]
 
             };
+
 
         }
 
 
-        teams[teamId].players.push(player);
+
+        teams[id].players.push(player);
 
 
     });
 
 
 
-    const rankings = Object.values(teams)
-        .map(team=>{
+    return Object.values(teams)
+
+    .map(team=>{
 
 
-            let total = 0;
+        const result={
+            ...team
+        };
 
 
-            const result = {
-                ...team
-            };
-
-
-            buckets.forEach(bucket=>{
-
-
-                const count = team.players.filter(player=>{
-
-                    return player[rankField] &&
-                        player[rankField] <= bucket.limit;
-
-                }).length;
+        let total=0;
 
 
 
-                result[`top_${bucket.limit}`] = count;
+        buckets.forEach(bucket=>{
 
 
-                total += count * bucket.weight;
-
-
-            });
-
-
-
-            result.total = total;
-
-
-            return result;
-
-
-        })
-        .sort((a,b)=>b.total-a.total);
+            const count =
+                team.players.filter(
+                    player =>
+                    player[rankField] <= bucket.limit
+                ).length;
 
 
 
-    return rankings;
+            result[`top_${bucket.limit}`]=count;
 
 
-}
-
-function assignOverallRanks(players){
-
-
-    const ranked = [...players]
-        .sort((a,b)=>b.value-a.value);
+            total +=
+                count * bucket.weight;
 
 
-    ranked.forEach((player,index)=>{
-
-        player.overall_rank_position = index + 1;
-
-    });
+        });
 
 
-    return ranked;
+
+        result.total=total;
+
+        return result;
+
+
+    })
+
+
+    .sort(
+        (a,b)=>b.total-a.total
+    );
+
+    
 
 }
 
 
 
-function assignRanks(players, rankField){
 
-
-    const ranked = [...players]
-        .sort((a,b)=>a.rank-b.rank);
-
-
-    ranked.forEach((player,index)=>{
-
-        player[rankField] = index + 1;
-
-    });
-
-
-    return ranked;
-
-}
 
 function isPitcher(player){
 
-    return player.positions.some(position =>
+    return player.positions?.some(
+        position =>
         position.includes("P")
     );
 
@@ -285,53 +316,62 @@ function isPitcher(player){
 
 
 
-function isBatter(player){
 
-    return !isPitcher(player);
 
-}
-
-function renderSystemRanks(teams, targetId, thresholds){
+function renderSystemRanks(teams,targetId,thresholds){
 
 
     const tbody =
         document.getElementById(targetId);
 
 
+    tbody.innerHTML="";
+
+
     teams.forEach((team,index)=>{
 
 
-        let row = `
+        const tr =
+            document.createElement("tr");
 
-        <td data-column="rank">
+
+
+        let html=`
+
+        <td>
             ${index+1}
         </td>
 
-        <td data-column="team">
+        <td>
             ${renderFantasyTeam(team)}
         </td>
 
-        <td data-column="total" class="system-total">
-            <strong>${team.total}</strong>
+        <td class="system-total">
+            ${team.total}
         </td>
 
         `;
 
 
+
         thresholds.forEach(bucket=>{
 
-            row += `
-            <td data-column="tier">
+
+            html += `
+
+            <td>
                 ${team[`top_${bucket.limit}`]}
             </td>
+
             `;
+
 
         });
 
 
-        const tr=document.createElement("tr");
 
-        tr.innerHTML=row;
+        tr.innerHTML=html;
+
 
         tbody.appendChild(tr);
 
@@ -341,26 +381,33 @@ function renderSystemRanks(teams, targetId, thresholds){
 
 }
 
-function renderSystemHeader(targetId, thresholds){
-
-    const thead = document.getElementById(targetId);
 
 
-    thead.innerHTML = `
+
+
+function renderSystemHeader(targetId,thresholds){
+
+
+    const thead =
+        document.getElementById(targetId);
+
+
+
+    thead.innerHTML=`
 
     <tr>
 
-    <th>Rank</th>
-    <th>Team</th>
-    <th>Total</th>
+        <th>Rank</th>
 
-    ${
-    thresholds.map(bucket => `
-    <th>
-    Top ${bucket.limit}
-    </th>
-    `).join("")
-    }
+        <th>Team</th>
+
+        <th>Total</th>
+
+        ${
+            thresholds.map(bucket=>
+                `<th>Top ${bucket.limit}</th>`
+            ).join("")
+        }
 
     </tr>
 
@@ -368,46 +415,7 @@ function renderSystemHeader(targetId, thresholds){
 
 }
 
-function renderFantasyTeam(team){
 
-    return `
-
-    <a 
-    href="team_roster.html?team_id=${team.team_id}"
-    class="fantasy-team-link">
-
-        <div class="fantasy-team">
-
-            <div 
-            class="team-name"
-            style="
-            background:${team.primary_color};
-            color:${team.secondary_color};
-            ">
-                ${team.nickname}
-            </div>
-
-            <div 
-            class="team-stripe stripe-one"
-            style="
-            background:${team.secondary_color};
-            ">
-            </div>
-
-            <div 
-            class="team-stripe stripe-two"
-            style="
-            background:${team.primary_color};
-            ">
-            </div>
-
-        </div>
-
-    </a>
-
-    `;
-
-}
 
 
 

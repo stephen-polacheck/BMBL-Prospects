@@ -165,50 +165,18 @@ async function loadTeamPage() {
 
     console.log("Selected Team:", team);
 
-    // -----------------------------------
-    // Overall Rank
-    // -----------------------------------
+    
 
-    const sortedPlayers = [...players].sort(
-        (a, b) => b.value - a.value
-    );
+    assignOverallRanks(players);
+    assignProspectRanks(players);
 
-    sortedPlayers.forEach((player, index) => {
-
-        player.overall_rank = index + 1;
-
-    });
-
-
-    // -----------------------------------
-    // Overall Prospect Rank
-    // -----------------------------------
-
-    const sortedProspects = sortedPlayers.filter(
-        player => player.prospect
-    );
-
-    sortedProspects.forEach((player, index) => {
-
-        player.prospect_rank = index + 1;
-
-    });
-
-
-    // -----------------------------------
-    // Filter selected fantasy team
-    // -----------------------------------
 
     const roster =
-        players.filter(
-            player =>
-                player.fantasy &&
-                String(player.fantasy.team_id) === String(teamId)
-        );
-
-    // -----------------------------------
-    // Team Rank
-    // -----------------------------------
+    players.filter(
+        player =>
+            player.fantasy &&
+            String(player.fantasy.team_id) === String(teamId)
+    );
 
     const sortedRoster = [...roster].sort(
         (a, b) => b.value - a.value
@@ -236,6 +204,7 @@ async function loadTeamPage() {
 
     });
     
+
     renderPlayers(roster);
     
     renderTeamHeader(team);

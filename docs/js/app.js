@@ -222,6 +222,83 @@ function applyTeamRanking(players) {
 
 }
 
+function assignOverallRanks(players){
+
+    const ranked = players
+        .filter(player => !isDraftPick(player))
+        .sort((a,b)=>{
+
+            if (b.value !== a.value) {
+                return b.value - a.value;
+            }
+
+            return a.name.localeCompare(b.name);
+
+        });
+
+
+    ranked.forEach((player,index)=>{
+
+        player.overall_rank = index + 1;
+
+    });
+
+
+    return ranked;
+
+}
+
+function assignProspectRanks(players){
+
+    const ranked = players
+        .filter(player =>
+            player.prospect === true &&
+            !isDraftPick(player)
+        )
+        .sort((a,b)=>{
+
+            if (b.value !== a.value) {
+                return b.value - a.value;
+            }
+
+            return a.name.localeCompare(b.name);
+
+        });
+
+
+    ranked.forEach((player,index)=>{
+
+        player.prospect_rank = index + 1;
+
+    });
+
+
+    return ranked;
+
+}
+
+function getRankableProspects(players){
+
+    return players.filter(player => {
+
+        return (
+            player.prospect === true &&
+            !isDraftPick(player)
+        );
+
+    });
+
+}
+
+function isDraftPick(player){
+
+    return (
+        player.name &&
+        /^[0-9]{4}/.test(player.name)
+    );
+
+}
+
 function renderLevel(level) {
 
     switch (level) {
