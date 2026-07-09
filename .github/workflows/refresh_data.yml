@@ -3,7 +3,7 @@ name: Refresh BMBL Player Data
 on:
   schedule:
     # Runs every day at approximately 8:00 AM Eastern during Daylight Saving Time (12:00 UTC)
-    - cron: "0 8 * * *"
+    - cron: "0 10 * * *"
 
   # Allows manual execution from the Actions tab
   workflow_dispatch:
