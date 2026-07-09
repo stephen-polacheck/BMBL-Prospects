@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>BMBL MLB Clubs</title>
+
+<link rel="stylesheet" href="../css/style.css">
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="header-main">
+
+<img 
+src="https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/9d58feca49a48d6bb4630f3c56dfe766cd0d041142caff43369a8b04b5085c9e.png"
+class="site-logo"
+>
+
+<h1>
+Bust Mode Baseball League MLB Clubs
+</h1>
+
+</div>
+
+
+<nav>
+
+<a href="../index.html">
+All Players
+</a>
+
+<a href="prospects.html">
+Prospects
+</a>
+
+<a href="team.html">
+Teams
+</a>
+
+<a href="systemranks.html">
+System Ranks
+</a>
+
+<a href="mlbclubs.html">
+MLB Clubs
+</a>
+
+</nav>
+
+</header>
+
+
+
+<main>
+
+<div id="mlb-container" class="mlb-club-grid"></div>
+
+</main>
+
+
+
+<script>
+
+
+async function loadMLBTeams(){
+
+
+const response =
+    await fetch("../data/public/mlb_teams.json");
+
+
+const teams =
+    await response.json();
+
+
+const container =
+    document.getElementById("mlb-container");
+
+
+
+teams.forEach(team => {
+
+
+const card =
+document.createElement("a");
+
+
+card.href =
+`mlbclubs_roster.html?team=${team.abbrev}`;
+
+
+card.className =
+"mlb-club-card";
+
+
+card.style.borderColor =
+team.primary;
+
+card.style.color =
+team.primary;
+
+
+card.innerHTML = `
+
+<img
+src="${team.logourl}"
+class="mlb-club-logo"
+alt="${team.name}"
+>
+
+
+
+
+`;
+
+
+
+container.appendChild(card);
+
+
+});
+
+
+}
+
+
+loadMLBTeams();
+
+
+</script>
+
+
+</body>
+</html>

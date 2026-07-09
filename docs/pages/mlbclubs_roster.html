@@ -46,7 +46,7 @@
         <a href="systemranks.html">
             System Ranks
         </a>
-        
+
         <a href="mlbclubs.html">
             MLB Clubs
         </a>
@@ -114,18 +114,24 @@
 async function loadTeamPage() {
 
 
-    const params = new URLSearchParams(window.location.search);
+    const params =
+        new URLSearchParams(window.location.search);
 
-    const teamId = params.get("team_id");
+
+    const abbrev =
+        params.get("team");
 
 
-    if (!teamId) {
+    if (!abbrev) {
 
-        console.error("No team ID found");
+        console.error("No MLB abbreviation found");
 
         return;
 
     }
+
+
+    console.log("Selected MLB Team:", abbrev);
 
 
 
@@ -139,7 +145,7 @@ async function loadTeamPage() {
 
 
     const teamsResponse =
-        await fetch("../data/public/teams.json");
+        await fetch("../data/public/mlb_teams.json")
 
 
     const teams =
@@ -149,7 +155,7 @@ async function loadTeamPage() {
 
     const team =
         teams.find(
-            t => String(t.team_id) === String(teamId)
+            t => t.abbrev === abbrev
         );
 
 
@@ -202,8 +208,8 @@ async function loadTeamPage() {
     const roster =
         players.filter(
             player =>
-                player.fantasy &&
-                String(player.fantasy.team_id) === String(teamId)
+                player.mlb &&
+                player.mlb.abbrev === abbrev
         );
 
     // -----------------------------------
@@ -256,8 +262,8 @@ function renderTeamHeader(team) {
         <div class="team-header-content">
 
             <img 
-                src="${team.logo}"
-                class="team-logo"
+            src="${team.logourl}"
+            class="team-logo"
             >
 
             <div>
@@ -273,21 +279,21 @@ function renderTeamHeader(team) {
 
 
     header.style.backgroundColor =
-        team.primary_color;
+    team.primary;
 
 
     header.style.color =
-        team.secondary_color;
+        team.secondary;
 
 
     header.style.setProperty(
         "--secondary",
-        team.secondary_color
+        team.secondary
     );
 
 
     document.getElementById("team-page").style.backgroundColor =
-        team.primary_color;
+        team.primary;
 
 }
 

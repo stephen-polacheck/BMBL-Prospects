@@ -66,7 +66,7 @@ async function loadPlayers() {
     }
 
 
-    renderTable(players, isProspectsPage);
+    renderTable(players);
 
 }
 
@@ -111,124 +111,49 @@ function applyValueRanking(players) {
 
 }
 
-function renderTable(players, isProspectsPage = false) {
+function renderTable(players) {
 
 
     const table =
-        document.getElementById(
-            "playerTable"
-        );
+        document.getElementById("playerTable");
 
 
     table.innerHTML = "";
 
 
+    const columns =
+        [...document.querySelectorAll("#player-table th")]
+        .map(th => th.dataset.column);
+
+
+
     players.forEach(player => {
 
 
-        const row =
-            document.createElement("tr");
+        const row = document.createElement("tr");
+
+        applyRowClasses(row, player);
 
 
-        const age =
-            player.age !== null &&
-            player.age !== undefined
-            ? Number(player.age).toFixed(1)
-            : "";
+        row.innerHTML =
+            columns.map(column => {
 
 
-        const fantasyTeam =
-            player.fantasy?.nickname;
+                return `
+
+                <td data-column="${column}">
+                    ${
+                        columnRenderers[column]
+                        ? columnRenderers[column](player)
+                        : ""
+                    }
+                </td>
+
+                `;
 
 
-        const fantasyBadge =
-            fantasyTeam
-            ?
-            `
-            <div
-                class="fantasy-team"
-                style="
-                    --primary:${player.fantasy.primary_color};
-                    --secondary:${player.fantasy.secondary_color};
-                "
-            >
-                <span class="team-name">
-                    ${fantasyTeam}
-                </span>
+            }).join("");
 
-                <span class="team-stripe stripe-one"></span>
-                <span class="team-stripe stripe-two"></span>
-
-
-            </div>
-            `
-            :
-            "Available";
-
-
-        const mlbLogo =
-            player.mlb?.logo
-            ?
-            `
-            <img 
-                src="${player.mlb.logo}"
-                class="mlb-logo"
-                alt="${player.mlb.nickname ?? ''}"
-            >
-            `
-            :
-            "";
-
-
-        row.innerHTML = `
-
-            <td>
-                ${player.displayRank ?? ""}
-            </td>
-
-            <td>
-                ${player.teamRank ?? ""}
-            </td>
-
-            <td>
-                ${player.name ?? ""}
-            </td>
-
-
-            <td>
-                ${mlbLogo}
-            </td>
-
-
-            <td>
-                ${
-                    player.positions
-                    ?.join(", ")
-                    ?? ""
-                }
-            </td>
-
-
-            <td>
-                ${age}
-            </td>
-
-
-            <td>
-                ${player.level ?? ""}
-            </td>
-
-
-            <td>
-                ${player.value ?? ""}
-            </td>
-
-
-            <td>
-                ${fantasyBadge}
-            </td>
-
-        `;
 
 
         table.appendChild(row);
@@ -332,45 +257,153 @@ function renderLevel(level) {
 
 }
 
-function renderFantasyTeam(team){
+function renderFantasyTeam(team) {
+
+    if (!team || team.team_id == null) {
+        return `
+            <div class="available-team">
+                Available
+            </div>
+        `;
+    }
+
+    const teamPage =
+        window.location.pathname.includes("/pages/")
+            ? "team_roster.html"
+            : "pages/team_roster.html";
 
     return `
+        <a
+            href="${teamPage}?team_id=${team.team_id}"
+            class="fantasy-team-link">
 
-    <a 
-    href="team_roster.html?team_id=${team.team_id}"
-    class="fantasy-team-link">
+            <div class="fantasy-team">
 
-        <div class="fantasy-team">
+                <div
+                    class="team-name"
+                    style="
+                        background:${team.primary_color};
+                        color:${team.secondary_color};
+                    ">
+                    ${team.nickname}
+                </div>
 
-            <div 
-            class="team-name"
-            style="
-            background:${team.primary_color};
-            color:${team.secondary_color};
-            ">
-                ${team.nickname}
+                <div
+                    class="team-stripe stripe-one"
+                    style="background:${team.secondary_color};">
+                </div>
+
+                <div
+                    class="team-stripe stripe-two"
+                    style="background:${team.primary_color};">
+                </div>
+
             </div>
 
-            <div 
-            class="team-stripe stripe-one"
-            style="
-            background:${team.secondary_color};
-            ">
-            </div>
+        </a>
+    `;
+}
 
-            <div 
-            class="team-stripe stripe-two"
-            style="
-            background:${team.primary_color};
-            ">
-            </div>
+function renderMLBTeam(mlb) {
 
-        </div>
+    if (!mlb?.logo) {
+        return "";
+    }
 
-    </a>
-
+    return `
+        <img
+            src="${mlb.logo}"
+            class="mlb-logo"
+            alt="${mlb.abbrev ?? ""}"
+        >
     `;
 
 }
+
+function hasFantasyTeam(player) {
+    return player.fantasy && player.fantasy.team_id != null;
+}
+
+function applyRowClasses(row, player) {
+    
+    if (!hasFantasyTeam(player)) {
+        row.classList.add("available-row");
+        return;
+    }
+
+    if (player.prospect) {
+        row.classList.add("prospect-row");
+    }
+
+}
+
+const columnRenderers = {
+
+    rank(player) {
+
+        return player.displayRank ?? "";
+
+    },
+
+
+    team_rank(player) {
+
+        if (!hasFantasyTeam(player)) {
+            return "";
+        }
+
+        return player.teamRank ?? "";
+
+    },
+
+
+    name(player) {
+
+        return player.name ?? "";
+
+    },
+
+
+    mlb(player) {
+        return renderMLBTeam(player.mlb);
+    },
+
+
+    position(player) {
+
+        return player.positions?.join(", ") ?? "";
+
+    },
+
+
+    age(player) {
+
+        return player.age !== null &&
+               player.age !== undefined
+            ? Number(player.age).toFixed(1)
+            : "";
+
+    },
+
+
+    level(player) {
+
+        return renderLevel(player.level);
+
+    },
+
+
+    value(player) {
+
+        return player.value ?? "";
+
+    },
+
+
+    "fantasy-team"(player) {
+        return renderFantasyTeam(player.fantasy);
+    }
+
+};
 
 loadPlayers();

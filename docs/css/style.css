@@ -151,7 +151,7 @@ main {
 
     padding:2px;
 
-    border-bottom:1px solid #ddd;
+    border-bottom:1px solid #c0bfbf;
 
     vertical-align:middle;
 
@@ -179,9 +179,9 @@ img {
 
     height:32px;
 
-    width:170px;
+    width:180px;
 
-    max-width:170px,
+    max-width:180px,
 
 }
 
@@ -281,6 +281,10 @@ img {
 
 .analytics-table th[data-column="team-rank"],
 .analytics-table td[data-column="team-rank"],
+.analytics-table th[data-column="team_rank"],
+.analytics-table td[data-column="team_rank"],
+.analytics-table th[data-column="rank"],
+.analytics-table td[data-column="rank"],
 .analytics-table th[data-column="overall-rank"],
 .analytics-table td[data-column="overall-rank"],
 .analytics-table th[data-column="prospect-rank"],
@@ -301,7 +305,9 @@ img {
 .analytics-table th[data-column="name"],
 .analytics-table td[data-column="name"] {
 
-    width:100px;
+    width:160px;
+    min-width:160px;
+    text-align:left;
 
 }
 
@@ -381,6 +387,8 @@ img {
     width:180px;
 
     min-width:180px;
+    max-width:180px;
+    overflow:hidden;
 
 }
 
@@ -511,10 +519,94 @@ img {
 
 }
 
+.mlb-club-grid {
+
+    display: grid;
+
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+
+    gap: 10px;
+
+    padding: 10px;
+
+}
+
+.mlb-club-card {
+
+    background:white;
+
+    border:6px solid;
+
+    border-radius:12px;
+
+    padding:5px;
+
+    text-decoration:none;
+
+    display:flex;
+
+    flex-direction:column;
+
+    align-items:center;
+
+    justify-content:center;
+
+    min-height:60px;
+
+    transition:.2s;
+
+}
+
+
+.mlb-club-card:hover {
+
+    transform: scale(1.03);
+
+}
+
+
+.mlb-club-logo {
+
+    width:40px;
+
+    height:40px;
+
+    object-fit:contain;
+
+    margin-bottom:5px;
+
+}
+
+
+.mlb-club-name {
+
+    font-size:18px;
+
+    font-weight:bold;
+
+    text-align:center;
+
+    color:#111;
+
+}
+
+
 .prospect-row {
 
     background:#e6e4e4;
 
+}
+
+.available-row {
+    background: #f8cac6;
+}
+
+.available-team {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-weight: 600;
+    width: 100%;
 }
 
 .level-logo {
