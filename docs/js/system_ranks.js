@@ -70,29 +70,38 @@ async function loadSystemRanks() {
 
 
 
-    // Apply independent rankings
-    const rankedProspects = assignRanks(prospects);
-    const rankedBatters = assignRanks(batters);
-    const rankedPitchers = assignRanks(pitchers);
+    // Rank ALL prospects together by value
+    const rankedProspects = assignOverallRanks(prospects);
+
+    // Batter and pitcher rankings:
+    const rankedBatters =
+        assignRanks(batters, "batter_rank_position");
+
+
+    const rankedPitchers =
+        assignRanks(pitchers, "pitcher_rank_position");
 
 
 
     // Generate rankings
     const overallRankings = calculateSystemRanks(
         rankedProspects,
-        overallBuckets
+        overallBuckets,
+        "overall_rank_position"
     );
 
 
     const batterRankings = calculateSystemRanks(
         rankedBatters,
-        positionBuckets
+        positionBuckets,
+        "batter_rank_position"
     );
 
 
     const pitcherRankings = calculateSystemRanks(
         rankedPitchers,
-        positionBuckets
+        positionBuckets,
+        "pitcher_rank_position"
     );
 
 
@@ -140,7 +149,7 @@ async function loadSystemRanks() {
 
 }
 
-function calculateSystemRanks(players, buckets){
+function calculateSystemRanks(players, buckets, rankField){
 
 
     const teams = {};
@@ -195,7 +204,8 @@ function calculateSystemRanks(players, buckets){
 
                 const count = team.players.filter(player=>{
 
-                    return player.rank_position <= bucket.limit;
+                    return player[rankField] &&
+                        player[rankField] <= bucket.limit;
 
                 }).length;
 
@@ -227,17 +237,36 @@ function calculateSystemRanks(players, buckets){
 
 }
 
-function assignRanks(players){
+function assignOverallRanks(players){
+
+
+    const ranked = [...players]
+        .sort((a,b)=>b.value-a.value);
+
+
+    ranked.forEach((player,index)=>{
+
+        player.overall_rank_position = index + 1;
+
+    });
+
+
+    return ranked;
+
+}
+
+
+
+function assignRanks(players, rankField){
 
 
     const ranked = [...players]
         .sort((a,b)=>a.rank-b.rank);
 
 
-
     ranked.forEach((player,index)=>{
 
-        player.rank_position = index + 1;
+        player[rankField] = index + 1;
 
     });
 
