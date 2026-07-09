@@ -1,15 +1,12 @@
 name: Refresh BMBL Player Data
 
-
 on:
-
   schedule:
-    # Runs every morning at 6 AM UTC
+    # Runs every day at approximately 8:00 AM Eastern during Daylight Saving Time (12:00 UTC)
     - cron: "0 8 * * *"
 
-  # Allows you to manually run it from GitHub
+  # Allows manual execution from the Actions tab
   workflow_dispatch:
-
 
 jobs:
 
@@ -17,42 +14,50 @@ jobs:
 
     runs-on: ubuntu-latest
 
-
     permissions:
       contents: write
-
 
     steps:
 
       - name: Checkout repository
         uses: actions/checkout@v5
 
-
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
+      - name: Upgrade pip
+        run: |
+          python -m pip install --upgrade pip
 
       - name: Install dependencies
         run: |
           pip install -r requirements.txt
 
+      - name: Create .env from GitHub Secrets
+        run: |
+          echo "YAHOO_ACCESS_TOKEN_JSON=${{ secrets.YAHOO_ACCESS_TOKEN_JSON }}" >> .env
+          echo "YAHOO_ACCESS_TOKEN=${{ secrets.YAHOO_ACCESS_TOKEN }}" >> .env
+          echo "YAHOO_CONSUMER_KEY=${{ secrets.YAHOO_CONSUMER_KEY }}" >> .env
+          echo "YAHOO_CONSUMER_SECRET=${{ secrets.YAHOO_CONSUMER_SECRET }}" >> .env
+          echo "YAHOO_GUID=${{ secrets.YAHOO_GUID }}" >> .env
+          echo "YAHOO_REFRESH_TOKEN=${{ secrets.YAHOO_REFRESH_TOKEN }}" >> .env
+          echo "YAHOO_TOKEN_TIME=${{ secrets.YAHOO_TOKEN_TIME }}" >> .env
+          echo "YAHOO_TOKEN_TYPE=${{ secrets.YAHOO_TOKEN_TYPE }}" >> .env
 
       - name: Refresh player data
         run: |
           python data_pipeline/refresh_data.py
 
-
-      - name: Commit updated JSON files
+      - name: Commit updated data
         run: |
+          git config user.name "BMBL Data Bot"
+          git config user.email "actions@github.com"
 
-          git config --global user.name "BMBL Data Bot"
+          git add data/
 
-          git config --global user.email "actions@github.com"
+          git diff --cached --quiet && echo "No data changes detected." && exit 0
 
-          git add .
-
-          git commit -m "Automated BMBL data refresh" || echo "No changes detected"
-
+          git commit -m "Automated BMBL data refresh"
           git push
