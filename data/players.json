@@ -797,7 +797,7 @@
     ],
     "mlb_team": "COL",
     "mlb_team_name": "Colorado Rockies",
-    "status": "DTD"
+    "status": ""
   },
   {
     "team_id": 2,
@@ -941,7 +941,7 @@
     ],
     "mlb_team": "CHC",
     "mlb_team_name": "Chicago Cubs",
-    "status": ""
+    "status": "DTD"
   },
   {
     "team_id": 2,
@@ -2749,7 +2749,7 @@
     ],
     "mlb_team": "WSH",
     "mlb_team_name": "Washington Nationals",
-    "status": ""
+    "status": "IL15"
   },
   {
     "team_id": 4,
@@ -2813,7 +2813,7 @@
     ],
     "mlb_team": "MIL",
     "mlb_team_name": "Milwaukee Brewers",
-    "status": "IL15"
+    "status": ""
   },
   {
     "team_id": 4,
@@ -3165,7 +3165,7 @@
     ],
     "mlb_team": "ATH",
     "mlb_team_name": " Athletics",
-    "status": ""
+    "status": "DTD"
   },
   {
     "team_id": 5,
@@ -4514,17 +4514,17 @@
   {
     "team_id": 7,
     "team_name": "Danville Sweet Corn",
-    "player_id": 12361,
-    "player_key": "469.p.12361",
-    "name": "Vaughn Grissom",
-    "first_name": "Vaughn",
-    "last_name": "Grissom",
+    "player_id": 64313,
+    "player_key": "469.p.64313",
+    "name": "Nick Kurtz",
+    "first_name": "Nick",
+    "last_name": "Kurtz",
     "position": "1B",
     "eligible_positions": [
       "1B"
     ],
-    "mlb_team": "LAA",
-    "mlb_team_name": "Los Angeles Angels",
+    "mlb_team": "ATH",
+    "mlb_team_name": " Athletics",
     "status": ""
   },
   {
@@ -4658,6 +4658,22 @@
   {
     "team_id": 7,
     "team_name": "Danville Sweet Corn",
+    "player_id": 12361,
+    "player_key": "469.p.12361",
+    "name": "Vaughn Grissom",
+    "first_name": "Vaughn",
+    "last_name": "Grissom",
+    "position": "1B",
+    "eligible_positions": [
+      "1B"
+    ],
+    "mlb_team": "LAA",
+    "mlb_team_name": "Los Angeles Angels",
+    "status": ""
+  },
+  {
+    "team_id": 7,
+    "team_name": "Danville Sweet Corn",
     "player_id": 10616,
     "player_key": "469.p.10616",
     "name": "Lourdes Gurriel Jr.",
@@ -4685,22 +4701,6 @@
     ],
     "mlb_team": "BOS",
     "mlb_team_name": "Boston Red Sox",
-    "status": ""
-  },
-  {
-    "team_id": 7,
-    "team_name": "Danville Sweet Corn",
-    "player_id": 64313,
-    "player_key": "469.p.64313",
-    "name": "Nick Kurtz",
-    "first_name": "Nick",
-    "last_name": "Kurtz",
-    "position": "1B",
-    "eligible_positions": [
-      "1B"
-    ],
-    "mlb_team": "ATH",
-    "mlb_team_name": " Athletics",
     "status": ""
   },
   {
@@ -8402,6 +8402,22 @@
   {
     "team_id": 12,
     "team_name": "Erie Electric Eels",
+    "player_id": 60055,
+    "player_key": "469.p.60055",
+    "name": "Druw Jones",
+    "first_name": "Druw",
+    "last_name": "Jones",
+    "position": "CF",
+    "eligible_positions": [
+      "CF"
+    ],
+    "mlb_team": "AZ",
+    "mlb_team_name": "Arizona Diamondbacks",
+    "status": "NA"
+  },
+  {
+    "team_id": 12,
+    "team_name": "Erie Electric Eels",
     "player_id": 11124,
     "player_key": "469.p.11124",
     "name": "Ramon Laureano",
@@ -8509,22 +8525,6 @@
     ],
     "mlb_team": "COL",
     "mlb_team_name": "Colorado Rockies",
-    "status": "NA"
-  },
-  {
-    "team_id": 12,
-    "team_name": "Erie Electric Eels",
-    "player_id": 60055,
-    "player_key": "469.p.60055",
-    "name": "Druw Jones",
-    "first_name": "Druw",
-    "last_name": "Jones",
-    "position": "CF",
-    "eligible_positions": [
-      "CF"
-    ],
-    "mlb_team": "AZ",
-    "mlb_team_name": "Arizona Diamondbacks",
     "status": "NA"
   },
   {
@@ -8770,22 +8770,6 @@
   {
     "team_id": 12,
     "team_name": "Erie Electric Eels",
-    "player_id": 12059,
-    "player_key": "469.p.12059",
-    "name": "John King",
-    "first_name": "John",
-    "last_name": "King",
-    "position": "RP",
-    "eligible_positions": [
-      "RP"
-    ],
-    "mlb_team": "MIA",
-    "mlb_team_name": "Miami Marlins",
-    "status": "IL15"
-  },
-  {
-    "team_id": 12,
-    "team_name": "Erie Electric Eels",
     "player_id": 12630,
     "player_key": "469.p.12630",
     "name": "Jared Koenig",
@@ -8798,6 +8782,22 @@
     "mlb_team": "MIL",
     "mlb_team_name": "Milwaukee Brewers",
     "status": ""
+  },
+  {
+    "team_id": 12,
+    "team_name": "Erie Electric Eels",
+    "player_id": 12059,
+    "player_key": "469.p.12059",
+    "name": "John King",
+    "first_name": "John",
+    "last_name": "King",
+    "position": "RP",
+    "eligible_positions": [
+      "RP"
+    ],
+    "mlb_team": "MIA",
+    "mlb_team_name": "Miami Marlins",
+    "status": "IL15"
   },
   {
     "team_id": 12,
@@ -9826,22 +9826,6 @@
   {
     "team_id": 14,
     "team_name": "New Hampshire Unicorns",
-    "player_id": 60061,
-    "player_key": "469.p.60061",
-    "name": "Dominic Canzone",
-    "first_name": "Dominic",
-    "last_name": "Canzone",
-    "position": "LF",
-    "eligible_positions": [
-      "LF"
-    ],
-    "mlb_team": "SEA",
-    "mlb_team_name": "Seattle Mariners",
-    "status": ""
-  },
-  {
-    "team_id": 14,
-    "team_name": "New Hampshire Unicorns",
     "player_id": 64329,
     "player_key": "469.p.64329",
     "name": "Carson Benge",
@@ -9853,6 +9837,38 @@
     ],
     "mlb_team": "NYM",
     "mlb_team_name": "New York Mets",
+    "status": ""
+  },
+  {
+    "team_id": 14,
+    "team_name": "New Hampshire Unicorns",
+    "player_id": 62973,
+    "player_key": "469.p.62973",
+    "name": "Wyatt Langford",
+    "first_name": "Wyatt",
+    "last_name": "Langford",
+    "position": "LF",
+    "eligible_positions": [
+      "LF"
+    ],
+    "mlb_team": "TEX",
+    "mlb_team_name": "Texas Rangers",
+    "status": ""
+  },
+  {
+    "team_id": 14,
+    "team_name": "New Hampshire Unicorns",
+    "player_id": 60061,
+    "player_key": "469.p.60061",
+    "name": "Dominic Canzone",
+    "first_name": "Dominic",
+    "last_name": "Canzone",
+    "position": "LF",
+    "eligible_positions": [
+      "LF"
+    ],
+    "mlb_team": "SEA",
+    "mlb_team_name": "Seattle Mariners",
     "status": ""
   },
   {
@@ -9918,38 +9934,6 @@
     "mlb_team": "CLE",
     "mlb_team_name": "Cleveland Guardians",
     "status": "NA"
-  },
-  {
-    "team_id": 14,
-    "team_name": "New Hampshire Unicorns",
-    "player_id": 11348,
-    "player_key": "469.p.11348",
-    "name": "Luke Raley",
-    "first_name": "Luke",
-    "last_name": "Raley",
-    "position": "1B",
-    "eligible_positions": [
-      "1B"
-    ],
-    "mlb_team": "SEA",
-    "mlb_team_name": "Seattle Mariners",
-    "status": ""
-  },
-  {
-    "team_id": 14,
-    "team_name": "New Hampshire Unicorns",
-    "player_id": 62973,
-    "player_key": "469.p.62973",
-    "name": "Wyatt Langford",
-    "first_name": "Wyatt",
-    "last_name": "Langford",
-    "position": "LF",
-    "eligible_positions": [
-      "LF"
-    ],
-    "mlb_team": "TEX",
-    "mlb_team_name": "Texas Rangers",
-    "status": ""
   },
   {
     "team_id": 14,
@@ -11325,7 +11309,7 @@
     ],
     "mlb_team": "SD",
     "mlb_team_name": "San Diego Padres",
-    "status": "DTD"
+    "status": ""
   },
   {
     "team_id": 16,
@@ -13618,6 +13602,22 @@
   {
     "team_id": 19,
     "team_name": "Venetia Vipers",
+    "player_id": 8861,
+    "player_key": "469.p.8861",
+    "name": "Mike Trout",
+    "first_name": "Mike",
+    "last_name": "Trout",
+    "position": "CF",
+    "eligible_positions": [
+      "CF"
+    ],
+    "mlb_team": "LAA",
+    "mlb_team_name": "Los Angeles Angels",
+    "status": ""
+  },
+  {
+    "team_id": 19,
+    "team_name": "Venetia Vipers",
     "player_id": 10626,
     "player_key": "469.p.10626",
     "name": "Juan Soto",
@@ -13742,22 +13742,6 @@
     "mlb_team": "TEX",
     "mlb_team_name": "Texas Rangers",
     "status": "IL10"
-  },
-  {
-    "team_id": 19,
-    "team_name": "Venetia Vipers",
-    "player_id": 8861,
-    "player_key": "469.p.8861",
-    "name": "Mike Trout",
-    "first_name": "Mike",
-    "last_name": "Trout",
-    "position": "CF",
-    "eligible_positions": [
-      "CF"
-    ],
-    "mlb_team": "LAA",
-    "mlb_team_name": "Los Angeles Angels",
-    "status": ""
   },
   {
     "team_id": 19,
@@ -13922,22 +13906,6 @@
   {
     "team_id": 19,
     "team_name": "Venetia Vipers",
-    "player_id": 65383,
-    "player_key": "469.p.65383",
-    "name": "Jose Cabrera",
-    "first_name": "Jose",
-    "last_name": "Cabrera",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "AZ",
-    "mlb_team_name": "Arizona Diamondbacks",
-    "status": ""
-  },
-  {
-    "team_id": 19,
-    "team_name": "Venetia Vipers",
     "player_id": 60267,
     "player_key": "469.p.60267",
     "name": "Connor Prielipp",
@@ -13950,6 +13918,22 @@
     "mlb_team": "MIN",
     "mlb_team_name": "Minnesota Twins",
     "status": "IL15"
+  },
+  {
+    "team_id": 19,
+    "team_name": "Venetia Vipers",
+    "player_id": 9007,
+    "player_key": "469.p.9007",
+    "name": "Nathan Eovaldi",
+    "first_name": "Nathan",
+    "last_name": "Eovaldi",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "TEX",
+    "mlb_team_name": "Texas Rangers",
+    "status": ""
   },
   {
     "team_id": 19,
@@ -14034,6 +14018,22 @@
   {
     "team_id": 19,
     "team_name": "Venetia Vipers",
+    "player_id": 65383,
+    "player_key": "469.p.65383",
+    "name": "Jose Cabrera",
+    "first_name": "Jose",
+    "last_name": "Cabrera",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "AZ",
+    "mlb_team_name": "Arizona Diamondbacks",
+    "status": "NA"
+  },
+  {
+    "team_id": 19,
+    "team_name": "Venetia Vipers",
     "player_id": 12519,
     "player_key": "469.p.12519",
     "name": "Mike Burrows",
@@ -14061,22 +14061,6 @@
     ],
     "mlb_team": "MIN",
     "mlb_team_name": "Minnesota Twins",
-    "status": ""
-  },
-  {
-    "team_id": 19,
-    "team_name": "Venetia Vipers",
-    "player_id": 9007,
-    "player_key": "469.p.9007",
-    "name": "Nathan Eovaldi",
-    "first_name": "Nathan",
-    "last_name": "Eovaldi",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "TEX",
-    "mlb_team_name": "Texas Rangers",
     "status": ""
   },
   {
@@ -14658,22 +14642,6 @@
   {
     "team_id": 20,
     "team_name": "Cranston Chaos",
-    "player_id": 64480,
-    "player_key": "469.p.64480",
-    "name": "Luke Dickerson",
-    "first_name": "Luke",
-    "last_name": "Dickerson",
-    "position": "2B",
-    "eligible_positions": [
-      "2B"
-    ],
-    "mlb_team": "WSH",
-    "mlb_team_name": "Washington Nationals",
-    "status": "NA"
-  },
-  {
-    "team_id": 20,
-    "team_name": "Cranston Chaos",
     "player_id": 10597,
     "player_key": "469.p.10597",
     "name": "Sandy Alcantara",
@@ -14866,18 +14834,18 @@
   {
     "team_id": 20,
     "team_name": "Cranston Chaos",
-    "player_id": 65805,
-    "player_key": "469.p.65805",
-    "name": "Ben Jacobs",
-    "first_name": "Ben",
-    "last_name": "Jacobs",
+    "player_id": 12096,
+    "player_key": "469.p.12096",
+    "name": "Bailey Ober",
+    "first_name": "Bailey",
+    "last_name": "Ober",
     "position": "SP",
     "eligible_positions": [
       "SP"
     ],
-    "mlb_team": "DET",
-    "mlb_team_name": "Detroit Tigers",
-    "status": "NA"
+    "mlb_team": "MIN",
+    "mlb_team_name": "Minnesota Twins",
+    "status": ""
   },
   {
     "team_id": 20,
@@ -14910,22 +14878,6 @@
     "mlb_team": "LAA",
     "mlb_team_name": "Los Angeles Angels",
     "status": "IL15"
-  },
-  {
-    "team_id": 20,
-    "team_name": "Cranston Chaos",
-    "player_id": 12096,
-    "player_key": "469.p.12096",
-    "name": "Bailey Ober",
-    "first_name": "Bailey",
-    "last_name": "Ober",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "MIN",
-    "mlb_team_name": "Minnesota Twins",
-    "status": ""
   },
   {
     "team_id": 20,

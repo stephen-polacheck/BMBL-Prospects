@@ -302,21 +302,5 @@
     "mlb_team": "WSH",
     "mlb_team_name": "Washington Nationals",
     "status": "NA"
-  },
-  {
-    "team_id": 20,
-    "team_name": "Cranston Chaos",
-    "player_id": 65805,
-    "player_key": "469.p.65805",
-    "name": "Ben Jacobs",
-    "first_name": "Ben",
-    "last_name": "Jacobs",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "DET",
-    "mlb_team_name": "Detroit Tigers",
-    "status": "NA"
   }
 ]
