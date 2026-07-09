@@ -297,5 +297,80 @@ function applyTeamRanking(players) {
 
 }
 
+function renderLevel(level) {
+
+    switch (level) {
+
+        case "MLB":
+            return `
+                <img
+                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/250px-Major_League_Baseball_logo.svg.png"
+                    class="level-logo"
+                    alt="MLB"
+                >
+            `;
+
+        case "AAA":
+            return "AAA";
+
+        case "AA":
+            return "AA";
+
+        case "HIGH_A":
+            return "A+";
+
+        case "LOW_A":
+            return "A";
+
+        case "ROOKIE_BALL":
+            return "ROK";
+
+        default:
+            return level ?? "";
+
+    }
+
+}
+
+function renderFantasyTeam(team){
+
+    return `
+
+    <a 
+    href="team_roster.html?team_id=${team.team_id}"
+    class="fantasy-team-link">
+
+        <div class="fantasy-team">
+
+            <div 
+            class="team-name"
+            style="
+            background:${team.primary_color};
+            color:${team.secondary_color};
+            ">
+                ${team.nickname}
+            </div>
+
+            <div 
+            class="team-stripe stripe-one"
+            style="
+            background:${team.secondary_color};
+            ">
+            </div>
+
+            <div 
+            class="team-stripe stripe-two"
+            style="
+            background:${team.primary_color};
+            ">
+            </div>
+
+        </div>
+
+    </a>
+
+    `;
+
+}
 
 loadPlayers();

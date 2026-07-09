@@ -14,18 +14,26 @@ header {
 
     color:white;
 
+    font-family:"Cal Sans", sans-serif;
+
+    font-weight:normal;
+
+    letter-spacing:2px;
+
 }
 
 
 .header-main {
 
-    padding:20px;
+    padding:5px;
 
     display:flex;
 
     align-items:center;
 
-    gap:15px;
+    gap:5px;
+
+    font-weight:normal;
 
 }
 
@@ -47,16 +55,34 @@ h1 {
 
     font-size:32px;
 
-    font-family:"Oswald", sans-serif;
+    font-family:"Cal Sans", sans-serif;
+
+    font-weight:normal;
 
 }
 
+
+h3 {
+
+    padding:10px;
+
+    margin:0px;
+
+    font-size:24px;
+
+    font-family:"Cal Sans", sans-serif;
+
+    font-weight:normal;
+
+    color:#fff;
+
+}
 
 nav {
 
     background:#8c6239;
 
-    padding:12px 20px;
+    padding:5px 10px;
 
     width:100%;
 
@@ -75,7 +101,7 @@ nav a {
 
     margin-right:25px;
 
-    font-weight:bold;
+    font-family:"Cal Sans", sans-serif;
 
 }
 
@@ -89,7 +115,7 @@ main {
 }
 
 
-table {
+.analytics-table {
 
     width:auto;
 
@@ -101,25 +127,27 @@ table {
 
     font-size:14px;
 
+    table-layout:auto;
+
 }
 
 
-th {
+.analytics-table th {
 
     background:#00653a;
 
     color:white;
 
-    padding:10px;
+    padding:5px;
 
-    text-align:left;
+    text-align:center;
 
     font-weight:bold;
 
 }
 
 
-td {
+.analytics-table td {
 
     padding:2px;
 
@@ -127,8 +155,17 @@ td {
 
     vertical-align:middle;
 
+    text-align:center;
+
 }
 
+.analytics-table .system-total {
+
+    background-color: #e5e5e5;
+    font-weight: bold;
+    text-align: center;
+
+}
 
 img {
 
@@ -143,6 +180,8 @@ img {
     height:32px;
 
     width:170px;
+
+    max-width:170px,
 
 }
 
@@ -202,6 +241,12 @@ img {
 
 }
 
+.fantasy-team-link {
+    text-decoration: none;
+    display:inline-block;
+    color: inherit;
+}
+
 
 .mlb-logo {
 
@@ -222,10 +267,10 @@ img {
 
 /* Default table cell behavior */
 
-th,
-td {
+.analytics-table th,
+.analytics-table td {
 
-    padding:2px;
+    padding:2px 2px;
 
     vertical-align:middle;
 
@@ -234,12 +279,16 @@ td {
 
 /* Rank columns */
 
-th[data-column="rank"],
-td[data-column="rank"],
-th[data-column="team-rank"],
-td[data-column="team-rank"] {
+.analytics-table th[data-column="team-rank"],
+.analytics-table td[data-column="team-rank"],
+.analytics-table th[data-column="overall-rank"],
+.analytics-table td[data-column="overall-rank"],
+.analytics-table th[data-column="prospect-rank"],
+.analytics-table td[data-column="prospect-rank"],
+.analytics-table th[data-column="team-prospect-rank"],
+.analytics-table td[data-column="team-prospect-rank"] {
 
-    min-width:10px;
+    width:10px;
 
     text-align:center;
 
@@ -249,10 +298,10 @@ td[data-column="team-rank"] {
 
 /* Player name */
 
-th[data-column="name"],
-td[data-column="name"] {
+.analytics-table th[data-column="name"],
+.analytics-table td[data-column="name"] {
 
-    min-width:10%;
+    width:100px;
 
 }
 
@@ -260,10 +309,10 @@ td[data-column="name"] {
 
 /* MLB logo/team */
 
-th[data-column="mlb"],
-td[data-column="mlb"] {
+.analytics-table th[data-column="mlb"],
+.analytics-table td[data-column="mlb"] {
 
-    min-width:40px;
+    width:50px;
 
     text-align:center;
 
@@ -275,10 +324,10 @@ td[data-column="mlb"] {
 
 /* Position */
 
-th[data-column="position"],
-td[data-column="position"] {
+.analytics-table th[data-column="position"],
+.analytics-table td[data-column="position"] {
 
-    min-width:10px;
+    width:50px;
 
     text-align:center;
 
@@ -288,10 +337,10 @@ td[data-column="position"] {
 
 /* Age */
 
-th[data-column="age"],
-td[data-column="age"] {
+.analytics-table th[data-column="age"],
+.analytics-table td[data-column="age"] {
 
-    min-width:10px;
+    width:50px;
 
     text-align:center;
 
@@ -301,10 +350,10 @@ td[data-column="age"] {
 
 /* Level */
 
-th[data-column="level"],
-td[data-column="level"] {
+.analytics-table th[data-column="level"],
+.analytics-table td[data-column="level"] {
 
-    min-width:10px;
+    width:50px;
 
     text-align:center;
 
@@ -314,10 +363,10 @@ td[data-column="level"] {
 
 /* Value */
 
-th[data-column="value"],
-td[data-column="value"] {
+.analytics-table th[data-column="value"],
+.analytics-table td[data-column="value"] {
 
-    min-width:10px;
+    width:50px;
 
     text-align:center;
 
@@ -326,8 +375,8 @@ td[data-column="value"] {
 
 /* Fantasy Team */
 
-th[data-column="fantasy-team"],
-td[data-column="fantasy-team"] {
+.analytics-table th[data-column="fantasy-team"],
+.analytics-table td[data-column="fantasy-team"] {
 
     width:180px;
 
@@ -468,95 +517,68 @@ td[data-column="fantasy-team"] {
 
 }
 
+.level-logo {
 
-/* ========================================
-   Responsive Layout
-   ======================================== */
+    width: 20px;
 
-@media (max-width: 700px) {
+    height: 20px;
 
-    /* ---------- Site Header ---------- */
+    object-fit: contain;
 
-    .header-main {
+    display: block;
 
-        padding: 12px 16px;
-        gap: 10px;
+    margin: 0 auto;
 
-    }
+}
 
-    .site-logo {
 
-        width: 50px;
-        height: 50px;
+@media (max-width:700px){
 
-        flex-shrink: 0;
+    .analytics-table{
+
+        font-size:12px;
 
     }
 
-    .header-main h1 {
+    .analytics-table th{
 
-        font-size: 22px;
-
-        white-space: nowrap;
-        overflow: hidden;
-        text-overflow: ellipsis;
+        padding:5px;
 
     }
 
-    nav {
+    .analytics-table td{
 
-        padding: 10px 16px;
-
-    }
-
-    nav a {
-
-        font-size: 14px;
-        margin-right: 16px;
+        padding:2px 3px;
 
     }
 
+    .fantasy-team{
 
-    /* ---------- Team Header ---------- */
+        width:120px;
 
-    #team-header {
-
-        padding: 18px;
-
-    }
-
-    .team-header-content {
-
-        gap: 15px;
+        height:24px;
 
     }
 
-    .team-logo {
+    .team-name{
 
-        width: 70px;
-        height: 70px;
-
-        flex-shrink: 0;
+        font-size:12px;
 
     }
 
-    #team-header h1 {
+    .team-stripe{
 
-        font-size: 30px;
+        width:6px;
 
-    }
-
-    #team-header h2 {
-
-        font-size: 18px;
+        height:24px;
 
     }
 
-    .mlb-logo {
+    .mlb-logo{
 
-        width:26px;
+        width:22px;
 
-        height:26px;
+        height:22px;
 
     }
 

@@ -39,12 +39,12 @@
             Prospects
         </a>
 
-        <a href="players.html">
-            Players
-        </a>
-
         <a href="team.html">
             Teams
+        </a>
+
+        <a href="systemranks.html">
+            System Ranks
         </a>
 
     </nav>
@@ -59,7 +59,7 @@
 
     <section id="team-header"></section>
 
-    <table id="player-table">
+    <table id="player-table" class="analytics-table">
 
 
         <thead>
@@ -102,6 +102,7 @@
 </main>
 
 
+<script src="../js/app.js"></script>
 
 <script>
 
@@ -358,7 +359,7 @@ function renderPlayers(players) {
 
 
             <td data-column="level">
-                ${player.level ?? ""}
+                ${renderLevel(player.level)}
             </td>
 
 
