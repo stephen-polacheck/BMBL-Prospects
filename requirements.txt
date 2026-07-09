@@ -19,6 +19,7 @@ soupsieve==2.8.4
 stringcase==1.2.0
 typing_extensions==4.16.0
 tzdata==2026.2
+Unidecode==1.4.0
 urllib3==2.7.0
 yahoo-oauth==2.1.1
 yfpy==17.0.0
