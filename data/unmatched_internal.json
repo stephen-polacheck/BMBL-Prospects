@@ -2,18 +2,18 @@
   {
     "team_id": 1,
     "team_name": "Sechler Run Tides",
-    "player_id": 12562,
-    "player_key": "469.p.12562",
-    "name": "Josh Smith",
-    "first_name": "Josh",
-    "last_name": "Smith",
-    "position": "1B",
+    "player_id": 12710,
+    "player_key": "469.p.12710",
+    "name": "Jose Fermin",
+    "first_name": "Jose",
+    "last_name": "Fermin",
+    "position": "2B",
     "eligible_positions": [
-      "1B"
+      "2B"
     ],
-    "mlb_team": "TEX",
-    "mlb_team_name": "Texas Rangers",
-    "status": "NA"
+    "mlb_team": "STL",
+    "mlb_team_name": "St. Louis Cardinals",
+    "status": ""
   },
   {
     "team_id": 1,
@@ -45,6 +45,54 @@
     ],
     "mlb_team": "LAA",
     "mlb_team_name": "Los Angeles Angels",
+    "status": ""
+  },
+  {
+    "team_id": 4,
+    "team_name": "Carson City Campers",
+    "player_id": 12374,
+    "player_key": "469.p.12374",
+    "name": "Joey Ortiz",
+    "first_name": "Joey",
+    "last_name": "Ortiz",
+    "position": "3B",
+    "eligible_positions": [
+      "3B"
+    ],
+    "mlb_team": "MIL",
+    "mlb_team_name": "Milwaukee Brewers",
+    "status": ""
+  },
+  {
+    "team_id": 4,
+    "team_name": "Carson City Campers",
+    "player_id": 10469,
+    "player_key": "469.p.10469",
+    "name": "Tyler Alexander",
+    "first_name": "Tyler",
+    "last_name": "Alexander",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "TEX",
+    "mlb_team_name": "Texas Rangers",
+    "status": ""
+  },
+  {
+    "team_id": 4,
+    "team_name": "Carson City Campers",
+    "player_id": 12661,
+    "player_key": "469.p.12661",
+    "name": "Brennan Bernardino",
+    "first_name": "Brennan",
+    "last_name": "Bernardino",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "COL",
+    "mlb_team_name": "Colorado Rockies",
     "status": ""
   },
   {
@@ -242,6 +290,22 @@
   {
     "team_id": 17,
     "team_name": "Scranton Stranglers",
+    "player_id": 62078,
+    "player_key": "469.p.62078",
+    "name": "Max Schuemann",
+    "first_name": "Max",
+    "last_name": "Schuemann",
+    "position": "2B",
+    "eligible_positions": [
+      "2B"
+    ],
+    "mlb_team": "NYY",
+    "mlb_team_name": "New York Yankees",
+    "status": ""
+  },
+  {
+    "team_id": 17,
+    "team_name": "Scranton Stranglers",
     "player_id": 12758,
     "player_key": "469.p.12758",
     "name": "Jared Triolo",
@@ -254,6 +318,22 @@
     "mlb_team": "PIT",
     "mlb_team_name": "Pittsburgh Pirates",
     "status": ""
+  },
+  {
+    "team_id": 19,
+    "team_name": "Venetia Vipers",
+    "player_id": 65500,
+    "player_key": "469.p.65500",
+    "name": "Justin Gonzales",
+    "first_name": "Justin",
+    "last_name": "Gonzales",
+    "position": "Util",
+    "eligible_positions": [
+      "Util"
+    ],
+    "mlb_team": "BOS",
+    "mlb_team_name": "Boston Red Sox",
+    "status": "NA"
   },
   {
     "team_id": 19,
