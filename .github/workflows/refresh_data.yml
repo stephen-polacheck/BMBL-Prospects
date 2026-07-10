@@ -55,7 +55,8 @@ jobs:
           git config user.name "BMBL Data Bot"
           git config user.email "actions@github.com"
 
-          git add data/
+          git add .
+          git diff --cached --name-only
 
           git diff --cached --quiet && echo "No data changes detected." && exit 0
 
