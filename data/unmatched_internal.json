@@ -48,6 +48,54 @@
     "status": ""
   },
   {
+    "team_id": 2,
+    "team_name": "Atlantis Aliens",
+    "player_id": 62642,
+    "player_key": "469.p.62642",
+    "name": "Jacob Lopez",
+    "first_name": "Jacob",
+    "last_name": "Lopez",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "ATH",
+    "mlb_team_name": " Athletics",
+    "status": ""
+  },
+  {
+    "team_id": 2,
+    "team_name": "Atlantis Aliens",
+    "player_id": 12305,
+    "player_key": "469.p.12305",
+    "name": "Randy Rodriguez",
+    "first_name": "Randy",
+    "last_name": "Rodriguez",
+    "position": "RP",
+    "eligible_positions": [
+      "RP"
+    ],
+    "mlb_team": "SF",
+    "mlb_team_name": "San Francisco Giants",
+    "status": "IL60"
+  },
+  {
+    "team_id": 3,
+    "team_name": "Buck Ridge Whitetail",
+    "player_id": 64333,
+    "player_key": "469.p.64333",
+    "name": "Dakota Jordan",
+    "first_name": "Dakota",
+    "last_name": "Jordan",
+    "position": "Util",
+    "eligible_positions": [
+      "Util"
+    ],
+    "mlb_team": "SF",
+    "mlb_team_name": "San Francisco Giants",
+    "status": "NA"
+  },
+  {
     "team_id": 4,
     "team_name": "Carson City Campers",
     "player_id": 12374,
@@ -61,6 +109,38 @@
     ],
     "mlb_team": "MIL",
     "mlb_team_name": "Milwaukee Brewers",
+    "status": ""
+  },
+  {
+    "team_id": 4,
+    "team_name": "Carson City Campers",
+    "player_id": 12080,
+    "player_key": "469.p.12080",
+    "name": "Justin Foscue",
+    "first_name": "Justin",
+    "last_name": "Foscue",
+    "position": "1B",
+    "eligible_positions": [
+      "1B"
+    ],
+    "mlb_team": "TEX",
+    "mlb_team_name": "Texas Rangers",
+    "status": ""
+  },
+  {
+    "team_id": 4,
+    "team_name": "Carson City Campers",
+    "player_id": 9336,
+    "player_key": "469.p.9336",
+    "name": "Austin Hedges",
+    "first_name": "Austin",
+    "last_name": "Hedges",
+    "position": "C",
+    "eligible_positions": [
+      "C"
+    ],
+    "mlb_team": "CLE",
+    "mlb_team_name": "Cleveland Guardians",
     "status": ""
   },
   {
@@ -226,17 +306,17 @@
   {
     "team_id": 16,
     "team_name": "SC Scrubs",
-    "player_id": 12316,
-    "player_key": "469.p.12316",
-    "name": "Richie Palacios",
-    "first_name": "Richie",
-    "last_name": "Palacios",
-    "position": "2B",
+    "player_id": 12700,
+    "player_key": "469.p.12700",
+    "name": "Jared Young",
+    "first_name": "Jared",
+    "last_name": "Young",
+    "position": "1B",
     "eligible_positions": [
-      "2B"
+      "1B"
     ],
-    "mlb_team": "TB",
-    "mlb_team_name": "Tampa Bay Rays",
+    "mlb_team": "NYM",
+    "mlb_team_name": "New York Mets",
     "status": ""
   },
   {
@@ -320,6 +400,22 @@
     "status": ""
   },
   {
+    "team_id": 18,
+    "team_name": "Spokane Sasquatch",
+    "player_id": 63529,
+    "player_key": "469.p.63529",
+    "name": "Luis De Leon",
+    "first_name": "Luis",
+    "last_name": "De Leon",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "BAL",
+    "mlb_team_name": "Baltimore Orioles",
+    "status": "NA"
+  },
+  {
     "team_id": 19,
     "team_name": "Venetia Vipers",
     "player_id": 65500,
@@ -365,6 +461,22 @@
     ],
     "mlb_team": "COL",
     "mlb_team_name": "Colorado Rockies",
+    "status": ""
+  },
+  {
+    "team_id": 20,
+    "team_name": "Cranston Chaos",
+    "player_id": 62678,
+    "player_key": "469.p.62678",
+    "name": "PJ Poulin",
+    "first_name": "PJ",
+    "last_name": "Poulin",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "WSH",
+    "mlb_team_name": "Washington Nationals",
     "status": ""
   },
   {
