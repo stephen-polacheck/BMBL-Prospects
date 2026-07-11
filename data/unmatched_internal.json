@@ -98,17 +98,17 @@
   {
     "team_id": 4,
     "team_name": "Carson City Campers",
-    "player_id": 12374,
-    "player_key": "469.p.12374",
-    "name": "Joey Ortiz",
-    "first_name": "Joey",
-    "last_name": "Ortiz",
-    "position": "3B",
+    "player_id": 9336,
+    "player_key": "469.p.9336",
+    "name": "Austin Hedges",
+    "first_name": "Austin",
+    "last_name": "Hedges",
+    "position": "C",
     "eligible_positions": [
-      "3B"
+      "C"
     ],
-    "mlb_team": "MIL",
-    "mlb_team_name": "Milwaukee Brewers",
+    "mlb_team": "CLE",
+    "mlb_team_name": "Cleveland Guardians",
     "status": ""
   },
   {
@@ -130,17 +130,17 @@
   {
     "team_id": 4,
     "team_name": "Carson City Campers",
-    "player_id": 9336,
-    "player_key": "469.p.9336",
-    "name": "Austin Hedges",
-    "first_name": "Austin",
-    "last_name": "Hedges",
-    "position": "C",
+    "player_id": 12374,
+    "player_key": "469.p.12374",
+    "name": "Joey Ortiz",
+    "first_name": "Joey",
+    "last_name": "Ortiz",
+    "position": "3B",
     "eligible_positions": [
-      "C"
+      "3B"
     ],
-    "mlb_team": "CLE",
-    "mlb_team_name": "Cleveland Guardians",
+    "mlb_team": "MIL",
+    "mlb_team_name": "Milwaukee Brewers",
     "status": ""
   },
   {
