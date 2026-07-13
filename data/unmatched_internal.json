@@ -16,38 +16,6 @@
     "status": ""
   },
   {
-    "team_id": 1,
-    "team_name": "Sechler Run Tides",
-    "player_id": 10402,
-    "player_key": "469.p.10402",
-    "name": "German Marquez",
-    "first_name": "German",
-    "last_name": "Marquez",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "SD",
-    "mlb_team_name": "San Diego Padres",
-    "status": ""
-  },
-  {
-    "team_id": 2,
-    "team_name": "Atlantis Aliens",
-    "player_id": 62642,
-    "player_key": "469.p.62642",
-    "name": "Jacob Lopez",
-    "first_name": "Jacob",
-    "last_name": "Lopez",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "ATH",
-    "mlb_team_name": " Athletics",
-    "status": ""
-  },
-  {
     "team_id": 2,
     "team_name": "Atlantis Aliens",
     "player_id": 65037,
@@ -64,38 +32,6 @@
     "status": ""
   },
   {
-    "team_id": 2,
-    "team_name": "Atlantis Aliens",
-    "player_id": 12305,
-    "player_key": "469.p.12305",
-    "name": "Randy Rodriguez",
-    "first_name": "Randy",
-    "last_name": "Rodriguez",
-    "position": "RP",
-    "eligible_positions": [
-      "RP"
-    ],
-    "mlb_team": "SF",
-    "mlb_team_name": "San Francisco Giants",
-    "status": "IL60"
-  },
-  {
-    "team_id": 3,
-    "team_name": "Buck Ridge Whitetail",
-    "player_id": 64333,
-    "player_key": "469.p.64333",
-    "name": "Dakota Jordan",
-    "first_name": "Dakota",
-    "last_name": "Jordan",
-    "position": "Util",
-    "eligible_positions": [
-      "Util"
-    ],
-    "mlb_team": "SF",
-    "mlb_team_name": "San Francisco Giants",
-    "status": "NA"
-  },
-  {
     "team_id": 4,
     "team_name": "Carson City Campers",
     "player_id": 9336,
@@ -109,70 +45,6 @@
     ],
     "mlb_team": "CLE",
     "mlb_team_name": "Cleveland Guardians",
-    "status": ""
-  },
-  {
-    "team_id": 4,
-    "team_name": "Carson City Campers",
-    "player_id": 12080,
-    "player_key": "469.p.12080",
-    "name": "Justin Foscue",
-    "first_name": "Justin",
-    "last_name": "Foscue",
-    "position": "1B",
-    "eligible_positions": [
-      "1B"
-    ],
-    "mlb_team": "TEX",
-    "mlb_team_name": "Texas Rangers",
-    "status": ""
-  },
-  {
-    "team_id": 4,
-    "team_name": "Carson City Campers",
-    "player_id": 12374,
-    "player_key": "469.p.12374",
-    "name": "Joey Ortiz",
-    "first_name": "Joey",
-    "last_name": "Ortiz",
-    "position": "3B",
-    "eligible_positions": [
-      "3B"
-    ],
-    "mlb_team": "MIL",
-    "mlb_team_name": "Milwaukee Brewers",
-    "status": ""
-  },
-  {
-    "team_id": 4,
-    "team_name": "Carson City Campers",
-    "player_id": 10469,
-    "player_key": "469.p.10469",
-    "name": "Tyler Alexander",
-    "first_name": "Tyler",
-    "last_name": "Alexander",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "TEX",
-    "mlb_team_name": "Texas Rangers",
-    "status": ""
-  },
-  {
-    "team_id": 4,
-    "team_name": "Carson City Campers",
-    "player_id": 12661,
-    "player_key": "469.p.12661",
-    "name": "Brennan Bernardino",
-    "first_name": "Brennan",
-    "last_name": "Bernardino",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "COL",
-    "mlb_team_name": "Colorado Rockies",
     "status": ""
   },
   {
@@ -194,22 +66,6 @@
   {
     "team_id": 6,
     "team_name": "Cokeburg Miners",
-    "player_id": 65759,
-    "player_key": "469.p.65759",
-    "name": "Cam Cannarella",
-    "first_name": "Cam",
-    "last_name": "Cannarella",
-    "position": "Util",
-    "eligible_positions": [
-      "Util"
-    ],
-    "mlb_team": "MIA",
-    "mlb_team_name": "Miami Marlins",
-    "status": "NA"
-  },
-  {
-    "team_id": 6,
-    "team_name": "Cokeburg Miners",
     "player_id": 63965,
     "player_key": "469.p.63965",
     "name": "Peyton Gray",
@@ -222,38 +78,6 @@
     "mlb_team": "TEX",
     "mlb_team_name": "Texas Rangers",
     "status": ""
-  },
-  {
-    "team_id": 7,
-    "team_name": "Danville Sweet Corn",
-    "player_id": 9640,
-    "player_key": "469.p.9640",
-    "name": "Lucas Giolito",
-    "first_name": "Lucas",
-    "last_name": "Giolito",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "SD",
-    "mlb_team_name": "San Diego Padres",
-    "status": "IL15"
-  },
-  {
-    "team_id": 9,
-    "team_name": "Devon Stallions",
-    "player_id": 12477,
-    "player_key": "469.p.12477",
-    "name": "Jeferson Quero",
-    "first_name": "Jeferson",
-    "last_name": "Quero",
-    "position": "C",
-    "eligible_positions": [
-      "C"
-    ],
-    "mlb_team": "MIL",
-    "mlb_team_name": "Milwaukee Brewers",
-    "status": "NA"
   },
   {
     "team_id": 10,
@@ -304,22 +128,6 @@
     "status": "NA"
   },
   {
-    "team_id": 15,
-    "team_name": "Orlando Oligarchs",
-    "player_id": 12737,
-    "player_key": "469.p.12737",
-    "name": "Keaton Winn",
-    "first_name": "Keaton",
-    "last_name": "Winn",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "SF",
-    "mlb_team_name": "San Francisco Giants",
-    "status": ""
-  },
-  {
     "team_id": 16,
     "team_name": "SC Scrubs",
     "player_id": 61637,
@@ -338,38 +146,6 @@
   {
     "team_id": 16,
     "team_name": "SC Scrubs",
-    "player_id": 12700,
-    "player_key": "469.p.12700",
-    "name": "Jared Young",
-    "first_name": "Jared",
-    "last_name": "Young",
-    "position": "1B",
-    "eligible_positions": [
-      "1B"
-    ],
-    "mlb_team": "NYM",
-    "mlb_team_name": "New York Mets",
-    "status": ""
-  },
-  {
-    "team_id": 16,
-    "team_name": "SC Scrubs",
-    "player_id": 65898,
-    "player_key": "469.p.65898",
-    "name": "Ethan Frey",
-    "first_name": "Ethan",
-    "last_name": "Frey",
-    "position": "Util",
-    "eligible_positions": [
-      "Util"
-    ],
-    "mlb_team": "HOU",
-    "mlb_team_name": "Houston Astros",
-    "status": "NA"
-  },
-  {
-    "team_id": 16,
-    "team_name": "SC Scrubs",
     "player_id": 67137,
     "player_key": "469.p.67137",
     "name": "Mike Paredes",
@@ -382,102 +158,6 @@
     "mlb_team": "MIN",
     "mlb_team_name": "Minnesota Twins",
     "status": ""
-  },
-  {
-    "team_id": 16,
-    "team_name": "SC Scrubs",
-    "player_id": 61375,
-    "player_key": "469.p.61375",
-    "name": "Ryan Zeferjahn",
-    "first_name": "Ryan",
-    "last_name": "Zeferjahn",
-    "position": "RP",
-    "eligible_positions": [
-      "RP"
-    ],
-    "mlb_team": "LAA",
-    "mlb_team_name": "Los Angeles Angels",
-    "status": ""
-  },
-  {
-    "team_id": 17,
-    "team_name": "Scranton Stranglers",
-    "player_id": 62078,
-    "player_key": "469.p.62078",
-    "name": "Max Schuemann",
-    "first_name": "Max",
-    "last_name": "Schuemann",
-    "position": "2B",
-    "eligible_positions": [
-      "2B"
-    ],
-    "mlb_team": "NYY",
-    "mlb_team_name": "New York Yankees",
-    "status": ""
-  },
-  {
-    "team_id": 17,
-    "team_name": "Scranton Stranglers",
-    "player_id": 12758,
-    "player_key": "469.p.12758",
-    "name": "Jared Triolo",
-    "first_name": "Jared",
-    "last_name": "Triolo",
-    "position": "1B",
-    "eligible_positions": [
-      "1B"
-    ],
-    "mlb_team": "PIT",
-    "mlb_team_name": "Pittsburgh Pirates",
-    "status": ""
-  },
-  {
-    "team_id": 18,
-    "team_name": "Spokane Sasquatch",
-    "player_id": 63529,
-    "player_key": "469.p.63529",
-    "name": "Luis De Leon",
-    "first_name": "Luis",
-    "last_name": "De Leon",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "BAL",
-    "mlb_team_name": "Baltimore Orioles",
-    "status": "NA"
-  },
-  {
-    "team_id": 19,
-    "team_name": "Venetia Vipers",
-    "player_id": 65500,
-    "player_key": "469.p.65500",
-    "name": "Justin Gonzales",
-    "first_name": "Justin",
-    "last_name": "Gonzales",
-    "position": "Util",
-    "eligible_positions": [
-      "Util"
-    ],
-    "mlb_team": "BOS",
-    "mlb_team_name": "Boston Red Sox",
-    "status": "NA"
-  },
-  {
-    "team_id": 19,
-    "team_name": "Venetia Vipers",
-    "player_id": 63607,
-    "player_key": "469.p.63607",
-    "name": "Henry Lalane",
-    "first_name": "Henry",
-    "last_name": "Lalane",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "NYY",
-    "mlb_team_name": "New York Yankees",
-    "status": "NA"
   },
   {
     "team_id": 20,
