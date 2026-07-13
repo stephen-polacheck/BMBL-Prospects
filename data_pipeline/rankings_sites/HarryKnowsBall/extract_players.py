@@ -1,17 +1,26 @@
-import requests
 import json
+import requests
+from bs4 import BeautifulSoup
 
-URL = "https://harryknowsball.com/_next/data/v1Nr6fX1t8K6kJjkbPFlY/rankings.json?prospects=true"
+URL = "https://harryknowsball.com/rankings?prospects=true"
 
 
 def fetch():
     r = requests.get(URL, timeout=20)
     r.raise_for_status()
-    return r.json()
+
+    soup = BeautifulSoup(r.text, "html.parser")
+
+    next_data = soup.find("script", id="__NEXT_DATA__")
+
+    if next_data is None:
+        raise RuntimeError("Could not locate __NEXT_DATA__ on the rankings page.")
+
+    return json.loads(next_data.string)
 
 
 def extract_players(raw):
-    return raw["pageProps"]["players"]
+    return raw["props"]["pageProps"]["players"]
 
 
 def normalize(players):
@@ -37,7 +46,7 @@ def main():
     players = extract_players(raw)
     normalized = normalize(players)
 
-    with open("data/hkb_players.json", "w") as f:
+    with open("data/hkb_players.json", "w", encoding="utf-8") as f:
         json.dump(normalized, f, indent=2)
 
     print(f"Saved {len(normalized)} players")
