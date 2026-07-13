@@ -13875,5 +13875,305 @@
     "locked": true,
     "created": "2026-07-07T14:10:17.291613",
     "updated": "2026-07-07T14:10:17.291679"
+  },
+  "0000926": {
+    "universal_id": "0000926",
+    "canonical_name": "German Marquez",
+    "canonical_team": "SD",
+    "internal_ids": [
+      10402
+    ],
+    "hkb_ids": [
+      "BZ5sKB0R"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-13T13:41:23.049276",
+    "updated": "2026-07-13T13:41:23.049337"
+  },
+  "0000927": {
+    "universal_id": "0000927",
+    "canonical_name": "Jacob Lopez",
+    "canonical_team": "ATH",
+    "internal_ids": [
+      62642
+    ],
+    "hkb_ids": [
+      "XD14pbGz"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-13T13:41:24.698277",
+    "updated": "2026-07-13T13:41:24.698322"
+  },
+  "0000928": {
+    "universal_id": "0000928",
+    "canonical_name": "Randy Rodriguez",
+    "canonical_team": "SF",
+    "internal_ids": [
+      12305
+    ],
+    "hkb_ids": [
+      "ZuAnU7v5"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-13T13:41:27.930487",
+    "updated": "2026-07-13T13:41:27.930541"
+  },
+  "0000929": {
+    "universal_id": "0000929",
+    "canonical_name": "Dakota Jordan",
+    "canonical_team": "SF",
+    "internal_ids": [
+      64333
+    ],
+    "hkb_ids": [
+      "6m8fwDex"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-13T13:41:28.933673",
+    "updated": "2026-07-13T13:41:28.933749"
+  },
+  "0000930": {
+    "universal_id": "0000930",
+    "canonical_name": "Justin Foscue",
+    "canonical_team": "TEX",
+    "internal_ids": [
+      12080
+    ],
+    "hkb_ids": [
+      "kR5cgNXN"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-13T13:41:30.595266",
+    "updated": "2026-07-13T13:41:30.595312"
+  },
+  "0000931": {
+    "universal_id": "0000931",
+    "canonical_name": "Joey Ortiz",
+    "canonical_team": "MIL",
+    "internal_ids": [
+      12374
+    ],
+    "hkb_ids": [
+      "bCc8x2h5"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-13T13:41:31.737901",
+    "updated": "2026-07-13T13:41:31.737993"
+  },
+  "0000932": {
+    "universal_id": "0000932",
+    "canonical_name": "Tyler Alexander",
+    "canonical_team": "TEX",
+    "internal_ids": [
+      10469
+    ],
+    "hkb_ids": [
+      "2fTZBlNt"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-13T13:41:32.587119",
+    "updated": "2026-07-13T13:41:32.587227"
+  },
+  "0000933": {
+    "universal_id": "0000933",
+    "canonical_name": "Brennan Bernardino",
+    "canonical_team": "COL",
+    "internal_ids": [
+      12661
+    ],
+    "hkb_ids": [
+      "LfDkdjvs"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-13T13:41:33.794222",
+    "updated": "2026-07-13T13:41:33.794367"
+  },
+  "0000934": {
+    "universal_id": "0000934",
+    "canonical_name": "Cam Cannarella",
+    "canonical_team": "MIA",
+    "internal_ids": [
+      65759
+    ],
+    "hkb_ids": [
+      "ChWHVxDd"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-13T13:41:35.922365",
+    "updated": "2026-07-13T13:41:35.922417"
+  },
+  "0000935": {
+    "universal_id": "0000935",
+    "canonical_name": "Lucas Giolito",
+    "canonical_team": "SD",
+    "internal_ids": [
+      9640
+    ],
+    "hkb_ids": [
+      "1eCDiQXx"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-13T13:41:37.674572",
+    "updated": "2026-07-13T13:41:37.674644"
+  },
+  "0000936": {
+    "universal_id": "0000936",
+    "canonical_name": "Jeferson Quero",
+    "canonical_team": "MIL",
+    "internal_ids": [
+      12477
+    ],
+    "hkb_ids": [
+      "MjPkEspE"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-13T13:41:38.994708",
+    "updated": "2026-07-13T13:41:38.994792"
+  },
+  "0000937": {
+    "universal_id": "0000937",
+    "canonical_name": "Keaton Winn",
+    "canonical_team": "SF",
+    "internal_ids": [
+      12737
+    ],
+    "hkb_ids": [
+      "YkZvxl2b"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-13T13:41:43.058010",
+    "updated": "2026-07-13T13:41:43.058176"
+  },
+  "0000938": {
+    "universal_id": "0000938",
+    "canonical_name": "Jared Young",
+    "canonical_team": "NYM",
+    "internal_ids": [
+      12700
+    ],
+    "hkb_ids": [
+      "OEYPhlkv"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-13T13:41:44.818795",
+    "updated": "2026-07-13T13:41:44.818935"
+  },
+  "0000939": {
+    "universal_id": "0000939",
+    "canonical_name": "Ethan Frey",
+    "canonical_team": "HOU",
+    "internal_ids": [
+      65898
+    ],
+    "hkb_ids": [
+      "NMtF06LY"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-13T13:41:46.186586",
+    "updated": "2026-07-13T13:41:46.186661"
+  },
+  "0000940": {
+    "universal_id": "0000940",
+    "canonical_name": "Ryan Zeferjahn",
+    "canonical_team": "LAA",
+    "internal_ids": [
+      61375
+    ],
+    "hkb_ids": [
+      "357GkSjZ"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-13T13:41:48.299701",
+    "updated": "2026-07-13T13:41:48.299760"
+  },
+  "0000941": {
+    "universal_id": "0000941",
+    "canonical_name": "Max Schuemann",
+    "canonical_team": "NYY",
+    "internal_ids": [
+      62078
+    ],
+    "hkb_ids": [
+      "kebxBmch"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-13T13:41:49.124242",
+    "updated": "2026-07-13T13:41:49.124494"
+  },
+  "0000942": {
+    "universal_id": "0000942",
+    "canonical_name": "Jared Triolo",
+    "canonical_team": "PIT",
+    "internal_ids": [
+      12758
+    ],
+    "hkb_ids": [
+      "8305cYlf"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-13T13:41:50.018951",
+    "updated": "2026-07-13T13:41:50.019036"
+  },
+  "0000943": {
+    "universal_id": "0000943",
+    "canonical_name": "Luis De Leon",
+    "canonical_team": "BAL",
+    "internal_ids": [
+      63529
+    ],
+    "hkb_ids": [
+      "h4HJpq9M"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-13T13:41:51.326870",
+    "updated": "2026-07-13T13:41:51.326925"
+  },
+  "0000944": {
+    "universal_id": "0000944",
+    "canonical_name": "Justin Gonzales",
+    "canonical_team": "BOS",
+    "internal_ids": [
+      65500
+    ],
+    "hkb_ids": [
+      "OH1Bl6Jr"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-13T13:41:52.251440",
+    "updated": "2026-07-13T13:41:52.251563"
+  },
+  "0000945": {
+    "universal_id": "0000945",
+    "canonical_name": "Henry Lalane",
+    "canonical_team": "NYY",
+    "internal_ids": [
+      63607
+    ],
+    "hkb_ids": [
+      "ZIjT5Zni"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-13T13:41:53.187023",
+    "updated": "2026-07-13T13:41:53.187057"
   }
 }
