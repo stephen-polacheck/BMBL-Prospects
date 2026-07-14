@@ -7341,7 +7341,7 @@
     ],
     "mlb_team": "CIN",
     "mlb_team_name": "Cincinnati Reds",
-    "status": ""
+    "status": "DTD"
   },
   {
     "team_id": 10,
@@ -10509,7 +10509,7 @@
     ],
     "mlb_team": "MIN",
     "mlb_team_name": "Minnesota Twins",
-    "status": "IL15"
+    "status": "IL60"
   },
   {
     "team_id": 14,
@@ -14269,7 +14269,7 @@
     ],
     "mlb_team": "HOU",
     "mlb_team_name": "Houston Astros",
-    "status": "NA"
+    "status": "IL15"
   },
   {
     "team_id": 19,
