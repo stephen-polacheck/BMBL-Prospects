@@ -23,8 +23,8 @@
         "C",
         "1B"
       ],
-      "rank": 793,
-      "value": 36,
+      "rank": 800,
+      "value": 33,
       "age": 32.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -57,8 +57,8 @@
         "3B",
         "OF"
       ],
-      "rank": 295,
-      "value": 609,
+      "rank": 301,
+      "value": 597,
       "age": 27.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -89,7 +89,7 @@
         "2B",
         "SS"
       ],
-      "rank": 353,
+      "rank": 354,
       "value": 425,
       "age": 24.9,
       "source": "harryknowsball",
@@ -121,7 +121,7 @@
         "2B",
         "3B"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 27.1,
       "source": "harryknowsball",
@@ -152,8 +152,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 307,
-      "value": 568,
+      "rank": 304,
+      "value": 573,
       "age": 21.9,
       "source": "harryknowsball",
       "prospect": true,
@@ -184,7 +184,7 @@
         "UT"
       ],
       "rank": 58,
-      "value": 2859,
+      "value": 2865,
       "age": 33.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -214,8 +214,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 144,
-      "value": 1313,
+      "rank": 143,
+      "value": 1324,
       "age": 21.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -246,8 +246,8 @@
         "2B",
         "OF"
       ],
-      "rank": 157,
-      "value": 1206,
+      "rank": 158,
+      "value": 1190,
       "age": 23.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -277,8 +277,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 413,
-      "value": 337,
+      "rank": 402,
+      "value": 346,
       "age": 32.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -308,8 +308,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 499,
-      "value": 220,
+      "rank": 494,
+      "value": 225,
       "age": 28.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -339,7 +339,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 29,
       "source": "harryknowsball",
@@ -370,8 +370,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 534,
-      "value": 180,
+      "rank": 533,
+      "value": 181,
       "age": 33.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -452,8 +452,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 116,
-      "value": 1560,
+      "rank": 117,
+      "value": 1565,
       "age": 32.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -483,7 +483,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 27.9,
       "source": "harryknowsball",
@@ -515,7 +515,7 @@
         "1B"
       ],
       "rank": 150,
-      "value": 1249,
+      "value": 1243,
       "age": 28.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -545,8 +545,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 675,
-      "value": 81,
+      "rank": 665,
+      "value": 84,
       "age": 33.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -576,8 +576,8 @@
       "positions": [
         "2B"
       ],
-      "rank": 531,
-      "value": 185,
+      "rank": 530,
+      "value": 187,
       "age": 21.9,
       "source": "harryknowsball",
       "prospect": true,
@@ -607,8 +607,8 @@
       "positions": [
         "C"
       ],
-      "rank": 235,
-      "value": 789,
+      "rank": 236,
+      "value": 788,
       "age": 24.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -638,8 +638,8 @@
       "positions": [
         "3B"
       ],
-      "rank": 367,
-      "value": 403,
+      "rank": 370,
+      "value": 398,
       "age": 23.4,
       "source": "harryknowsball",
       "prospect": true,
@@ -669,8 +669,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 423,
-      "value": 316,
+      "rank": 426,
+      "value": 311,
       "age": 21.2,
       "source": "harryknowsball",
       "prospect": true,
@@ -701,8 +701,8 @@
         "1B",
         "OF"
       ],
-      "rank": 616,
-      "value": 109,
+      "rank": 628,
+      "value": 103,
       "age": 24.4,
       "source": "harryknowsball",
       "prospect": true,
@@ -763,8 +763,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 493,
-      "value": 227,
+      "rank": 495,
+      "value": 224,
       "age": 30.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -794,8 +794,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 147,
-      "value": 1295,
+      "rank": 145,
+      "value": 1296,
       "age": 23.3,
       "source": "harryknowsball",
       "prospect": true,
@@ -825,8 +825,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 583,
-      "value": 131,
+      "rank": 586,
+      "value": 128,
       "age": 25.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -856,8 +856,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 127,
-      "value": 1451,
+      "rank": 130,
+      "value": 1436,
       "age": 27.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -887,7 +887,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 31.4,
       "source": "harryknowsball",
@@ -919,8 +919,8 @@
         "SP",
         "RP"
       ],
-      "rank": 485,
-      "value": 243,
+      "rank": 486,
+      "value": 241,
       "age": 27.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -950,8 +950,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 802,
-      "value": 32,
+      "rank": 773,
+      "value": 43,
       "age": 24.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -982,8 +982,8 @@
         "SP",
         "RP"
       ],
-      "rank": 355,
-      "value": 420,
+      "rank": 353,
+      "value": 427,
       "age": 31.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -1014,7 +1014,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 26.1,
       "source": "harryknowsball",
@@ -1045,8 +1045,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 692,
-      "value": 73,
+      "rank": 668,
+      "value": 82,
       "age": 27.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -1076,8 +1076,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 38,
-      "value": 3771,
+      "rank": 36,
+      "value": 3769,
       "age": 24.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -1107,8 +1107,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 547,
-      "value": 158,
+      "rank": 555,
+      "value": 154,
       "age": 30.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -1138,8 +1138,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 656,
-      "value": 88,
+      "rank": 653,
+      "value": 89,
       "age": 35,
       "source": "harryknowsball",
       "prospect": false,
@@ -1169,8 +1169,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 67,
-      "value": 2626,
+      "rank": 66,
+      "value": 2624,
       "age": 29.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -1200,7 +1200,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 711,
+      "rank": 708,
       "value": 67,
       "age": 33.8,
       "source": "harryknowsball",
@@ -1262,8 +1262,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 495,
-      "value": 223,
+      "rank": 498,
+      "value": 221,
       "age": 27.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -1293,8 +1293,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 312,
-      "value": 560,
+      "rank": 309,
+      "value": 562,
       "age": 33.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -1325,8 +1325,8 @@
         "SP",
         "RP"
       ],
-      "rank": 406,
-      "value": 342,
+      "rank": 414,
+      "value": 335,
       "age": 28.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -1356,8 +1356,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 356,
-      "value": 418,
+      "rank": 359,
+      "value": 411,
       "age": 26.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -1388,7 +1388,7 @@
         "SP"
       ],
       "rank": 371,
-      "value": 399,
+      "value": 397,
       "age": 31,
       "source": "harryknowsball",
       "prospect": false,
@@ -1418,8 +1418,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 397,
-      "value": 357,
+      "rank": 396,
+      "value": 356,
       "age": 24.3,
       "source": "harryknowsball",
       "prospect": true,
@@ -1449,8 +1449,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 555,
-      "value": 154,
+      "rank": 563,
+      "value": 149,
       "age": 23.6,
       "source": "harryknowsball",
       "prospect": true,
@@ -1480,7 +1480,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 24.4,
       "source": "harryknowsball",
@@ -1511,7 +1511,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 20.8,
       "source": "harryknowsball",
@@ -1543,7 +1543,7 @@
         "C"
       ],
       "rank": 88,
-      "value": 2079,
+      "value": 2094,
       "age": 26.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -1573,8 +1573,8 @@
       "positions": [
         "1B"
       ],
-      "rank": 72,
-      "value": 2453,
+      "rank": 73,
+      "value": 2452,
       "age": 33.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -1628,7 +1628,7 @@
     ],
     "mlb_team": "TB",
     "mlb_team_name": "Tampa Bay Rays",
-    "status": "",
+    "status": "DTD",
     "universal_id": "0000052",
     "hkb": {
       "id": "IhaFkRsx",
@@ -1638,7 +1638,7 @@
         "3B"
       ],
       "rank": 7,
-      "value": 7038,
+      "value": 7078,
       "age": 23,
       "source": "harryknowsball",
       "prospect": false,
@@ -1668,8 +1668,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 129,
-      "value": 1450,
+      "rank": 128,
+      "value": 1452,
       "age": 24.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -1699,8 +1699,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 671,
-      "value": 82,
+      "rank": 684,
+      "value": 77,
       "age": 26,
       "source": "harryknowsball",
       "prospect": false,
@@ -1730,8 +1730,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 692,
-      "value": 73,
+      "rank": 619,
+      "value": 106,
       "age": 26.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -1762,9 +1762,9 @@
         "2B",
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
-      "age": 27.1,
+      "age": 27.2,
       "source": "harryknowsball",
       "prospect": false,
       "level": "MLB"
@@ -1794,7 +1794,7 @@
         "SS"
       ],
       "rank": 35,
-      "value": 3826,
+      "value": 3882,
       "age": 25.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -1825,8 +1825,8 @@
         "1B",
         "3B"
       ],
-      "rank": 282,
-      "value": 632,
+      "rank": 280,
+      "value": 638,
       "age": 27.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -1857,8 +1857,8 @@
         "OF",
         "UT"
       ],
-      "rank": 170,
-      "value": 1118,
+      "rank": 169,
+      "value": 1128,
       "age": 31.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -1889,8 +1889,8 @@
         "2B",
         "OF"
       ],
-      "rank": 476,
-      "value": 256,
+      "rank": 479,
+      "value": 253,
       "age": 36.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -1920,8 +1920,8 @@
       "positions": [
         "C"
       ],
-      "rank": 430,
-      "value": 308,
+      "rank": 441,
+      "value": 298,
       "age": 27.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -1951,7 +1951,7 @@
       "positions": [
         "1B"
       ],
-      "rank": 537,
+      "rank": 536,
       "value": 175,
       "age": 26.5,
       "source": "harryknowsball",
@@ -1982,8 +1982,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 601,
-      "value": 117,
+      "rank": 598,
+      "value": 120,
       "age": 28.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -2013,8 +2013,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 186,
-      "value": 977,
+      "rank": 184,
+      "value": 987,
       "age": 23.1,
       "source": "harryknowsball",
       "prospect": true,
@@ -2045,7 +2045,7 @@
         "C"
       ],
       "rank": 437,
-      "value": 299,
+      "value": 302,
       "age": 18.9,
       "source": "harryknowsball",
       "prospect": true,
@@ -2075,8 +2075,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 137,
-      "value": 1373,
+      "rank": 131,
+      "value": 1419,
       "age": 21.5,
       "source": "harryknowsball",
       "prospect": true,
@@ -2106,8 +2106,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 579,
-      "value": 135,
+      "rank": 574,
+      "value": 138,
       "age": 20.9,
       "source": "harryknowsball",
       "prospect": true,
@@ -2137,8 +2137,8 @@
       "positions": [
         "C"
       ],
-      "rank": 577,
-      "value": 137,
+      "rank": 570,
+      "value": 140,
       "age": 22.6,
       "source": "harryknowsball",
       "prospect": true,
@@ -2168,8 +2168,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 180,
-      "value": 1020,
+      "rank": 181,
+      "value": 1014,
       "age": 31.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -2199,8 +2199,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 705,
-      "value": 69,
+      "rank": 709,
+      "value": 66,
       "age": 33.5,
       "source": "harryknowsball",
       "prospect": false,
@@ -2230,8 +2230,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 322,
-      "value": 514,
+      "rank": 320,
+      "value": 524,
       "age": 26.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -2262,7 +2262,7 @@
         "SP"
       ],
       "rank": 244,
-      "value": 755,
+      "value": 757,
       "age": 27.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -2292,8 +2292,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 451,
-      "value": 286,
+      "rank": 450,
+      "value": 287,
       "age": 23.6,
       "source": "harryknowsball",
       "prospect": true,
@@ -2323,7 +2323,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 28.3,
       "source": "harryknowsball",
@@ -2354,7 +2354,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 32.3,
       "source": "harryknowsball",
@@ -2403,8 +2403,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 536,
-      "value": 176,
+      "rank": 535,
+      "value": 179,
       "age": 32.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -2434,8 +2434,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 62,
-      "value": 2703,
+      "rank": 63,
+      "value": 2710,
       "age": 23.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -2466,7 +2466,7 @@
         "SP"
       ],
       "rank": 105,
-      "value": 1747,
+      "value": 1755,
       "age": 27.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -2496,8 +2496,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 196,
-      "value": 944,
+      "rank": 194,
+      "value": 943,
       "age": 26.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -2527,7 +2527,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 511,
+      "rank": 506,
       "value": 211,
       "age": 33.1,
       "source": "harryknowsball",
@@ -2558,8 +2558,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 505,
-      "value": 214,
+      "rank": 515,
+      "value": 206,
       "age": 27.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -2590,7 +2590,7 @@
         "SP"
       ],
       "rank": 182,
-      "value": 1003,
+      "value": 1013,
       "age": 25.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -2621,7 +2621,7 @@
         "SP"
       ],
       "rank": 455,
-      "value": 281,
+      "value": 277,
       "age": 28.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -2651,7 +2651,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 26.9,
       "source": "harryknowsball",
@@ -2682,8 +2682,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 162,
-      "value": 1168,
+      "rank": 164,
+      "value": 1158,
       "age": 32.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -2713,7 +2713,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 802,
+      "rank": 803,
       "value": 32,
       "age": 33.5,
       "source": "harryknowsball",
@@ -2744,8 +2744,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 571,
-      "value": 139,
+      "rank": 580,
+      "value": 134,
       "age": 24.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -2775,8 +2775,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 204,
-      "value": 905,
+      "rank": 206,
+      "value": 904,
       "age": 31.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -2806,8 +2806,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 633,
-      "value": 99,
+      "rank": 630,
+      "value": 102,
       "age": 25.5,
       "source": "harryknowsball",
       "prospect": false,
@@ -2837,8 +2837,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 280,
-      "value": 636,
+      "rank": 278,
+      "value": 646,
       "age": 23.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -2869,7 +2869,7 @@
         "SP"
       ],
       "rank": 30,
-      "value": 4279,
+      "value": 4282,
       "age": 27.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -2900,7 +2900,7 @@
         "SP",
         "RP"
       ],
-      "rank": 258,
+      "rank": 254,
       "value": 726,
       "age": 26.8,
       "source": "harryknowsball",
@@ -2931,8 +2931,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 444,
-      "value": 294,
+      "rank": 446,
+      "value": 292,
       "age": 25.8,
       "source": "harryknowsball",
       "prospect": true,
@@ -2963,7 +2963,7 @@
         "SP"
       ],
       "rank": 238,
-      "value": 777,
+      "value": 781,
       "age": 23.1,
       "source": "harryknowsball",
       "prospect": true,
@@ -2993,7 +2993,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 21,
       "source": "harryknowsball",
@@ -3024,8 +3024,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 119,
-      "value": 1532,
+      "rank": 118,
+      "value": 1551,
       "age": 20.5,
       "source": "harryknowsball",
       "prospect": true,
@@ -3055,8 +3055,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 57,
-      "value": 2900,
+      "rank": 55,
+      "value": 2908,
       "age": 20,
       "source": "harryknowsball",
       "prospect": true,
@@ -3087,7 +3087,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 32.3,
       "source": "harryknowsball",
@@ -3118,8 +3118,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 799,
-      "value": 33,
+      "rank": 812,
+      "value": 27,
       "age": 30.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -3150,7 +3150,7 @@
         "C"
       ],
       "rank": 29,
-      "value": 4338,
+      "value": 4352,
       "age": 25.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -3182,8 +3182,8 @@
         "2B",
         "3B"
       ],
-      "rank": 439,
-      "value": 297,
+      "rank": 417,
+      "value": 326,
       "age": 25.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -3217,8 +3217,8 @@
         "OF",
         "RP"
       ],
-      "rank": 680,
-      "value": 78,
+      "rank": 691,
+      "value": 76,
       "age": 23.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -3250,7 +3250,7 @@
         "SS"
       ],
       "rank": 13,
-      "value": 5751,
+      "value": 5762,
       "age": 21.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -3280,8 +3280,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 83,
-      "value": 2248,
+      "rank": 82,
+      "value": 2244,
       "age": 32.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -3311,9 +3311,9 @@
       "positions": [
         "OF"
       ],
-      "rank": 340,
-      "value": 472,
-      "age": 26.8,
+      "rank": 326,
+      "value": 512,
+      "age": 26.9,
       "source": "harryknowsball",
       "prospect": false,
       "level": "MLB"
@@ -3373,8 +3373,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 45,
-      "value": 3229,
+      "rank": 44,
+      "value": 3315,
       "age": 24.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -3405,8 +3405,8 @@
         "SS",
         "OF"
       ],
-      "rank": 523,
-      "value": 194,
+      "rank": 521,
+      "value": 197,
       "age": 23.2,
       "source": "harryknowsball",
       "prospect": true,
@@ -3437,7 +3437,7 @@
         "C"
       ],
       "rank": 179,
-      "value": 1022,
+      "value": 1026,
       "age": 25.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -3467,9 +3467,9 @@
       "positions": [
         "C"
       ],
-      "rank": 260,
-      "value": 711,
-      "age": 24.6,
+      "rank": 264,
+      "value": 701,
+      "age": 24.7,
       "source": "harryknowsball",
       "prospect": false,
       "level": "MLB"
@@ -3498,8 +3498,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 643,
-      "value": 95,
+      "rank": 632,
+      "value": 101,
       "age": 28.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -3529,8 +3529,8 @@
       "positions": [
         "3B"
       ],
-      "rank": 703,
-      "value": 70,
+      "rank": 699,
+      "value": 71,
       "age": 35.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -3560,8 +3560,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 190,
-      "value": 960,
+      "rank": 189,
+      "value": 952,
       "age": 23.5,
       "source": "harryknowsball",
       "prospect": true,
@@ -3591,8 +3591,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 435,
-      "value": 304,
+      "rank": 439,
+      "value": 299,
       "age": 22.3,
       "source": "harryknowsball",
       "prospect": true,
@@ -3622,7 +3622,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 23.2,
       "source": "harryknowsball",
@@ -3653,8 +3653,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 294,
-      "value": 612,
+      "rank": 298,
+      "value": 600,
       "age": 20.9,
       "source": "harryknowsball",
       "prospect": true,
@@ -3685,7 +3685,7 @@
         "1B",
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 24.6,
       "source": "harryknowsball",
@@ -3716,8 +3716,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 16,
-      "value": 5457,
+      "rank": 17,
+      "value": 5407,
       "age": 25.5,
       "source": "harryknowsball",
       "prospect": false,
@@ -3748,8 +3748,8 @@
         "3B",
         "OF"
       ],
-      "rank": 188,
-      "value": 961,
+      "rank": 194,
+      "value": 943,
       "age": 23.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -3779,8 +3779,8 @@
       "positions": [
         "2B"
       ],
-      "rank": 393,
-      "value": 361,
+      "rank": 401,
+      "value": 347,
       "age": 29.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -3810,8 +3810,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 165,
-      "value": 1151,
+      "rank": 166,
+      "value": 1148,
       "age": 22.1,
       "source": "harryknowsball",
       "prospect": true,
@@ -3841,8 +3841,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 341,
-      "value": 468,
+      "rank": 342,
+      "value": 464,
       "age": 21.8,
       "source": "harryknowsball",
       "prospect": true,
@@ -3872,8 +3872,8 @@
       "positions": [
         "3B"
       ],
-      "rank": 600,
-      "value": 118,
+      "rank": 578,
+      "value": 136,
       "age": 20,
       "source": "harryknowsball",
       "prospect": true,
@@ -3903,8 +3903,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 271,
-      "value": 671,
+      "rank": 269,
+      "value": 677,
       "age": 19.3,
       "source": "harryknowsball",
       "prospect": true,
@@ -3934,8 +3934,8 @@
       "positions": [
         "UT"
       ],
-      "rank": 419,
-      "value": 321,
+      "rank": 425,
+      "value": 314,
       "age": 22.6,
       "source": "harryknowsball",
       "prospect": true,
@@ -3965,8 +3965,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 248,
-      "value": 741,
+      "rank": 247,
+      "value": 744,
       "age": 19.8,
       "source": "harryknowsball",
       "prospect": true,
@@ -3996,8 +3996,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 208,
-      "value": 899,
+      "rank": 206,
+      "value": 904,
       "age": 18.7,
       "source": "harryknowsball",
       "prospect": true,
@@ -4027,12 +4027,12 @@
       "positions": [
         "3B"
       ],
-      "rank": 360,
-      "value": 412,
+      "rank": 356,
+      "value": 420,
       "age": 19.7,
       "source": "harryknowsball",
       "prospect": true,
-      "level": "LOW_A"
+      "level": "HIGH_A"
     }
   },
   {
@@ -4058,8 +4058,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 291,
-      "value": 622,
+      "rank": 293,
+      "value": 612,
       "age": 27.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -4089,8 +4089,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 201,
-      "value": 910,
+      "rank": 200,
+      "value": 916,
       "age": 38.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -4120,8 +4120,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 261,
-      "value": 709,
+      "rank": 258,
+      "value": 715,
       "age": 35.5,
       "source": "harryknowsball",
       "prospect": false,
@@ -4151,8 +4151,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 64,
-      "value": 2645,
+      "rank": 65,
+      "value": 2653,
       "age": 28.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -4182,8 +4182,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 494,
-      "value": 224,
+      "rank": 492,
+      "value": 228,
       "age": 27.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -4213,7 +4213,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 395,
+      "rank": 392,
       "value": 359,
       "age": 38.4,
       "source": "harryknowsball",
@@ -4244,8 +4244,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 141,
-      "value": 1351,
+      "rank": 140,
+      "value": 1344,
       "age": 28.5,
       "source": "harryknowsball",
       "prospect": false,
@@ -4275,7 +4275,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 583,
+      "rank": 585,
       "value": 131,
       "age": 29.2,
       "source": "harryknowsball",
@@ -4307,7 +4307,7 @@
         "RP"
       ],
       "rank": 334,
-      "value": 490,
+      "value": 489,
       "age": 26.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -4338,7 +4338,7 @@
         "SP"
       ],
       "rank": 177,
-      "value": 1039,
+      "value": 1034,
       "age": 24.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -4369,7 +4369,7 @@
         "SP"
       ],
       "rank": 163,
-      "value": 1160,
+      "value": 1161,
       "age": 27.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -4400,7 +4400,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 26.4,
       "source": "harryknowsball",
@@ -4432,7 +4432,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 25.1,
       "source": "harryknowsball",
@@ -4463,8 +4463,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 217,
-      "value": 872,
+      "rank": 219,
+      "value": 856,
       "age": 28.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -4494,8 +4494,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 268,
-      "value": 681,
+      "rank": 272,
+      "value": 674,
       "age": 32.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -4525,7 +4525,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 28.6,
       "source": "harryknowsball",
@@ -4556,8 +4556,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 380,
-      "value": 376,
+      "rank": 369,
+      "value": 400,
       "age": 19.9,
       "source": "harryknowsball",
       "prospect": true,
@@ -4587,8 +4587,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 251,
-      "value": 735,
+      "rank": 249,
+      "value": 740,
       "age": 22.2,
       "source": "harryknowsball",
       "prospect": true,
@@ -4637,7 +4637,7 @@
         "1B"
       ],
       "rank": 148,
-      "value": 1265,
+      "value": 1277,
       "age": 28.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -4668,8 +4668,8 @@
         "2B",
         "SS"
       ],
-      "rank": 441,
-      "value": 295,
+      "rank": 438,
+      "value": 301,
       "age": 28.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -4701,8 +4701,8 @@
         "3B",
         "SS"
       ],
-      "rank": 628,
-      "value": 103,
+      "rank": 623,
+      "value": 105,
       "age": 27.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -4733,7 +4733,7 @@
         "3B",
         "SS"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 28,
       "source": "harryknowsball",
@@ -4765,8 +4765,8 @@
         "1B",
         "OF"
       ],
-      "rank": 432,
-      "value": 307,
+      "rank": 427,
+      "value": 310,
       "age": 32.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -4797,7 +4797,7 @@
         "OF"
       ],
       "rank": 12,
-      "value": 5997,
+      "value": 6001,
       "age": 22.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -4828,7 +4828,7 @@
         "OF"
       ],
       "rank": 149,
-      "value": 1253,
+      "value": 1255,
       "age": 23.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -4859,7 +4859,7 @@
         "1B",
         "2B"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 27.4,
       "source": "harryknowsball",
@@ -4891,7 +4891,7 @@
         "SS"
       ],
       "rank": 22,
-      "value": 4824,
+      "value": 4838,
       "age": 25,
       "source": "harryknowsball",
       "prospect": false,
@@ -4923,7 +4923,7 @@
         "SS"
       ],
       "rank": 121,
-      "value": 1502,
+      "value": 1482,
       "age": 29.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -4955,7 +4955,7 @@
         "3B",
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 27.8,
       "source": "harryknowsball",
@@ -5018,7 +5018,7 @@
       "positions": [
         "C"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 35.7,
       "source": "harryknowsball",
@@ -5049,7 +5049,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 764,
+      "rank": 768,
       "value": 44,
       "age": 31.8,
       "source": "harryknowsball",
@@ -5082,7 +5082,7 @@
         "OF"
       ],
       "rank": 671,
-      "value": 82,
+      "value": 81,
       "age": 29.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -5144,8 +5144,8 @@
       "positions": [
         "2B"
       ],
-      "rank": 374,
-      "value": 388,
+      "rank": 376,
+      "value": 389,
       "age": 23.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -5175,8 +5175,8 @@
       "positions": [
         "1B"
       ],
-      "rank": 242,
-      "value": 765,
+      "rank": 241,
+      "value": 775,
       "age": 21.1,
       "source": "harryknowsball",
       "prospect": true,
@@ -5206,8 +5206,8 @@
       "positions": [
         "2B"
       ],
-      "rank": 343,
-      "value": 463,
+      "rank": 334,
+      "value": 489,
       "age": 21.7,
       "source": "harryknowsball",
       "prospect": true,
@@ -5237,7 +5237,7 @@
       "positions": [
         "2B"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 24.1,
       "source": "harryknowsball",
@@ -5268,7 +5268,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 621,
+      "rank": 619,
       "value": 106,
       "age": 18.5,
       "source": "harryknowsball",
@@ -5299,7 +5299,7 @@
       "positions": [
         "C"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 21.9,
       "source": "harryknowsball",
@@ -5331,8 +5331,8 @@
         "3B",
         "SS"
       ],
-      "rank": 433,
-      "value": 306,
+      "rank": 439,
+      "value": 299,
       "age": 19.8,
       "source": "harryknowsball",
       "prospect": true,
@@ -5362,7 +5362,7 @@
       "positions": [
         "1B"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 32,
       "source": "harryknowsball",
@@ -5393,8 +5393,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 365,
-      "value": 407,
+      "rank": 373,
+      "value": 393,
       "age": 27.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -5425,8 +5425,8 @@
         "SP",
         "RP"
       ],
-      "rank": 777,
-      "value": 41,
+      "rank": 768,
+      "value": 44,
       "age": 31.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -5457,7 +5457,7 @@
         "SP"
       ],
       "rank": 43,
-      "value": 3338,
+      "value": 3327,
       "age": 26.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -5488,7 +5488,7 @@
         "SP",
         "RP"
       ],
-      "rank": 733,
+      "rank": 734,
       "value": 58,
       "age": 29.1,
       "source": "harryknowsball",
@@ -5519,7 +5519,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 34.5,
       "source": "harryknowsball",
@@ -5550,7 +5550,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 34.9,
       "source": "harryknowsball",
@@ -5581,8 +5581,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 578,
-      "value": 136,
+      "rank": 568,
+      "value": 144,
       "age": 25.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -5613,7 +5613,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 32,
       "source": "harryknowsball",
@@ -5645,7 +5645,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 34.5,
       "source": "harryknowsball",
@@ -5676,7 +5676,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 30.5,
       "source": "harryknowsball",
@@ -5707,7 +5707,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 811,
+      "rank": 810,
       "value": 28,
       "age": 25,
       "source": "harryknowsball",
@@ -5738,8 +5738,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 597,
-      "value": 120,
+      "rank": 599,
+      "value": 118,
       "age": 25.7,
       "source": "harryknowsball",
       "prospect": true,
@@ -5769,8 +5769,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 136,
-      "value": 1377,
+      "rank": 135,
+      "value": 1393,
       "age": 24.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -5801,7 +5801,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 25.4,
       "source": "harryknowsball",
@@ -5832,7 +5832,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 29.8,
       "source": "harryknowsball",
@@ -5863,8 +5863,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 94,
-      "value": 1935,
+      "rank": 95,
+      "value": 1923,
       "age": 24.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -5912,7 +5912,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 28.4,
       "source": "harryknowsball",
@@ -5944,8 +5944,8 @@
         "SP",
         "RP"
       ],
-      "rank": 259,
-      "value": 718,
+      "rank": 258,
+      "value": 715,
       "age": 24.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -5975,8 +5975,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 415,
-      "value": 332,
+      "rank": 413,
+      "value": 336,
       "age": 26.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -6006,8 +6006,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 680,
-      "value": 78,
+      "rank": 693,
+      "value": 75,
       "age": 25.8,
       "source": "harryknowsball",
       "prospect": true,
@@ -6037,7 +6037,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 25.3,
       "source": "harryknowsball",
@@ -6068,7 +6068,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 440,
+      "rank": 443,
       "value": 296,
       "age": 22.3,
       "source": "harryknowsball",
@@ -6100,7 +6100,7 @@
         "SP"
       ],
       "rank": 40,
-      "value": 3444,
+      "value": 3498,
       "age": 22,
       "source": "harryknowsball",
       "prospect": true,
@@ -6131,7 +6131,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 24.9,
       "source": "harryknowsball",
@@ -6163,7 +6163,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 37.9,
       "source": "harryknowsball",
@@ -6194,8 +6194,8 @@
       "positions": [
         "C"
       ],
-      "rank": 317,
-      "value": 532,
+      "rank": 319,
+      "value": 530,
       "age": 26.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -6226,8 +6226,8 @@
         "1B",
         "3B"
       ],
-      "rank": 489,
-      "value": 235,
+      "rank": 490,
+      "value": 231,
       "age": 26.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -6258,8 +6258,8 @@
         "2B",
         "SS"
       ],
-      "rank": 161,
-      "value": 1172,
+      "rank": 160,
+      "value": 1179,
       "age": 27.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -6290,8 +6290,8 @@
         "3B",
         "SS"
       ],
-      "rank": 73,
-      "value": 2415,
+      "rank": 74,
+      "value": 2397,
       "age": 20.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -6321,8 +6321,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 409,
-      "value": 340,
+      "rank": 406,
+      "value": 343,
       "age": 24.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -6352,8 +6352,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 155,
-      "value": 1222,
+      "rank": 157,
+      "value": 1204,
       "age": 27.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -6385,8 +6385,8 @@
         "3B",
         "OF"
       ],
-      "rank": 330,
-      "value": 501,
+      "rank": 315,
+      "value": 546,
       "age": 26.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -6417,8 +6417,8 @@
         "1B",
         "OF"
       ],
-      "rank": 231,
-      "value": 800,
+      "rank": 223,
+      "value": 832,
       "age": 27.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -6449,8 +6449,8 @@
         "2B",
         "3B"
       ],
-      "rank": 68,
-      "value": 2610,
+      "rank": 69,
+      "value": 2601,
       "age": 28.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -6480,8 +6480,8 @@
       "positions": [
         "1B"
       ],
-      "rank": 270,
-      "value": 674,
+      "rank": 269,
+      "value": 677,
       "age": 26.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -6511,8 +6511,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 527,
-      "value": 191,
+      "rank": 528,
+      "value": 189,
       "age": 28.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -6543,8 +6543,8 @@
         "2B",
         "3B"
       ],
-      "rank": 594,
-      "value": 123,
+      "rank": 597,
+      "value": 121,
       "age": 26.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -6574,8 +6574,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 18,
-      "value": 5420,
+      "rank": 16,
+      "value": 5437,
       "age": 28.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -6605,8 +6605,8 @@
       "positions": [
         "1B"
       ],
-      "rank": 134,
-      "value": 1392,
+      "rank": 137,
+      "value": 1384,
       "age": 29.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -6636,8 +6636,8 @@
       "positions": [
         "2B"
       ],
-      "rank": 100,
-      "value": 1862,
+      "rank": 99,
+      "value": 1874,
       "age": 22.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -6668,8 +6668,8 @@
         "1B",
         "OF"
       ],
-      "rank": 65,
-      "value": 2635,
+      "rank": 67,
+      "value": 2623,
       "age": 24.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -6699,8 +6699,8 @@
       "positions": [
         "UT"
       ],
-      "rank": 187,
-      "value": 971,
+      "rank": 189,
+      "value": 952,
       "age": 22.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -6730,8 +6730,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 193,
-      "value": 947,
+      "rank": 191,
+      "value": 948,
       "age": 23.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -6761,8 +6761,8 @@
       "positions": [
         "C"
       ],
-      "rank": 482,
-      "value": 248,
+      "rank": 480,
+      "value": 251,
       "age": 27.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -6792,9 +6792,9 @@
       "positions": [
         "OF"
       ],
-      "rank": 462,
-      "value": 264,
-      "age": 25.8,
+      "rank": 459,
+      "value": 272,
+      "age": 25.9,
       "source": "harryknowsball",
       "prospect": true,
       "level": "AAA"
@@ -6823,8 +6823,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 42,
-      "value": 3388,
+      "rank": 41,
+      "value": 3391,
       "age": 19.8,
       "source": "harryknowsball",
       "prospect": true,
@@ -6854,8 +6854,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 541,
-      "value": 170,
+      "rank": 543,
+      "value": 167,
       "age": 21.9,
       "source": "harryknowsball",
       "prospect": true,
@@ -6885,8 +6885,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 91,
-      "value": 2041,
+      "rank": 90,
+      "value": 2065,
       "age": 21.4,
       "source": "harryknowsball",
       "prospect": true,
@@ -6916,8 +6916,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 299,
-      "value": 595,
+      "rank": 286,
+      "value": 627,
       "age": 22,
       "source": "harryknowsball",
       "prospect": true,
@@ -6947,7 +6947,7 @@
       "positions": [
         "SS"
       ],
-      "rank": 290,
+      "rank": 289,
       "value": 623,
       "age": 19.7,
       "source": "harryknowsball",
@@ -6978,8 +6978,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 296,
-      "value": 601,
+      "rank": 297,
+      "value": 608,
       "age": 18.9,
       "source": "harryknowsball",
       "prospect": true,
@@ -7009,7 +7009,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 805,
+      "rank": 806,
       "value": 30,
       "age": 23.2,
       "source": "harryknowsball",
@@ -7041,7 +7041,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 33.6,
       "source": "harryknowsball",
@@ -7074,7 +7074,7 @@
         "RP"
       ],
       "rank": 108,
-      "value": 1699,
+      "value": 1692,
       "age": 26.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -7104,8 +7104,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 145,
-      "value": 1303,
+      "rank": 146,
+      "value": 1294,
       "age": 27.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -7136,7 +7136,7 @@
         "SP"
       ],
       "rank": 33,
-      "value": 3967,
+      "value": 3928,
       "age": 26.5,
       "source": "harryknowsball",
       "prospect": false,
@@ -7166,8 +7166,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 555,
-      "value": 154,
+      "rank": 557,
+      "value": 152,
       "age": 29.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -7197,8 +7197,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 728,
-      "value": 59,
+      "rank": 730,
+      "value": 60,
       "age": 29.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -7228,7 +7228,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 31,
       "source": "harryknowsball",
@@ -7259,7 +7259,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 32.2,
       "source": "harryknowsball",
@@ -7291,7 +7291,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 35,
       "source": "harryknowsball",
@@ -7322,7 +7322,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 36.3,
       "source": "harryknowsball",
@@ -7353,7 +7353,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 32.9,
       "source": "harryknowsball",
@@ -7385,8 +7385,8 @@
         "SP",
         "RP"
       ],
-      "rank": 462,
-      "value": 264,
+      "rank": 467,
+      "value": 259,
       "age": 30.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -7416,8 +7416,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 133,
-      "value": 1400,
+      "rank": 134,
+      "value": 1397,
       "age": 26.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -7447,8 +7447,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 346,
-      "value": 455,
+      "rank": 345,
+      "value": 453,
       "age": 33.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -7479,7 +7479,7 @@
         "RP"
       ],
       "rank": 458,
-      "value": 270,
+      "value": 276,
       "age": 30.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -7509,7 +7509,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 689,
+      "rank": 691,
       "value": 76,
       "age": 29.3,
       "source": "harryknowsball",
@@ -7540,7 +7540,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 31.6,
       "source": "harryknowsball",
@@ -7602,8 +7602,8 @@
       "positions": [
         "C"
       ],
-      "rank": 81,
-      "value": 2274,
+      "rank": 80,
+      "value": 2268,
       "age": 28.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -7634,7 +7634,7 @@
         "1B"
       ],
       "rank": 78,
-      "value": 2312,
+      "value": 2317,
       "age": 31.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -7666,7 +7666,7 @@
         "SS"
       ],
       "rank": 552,
-      "value": 155,
+      "value": 156,
       "age": 25.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -7697,8 +7697,8 @@
         "2B",
         "3B"
       ],
-      "rank": 453,
-      "value": 282,
+      "rank": 455,
+      "value": 277,
       "age": 26.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -7728,8 +7728,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 1,
-      "value": 10000,
+      "rank": 2,
+      "value": 9956,
       "age": 26.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -7759,8 +7759,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 320,
-      "value": 519,
+      "rank": 324,
+      "value": 516,
       "age": 28.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -7790,8 +7790,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 52,
-      "value": 2927,
+      "rank": 54,
+      "value": 2911,
       "age": 25.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -7822,7 +7822,7 @@
         "1B",
         "OF"
       ],
-      "rank": 192,
+      "rank": 191,
       "value": 948,
       "age": 28.5,
       "source": "harryknowsball",
@@ -7853,8 +7853,8 @@
       "positions": [
         "C"
       ],
-      "rank": 85,
-      "value": 2233,
+      "rank": 83,
+      "value": 2239,
       "age": 23,
       "source": "harryknowsball",
       "prospect": false,
@@ -7885,8 +7885,8 @@
         "1B",
         "2B"
       ],
-      "rank": 324,
-      "value": 513,
+      "rank": 322,
+      "value": 521,
       "age": 29.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -7916,7 +7916,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 33.4,
       "source": "harryknowsball",
@@ -7947,8 +7947,8 @@
       "positions": [
         "2B"
       ],
-      "rank": 739,
-      "value": 55,
+      "rank": 736,
+      "value": 56,
       "age": 33,
       "source": "harryknowsball",
       "prospect": false,
@@ -7979,8 +7979,8 @@
         "3B",
         "SS"
       ],
-      "rank": 114,
-      "value": 1609,
+      "rank": 113,
+      "value": 1621,
       "age": 28.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -8010,8 +8010,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 27,
-      "value": 4412,
+      "rank": 28,
+      "value": 4372,
       "age": 22.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -8041,8 +8041,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 468,
-      "value": 258,
+      "rank": 477,
+      "value": 254,
       "age": 20.2,
       "source": "harryknowsball",
       "prospect": true,
@@ -8103,8 +8103,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 218,
-      "value": 870,
+      "rank": 216,
+      "value": 867,
       "age": 21.7,
       "source": "harryknowsball",
       "prospect": true,
@@ -8135,7 +8135,7 @@
         "SS"
       ],
       "rank": 31,
-      "value": 4176,
+      "value": 4183,
       "age": 19.2,
       "source": "harryknowsball",
       "prospect": true,
@@ -8166,8 +8166,8 @@
         "1B",
         "OF"
       ],
-      "rank": 344,
-      "value": 459,
+      "rank": 343,
+      "value": 462,
       "age": 19.4,
       "source": "harryknowsball",
       "prospect": true,
@@ -8197,7 +8197,7 @@
       "positions": [
         "3B"
       ],
-      "rank": 654,
+      "rank": 653,
       "value": 89,
       "age": 22.5,
       "source": "harryknowsball",
@@ -8228,8 +8228,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 752,
-      "value": 50,
+      "rank": 730,
+      "value": 60,
       "age": 22.9,
       "source": "harryknowsball",
       "prospect": true,
@@ -8260,8 +8260,8 @@
         "SP",
         "RP"
       ],
-      "rank": 210,
-      "value": 893,
+      "rank": 211,
+      "value": 888,
       "age": 21.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -8292,8 +8292,8 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
-      "value": 10,
+      "rank": 837,
+      "value": 13,
       "age": 24.9,
       "source": "harryknowsball",
       "prospect": true,
@@ -8323,9 +8323,9 @@
       "positions": [
         "SP"
       ],
-      "rank": 184,
-      "value": 983,
-      "age": 32.6,
+      "rank": 185,
+      "value": 980,
+      "age": 32.7,
       "source": "harryknowsball",
       "prospect": false,
       "level": "MLB"
@@ -8354,8 +8354,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 234,
-      "value": 791,
+      "rank": 236,
+      "value": 788,
       "age": 32.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -8386,7 +8386,7 @@
         "SP"
       ],
       "rank": 61,
-      "value": 2717,
+      "value": 2741,
       "age": 23.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -8417,7 +8417,7 @@
         "RP"
       ],
       "rank": 183,
-      "value": 991,
+      "value": 1001,
       "age": 27.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -8447,8 +8447,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 219,
-      "value": 854,
+      "rank": 218,
+      "value": 860,
       "age": 27.5,
       "source": "harryknowsball",
       "prospect": false,
@@ -8478,8 +8478,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 818,
-      "value": 23,
+      "rank": 833,
+      "value": 15,
       "age": 30.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -8510,7 +8510,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 29.7,
       "source": "harryknowsball",
@@ -8559,8 +8559,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 249,
-      "value": 738,
+      "rank": 253,
+      "value": 727,
       "age": 26.5,
       "source": "harryknowsball",
       "prospect": false,
@@ -8590,8 +8590,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 287,
-      "value": 627,
+      "rank": 285,
+      "value": 628,
       "age": 28.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -8622,7 +8622,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 24.9,
       "source": "harryknowsball",
@@ -8653,8 +8653,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 77,
-      "value": 2362,
+      "rank": 76,
+      "value": 2360,
       "age": 30.5,
       "source": "harryknowsball",
       "prospect": false,
@@ -8684,8 +8684,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 308,
-      "value": 564,
+      "rank": 311,
+      "value": 557,
       "age": 22.9,
       "source": "harryknowsball",
       "prospect": true,
@@ -8716,9 +8716,9 @@
         "SP",
         "RP"
       ],
-      "rank": 633,
+      "rank": 635,
       "value": 99,
-      "age": 26.5,
+      "age": 26.6,
       "source": "harryknowsball",
       "prospect": false,
       "level": "MLB"
@@ -8748,7 +8748,7 @@
         "SP"
       ],
       "rank": 502,
-      "value": 215,
+      "value": 217,
       "age": 26.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -8778,8 +8778,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 513,
-      "value": 210,
+      "rank": 515,
+      "value": 206,
       "age": 27.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -8810,7 +8810,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 27.8,
       "source": "harryknowsball",
@@ -8842,7 +8842,7 @@
         "SP"
       ],
       "rank": 212,
-      "value": 885,
+      "value": 887,
       "age": 28.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -8873,7 +8873,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 28.4,
       "source": "harryknowsball",
@@ -8904,8 +8904,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 388,
-      "value": 366,
+      "rank": 395,
+      "value": 357,
       "age": 24.8,
       "source": "harryknowsball",
       "prospect": true,
@@ -8935,9 +8935,9 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
-      "age": 24.6,
+      "age": 24.7,
       "source": "harryknowsball",
       "prospect": true,
       "level": "AAA"
@@ -8966,8 +8966,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 771,
-      "value": 43,
+      "rank": 760,
+      "value": 46,
       "age": 19.8,
       "source": "harryknowsball",
       "prospect": true,
@@ -8997,7 +8997,7 @@
       "positions": [
         "C"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 31,
       "source": "harryknowsball",
@@ -9030,7 +9030,7 @@
         "2B",
         "3B"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 25.5,
       "source": "harryknowsball",
@@ -9062,7 +9062,7 @@
         "3B"
       ],
       "rank": 483,
-      "value": 246,
+      "value": 247,
       "age": 34.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -9094,7 +9094,7 @@
         "3B",
         "SS"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 25.7,
       "source": "harryknowsball",
@@ -9125,8 +9125,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 777,
-      "value": 41,
+      "rank": 782,
+      "value": 39,
       "age": 30.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -9159,8 +9159,8 @@
         "SS",
         "OF"
       ],
-      "rank": 717,
-      "value": 65,
+      "rank": 705,
+      "value": 68,
       "age": 31.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -9190,8 +9190,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 222,
-      "value": 845,
+      "rank": 226,
+      "value": 823,
       "age": 26,
       "source": "harryknowsball",
       "prospect": false,
@@ -9222,7 +9222,7 @@
         "SS"
       ],
       "rank": 98,
-      "value": 1876,
+      "value": 1875,
       "age": 26.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -9252,9 +9252,9 @@
       "positions": [
         "SS"
       ],
-      "rank": 836,
+      "rank": 833,
       "value": 15,
-      "age": 23.4,
+      "age": 23.5,
       "source": "harryknowsball",
       "prospect": true,
       "level": "MLB"
@@ -9284,7 +9284,7 @@
         "1B"
       ],
       "rank": 3,
-      "value": 8206,
+      "value": 8224,
       "age": 23.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -9315,7 +9315,7 @@
         "2B",
         "OF"
       ],
-      "rank": 448,
+      "rank": 447,
       "value": 291,
       "age": 24.5,
       "source": "harryknowsball",
@@ -9346,8 +9346,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 789,
-      "value": 37,
+      "rank": 779,
+      "value": 40,
       "age": 32.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -9377,7 +9377,7 @@
       "positions": [
         "C"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 27.6,
       "source": "harryknowsball",
@@ -9409,7 +9409,7 @@
         "OF",
         "UT"
       ],
-      "rank": 676,
+      "rank": 677,
       "value": 80,
       "age": 28,
       "source": "harryknowsball",
@@ -9443,7 +9443,7 @@
         "SS"
       ],
       "rank": 71,
-      "value": 2495,
+      "value": 2478,
       "age": 26.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -9473,7 +9473,7 @@
       "positions": [
         "C"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 31.8,
       "source": "harryknowsball",
@@ -9504,7 +9504,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 26.2,
       "source": "harryknowsball",
@@ -9535,7 +9535,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 27.4,
       "source": "harryknowsball",
@@ -9566,8 +9566,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 466,
-      "value": 261,
+      "rank": 467,
+      "value": 259,
       "age": 23.6,
       "source": "harryknowsball",
       "prospect": true,
@@ -9628,8 +9628,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 484,
-      "value": 244,
+      "rank": 483,
+      "value": 247,
       "age": 22.6,
       "source": "harryknowsball",
       "prospect": true,
@@ -9659,8 +9659,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 216,
-      "value": 873,
+      "rank": 215,
+      "value": 868,
       "age": 29.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -9691,7 +9691,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 27.1,
       "source": "harryknowsball",
@@ -9723,8 +9723,8 @@
         "SP",
         "RP"
       ],
-      "rank": 303,
-      "value": 578,
+      "rank": 302,
+      "value": 585,
       "age": 26.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -9755,7 +9755,7 @@
         "SP",
         "RP"
       ],
-      "rank": 548,
+      "rank": 551,
       "value": 157,
       "age": 26,
       "source": "harryknowsball",
@@ -9787,8 +9787,8 @@
         "SP",
         "RP"
       ],
-      "rank": 619,
-      "value": 107,
+      "rank": 623,
+      "value": 105,
       "age": 25.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -9818,7 +9818,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 616,
+      "rank": 615,
       "value": 109,
       "age": 31.9,
       "source": "harryknowsball",
@@ -9849,7 +9849,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 28.4,
       "source": "harryknowsball",
@@ -9911,7 +9911,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 32.4,
       "source": "harryknowsball",
@@ -9942,7 +9942,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 332,
+      "rank": 330,
       "value": 500,
       "age": 28.6,
       "source": "harryknowsball",
@@ -9973,8 +9973,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 37,
-      "value": 3778,
+      "rank": 39,
+      "value": 3718,
       "age": 27.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -10004,8 +10004,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 544,
-      "value": 165,
+      "rank": 540,
+      "value": 172,
       "age": 25.6,
       "source": "harryknowsball",
       "prospect": true,
@@ -10036,8 +10036,8 @@
         "SP",
         "RP"
       ],
-      "rank": 789,
-      "value": 37,
+      "rank": 800,
+      "value": 33,
       "age": 30.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -10067,7 +10067,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 24.8,
       "source": "harryknowsball",
@@ -10098,8 +10098,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 416,
-      "value": 331,
+      "rank": 410,
+      "value": 341,
       "age": 29.5,
       "source": "harryknowsball",
       "prospect": false,
@@ -10129,7 +10129,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 31.8,
       "source": "harryknowsball",
@@ -10160,8 +10160,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 818,
-      "value": 23,
+      "rank": 812,
+      "value": 27,
       "age": 32,
       "source": "harryknowsball",
       "prospect": false,
@@ -10191,8 +10191,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 69,
-      "value": 2591,
+      "rank": 70,
+      "value": 2562,
       "age": 32.5,
       "source": "harryknowsball",
       "prospect": false,
@@ -10222,7 +10222,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 30.2,
       "source": "harryknowsball",
@@ -10254,7 +10254,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 32.3,
       "source": "harryknowsball",
@@ -10285,7 +10285,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 25.5,
       "source": "harryknowsball",
@@ -10316,8 +10316,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 109,
-      "value": 1680,
+      "rank": 111,
+      "value": 1653,
       "age": 27.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -10347,7 +10347,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 24.1,
       "source": "harryknowsball",
@@ -10378,7 +10378,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 23.7,
       "source": "harryknowsball",
@@ -10409,8 +10409,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 410,
-      "value": 339,
+      "rank": 404,
+      "value": 344,
       "age": 23.1,
       "source": "harryknowsball",
       "prospect": true,
@@ -10440,7 +10440,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 33.4,
       "source": "harryknowsball",
@@ -10471,7 +10471,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 24.1,
       "source": "harryknowsball",
@@ -10502,7 +10502,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 26.3,
       "source": "harryknowsball",
@@ -10533,8 +10533,8 @@
       "positions": [
         "C"
       ],
-      "rank": 154,
-      "value": 1223,
+      "rank": 151,
+      "value": 1237,
       "age": 27.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -10565,8 +10565,8 @@
         "1B",
         "OF"
       ],
-      "rank": 55,
-      "value": 2920,
+      "rank": 52,
+      "value": 2924,
       "age": 23.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -10597,8 +10597,8 @@
         "1B",
         "2B"
       ],
-      "rank": 299,
-      "value": 595,
+      "rank": 296,
+      "value": 609,
       "age": 26.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -10631,8 +10631,8 @@
         "3B",
         "SS"
       ],
-      "rank": 457,
-      "value": 272,
+      "rank": 455,
+      "value": 277,
       "age": 30.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -10662,8 +10662,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 352,
-      "value": 429,
+      "rank": 355,
+      "value": 423,
       "age": 24.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -10693,8 +10693,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 327,
-      "value": 510,
+      "rank": 333,
+      "value": 492,
       "age": 28.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -10724,8 +10724,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 28,
-      "value": 4372,
+      "rank": 26,
+      "value": 4529,
       "age": 24.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -10755,8 +10755,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 214,
-      "value": 874,
+      "rank": 217,
+      "value": 861,
       "age": 27.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -10789,8 +10789,8 @@
         "3B",
         "OF"
       ],
-      "rank": 500,
-      "value": 218,
+      "rank": 495,
+      "value": 224,
       "age": 26.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -10821,7 +10821,7 @@
         "2B",
         "3B"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 29.9,
       "source": "harryknowsball",
@@ -10852,8 +10852,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 833,
-      "value": 18,
+      "rank": 832,
+      "value": 16,
       "age": 32,
       "source": "harryknowsball",
       "prospect": false,
@@ -10883,7 +10883,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 27.3,
       "source": "harryknowsball",
@@ -10914,8 +10914,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 111,
-      "value": 1649,
+      "rank": 109,
+      "value": 1657,
       "age": 24.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -10945,8 +10945,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 552,
-      "value": 155,
+      "rank": 555,
+      "value": 154,
       "age": 29,
       "source": "harryknowsball",
       "prospect": false,
@@ -10976,7 +10976,7 @@
       "positions": [
         "3B"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 29.5,
       "source": "harryknowsball",
@@ -11007,7 +11007,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 35.9,
       "source": "harryknowsball",
@@ -11039,8 +11039,8 @@
         "2B",
         "SS"
       ],
-      "rank": 285,
-      "value": 628,
+      "rank": 291,
+      "value": 619,
       "age": 26.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -11072,7 +11072,7 @@
         "3B",
         "SS"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 28.8,
       "source": "harryknowsball",
@@ -11104,8 +11104,8 @@
         "2B",
         "3B"
       ],
-      "rank": 247,
-      "value": 745,
+      "rank": 251,
+      "value": 729,
       "age": 27.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -11135,8 +11135,8 @@
       "positions": [
         "C"
       ],
-      "rank": 473,
-      "value": 257,
+      "rank": 480,
+      "value": 251,
       "age": 21.9,
       "source": "harryknowsball",
       "prospect": true,
@@ -11166,7 +11166,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 24.8,
       "source": "harryknowsball",
@@ -11197,7 +11197,7 @@
       "positions": [
         "2B"
       ],
-      "rank": 631,
+      "rank": 632,
       "value": 101,
       "age": 22.1,
       "source": "harryknowsball",
@@ -11229,7 +11229,7 @@
         "OF"
       ],
       "rank": 87,
-      "value": 2139,
+      "value": 2134,
       "age": 21.6,
       "source": "harryknowsball",
       "prospect": true,
@@ -11259,8 +11259,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 173,
-      "value": 1090,
+      "rank": 174,
+      "value": 1081,
       "age": 19.4,
       "source": "harryknowsball",
       "prospect": true,
@@ -11291,8 +11291,8 @@
         "SP",
         "RP"
       ],
-      "rank": 756,
-      "value": 48,
+      "rank": 764,
+      "value": 45,
       "age": 34.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -11322,8 +11322,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 622,
-      "value": 105,
+      "rank": 616,
+      "value": 108,
       "age": 33.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -11354,8 +11354,8 @@
         "SP",
         "RP"
       ],
-      "rank": 557,
-      "value": 153,
+      "rank": 548,
+      "value": 161,
       "age": 29,
       "source": "harryknowsball",
       "prospect": true,
@@ -11386,8 +11386,8 @@
         "SP",
         "RP"
       ],
-      "rank": 262,
-      "value": 704,
+      "rank": 257,
+      "value": 716,
       "age": 27,
       "source": "harryknowsball",
       "prospect": false,
@@ -11417,8 +11417,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 312,
-      "value": 560,
+      "rank": 310,
+      "value": 558,
       "age": 27.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -11448,8 +11448,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 411,
-      "value": 338,
+      "rank": 414,
+      "value": 335,
       "age": 31.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -11479,8 +11479,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 607,
-      "value": 113,
+      "rank": 613,
+      "value": 110,
       "age": 31.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -11510,8 +11510,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 413,
-      "value": 337,
+      "rank": 406,
+      "value": 343,
       "age": 31.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -11541,8 +11541,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 728,
-      "value": 59,
+      "rank": 736,
+      "value": 56,
       "age": 36.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -11572,7 +11572,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 717,
+      "rank": 712,
       "value": 65,
       "age": 38.8,
       "source": "harryknowsball",
@@ -11604,7 +11604,7 @@
         "SP",
         "UT"
       ],
-      "rank": 2,
+      "rank": 1,
       "value": 10000,
       "age": 32,
       "source": "harryknowsball",
@@ -11636,8 +11636,8 @@
         "SP",
         "RP"
       ],
-      "rank": 514,
-      "value": 208,
+      "rank": 489,
+      "value": 232,
       "age": 28.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -11667,7 +11667,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 39.3,
       "source": "harryknowsball",
@@ -11698,8 +11698,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 291,
-      "value": 622,
+      "rank": 293,
+      "value": 612,
       "age": 26.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -11729,7 +11729,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 25.1,
       "source": "harryknowsball",
@@ -11791,8 +11791,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 264,
-      "value": 700,
+      "rank": 263,
+      "value": 702,
       "age": 19.9,
       "source": "harryknowsball",
       "prospect": true,
@@ -11822,8 +11822,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 356,
-      "value": 418,
+      "rank": 361,
+      "value": 409,
       "age": 21.4,
       "source": "harryknowsball",
       "prospect": true,
@@ -11853,8 +11853,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 465,
-      "value": 263,
+      "rank": 461,
+      "value": 268,
       "age": 22.8,
       "source": "harryknowsball",
       "prospect": true,
@@ -11884,8 +11884,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 378,
-      "value": 380,
+      "rank": 380,
+      "value": 379,
       "age": 19.2,
       "source": "harryknowsball",
       "prospect": true,
@@ -11915,7 +11915,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 20.9,
       "source": "harryknowsball",
@@ -11978,7 +11978,7 @@
         "1B",
         "2B"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 29.9,
       "source": "harryknowsball",
@@ -12009,8 +12009,8 @@
       "positions": [
         "2B"
       ],
-      "rank": 172,
-      "value": 1096,
+      "rank": 173,
+      "value": 1082,
       "age": 29.5,
       "source": "harryknowsball",
       "prospect": false,
@@ -12043,8 +12043,8 @@
         "SS",
         "OF"
       ],
-      "rank": 176,
-      "value": 1051,
+      "rank": 175,
+      "value": 1079,
       "age": 23.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -12075,8 +12075,8 @@
         "3B",
         "SS"
       ],
-      "rank": 657,
-      "value": 87,
+      "rank": 662,
+      "value": 86,
       "age": 31.5,
       "source": "harryknowsball",
       "prospect": false,
@@ -12107,7 +12107,7 @@
         "OF"
       ],
       "rank": 14,
-      "value": 5708,
+      "value": 5694,
       "age": 29,
       "source": "harryknowsball",
       "prospect": false,
@@ -12137,8 +12137,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 382,
-      "value": 375,
+      "rank": 389,
+      "value": 366,
       "age": 30,
       "source": "harryknowsball",
       "prospect": false,
@@ -12168,8 +12168,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 44,
-      "value": 3282,
+      "rank": 45,
+      "value": 3275,
       "age": 29.5,
       "source": "harryknowsball",
       "prospect": false,
@@ -12199,8 +12199,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 265,
-      "value": 695,
+      "rank": 266,
+      "value": 690,
       "age": 31.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -12261,7 +12261,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 25.8,
       "source": "harryknowsball",
@@ -12293,8 +12293,8 @@
         "2B",
         "3B"
       ],
-      "rank": 473,
-      "value": 257,
+      "rank": 467,
+      "value": 259,
       "age": 24.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -12325,7 +12325,7 @@
         "OF"
       ],
       "rank": 138,
-      "value": 1368,
+      "value": 1372,
       "age": 23.8,
       "source": "harryknowsball",
       "prospect": true,
@@ -12356,7 +12356,7 @@
         "OF"
       ],
       "rank": 107,
-      "value": 1735,
+      "value": 1707,
       "age": 23.2,
       "source": "harryknowsball",
       "prospect": true,
@@ -12386,8 +12386,8 @@
       "positions": [
         "C"
       ],
-      "rank": 696,
-      "value": 72,
+      "rank": 693,
+      "value": 75,
       "age": 29.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -12418,8 +12418,8 @@
         "1B",
         "3B"
       ],
-      "rank": 507,
-      "value": 213,
+      "rank": 509,
+      "value": 210,
       "age": 22.2,
       "source": "harryknowsball",
       "prospect": true,
@@ -12449,7 +12449,7 @@
       "positions": [
         "3B"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 25.3,
       "source": "harryknowsball",
@@ -12480,8 +12480,8 @@
       "positions": [
         "C"
       ],
-      "rank": 462,
-      "value": 264,
+      "rank": 464,
+      "value": 265,
       "age": 23.8,
       "source": "harryknowsball",
       "prospect": true,
@@ -12512,8 +12512,8 @@
         "3B",
         "OF"
       ],
-      "rank": 241,
-      "value": 767,
+      "rank": 243,
+      "value": 768,
       "age": 24.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -12543,8 +12543,8 @@
       "positions": [
         "1B"
       ],
-      "rank": 468,
-      "value": 258,
+      "rank": 475,
+      "value": 255,
       "age": 28.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -12574,8 +12574,8 @@
       "positions": [
         "3B"
       ],
-      "rank": 39,
-      "value": 3732,
+      "rank": 38,
+      "value": 3754,
       "age": 33.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -12605,8 +12605,8 @@
       "positions": [
         "3B"
       ],
-      "rank": 358,
-      "value": 417,
+      "rank": 357,
+      "value": 414,
       "age": 23.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -12637,8 +12637,8 @@
         "C",
         "1B"
       ],
-      "rank": 377,
-      "value": 383,
+      "rank": 378,
+      "value": 385,
       "age": 22.6,
       "source": "harryknowsball",
       "prospect": true,
@@ -12668,8 +12668,8 @@
       "positions": [
         "C"
       ],
-      "rank": 132,
-      "value": 1402,
+      "rank": 133,
+      "value": 1399,
       "age": 19.5,
       "source": "harryknowsball",
       "prospect": true,
@@ -12700,8 +12700,8 @@
         "SP",
         "RP"
       ],
-      "rank": 401,
-      "value": 353,
+      "rank": 400,
+      "value": 351,
       "age": 27.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -12732,7 +12732,7 @@
         "SP"
       ],
       "rank": 159,
-      "value": 1185,
+      "value": 1180,
       "age": 30.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -12762,8 +12762,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 74,
-      "value": 2400,
+      "rank": 72,
+      "value": 2457,
       "age": 26.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -12794,8 +12794,8 @@
         "SP",
         "RP"
       ],
-      "rank": 450,
-      "value": 287,
+      "rank": 449,
+      "value": 288,
       "age": 23.3,
       "source": "harryknowsball",
       "prospect": true,
@@ -12826,7 +12826,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 24.5,
       "source": "harryknowsball",
@@ -12857,8 +12857,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 692,
-      "value": 73,
+      "rank": 699,
+      "value": 71,
       "age": 31.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -12889,7 +12889,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 28.7,
       "source": "harryknowsball",
@@ -12920,7 +12920,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 33.2,
       "source": "harryknowsball",
@@ -12951,7 +12951,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 29.9,
       "source": "harryknowsball",
@@ -12982,7 +12982,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 30.7,
       "source": "harryknowsball",
@@ -13013,8 +13013,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 833,
-      "value": 18,
+      "rank": 836,
+      "value": 14,
       "age": 36,
       "source": "harryknowsball",
       "prospect": false,
@@ -13044,7 +13044,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 26.9,
       "source": "harryknowsball",
@@ -13075,7 +13075,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 32.8,
       "source": "harryknowsball",
@@ -13106,8 +13106,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 122,
-      "value": 1485,
+      "rank": 124,
+      "value": 1474,
       "age": 22.6,
       "source": "harryknowsball",
       "prospect": true,
@@ -13137,7 +13137,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 28.3,
       "source": "harryknowsball",
@@ -13168,8 +13168,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 99,
-      "value": 1875,
+      "rank": 101,
+      "value": 1849,
       "age": 26.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -13199,8 +13199,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 575,
-      "value": 138,
+      "rank": 570,
+      "value": 140,
       "age": 24.8,
       "source": "harryknowsball",
       "prospect": true,
@@ -13230,8 +13230,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 607,
-      "value": 113,
+      "rank": 601,
+      "value": 117,
       "age": 22.1,
       "source": "harryknowsball",
       "prospect": true,
@@ -13261,7 +13261,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 560,
+      "rank": 557,
       "value": 152,
       "age": 25.6,
       "source": "harryknowsball",
@@ -13292,8 +13292,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 736,
-      "value": 56,
+      "rank": 744,
+      "value": 52,
       "age": 20.9,
       "source": "harryknowsball",
       "prospect": true,
@@ -13323,8 +13323,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 237,
-      "value": 786,
+      "rank": 235,
+      "value": 789,
       "age": 22.1,
       "source": "harryknowsball",
       "prospect": true,
@@ -13354,8 +13354,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 598,
-      "value": 119,
+      "rank": 594,
+      "value": 123,
       "age": 22.4,
       "source": "harryknowsball",
       "prospect": true,
@@ -13385,8 +13385,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 680,
-      "value": 78,
+      "rank": 671,
+      "value": 81,
       "age": 22.2,
       "source": "harryknowsball",
       "prospect": true,
@@ -13416,8 +13416,8 @@
       "positions": [
         "C"
       ],
-      "rank": 598,
-      "value": 119,
+      "rank": 609,
+      "value": 113,
       "age": 27,
       "source": "harryknowsball",
       "prospect": false,
@@ -13447,8 +13447,8 @@
       "positions": [
         "1B"
       ],
-      "rank": 318,
-      "value": 529,
+      "rank": 317,
+      "value": 537,
       "age": 25.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -13496,8 +13496,8 @@
       "positions": [
         "3B"
       ],
-      "rank": 447,
-      "value": 292,
+      "rank": 442,
+      "value": 297,
       "age": 23.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -13546,7 +13546,7 @@
         "OF"
       ],
       "rank": 6,
-      "value": 7259,
+      "value": 7251,
       "age": 23.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -13576,8 +13576,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 301,
-      "value": 592,
+      "rank": 288,
+      "value": 624,
       "age": 24.2,
       "source": "harryknowsball",
       "prospect": true,
@@ -13607,8 +13607,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 400,
-      "value": 355,
+      "rank": 393,
+      "value": 358,
       "age": 27.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -13640,8 +13640,8 @@
         "2B",
         "3B"
       ],
-      "rank": 322,
-      "value": 514,
+      "rank": 328,
+      "value": 509,
       "age": 24.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -13671,8 +13671,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 376,
-      "value": 384,
+      "rank": 377,
+      "value": 388,
       "age": 23.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -13702,8 +13702,8 @@
       "positions": [
         "1B"
       ],
-      "rank": 691,
-      "value": 75,
+      "rank": 699,
+      "value": 71,
       "age": 31,
       "source": "harryknowsball",
       "prospect": false,
@@ -13733,7 +13733,7 @@
       "positions": [
         "2B"
       ],
-      "rank": 58,
+      "rank": 59,
       "value": 2859,
       "age": 23.9,
       "source": "harryknowsball",
@@ -13765,8 +13765,8 @@
         "2B",
         "OF"
       ],
-      "rank": 491,
-      "value": 231,
+      "rank": 497,
+      "value": 222,
       "age": 24.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -13798,8 +13798,8 @@
         "3B",
         "SS"
       ],
-      "rank": 461,
-      "value": 268,
+      "rank": 465,
+      "value": 261,
       "age": 22.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -13829,8 +13829,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 207,
-      "value": 902,
+      "rank": 202,
+      "value": 912,
       "age": 23.8,
       "source": "harryknowsball",
       "prospect": true,
@@ -13861,7 +13861,7 @@
         "OF"
       ],
       "rank": 79,
-      "value": 2300,
+      "value": 2276,
       "age": 21.1,
       "source": "harryknowsball",
       "prospect": true,
@@ -13892,8 +13892,8 @@
         "3B",
         "SS"
       ],
-      "rank": 388,
-      "value": 366,
+      "rank": 391,
+      "value": 362,
       "age": 22.2,
       "source": "harryknowsball",
       "prospect": true,
@@ -13923,8 +13923,8 @@
       "positions": [
         "2B"
       ],
-      "rank": 521,
-      "value": 197,
+      "rank": 519,
+      "value": 198,
       "age": 24.4,
       "source": "harryknowsball",
       "prospect": true,
@@ -13956,8 +13956,8 @@
         "3B",
         "SS"
       ],
-      "rank": 233,
-      "value": 796,
+      "rank": 230,
+      "value": 806,
       "age": 23.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -13990,7 +13990,7 @@
         "3B",
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 34.9,
       "source": "harryknowsball",
@@ -14021,7 +14021,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 308,
+      "rank": 307,
       "value": 564,
       "age": 19.9,
       "source": "harryknowsball",
@@ -14052,8 +14052,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 670,
-      "value": 83,
+      "rank": 684,
+      "value": 77,
       "age": 19.6,
       "source": "harryknowsball",
       "prospect": true,
@@ -14083,8 +14083,8 @@
       "positions": [
         "C"
       ],
-      "rank": 203,
-      "value": 908,
+      "rank": 209,
+      "value": 900,
       "age": 20.5,
       "source": "harryknowsball",
       "prospect": true,
@@ -14114,7 +14114,7 @@
       "positions": [
         "1B"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 20.7,
       "source": "harryknowsball",
@@ -14146,7 +14146,7 @@
         "SS"
       ],
       "rank": 89,
-      "value": 2050,
+      "value": 2074,
       "age": 18.6,
       "source": "harryknowsball",
       "prospect": true,
@@ -14176,7 +14176,7 @@
       "positions": [
         "3B"
       ],
-      "rank": 224,
+      "rank": 225,
       "value": 829,
       "age": 22.1,
       "source": "harryknowsball",
@@ -14207,7 +14207,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 19.6,
       "source": "harryknowsball",
@@ -14238,8 +14238,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 314,
-      "value": 544,
+      "rank": 318,
+      "value": 533,
       "age": 24.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -14270,7 +14270,7 @@
         "SP"
       ],
       "rank": 21,
-      "value": 5125,
+      "value": 5143,
       "age": 23.5,
       "source": "harryknowsball",
       "prospect": false,
@@ -14300,8 +14300,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 386,
-      "value": 371,
+      "rank": 368,
+      "value": 402,
       "age": 26.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -14331,7 +14331,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 722,
+      "rank": 719,
       "value": 64,
       "age": 21.8,
       "source": "harryknowsball",
@@ -14363,7 +14363,7 @@
         "SP",
         "RP"
       ],
-      "rank": 724,
+      "rank": 726,
       "value": 62,
       "age": 31.1,
       "source": "harryknowsball",
@@ -14395,7 +14395,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 26.6,
       "source": "harryknowsball",
@@ -14426,7 +14426,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 38,
       "source": "harryknowsball",
@@ -14457,7 +14457,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 28.6,
       "source": "harryknowsball",
@@ -14519,7 +14519,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 744,
+      "rank": 740,
       "value": 53,
       "age": 30.5,
       "source": "harryknowsball",
@@ -14550,8 +14550,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 540,
-      "value": 173,
+      "rank": 541,
+      "value": 170,
       "age": 22.5,
       "source": "harryknowsball",
       "prospect": true,
@@ -14582,7 +14582,7 @@
         "SP"
       ],
       "rank": 86,
-      "value": 2164,
+      "value": 2187,
       "age": 24.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -14612,7 +14612,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 28.6,
       "source": "harryknowsball",
@@ -14643,7 +14643,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 43.4,
       "source": "harryknowsball",
@@ -14675,8 +14675,8 @@
         "SP",
         "RP"
       ],
-      "rank": 468,
-      "value": 258,
+      "rank": 467,
+      "value": 259,
       "age": 20.7,
       "source": "harryknowsball",
       "prospect": true,
@@ -14706,8 +14706,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 306,
-      "value": 572,
+      "rank": 305,
+      "value": 570,
       "age": 21.9,
       "source": "harryknowsball",
       "prospect": true,
@@ -14737,7 +14737,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 240,
+      "rank": 242,
       "value": 769,
       "age": 22.6,
       "source": "harryknowsball",
@@ -14768,7 +14768,7 @@
       "positions": [
         "C"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 33.6,
       "source": "harryknowsball",
@@ -14799,8 +14799,8 @@
       "positions": [
         "1B"
       ],
-      "rank": 26,
-      "value": 4484,
+      "rank": 27,
+      "value": 4468,
       "age": 27.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -14831,8 +14831,8 @@
         "1B",
         "2B"
       ],
-      "rank": 773,
-      "value": 42,
+      "rank": 792,
+      "value": 36,
       "age": 34.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -14863,8 +14863,8 @@
         "1B",
         "3B"
       ],
-      "rank": 158,
-      "value": 1189,
+      "rank": 154,
+      "value": 1223,
       "age": 30,
       "source": "harryknowsball",
       "prospect": false,
@@ -14897,7 +14897,7 @@
         "SS",
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 30.4,
       "source": "harryknowsball",
@@ -14928,8 +14928,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 391,
-      "value": 365,
+      "rank": 388,
+      "value": 368,
       "age": 28.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -14959,7 +14959,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 380,
+      "rank": 381,
       "value": 376,
       "age": 33.3,
       "source": "harryknowsball",
@@ -14990,8 +14990,8 @@
       "positions": [
         "1B"
       ],
-      "rank": 445,
-      "value": 293,
+      "rank": 448,
+      "value": 290,
       "age": 35.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -15023,7 +15023,7 @@
         "3B",
         "SS"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 30.3,
       "source": "harryknowsball",
@@ -15054,8 +15054,8 @@
       "positions": [
         "C"
       ],
-      "rank": 661,
-      "value": 86,
+      "rank": 677,
+      "value": 80,
       "age": 32,
       "source": "harryknowsball",
       "prospect": false,
@@ -15087,8 +15087,8 @@
         "SS",
         "OF"
       ],
-      "rank": 626,
-      "value": 104,
+      "rank": 658,
+      "value": 88,
       "age": 27.5,
       "source": "harryknowsball",
       "prospect": false,
@@ -15118,8 +15118,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 277,
-      "value": 659,
+      "rank": 276,
+      "value": 654,
       "age": 25.2,
       "source": "harryknowsball",
       "prospect": true,
@@ -15149,8 +15149,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 805,
-      "value": 30,
+      "rank": 810,
+      "value": 28,
       "age": 34.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -15180,8 +15180,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 140,
-      "value": 1355,
+      "rank": 139,
+      "value": 1365,
       "age": 28.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -15211,8 +15211,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 527,
-      "value": 191,
+      "rank": 531,
+      "value": 185,
       "age": 25.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -15242,7 +15242,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 29.3,
       "source": "harryknowsball",
@@ -15273,7 +15273,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 31,
       "source": "harryknowsball",
@@ -15304,8 +15304,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 324,
-      "value": 513,
+      "rank": 323,
+      "value": 517,
       "age": 28.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -15336,8 +15336,8 @@
         "1B",
         "3B"
       ],
-      "rank": 492,
-      "value": 230,
+      "rank": 493,
+      "value": 226,
       "age": 23.1,
       "source": "harryknowsball",
       "prospect": true,
@@ -15368,9 +15368,9 @@
         "2B",
         "SS"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
-      "age": 22.9,
+      "age": 23,
       "source": "harryknowsball",
       "prospect": true,
       "level": "AA"
@@ -15399,7 +15399,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 21.2,
       "source": "harryknowsball",
@@ -15430,8 +15430,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 417,
-      "value": 327,
+      "rank": 421,
+      "value": 322,
       "age": 18.7,
       "source": "harryknowsball",
       "prospect": true,
@@ -15461,7 +15461,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 708,
+      "rank": 705,
       "value": 68,
       "age": 18.8,
       "source": "harryknowsball",
@@ -15492,7 +15492,7 @@
       "positions": [
         "2B"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 21.8,
       "source": "harryknowsball",
@@ -15555,7 +15555,7 @@
         "SP"
       ],
       "rank": 156,
-      "value": 1216,
+      "value": 1213,
       "age": 36.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -15586,7 +15586,7 @@
         "SP"
       ],
       "rank": 350,
-      "value": 437,
+      "value": 438,
       "age": 36.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -15616,8 +15616,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 191,
-      "value": 958,
+      "rank": 187,
+      "value": 959,
       "age": 30.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -15647,8 +15647,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 735,
-      "value": 57,
+      "rank": 740,
+      "value": 53,
       "age": 32.5,
       "source": "harryknowsball",
       "prospect": false,
@@ -15679,8 +15679,8 @@
         "SP",
         "RP"
       ],
-      "rank": 602,
-      "value": 116,
+      "rank": 611,
+      "value": 111,
       "age": 22.7,
       "source": "harryknowsball",
       "prospect": true,
@@ -15710,7 +15710,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 805,
+      "rank": 806,
       "value": 30,
       "age": 30.3,
       "source": "harryknowsball",
@@ -15741,8 +15741,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 403,
-      "value": 346,
+      "rank": 404,
+      "value": 344,
       "age": 26.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -15772,9 +15772,9 @@
       "positions": [
         "SP"
       ],
-      "rank": 284,
-      "value": 630,
-      "age": 23,
+      "rank": 290,
+      "value": 620,
+      "age": 23.1,
       "source": "harryknowsball",
       "prospect": true,
       "level": "MLB"
@@ -15803,7 +15803,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 36.4,
       "source": "harryknowsball",
@@ -15834,7 +15834,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 25,
       "source": "harryknowsball",
@@ -15866,7 +15866,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 35.8,
       "source": "harryknowsball",
@@ -15898,7 +15898,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 27.6,
       "source": "harryknowsball",
@@ -15930,7 +15930,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 33,
       "source": "harryknowsball",
@@ -15962,8 +15962,8 @@
         "SP",
         "RP"
       ],
-      "rank": 823,
-      "value": 21,
+      "rank": 828,
+      "value": 19,
       "age": 33.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -15993,7 +15993,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 31.2,
       "source": "harryknowsball",
@@ -16025,7 +16025,7 @@
         "SP"
       ],
       "rank": 532,
-      "value": 183,
+      "value": 184,
       "age": 28.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -16055,8 +16055,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 546,
-      "value": 160,
+      "rank": 545,
+      "value": 164,
       "age": 23.9,
       "source": "harryknowsball",
       "prospect": true,
@@ -16086,7 +16086,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 24.1,
       "source": "harryknowsball",
@@ -16117,7 +16117,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 21.9,
       "source": "harryknowsball",
@@ -16148,8 +16148,8 @@
       "positions": [
         "C"
       ],
-      "rank": 54,
-      "value": 2923,
+      "rank": 53,
+      "value": 2917,
       "age": 28.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -16215,7 +16215,7 @@
         "2B"
       ],
       "rank": 199,
-      "value": 912,
+      "value": 920,
       "age": 22.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -16247,7 +16247,7 @@
         "3B"
       ],
       "rank": 60,
-      "value": 2848,
+      "value": 2824,
       "age": 26.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -16277,9 +16277,9 @@
       "positions": [
         "SS"
       ],
-      "rank": 49,
-      "value": 3016,
-      "age": 25.4,
+      "rank": 48,
+      "value": 3017,
+      "age": 25.5,
       "source": "harryknowsball",
       "prospect": false,
       "level": "MLB"
@@ -16309,8 +16309,8 @@
         "2B",
         "OF"
       ],
-      "rank": 839,
-      "value": 10,
+      "rank": 838,
+      "value": 12,
       "age": 34.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -16340,8 +16340,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 153,
-      "value": 1225,
+      "rank": 155,
+      "value": 1219,
       "age": 24.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -16372,7 +16372,7 @@
         "OF"
       ],
       "rank": 75,
-      "value": 2392,
+      "value": 2367,
       "age": 25.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -16403,8 +16403,8 @@
         "3B",
         "OF"
       ],
-      "rank": 303,
-      "value": 578,
+      "rank": 313,
+      "value": 548,
       "age": 24.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -16434,7 +16434,7 @@
       "positions": [
         "C"
       ],
-      "rank": 676,
+      "rank": 677,
       "value": 80,
       "age": 27.9,
       "source": "harryknowsball",
@@ -16469,8 +16469,8 @@
         "SS",
         "OF"
       ],
-      "rank": 680,
-      "value": 78,
+      "rank": 671,
+      "value": 81,
       "age": 29.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -16501,7 +16501,7 @@
         "2B",
         "3B"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 30.6,
       "source": "harryknowsball",
@@ -16532,8 +16532,8 @@
       "positions": [
         "3B"
       ],
-      "rank": 696,
-      "value": 72,
+      "rank": 684,
+      "value": 77,
       "age": 24.2,
       "source": "harryknowsball",
       "prospect": true,
@@ -16563,8 +16563,8 @@
       "positions": [
         "C"
       ],
-      "rank": 336,
-      "value": 481,
+      "rank": 337,
+      "value": 484,
       "age": 23.5,
       "source": "harryknowsball",
       "prospect": false,
@@ -16594,8 +16594,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 423,
-      "value": 316,
+      "rank": 432,
+      "value": 305,
       "age": 25.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -16625,8 +16625,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 571,
-      "value": 139,
+      "rank": 578,
+      "value": 136,
       "age": 22.6,
       "source": "harryknowsball",
       "prospect": true,
@@ -16656,9 +16656,9 @@
       "positions": [
         "OF"
       ],
-      "rank": 715,
-      "value": 66,
-      "age": 31.9,
+      "rank": 722,
+      "value": 63,
+      "age": 32,
       "source": "harryknowsball",
       "prospect": false,
       "level": "MLB"
@@ -16687,7 +16687,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 441,
+      "rank": 444,
       "value": 295,
       "age": 20.1,
       "source": "harryknowsball",
@@ -16718,8 +16718,8 @@
       "positions": [
         "C"
       ],
-      "rank": 570,
-      "value": 140,
+      "rank": 576,
+      "value": 137,
       "age": 23,
       "source": "harryknowsball",
       "prospect": true,
@@ -16749,7 +16749,7 @@
       "positions": [
         "C"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 22.9,
       "source": "harryknowsball",
@@ -16813,9 +16813,9 @@
         "1B",
         "OF"
       ],
-      "rank": 175,
-      "value": 1078,
-      "age": 23.2,
+      "rank": 176,
+      "value": 1074,
+      "age": 23.3,
       "source": "harryknowsball",
       "prospect": true,
       "level": "AAA"
@@ -16844,7 +16844,7 @@
       "positions": [
         "SS"
       ],
-      "rank": 486,
+      "rank": 485,
       "value": 242,
       "age": 22.3,
       "source": "harryknowsball",
@@ -16877,7 +16877,7 @@
       ],
       "rank": 602,
       "value": 116,
-      "age": 22.2,
+      "age": 22.3,
       "source": "harryknowsball",
       "prospect": true,
       "level": "AA"
@@ -16907,7 +16907,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 30.1,
       "source": "harryknowsball",
@@ -16939,7 +16939,7 @@
         "SP"
       ],
       "rank": 10,
-      "value": 6391,
+      "value": 6405,
       "age": 24.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -16970,7 +16970,7 @@
         "SP"
       ],
       "rank": 97,
-      "value": 1902,
+      "value": 1885,
       "age": 23.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -17001,7 +17001,7 @@
         "SP"
       ],
       "rank": 47,
-      "value": 3138,
+      "value": 3102,
       "age": 22.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -17031,8 +17031,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 785,
-      "value": 38,
+      "rank": 794,
+      "value": 35,
       "age": 35.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -17062,7 +17062,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 679,
+      "rank": 681,
       "value": 79,
       "age": 31.4,
       "source": "harryknowsball",
@@ -17093,7 +17093,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 31.7,
       "source": "harryknowsball",
@@ -17124,7 +17124,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 764,
+      "rank": 768,
       "value": 44,
       "age": 29.7,
       "source": "harryknowsball",
@@ -17156,7 +17156,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 31.4,
       "source": "harryknowsball",
@@ -17205,9 +17205,9 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
-      "age": 32.3,
+      "age": 32.4,
       "source": "harryknowsball",
       "prospect": false,
       "level": "MLB"
@@ -17236,7 +17236,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 32.5,
       "source": "harryknowsball",
@@ -17267,8 +17267,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 696,
-      "value": 72,
+      "rank": 709,
+      "value": 66,
       "age": 31.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -17298,7 +17298,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 174,
+      "rank": 172,
       "value": 1083,
       "age": 28.4,
       "source": "harryknowsball",
@@ -17330,7 +17330,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 31.8,
       "source": "harryknowsball",
@@ -17362,7 +17362,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 35.1,
       "source": "harryknowsball",
@@ -17393,7 +17393,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 25.6,
       "source": "harryknowsball",
@@ -17425,7 +17425,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 26.3,
       "source": "harryknowsball",
@@ -17456,8 +17456,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 319,
-      "value": 525,
+      "rank": 320,
+      "value": 524,
       "age": 28.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -17488,7 +17488,7 @@
         "SP"
       ],
       "rank": 178,
-      "value": 1033,
+      "value": 1032,
       "age": 23.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -17518,7 +17518,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 29.9,
       "source": "harryknowsball",
@@ -17550,7 +17550,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 24.6,
       "source": "harryknowsball",
@@ -17581,7 +17581,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 22.8,
       "source": "harryknowsball",
@@ -17612,7 +17612,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 29,
       "source": "harryknowsball",
@@ -17675,8 +17675,8 @@
         "2B",
         "SS"
       ],
-      "rank": 468,
-      "value": 258,
+      "rank": 473,
+      "value": 256,
       "age": 25.5,
       "source": "harryknowsball",
       "prospect": false,
@@ -17709,8 +17709,8 @@
         "SS",
         "OF"
       ],
-      "rank": 569,
-      "value": 143,
+      "rank": 567,
+      "value": 146,
       "age": 29.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -17741,7 +17741,7 @@
         "SS"
       ],
       "rank": 8,
-      "value": 6857,
+      "value": 6994,
       "age": 24.5,
       "source": "harryknowsball",
       "prospect": false,
@@ -17771,7 +17771,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 31.1,
       "source": "harryknowsball",
@@ -17804,7 +17804,7 @@
         "OF"
       ],
       "rank": 227,
-      "value": 819,
+      "value": 822,
       "age": 25.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -17834,8 +17834,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 812,
-      "value": 27,
+      "rank": 822,
+      "value": 23,
       "age": 26.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -17865,8 +17865,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 76,
-      "value": 2383,
+      "rank": 77,
+      "value": 2359,
       "age": 25.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -17897,7 +17897,7 @@
         "3B",
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 31.4,
       "source": "harryknowsball",
@@ -17928,8 +17928,8 @@
       "positions": [
         "1B"
       ],
-      "rank": 708,
-      "value": 68,
+      "rank": 719,
+      "value": 64,
       "age": 38.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -17960,8 +17960,8 @@
         "1B",
         "3B"
       ],
-      "rank": 363,
-      "value": 408,
+      "rank": 359,
+      "value": 411,
       "age": 23.6,
       "source": "harryknowsball",
       "prospect": true,
@@ -17992,7 +17992,7 @@
         "1B",
         "OF"
       ],
-      "rank": 657,
+      "rank": 661,
       "value": 87,
       "age": 30.2,
       "source": "harryknowsball",
@@ -18023,7 +18023,7 @@
       "positions": [
         "SS"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 30,
       "source": "harryknowsball",
@@ -18055,7 +18055,7 @@
         "3B",
         "SS"
       ],
-      "rank": 805,
+      "rank": 806,
       "value": 30,
       "age": 22.4,
       "source": "harryknowsball",
@@ -18086,7 +18086,7 @@
       "positions": [
         "UT"
       ],
-      "rank": 817,
+      "rank": 819,
       "value": 25,
       "age": 35.7,
       "source": "harryknowsball",
@@ -18118,7 +18118,7 @@
         "OF"
       ],
       "rank": 50,
-      "value": 2976,
+      "value": 2990,
       "age": 27.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -18149,7 +18149,7 @@
         "C"
       ],
       "rank": 477,
-      "value": 255,
+      "value": 254,
       "age": 29.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -18180,8 +18180,8 @@
         "3B",
         "SS"
       ],
-      "rank": 452,
-      "value": 283,
+      "rank": 451,
+      "value": 286,
       "age": 31.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -18213,8 +18213,8 @@
         "3B",
         "OF"
       ],
-      "rank": 288,
-      "value": 625,
+      "rank": 286,
+      "value": 627,
       "age": 29.5,
       "source": "harryknowsball",
       "prospect": false,
@@ -18244,7 +18244,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 32.1,
       "source": "harryknowsball",
@@ -18275,7 +18275,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 27.4,
       "source": "harryknowsball",
@@ -18306,7 +18306,7 @@
       "positions": [
         "C"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 23.8,
       "source": "harryknowsball",
@@ -18369,8 +18369,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 209,
-      "value": 896,
+      "rank": 205,
+      "value": 907,
       "age": 21,
       "source": "harryknowsball",
       "prospect": true,
@@ -18400,7 +18400,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 571,
+      "rank": 572,
       "value": 139,
       "age": 22.6,
       "source": "harryknowsball",
@@ -18463,7 +18463,7 @@
         "SS"
       ],
       "rank": 399,
-      "value": 356,
+      "value": 353,
       "age": 23.1,
       "source": "harryknowsball",
       "prospect": true,
@@ -18494,7 +18494,7 @@
         "SP",
         "RP"
       ],
-      "rank": 814,
+      "rank": 817,
       "value": 26,
       "age": 31.9,
       "source": "harryknowsball",
@@ -18526,7 +18526,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 33.1,
       "source": "harryknowsball",
@@ -18558,7 +18558,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 26,
       "source": "harryknowsball",
@@ -18590,7 +18590,7 @@
         "SP"
       ],
       "rank": 4,
-      "value": 7802,
+      "value": 7735,
       "age": 24.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -18621,7 +18621,7 @@
         "SP"
       ],
       "rank": 15,
-      "value": 5491,
+      "value": 5486,
       "age": 29.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -18652,7 +18652,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 36.7,
       "source": "harryknowsball",
@@ -18683,8 +18683,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 530,
-      "value": 186,
+      "rank": 526,
+      "value": 190,
       "age": 27.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -18714,7 +18714,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 30.8,
       "source": "harryknowsball",
@@ -18745,8 +18745,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 777,
-      "value": 41,
+      "rank": 768,
+      "value": 44,
       "age": 32.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -18776,8 +18776,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 515,
-      "value": 205,
+      "rank": 509,
+      "value": 210,
       "age": 33.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -18807,8 +18807,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 20,
-      "value": 5220,
+      "rank": 19,
+      "value": 5312,
       "age": 25.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -18838,8 +18838,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 692,
-      "value": 73,
+      "rank": 699,
+      "value": 71,
       "age": 29.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -18869,8 +18869,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 375,
-      "value": 385,
+      "rank": 379,
+      "value": 382,
       "age": 31.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -18900,8 +18900,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 123,
-      "value": 1478,
+      "rank": 121,
+      "value": 1482,
       "age": 37.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -18931,7 +18931,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 30.2,
       "source": "harryknowsball",
@@ -18962,8 +18962,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 777,
-      "value": 41,
+      "rank": 786,
+      "value": 38,
       "age": 34.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -18993,7 +18993,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 32.9,
       "source": "harryknowsball",
@@ -19024,8 +19024,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 404,
-      "value": 344,
+      "rank": 412,
+      "value": 338,
       "age": 33.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -19055,8 +19055,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 696,
-      "value": 72,
+      "rank": 695,
+      "value": 74,
       "age": 23.6,
       "source": "harryknowsball",
       "prospect": true,
@@ -19086,8 +19086,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 276,
-      "value": 660,
+      "rank": 275,
+      "value": 661,
       "age": 22.2,
       "source": "harryknowsball",
       "prospect": true,
@@ -19117,8 +19117,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 724,
-      "value": 62,
+      "rank": 722,
+      "value": 63,
       "age": 22,
       "source": "harryknowsball",
       "prospect": true,
@@ -19148,7 +19148,7 @@
       "positions": [
         "C"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 26.8,
       "source": "harryknowsball",
@@ -19179,7 +19179,7 @@
       "positions": [
         "1B"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 31.1,
       "source": "harryknowsball",
@@ -19212,8 +19212,8 @@
         "2B",
         "OF"
       ],
-      "rank": 645,
-      "value": 94,
+      "rank": 635,
+      "value": 99,
       "age": 30.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -19246,7 +19246,7 @@
         "SS",
         "OF"
       ],
-      "rank": 804,
+      "rank": 805,
       "value": 31,
       "age": 31.2,
       "source": "harryknowsball",
@@ -19309,8 +19309,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 337,
-      "value": 476,
+      "rank": 338,
+      "value": 478,
       "age": 28.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -19340,8 +19340,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 84,
-      "value": 2238,
+      "rank": 85,
+      "value": 2223,
       "age": 24.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -19372,8 +19372,8 @@
         "OF",
         "UT"
       ],
-      "rank": 739,
-      "value": 55,
+      "rank": 740,
+      "value": 53,
       "age": 29.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -19403,8 +19403,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 96,
-      "value": 1911,
+      "rank": 94,
+      "value": 1942,
       "age": 23.5,
       "source": "harryknowsball",
       "prospect": false,
@@ -19434,8 +19434,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 41,
-      "value": 3428,
+      "rank": 42,
+      "value": 3380,
       "age": 24.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -19466,7 +19466,7 @@
         "1B",
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 27.4,
       "source": "harryknowsball",
@@ -19497,7 +19497,7 @@
       "positions": [
         "1B"
       ],
-      "rank": 563,
+      "rank": 560,
       "value": 151,
       "age": 30.3,
       "source": "harryknowsball",
@@ -19528,7 +19528,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 26.1,
       "source": "harryknowsball",
@@ -19559,7 +19559,7 @@
       "positions": [
         "3B"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 25.8,
       "source": "harryknowsball",
@@ -19591,8 +19591,8 @@
         "1B",
         "OF"
       ],
-      "rank": 568,
-      "value": 145,
+      "rank": 566,
+      "value": 147,
       "age": 24.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -19623,8 +19623,8 @@
         "3B",
         "OF"
       ],
-      "rank": 354,
-      "value": 423,
+      "rank": 352,
+      "value": 430,
       "age": 26.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -19657,7 +19657,7 @@
         "SS",
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 33.6,
       "source": "harryknowsball",
@@ -19688,7 +19688,7 @@
       "positions": [
         "1B"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 25.9,
       "source": "harryknowsball",
@@ -19720,7 +19720,7 @@
         "2B",
         "SS"
       ],
-      "rank": 347,
+      "rank": 346,
       "value": 450,
       "age": 21.2,
       "source": "harryknowsball",
@@ -19751,7 +19751,7 @@
       "positions": [
         "SS"
       ],
-      "rank": 321,
+      "rank": 325,
       "value": 515,
       "age": 20.7,
       "source": "harryknowsball",
@@ -19783,8 +19783,8 @@
         "3B",
         "SS"
       ],
-      "rank": 405,
-      "value": 343,
+      "rank": 416,
+      "value": 334,
       "age": 19.4,
       "source": "harryknowsball",
       "prospect": true,
@@ -19814,7 +19814,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 537,
+      "rank": 536,
       "value": 175,
       "age": 22.5,
       "source": "harryknowsball",
@@ -19845,8 +19845,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 650,
-      "value": 90,
+      "rank": 653,
+      "value": 89,
       "age": 19.9,
       "source": "harryknowsball",
       "prospect": true,
@@ -19909,7 +19909,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 29.2,
       "source": "harryknowsball",
@@ -19941,7 +19941,7 @@
         "SP",
         "RP"
       ],
-      "rank": 563,
+      "rank": 560,
       "value": 151,
       "age": 27.4,
       "source": "harryknowsball",
@@ -19972,7 +19972,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 36.9,
       "source": "harryknowsball",
@@ -20004,7 +20004,7 @@
         "SP"
       ],
       "rank": 539,
-      "value": 174,
+      "value": 173,
       "age": 27.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -20035,8 +20035,8 @@
         "SP",
         "RP"
       ],
-      "rank": 548,
-      "value": 157,
+      "rank": 560,
+      "value": 151,
       "age": 32.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -20066,9 +20066,9 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
-      "age": 35.4,
+      "age": 35.5,
       "source": "harryknowsball",
       "prospect": false,
       "level": "MLB"
@@ -20097,7 +20097,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 35.5,
       "source": "harryknowsball",
@@ -20128,8 +20128,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 565,
-      "value": 148,
+      "rank": 576,
+      "value": 137,
       "age": 28.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -20160,7 +20160,7 @@
         "SP",
         "RP"
       ],
-      "rank": 777,
+      "rank": 776,
       "value": 41,
       "age": 29.1,
       "source": "harryknowsball",
@@ -20191,8 +20191,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 467,
-      "value": 259,
+      "rank": 475,
+      "value": 255,
       "age": 26.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -20223,8 +20223,8 @@
         "SP",
         "RP"
       ],
-      "rank": 243,
-      "value": 761,
+      "rank": 230,
+      "value": 806,
       "age": 25.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -20254,8 +20254,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 111,
-      "value": 1649,
+      "rank": 109,
+      "value": 1657,
       "age": 24.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -20286,7 +20286,7 @@
         "SP"
       ],
       "rank": 279,
-      "value": 639,
+      "value": 641,
       "age": 28.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -20317,7 +20317,7 @@
         "SP"
       ],
       "rank": 393,
-      "value": 361,
+      "value": 358,
       "age": 27.9,
       "source": "harryknowsball",
       "prospect": true,
@@ -20347,7 +20347,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 818,
+      "rank": 822,
       "value": 23,
       "age": 31.1,
       "source": "harryknowsball",
@@ -20378,7 +20378,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 28.4,
       "source": "harryknowsball",
@@ -20440,7 +20440,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 26.4,
       "source": "harryknowsball",
@@ -20471,8 +20471,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 266,
-      "value": 687,
+      "rank": 265,
+      "value": 694,
       "age": 24.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -20502,8 +20502,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 480,
-      "value": 253,
+      "rank": 473,
+      "value": 256,
       "age": 20.6,
       "source": "harryknowsball",
       "prospect": true,
@@ -20533,8 +20533,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 278,
-      "value": 642,
+      "rank": 284,
+      "value": 630,
       "age": 22.9,
       "source": "harryknowsball",
       "prospect": true,
@@ -20564,8 +20564,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 118,
-      "value": 1534,
+      "rank": 119,
+      "value": 1524,
       "age": 21.8,
       "source": "harryknowsball",
       "prospect": true,
@@ -20595,8 +20595,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 650,
-      "value": 90,
+      "rank": 646,
+      "value": 93,
       "age": 22,
       "source": "harryknowsball",
       "prospect": true,
@@ -20627,8 +20627,8 @@
         "C",
         "1B"
       ],
-      "rank": 19,
-      "value": 5312,
+      "rank": 20,
+      "value": 5200,
       "age": 27.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -20659,8 +20659,8 @@
         "C",
         "1B"
       ],
-      "rank": 236,
-      "value": 788,
+      "rank": 239,
+      "value": 778,
       "age": 27.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -20691,7 +20691,7 @@
         "2B"
       ],
       "rank": 34,
-      "value": 3934,
+      "value": 3913,
       "age": 26.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -20723,7 +20723,7 @@
         "3B",
         "OF"
       ],
-      "rank": 622,
+      "rank": 623,
       "value": 105,
       "age": 31.2,
       "source": "harryknowsball",
@@ -20754,8 +20754,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 130,
-      "value": 1443,
+      "rank": 126,
+      "value": 1457,
       "age": 33,
       "source": "harryknowsball",
       "prospect": false,
@@ -20785,8 +20785,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 139,
-      "value": 1360,
+      "rank": 141,
+      "value": 1339,
       "age": 29.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -20816,8 +20816,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 180,
-      "value": 1020,
+      "rank": 181,
+      "value": 1014,
       "age": 31.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -20847,8 +20847,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 104,
-      "value": 1764,
+      "rank": 106,
+      "value": 1752,
       "age": 31,
       "source": "harryknowsball",
       "prospect": false,
@@ -20879,7 +20879,7 @@
         "2B",
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 28.3,
       "source": "harryknowsball",
@@ -20910,7 +20910,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 27.4,
       "source": "harryknowsball",
@@ -20941,8 +20941,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 338,
-      "value": 475,
+      "rank": 340,
+      "value": 467,
       "age": 25,
       "source": "harryknowsball",
       "prospect": false,
@@ -20972,8 +20972,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 510,
-      "value": 212,
+      "rank": 509,
+      "value": 210,
       "age": 36.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -21003,8 +21003,8 @@
       "positions": [
         "3B"
       ],
-      "rank": 396,
-      "value": 358,
+      "rank": 406,
+      "value": 343,
       "age": 35.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -21034,8 +21034,8 @@
       "positions": [
         "1B"
       ],
-      "rank": 285,
-      "value": 628,
+      "rank": 281,
+      "value": 633,
       "age": 34.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -21065,7 +21065,7 @@
       "positions": [
         "3B"
       ],
-      "rank": 434,
+      "rank": 432,
       "value": 305,
       "age": 33.2,
       "source": "harryknowsball",
@@ -21096,8 +21096,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 17,
-      "value": 5439,
+      "rank": 18,
+      "value": 5340,
       "age": 34.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -21127,7 +21127,7 @@
       "positions": [
         "C"
       ],
-      "rank": 430,
+      "rank": 428,
       "value": 308,
       "age": 24.4,
       "source": "harryknowsball",
@@ -21158,7 +21158,7 @@
       "positions": [
         "1B"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 26.6,
       "source": "harryknowsball",
@@ -21220,8 +21220,8 @@
       "positions": [
         "C"
       ],
-      "rank": 225,
-      "value": 825,
+      "rank": 222,
+      "value": 835,
       "age": 20.1,
       "source": "harryknowsball",
       "prospect": true,
@@ -21251,8 +21251,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 557,
-      "value": 153,
+      "rank": 546,
+      "value": 162,
       "age": 24,
       "source": "harryknowsball",
       "prospect": true,
@@ -21282,8 +21282,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 711,
-      "value": 67,
+      "rank": 712,
+      "value": 65,
       "age": 22.4,
       "source": "harryknowsball",
       "prospect": true,
@@ -21313,7 +21313,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 23,
       "source": "harryknowsball",
@@ -21345,8 +21345,8 @@
         "SP",
         "RP"
       ],
-      "rank": 757,
-      "value": 47,
+      "rank": 752,
+      "value": 50,
       "age": 32.5,
       "source": "harryknowsball",
       "prospect": false,
@@ -21377,8 +21377,8 @@
         "SP",
         "RP"
       ],
-      "rank": 771,
-      "value": 43,
+      "rank": 760,
+      "value": 46,
       "age": 25.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -21408,7 +21408,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 458,
+      "rank": 460,
       "value": 270,
       "age": 22.5,
       "source": "harryknowsball",
@@ -21439,7 +21439,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 29.7,
       "source": "harryknowsball",
@@ -21470,7 +21470,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 28.4,
       "source": "harryknowsball",
@@ -21502,8 +21502,8 @@
         "SP",
         "RP"
       ],
-      "rank": 724,
-      "value": 62,
+      "rank": 728,
+      "value": 61,
       "age": 26.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -21533,8 +21533,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 680,
-      "value": 78,
+      "rank": 671,
+      "value": 81,
       "age": 30.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -21564,7 +21564,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 571,
+      "rank": 572,
       "value": 139,
       "age": 31.6,
       "source": "harryknowsball",
@@ -21595,7 +21595,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 785,
+      "rank": 786,
       "value": 38,
       "age": 30.9,
       "source": "harryknowsball",
@@ -21626,7 +21626,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 795,
+      "rank": 797,
       "value": 34,
       "age": 30.9,
       "source": "harryknowsball",
@@ -21657,8 +21657,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 406,
-      "value": 342,
+      "rank": 403,
+      "value": 345,
       "age": 34.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -21690,7 +21690,7 @@
       ],
       "rank": 760,
       "value": 46,
-      "age": 37.7,
+      "age": 37.8,
       "source": "harryknowsball",
       "prospect": false,
       "level": "MLB"
@@ -21719,8 +21719,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 164,
-      "value": 1157,
+      "rank": 162,
+      "value": 1164,
       "age": 31.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -21752,7 +21752,7 @@
         "RP"
       ],
       "rank": 214,
-      "value": 874,
+      "value": 880,
       "age": 26,
       "source": "harryknowsball",
       "prospect": false,
@@ -21782,7 +21782,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 671,
+      "rank": 668,
       "value": 82,
       "age": 29.2,
       "source": "harryknowsball",
@@ -21813,8 +21813,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 825,
-      "value": 20,
+      "rank": 831,
+      "value": 17,
       "age": 34.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -21844,8 +21844,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 363,
-      "value": 408,
+      "rank": 365,
+      "value": 406,
       "age": 28.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -21875,8 +21875,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 789,
-      "value": 37,
+      "rank": 797,
+      "value": 34,
       "age": 37.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -21906,7 +21906,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 29.4,
       "source": "harryknowsball",
@@ -21937,8 +21937,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 799,
-      "value": 33,
+      "rank": 794,
+      "value": 35,
       "age": 35.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -21968,7 +21968,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 30.3,
       "source": "harryknowsball",
@@ -21999,8 +21999,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 372,
-      "value": 397,
+      "rank": 375,
+      "value": 390,
       "age": 25.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -22030,8 +22030,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 329,
-      "value": 502,
+      "rank": 336,
+      "value": 485,
       "age": 30.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -22061,8 +22061,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 752,
-      "value": 50,
+      "rank": 744,
+      "value": 52,
       "age": 32.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -22092,8 +22092,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 654,
-      "value": 89,
+      "rank": 665,
+      "value": 84,
       "age": 23,
       "source": "harryknowsball",
       "prospect": true,
@@ -22123,8 +22123,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 541,
-      "value": 170,
+      "rank": 542,
+      "value": 168,
       "age": 19.8,
       "source": "harryknowsball",
       "prospect": true,
@@ -22155,7 +22155,7 @@
         "SP",
         "RP"
       ],
-      "rank": 814,
+      "rank": 817,
       "value": 26,
       "age": 22.7,
       "source": "harryknowsball",
@@ -22186,8 +22186,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 696,
-      "value": 72,
+      "rank": 709,
+      "value": 66,
       "age": 31.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -22218,7 +22218,7 @@
         "C",
         "1B"
       ],
-      "rank": 686,
+      "rank": 684,
       "value": 77,
       "age": 36.2,
       "source": "harryknowsball",
@@ -22249,8 +22249,8 @@
       "positions": [
         "1B"
       ],
-      "rank": 251,
-      "value": 735,
+      "rank": 248,
+      "value": 742,
       "age": 34.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -22282,8 +22282,8 @@
         "3B",
         "SS"
       ],
-      "rank": 392,
-      "value": 363,
+      "rank": 390,
+      "value": 365,
       "age": 25.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -22313,8 +22313,8 @@
       "positions": [
         "3B"
       ],
-      "rank": 185,
-      "value": 982,
+      "rank": 186,
+      "value": 978,
       "age": 34,
       "source": "harryknowsball",
       "prospect": false,
@@ -22344,8 +22344,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 316,
-      "value": 539,
+      "rank": 313,
+      "value": 548,
       "age": 30.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -22375,7 +22375,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 30.5,
       "source": "harryknowsball",
@@ -22406,8 +22406,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 51,
-      "value": 2941,
+      "rank": 56,
+      "value": 2897,
       "age": 23.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -22437,8 +22437,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 586,
-      "value": 128,
+      "rank": 580,
+      "value": 134,
       "age": 28.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -22499,8 +22499,8 @@
       "positions": [
         "C"
       ],
-      "rank": 124,
-      "value": 1465,
+      "rank": 125,
+      "value": 1462,
       "age": 28.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -22548,8 +22548,8 @@
       "positions": [
         "3B"
       ],
-      "rank": 220,
-      "value": 851,
+      "rank": 224,
+      "value": 830,
       "age": 32.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -22581,7 +22581,7 @@
         "SS",
         "OF"
       ],
-      "rank": 667,
+      "rank": 665,
       "value": 84,
       "age": 24.3,
       "source": "harryknowsball",
@@ -22612,7 +22612,7 @@
       "positions": [
         "1B"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 31,
       "source": "harryknowsball",
@@ -22644,8 +22644,8 @@
         "OF",
         "UT"
       ],
-      "rank": 169,
-      "value": 1123,
+      "rank": 170,
+      "value": 1118,
       "age": 31.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -22675,8 +22675,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 760,
-      "value": 46,
+      "rank": 779,
+      "value": 40,
       "age": 33.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -22707,7 +22707,7 @@
         "OF",
         "UT"
       ],
-      "rank": 723,
+      "rank": 722,
       "value": 63,
       "age": 36.7,
       "source": "harryknowsball",
@@ -22738,8 +22738,8 @@
       "positions": [
         "C"
       ],
-      "rank": 552,
-      "value": 155,
+      "rank": 557,
+      "value": 152,
       "age": 23.4,
       "source": "harryknowsball",
       "prospect": true,
@@ -22769,8 +22769,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 637,
-      "value": 98,
+      "rank": 640,
+      "value": 96,
       "age": 20.6,
       "source": "harryknowsball",
       "prospect": true,
@@ -22800,8 +22800,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 560,
-      "value": 152,
+      "rank": 563,
+      "value": 149,
       "age": 20.5,
       "source": "harryknowsball",
       "prospect": true,
@@ -22831,7 +22831,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 23,
       "source": "harryknowsball",
@@ -22862,8 +22862,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 519,
-      "value": 198,
+      "rank": 523,
+      "value": 194,
       "age": 20.1,
       "source": "harryknowsball",
       "prospect": true,
@@ -22893,8 +22893,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 282,
-      "value": 632,
+      "rank": 281,
+      "value": 633,
       "age": 22.7,
       "source": "harryknowsball",
       "prospect": true,
@@ -22924,8 +22924,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 507,
-      "value": 213,
+      "rank": 506,
+      "value": 211,
       "age": 19.9,
       "source": "harryknowsball",
       "prospect": true,
@@ -22955,7 +22955,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 596,
+      "rank": 595,
       "value": 122,
       "age": 23.9,
       "source": "harryknowsball",
@@ -22986,7 +22986,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 605,
+      "rank": 606,
       "value": 114,
       "age": 22.3,
       "source": "harryknowsball",
@@ -23017,7 +23017,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 30.9,
       "source": "harryknowsball",
@@ -23048,8 +23048,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 648,
-      "value": 91,
+      "rank": 658,
+      "value": 88,
       "age": 27.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -23080,7 +23080,7 @@
         "SP",
         "RP"
       ],
-      "rank": 708,
+      "rank": 705,
       "value": 68,
       "age": 23.9,
       "source": "harryknowsball",
@@ -23111,7 +23111,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 33.2,
       "source": "harryknowsball",
@@ -23142,8 +23142,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 757,
-      "value": 47,
+      "rank": 752,
+      "value": 50,
       "age": 31.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -23173,8 +23173,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 143,
-      "value": 1328,
+      "rank": 144,
+      "value": 1320,
       "age": 27.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -23204,8 +23204,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 764,
-      "value": 44,
+      "rank": 757,
+      "value": 47,
       "age": 28.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -23235,8 +23235,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 269,
-      "value": 677,
+      "rank": 268,
+      "value": 678,
       "age": 32.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -23266,7 +23266,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 26.1,
       "source": "harryknowsball",
@@ -23297,7 +23297,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 30.8,
       "source": "harryknowsball",
@@ -23328,7 +23328,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 784,
+      "rank": 782,
       "value": 39,
       "age": 36.3,
       "source": "harryknowsball",
@@ -23359,8 +23359,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 53,
-      "value": 2925,
+      "rank": 51,
+      "value": 2939,
       "age": 29.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -23390,8 +23390,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 822,
-      "value": 22,
+      "rank": 820,
+      "value": 24,
       "age": 30.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -23422,8 +23422,8 @@
         "SP",
         "RP"
       ],
-      "rank": 667,
-      "value": 84,
+      "rank": 664,
+      "value": 85,
       "age": 35.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -23453,7 +23453,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 29.9,
       "source": "harryknowsball",
@@ -23502,7 +23502,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 28.4,
       "source": "harryknowsball",
@@ -23533,7 +23533,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 789,
+      "rank": 790,
       "value": 37,
       "age": 29.2,
       "source": "harryknowsball",
@@ -23564,8 +23564,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 612,
-      "value": 111,
+      "rank": 630,
+      "value": 102,
       "age": 35.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -23595,8 +23595,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 448,
-      "value": 291,
+      "rank": 452,
+      "value": 285,
       "age": 33.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -23626,8 +23626,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 103,
-      "value": 1830,
+      "rank": 104,
+      "value": 1806,
       "age": 28.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -23658,7 +23658,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 28.9,
       "source": "harryknowsball",
@@ -23690,7 +23690,7 @@
         "RP"
       ],
       "rank": 453,
-      "value": 282,
+      "value": 278,
       "age": 31.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -23720,8 +23720,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 402,
-      "value": 351,
+      "rank": 397,
+      "value": 354,
       "age": 24.5,
       "source": "harryknowsball",
       "prospect": true,
@@ -23751,8 +23751,8 @@
       "positions": [
         "C"
       ],
-      "rank": 665,
-      "value": 85,
+      "rank": 671,
+      "value": 81,
       "age": 25.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -23782,8 +23782,8 @@
       "positions": [
         "1B"
       ],
-      "rank": 56,
-      "value": 2901,
+      "rank": 57,
+      "value": 2893,
       "age": 32.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -23816,7 +23816,7 @@
         "SS",
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 29.1,
       "source": "harryknowsball",
@@ -23847,8 +23847,8 @@
       "positions": [
         "3B"
       ],
-      "rank": 101,
-      "value": 1840,
+      "rank": 100,
+      "value": 1853,
       "age": 29.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -23879,8 +23879,8 @@
         "3B",
         "SS"
       ],
-      "rank": 82,
-      "value": 2260,
+      "rank": 84,
+      "value": 2236,
       "age": 24.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -23910,8 +23910,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 244,
-      "value": 755,
+      "rank": 246,
+      "value": 750,
       "age": 22.5,
       "source": "harryknowsball",
       "prospect": true,
@@ -23941,8 +23941,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 368,
-      "value": 402,
+      "rank": 366,
+      "value": 405,
       "age": 28.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -23973,8 +23973,8 @@
         "1B",
         "OF"
       ],
-      "rank": 566,
-      "value": 146,
+      "rank": 568,
+      "value": 144,
       "age": 30.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -24005,8 +24005,8 @@
         "1B",
         "3B"
       ],
-      "rank": 106,
-      "value": 1737,
+      "rank": 103,
+      "value": 1822,
       "age": 26.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -24036,8 +24036,8 @@
       "positions": [
         "1B"
       ],
-      "rank": 70,
-      "value": 2558,
+      "rank": 64,
+      "value": 2664,
       "age": 21.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -24067,7 +24067,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 32,
       "source": "harryknowsball",
@@ -24098,8 +24098,8 @@
       "positions": [
         "UT"
       ],
-      "rank": 809,
-      "value": 29,
+      "rank": 803,
+      "value": 32,
       "age": 34.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -24129,8 +24129,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 369,
-      "value": 401,
+      "rank": 374,
+      "value": 391,
       "age": 24,
       "source": "harryknowsball",
       "prospect": true,
@@ -24161,8 +24161,8 @@
         "1B",
         "OF"
       ],
-      "rank": 743,
-      "value": 54,
+      "rank": 746,
+      "value": 51,
       "age": 31.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -24224,8 +24224,8 @@
         "2B",
         "OF"
       ],
-      "rank": 361,
-      "value": 410,
+      "rank": 358,
+      "value": 412,
       "age": 24.5,
       "source": "harryknowsball",
       "prospect": false,
@@ -24256,8 +24256,8 @@
         "2B",
         "3B"
       ],
-      "rank": 330,
-      "value": 501,
+      "rank": 332,
+      "value": 495,
       "age": 23.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -24287,12 +24287,12 @@
       "positions": [
         "SS"
       ],
-      "rank": 89,
+      "rank": 91,
       "value": 2050,
       "age": 20.3,
       "source": "harryknowsball",
       "prospect": true,
-      "level": "AA"
+      "level": "ROOKIE_BALL"
     }
   },
   {
@@ -24320,7 +24320,7 @@
         "SS",
         "OF"
       ],
-      "rank": 297,
+      "rank": 298,
       "value": 600,
       "age": 22.7,
       "source": "harryknowsball",
@@ -24351,8 +24351,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 211,
-      "value": 889,
+      "rank": 210,
+      "value": 899,
       "age": 20.8,
       "source": "harryknowsball",
       "prospect": true,
@@ -24382,8 +24382,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 373,
-      "value": 396,
+      "rank": 372,
+      "value": 395,
       "age": 20.1,
       "source": "harryknowsball",
       "prospect": true,
@@ -24413,8 +24413,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 619,
-      "value": 107,
+      "rank": 616,
+      "value": 108,
       "age": 22.5,
       "source": "harryknowsball",
       "prospect": true,
@@ -24447,7 +24447,7 @@
         "3B",
         "SS"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 28.4,
       "source": "harryknowsball",
@@ -24479,8 +24479,8 @@
         "SP",
         "RP"
       ],
-      "rank": 221,
-      "value": 846,
+      "rank": 220,
+      "value": 853,
       "age": 24.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -24511,8 +24511,8 @@
         "SP",
         "RP"
       ],
-      "rank": 711,
-      "value": 67,
+      "rank": 712,
+      "value": 65,
       "age": 28.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -24543,7 +24543,7 @@
         "SP",
         "RP"
       ],
-      "rank": 575,
+      "rank": 574,
       "value": 138,
       "age": 27.7,
       "source": "harryknowsball",
@@ -24574,8 +24574,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 188,
-      "value": 961,
+      "rank": 187,
+      "value": 959,
       "age": 29.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -24605,8 +24605,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 200,
-      "value": 911,
+      "rank": 201,
+      "value": 914,
       "age": 27.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -24637,7 +24637,7 @@
         "RP"
       ],
       "rank": 46,
-      "value": 3198,
+      "value": 3216,
       "age": 27.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -24667,7 +24667,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 733,
+      "rank": 734,
       "value": 58,
       "age": 28.6,
       "source": "harryknowsball",
@@ -24699,7 +24699,7 @@
         "RP"
       ],
       "rank": 728,
-      "value": 59,
+      "value": 61,
       "age": 27.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -24729,8 +24729,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 640,
-      "value": 96,
+      "rank": 646,
+      "value": 93,
       "age": 33.5,
       "source": "harryknowsball",
       "prospect": false,
@@ -24761,7 +24761,7 @@
         "SP"
       ],
       "rank": 24,
-      "value": 4602,
+      "value": 4651,
       "age": 29.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -24792,7 +24792,7 @@
         "SP"
       ],
       "rank": 273,
-      "value": 664,
+      "value": 663,
       "age": 25.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -24822,8 +24822,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 339,
-      "value": 474,
+      "rank": 341,
+      "value": 465,
       "age": 27.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -24853,8 +24853,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 408,
-      "value": 341,
+      "rank": 406,
+      "value": 343,
       "age": 26,
       "source": "harryknowsball",
       "prospect": false,
@@ -24885,7 +24885,7 @@
         "SP"
       ],
       "rank": 92,
-      "value": 2001,
+      "value": 1986,
       "age": 25.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -24916,7 +24916,7 @@
         "SP"
       ],
       "rank": 112,
-      "value": 1638,
+      "value": 1622,
       "age": 29.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -24946,8 +24946,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 302,
-      "value": 583,
+      "rank": 303,
+      "value": 580,
       "age": 27.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -24977,8 +24977,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 545,
-      "value": 163,
+      "rank": 546,
+      "value": 162,
       "age": 28.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -25008,8 +25008,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 501,
-      "value": 217,
+      "rank": 513,
+      "value": 208,
       "age": 30.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -25039,8 +25039,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 557,
-      "value": 153,
+      "rank": 552,
+      "value": 156,
       "age": 25.8,
       "source": "harryknowsball",
       "prospect": true,
@@ -25070,7 +25070,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 31.4,
       "source": "harryknowsball",
@@ -25102,7 +25102,7 @@
         "SP"
       ],
       "rank": 250,
-      "value": 737,
+      "value": 735,
       "age": 24.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -25132,7 +25132,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 238,
+      "rank": 240,
       "value": 777,
       "age": 22.3,
       "source": "harryknowsball",
@@ -25163,8 +25163,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 195,
-      "value": 945,
+      "rank": 196,
+      "value": 937,
       "age": 23.1,
       "source": "harryknowsball",
       "prospect": true,
@@ -25194,8 +25194,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 490,
-      "value": 233,
+      "rank": 488,
+      "value": 240,
       "age": 24.2,
       "source": "harryknowsball",
       "prospect": true,
@@ -25225,8 +25225,8 @@
       "positions": [
         "C"
       ],
-      "rank": 80,
-      "value": 2280,
+      "rank": 81,
+      "value": 2248,
       "age": 29.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -25257,7 +25257,7 @@
         "1B"
       ],
       "rank": 349,
-      "value": 441,
+      "value": 440,
       "age": 28.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -25287,8 +25287,8 @@
       "positions": [
         "2B"
       ],
-      "rank": 213,
-      "value": 883,
+      "rank": 212,
+      "value": 887,
       "age": 32,
       "source": "harryknowsball",
       "prospect": false,
@@ -25321,8 +25321,8 @@
         "SS",
         "OF"
       ],
-      "rank": 650,
-      "value": 90,
+      "rank": 646,
+      "value": 93,
       "age": 27.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -25352,8 +25352,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 362,
-      "value": 409,
+      "rank": 363,
+      "value": 407,
       "age": 32.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -25383,8 +25383,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 421,
-      "value": 319,
+      "rank": 420,
+      "value": 323,
       "age": 26.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -25415,7 +25415,7 @@
         "OF"
       ],
       "rank": 9,
-      "value": 6612,
+      "value": 6622,
       "age": 25.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -25447,7 +25447,7 @@
         "OF"
       ],
       "rank": 32,
-      "value": 4128,
+      "value": 4155,
       "age": 27.5,
       "source": "harryknowsball",
       "prospect": false,
@@ -25478,7 +25478,7 @@
         "OF"
       ],
       "rank": 262,
-      "value": 704,
+      "value": 705,
       "age": 25.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -25508,8 +25508,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 328,
-      "value": 507,
+      "rank": 331,
+      "value": 497,
       "age": 27.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -25540,8 +25540,8 @@
         "1B",
         "3B"
       ],
-      "rank": 379,
-      "value": 378,
+      "rank": 383,
+      "value": 375,
       "age": 24.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -25571,8 +25571,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 253,
-      "value": 734,
+      "rank": 260,
+      "value": 714,
       "age": 22.5,
       "source": "harryknowsball",
       "prospect": false,
@@ -25602,8 +25602,8 @@
       "positions": [
         "C"
       ],
-      "rank": 488,
-      "value": 236,
+      "rank": 491,
+      "value": 230,
       "age": 26.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -25636,7 +25636,7 @@
         "SS"
       ],
       "rank": 305,
-      "value": 577,
+      "value": 570,
       "age": 22.3,
       "source": "harryknowsball",
       "prospect": true,
@@ -25667,7 +25667,7 @@
         "OF"
       ],
       "rank": 152,
-      "value": 1229,
+      "value": 1234,
       "age": 23,
       "source": "harryknowsball",
       "prospect": true,
@@ -25697,8 +25697,8 @@
       "positions": [
         "C"
       ],
-      "rank": 425,
-      "value": 315,
+      "rank": 428,
+      "value": 308,
       "age": 19.9,
       "source": "harryknowsball",
       "prospect": true,
@@ -25728,8 +25728,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 345,
-      "value": 458,
+      "rank": 347,
+      "value": 449,
       "age": 23.2,
       "source": "harryknowsball",
       "prospect": true,
@@ -25761,7 +25761,7 @@
         "2B",
         "SS"
       ],
-      "rank": 385,
+      "rank": 384,
       "value": 373,
       "age": 24.1,
       "source": "harryknowsball",
@@ -25794,8 +25794,8 @@
         "3B",
         "OF"
       ],
-      "rank": 838,
-      "value": 13,
+      "rank": 840,
+      "value": 10,
       "age": 29.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -25858,7 +25858,7 @@
         "2B",
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 28.6,
       "source": "harryknowsball",
@@ -25889,8 +25889,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 421,
-      "value": 319,
+      "rank": 418,
+      "value": 325,
       "age": 18.5,
       "source": "harryknowsball",
       "prospect": true,
@@ -25921,8 +25921,8 @@
         "1B",
         "3B"
       ],
-      "rank": 460,
-      "value": 269,
+      "rank": 463,
+      "value": 266,
       "age": 21.6,
       "source": "harryknowsball",
       "prospect": true,
@@ -25952,9 +25952,9 @@
       "positions": [
         "SS"
       ],
-      "rank": 125,
-      "value": 1459,
-      "age": 20.6,
+      "rank": 129,
+      "value": 1449,
+      "age": 20.7,
       "source": "harryknowsball",
       "prospect": true,
       "level": "AA"
@@ -25983,8 +25983,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 333,
-      "value": 495,
+      "rank": 329,
+      "value": 505,
       "age": 20.8,
       "source": "harryknowsball",
       "prospect": true,
@@ -26015,7 +26015,7 @@
         "OF"
       ],
       "rank": 166,
-      "value": 1149,
+      "value": 1148,
       "age": 20.8,
       "source": "harryknowsball",
       "prospect": true,
@@ -26045,8 +26045,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 95,
-      "value": 1920,
+      "rank": 96,
+      "value": 1903,
       "age": 30.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -26077,7 +26077,7 @@
         "SP",
         "RP"
       ],
-      "rank": 799,
+      "rank": 800,
       "value": 33,
       "age": 30.8,
       "source": "harryknowsball",
@@ -26109,7 +26109,7 @@
         "SP"
       ],
       "rank": 25,
-      "value": 4567,
+      "value": 4578,
       "age": 27.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -26140,7 +26140,7 @@
         "SP"
       ],
       "rank": 93,
-      "value": 1969,
+      "value": 1956,
       "age": 28.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -26170,7 +26170,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 764,
+      "rank": 768,
       "value": 44,
       "age": 31.8,
       "source": "harryknowsball",
@@ -26201,8 +26201,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 814,
-      "value": 26,
+      "rank": 812,
+      "value": 27,
       "age": 34.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -26232,8 +26232,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 795,
-      "value": 34,
+      "rank": 790,
+      "value": 37,
       "age": 31.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -26263,7 +26263,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 33.2,
       "source": "harryknowsball",
@@ -26294,7 +26294,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 502,
+      "rank": 504,
       "value": 215,
       "age": 23.8,
       "source": "harryknowsball",
@@ -26325,8 +26325,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 739,
-      "value": 55,
+      "rank": 730,
+      "value": 60,
       "age": 24.5,
       "source": "harryknowsball",
       "prospect": true,
@@ -26356,8 +26356,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 671,
-      "value": 82,
+      "rank": 677,
+      "value": 80,
       "age": 21.5,
       "source": "harryknowsball",
       "prospect": true,
@@ -26387,9 +26387,9 @@
       "positions": [
         "SP"
       ],
-      "rank": 579,
-      "value": 135,
-      "age": 23.2,
+      "rank": 582,
+      "value": 133,
+      "age": 23.3,
       "source": "harryknowsball",
       "prospect": true,
       "level": "AA"
@@ -26418,7 +26418,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 27.7,
       "source": "harryknowsball",
@@ -26449,8 +26449,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 825,
-      "value": 20,
+      "rank": 833,
+      "value": 15,
       "age": 36.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -26480,8 +26480,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 746,
-      "value": 51,
+      "rank": 764,
+      "value": 45,
       "age": 32.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -26511,7 +26511,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 326,
+      "rank": 327,
       "value": 511,
       "age": 21.3,
       "source": "harryknowsball",
@@ -26542,7 +26542,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 21.9,
       "source": "harryknowsball",
@@ -26573,8 +26573,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 676,
-      "value": 80,
+      "rank": 668,
+      "value": 82,
       "age": 17.9,
       "source": "harryknowsball",
       "prospect": true,
@@ -26604,8 +26604,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 311,
-      "value": 561,
+      "rank": 307,
+      "value": 564,
       "age": 22.3,
       "source": "harryknowsball",
       "prospect": true,
@@ -26635,8 +26635,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 257,
-      "value": 728,
+      "rank": 251,
+      "value": 729,
       "age": 22.2,
       "source": "harryknowsball",
       "prospect": true,
@@ -26666,8 +26666,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 640,
-      "value": 96,
+      "rank": 646,
+      "value": 93,
       "age": 33.5,
       "source": "harryknowsball",
       "prospect": false,
@@ -26697,8 +26697,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 525,
-      "value": 192,
+      "rank": 526,
+      "value": 190,
       "age": 35.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -26728,8 +26728,8 @@
       "positions": [
         "C"
       ],
-      "rank": 48,
-      "value": 3040,
+      "rank": 49,
+      "value": 3015,
       "age": 21.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -26759,8 +26759,8 @@
       "positions": [
         "1B"
       ],
-      "rank": 181,
-      "value": 1013,
+      "rank": 180,
+      "value": 1019,
       "age": 36.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -26790,8 +26790,8 @@
       "positions": [
         "2B"
       ],
-      "rank": 66,
-      "value": 2632,
+      "rank": 68,
+      "value": 2620,
       "age": 32.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -26822,7 +26822,7 @@
         "3B"
       ],
       "rank": 293,
-      "value": 617,
+      "value": 612,
       "age": 28.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -26853,7 +26853,7 @@
         "SS"
       ],
       "rank": 120,
-      "value": 1509,
+      "value": 1504,
       "age": 33.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -26884,8 +26884,8 @@
         "OF",
         "UT"
       ],
-      "rank": 308,
-      "value": 564,
+      "rank": 312,
+      "value": 554,
       "age": 34.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -26948,7 +26948,7 @@
         "OF"
       ],
       "rank": 5,
-      "value": 7474,
+      "value": 7378,
       "age": 27.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -26979,7 +26979,7 @@
         "SP",
         "UT"
       ],
-      "rank": 2,
+      "rank": 1,
       "value": 10000,
       "age": 32,
       "source": "harryknowsball",
@@ -27011,8 +27011,8 @@
         "1B",
         "3B"
       ],
-      "rank": 622,
-      "value": 105,
+      "rank": 616,
+      "value": 108,
       "age": 23.1,
       "source": "harryknowsball",
       "prospect": true,
@@ -27042,8 +27042,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 429,
-      "value": 310,
+      "rank": 428,
+      "value": 308,
       "age": 29.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -27073,8 +27073,8 @@
       "positions": [
         "1B"
       ],
-      "rank": 441,
-      "value": 295,
+      "rank": 421,
+      "value": 322,
       "age": 24.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -27105,7 +27105,7 @@
         "OF"
       ],
       "rank": 384,
-      "value": 374,
+      "value": 373,
       "age": 19.5,
       "source": "harryknowsball",
       "prospect": true,
@@ -27135,8 +27135,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 227,
-      "value": 819,
+      "rank": 229,
+      "value": 813,
       "age": 24,
       "source": "harryknowsball",
       "prospect": false,
@@ -27167,7 +27167,7 @@
         "SS"
       ],
       "rank": 11,
-      "value": 6231,
+      "value": 6203,
       "age": 20.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -27197,8 +27197,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 131,
-      "value": 1419,
+      "rank": 132,
+      "value": 1407,
       "age": 32.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -27228,8 +27228,8 @@
       "positions": [
         "C"
       ],
-      "rank": 204,
-      "value": 905,
+      "rank": 202,
+      "value": 912,
       "age": 31.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -27259,8 +27259,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 588,
-      "value": 126,
+      "rank": 592,
+      "value": 124,
       "age": 19.8,
       "source": "harryknowsball",
       "prospect": true,
@@ -27290,8 +27290,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 230,
-      "value": 802,
+      "rank": 232,
+      "value": 799,
       "age": 23.4,
       "source": "harryknowsball",
       "prospect": true,
@@ -27321,8 +27321,8 @@
       "positions": [
         "SS"
       ],
-      "rank": 160,
-      "value": 1175,
+      "rank": 161,
+      "value": 1166,
       "age": 21.1,
       "source": "harryknowsball",
       "prospect": true,
@@ -27353,8 +27353,8 @@
         "3B",
         "SS"
       ],
-      "rank": 168,
-      "value": 1140,
+      "rank": 165,
+      "value": 1156,
       "age": 20.8,
       "source": "harryknowsball",
       "prospect": true,
@@ -27384,8 +27384,8 @@
       "positions": [
         "C"
       ],
-      "rank": 610,
-      "value": 112,
+      "rank": 602,
+      "value": 116,
       "age": 19.7,
       "source": "harryknowsball",
       "prospect": true,
@@ -27415,8 +27415,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 702,
-      "value": 71,
+      "rank": 719,
+      "value": 64,
       "age": 36.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -27446,8 +27446,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 335,
-      "value": 486,
+      "rank": 339,
+      "value": 476,
       "age": 26.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -27477,8 +27477,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 63,
-      "value": 2687,
+      "rank": 62,
+      "value": 2719,
       "age": 30.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -27508,8 +27508,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 256,
-      "value": 729,
+      "rank": 261,
+      "value": 713,
       "age": 27.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -27540,7 +27540,7 @@
         "SP"
       ],
       "rank": 115,
-      "value": 1576,
+      "value": 1574,
       "age": 22.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -27570,8 +27570,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 689,
-      "value": 76,
+      "rank": 684,
+      "value": 77,
       "age": 26.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -27601,7 +27601,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 27.3,
       "source": "harryknowsball",
@@ -27632,9 +27632,9 @@
       "positions": [
         "RP"
       ],
-      "rank": 764,
-      "value": 44,
-      "age": 29.5,
+      "rank": 776,
+      "value": 41,
+      "age": 29.6,
       "source": "harryknowsball",
       "prospect": false,
       "level": "MLB"
@@ -27663,9 +27663,9 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
-      "age": 39.4,
+      "age": 39.5,
       "source": "harryknowsball",
       "prospect": false,
       "level": "MLB"
@@ -27694,7 +27694,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 31.3,
       "source": "harryknowsball",
@@ -27725,7 +27725,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 763,
+      "rank": 764,
       "value": 45,
       "age": 24.1,
       "source": "harryknowsball",
@@ -27756,8 +27756,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 359,
-      "value": 413,
+      "rank": 362,
+      "value": 408,
       "age": 36.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -27787,8 +27787,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 516,
-      "value": 204,
+      "rank": 519,
+      "value": 198,
       "age": 26.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -27818,8 +27818,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 468,
-      "value": 258,
+      "rank": 466,
+      "value": 260,
       "age": 30.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -27850,7 +27850,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 25.7,
       "source": "harryknowsball",
@@ -27881,8 +27881,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 831,
-      "value": 19,
+      "rank": 824,
+      "value": 21,
       "age": 22.2,
       "source": "harryknowsball",
       "prospect": true,
@@ -27912,8 +27912,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 369,
-      "value": 401,
+      "rank": 366,
+      "value": 405,
       "age": 25.5,
       "source": "harryknowsball",
       "prospect": false,
@@ -27944,7 +27944,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 23.8,
       "source": "harryknowsball",
@@ -27975,8 +27975,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 657,
-      "value": 87,
+      "rank": 640,
+      "value": 96,
       "age": 28.5,
       "source": "harryknowsball",
       "prospect": false,
@@ -28006,8 +28006,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 640,
-      "value": 96,
+      "rank": 627,
+      "value": 104,
       "age": 33.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -28037,8 +28037,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 646,
-      "value": 92,
+      "rank": 653,
+      "value": 89,
       "age": 31.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -28069,7 +28069,7 @@
         "SP"
       ],
       "rank": 267,
-      "value": 683,
+      "value": 681,
       "age": 18.8,
       "source": "harryknowsball",
       "prospect": true,
@@ -28099,8 +28099,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 388,
-      "value": 366,
+      "rank": 386,
+      "value": 369,
       "age": 23.3,
       "source": "harryknowsball",
       "prospect": true,
@@ -28130,8 +28130,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 198,
-      "value": 919,
+      "rank": 197,
+      "value": 929,
       "age": 21.8,
       "source": "harryknowsball",
       "prospect": true,
@@ -28161,8 +28161,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 591,
-      "value": 124,
+      "rank": 587,
+      "value": 127,
       "age": 19.2,
       "source": "harryknowsball",
       "prospect": true,
@@ -28192,8 +28192,8 @@
       "positions": [
         "C"
       ],
-      "rank": 110,
-      "value": 1668,
+      "rank": 109,
+      "value": 1657,
       "age": 26.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -28223,8 +28223,8 @@
       "positions": [
         "1B"
       ],
-      "rank": 101,
-      "value": 1840,
+      "rank": 102,
+      "value": 1830,
       "age": 29.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -28256,7 +28256,7 @@
         "SS"
       ],
       "rank": 126,
-      "value": 1458,
+      "value": 1457,
       "age": 26.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -28287,8 +28287,8 @@
         "1B",
         "3B"
       ],
-      "rank": 36,
-      "value": 3811,
+      "rank": 37,
+      "value": 3768,
       "age": 22.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -28320,7 +28320,7 @@
         "SS"
       ],
       "rank": 23,
-      "value": 4820,
+      "value": 4811,
       "age": 23.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -28351,7 +28351,7 @@
         "OF"
       ],
       "rank": 273,
-      "value": 664,
+      "value": 663,
       "age": 28.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -28381,7 +28381,7 @@
       "positions": [
         "OF"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 30.9,
       "source": "harryknowsball",
@@ -28412,8 +28412,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 275,
-      "value": 662,
+      "rank": 277,
+      "value": 653,
       "age": 31.5,
       "source": "harryknowsball",
       "prospect": false,
@@ -28443,8 +28443,8 @@
       "positions": [
         "1B"
       ],
-      "rank": 127,
-      "value": 1451,
+      "rank": 123,
+      "value": 1476,
       "age": 28.1,
       "source": "harryknowsball",
       "prospect": false,
@@ -28476,7 +28476,7 @@
         "3B"
       ],
       "rank": 298,
-      "value": 596,
+      "value": 600,
       "age": 27.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -28506,8 +28506,8 @@
       "positions": [
         "C"
       ],
-      "rank": 201,
-      "value": 910,
+      "rank": 204,
+      "value": 908,
       "age": 24.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -28538,7 +28538,7 @@
         "OF"
       ],
       "rank": 397,
-      "value": 357,
+      "value": 354,
       "age": 26.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -28568,8 +28568,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 387,
-      "value": 368,
+      "rank": 386,
+      "value": 369,
       "age": 33.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -28600,8 +28600,8 @@
         "2B",
         "SS"
       ],
-      "rank": 502,
-      "value": 215,
+      "rank": 509,
+      "value": 210,
       "age": 27.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -28631,8 +28631,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 246,
-      "value": 749,
+      "rank": 245,
+      "value": 753,
       "age": 21.7,
       "source": "harryknowsball",
       "prospect": true,
@@ -28662,8 +28662,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 342,
-      "value": 466,
+      "rank": 344,
+      "value": 461,
       "age": 24.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -28693,8 +28693,8 @@
       "positions": [
         "2B"
       ],
-      "rank": 764,
-      "value": 44,
+      "rank": 776,
+      "value": 41,
       "age": 35.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -28724,8 +28724,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 420,
-      "value": 320,
+      "rank": 423,
+      "value": 319,
       "age": 18.9,
       "source": "harryknowsball",
       "prospect": true,
@@ -28756,8 +28756,8 @@
         "C",
         "1B"
       ],
-      "rank": 315,
-      "value": 541,
+      "rank": 316,
+      "value": 544,
       "age": 21.8,
       "source": "harryknowsball",
       "prospect": true,
@@ -28787,8 +28787,8 @@
       "positions": [
         "OF"
       ],
-      "rank": 113,
-      "value": 1612,
+      "rank": 114,
+      "value": 1620,
       "age": 19.7,
       "source": "harryknowsball",
       "prospect": true,
@@ -28819,8 +28819,8 @@
         "2B",
         "SS"
       ],
-      "rank": 117,
-      "value": 1545,
+      "rank": 115,
+      "value": 1574,
       "age": 19.7,
       "source": "harryknowsball",
       "prospect": true,
@@ -28850,9 +28850,9 @@
       "positions": [
         "SP"
       ],
-      "rank": 146,
-      "value": 1298,
-      "age": 30.8,
+      "rank": 147,
+      "value": 1282,
+      "age": 30.9,
       "source": "harryknowsball",
       "prospect": false,
       "level": "MLB"
@@ -28882,8 +28882,8 @@
         "SP",
         "RP"
       ],
-      "rank": 622,
-      "value": 105,
+      "rank": 613,
+      "value": 110,
       "age": 27.5,
       "source": "harryknowsball",
       "prospect": false,
@@ -28913,8 +28913,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 254,
-      "value": 732,
+      "rank": 256,
+      "value": 721,
       "age": 35.8,
       "source": "harryknowsball",
       "prospect": false,
@@ -28944,7 +28944,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 511,
+      "rank": 506,
       "value": 211,
       "age": 31,
       "source": "harryknowsball",
@@ -28993,7 +28993,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 785,
+      "rank": 786,
       "value": 38,
       "age": 31.9,
       "source": "harryknowsball",
@@ -29024,8 +29024,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 487,
-      "value": 239,
+      "rank": 486,
+      "value": 241,
       "age": 27.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -29055,7 +29055,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 32.9,
       "source": "harryknowsball",
@@ -29086,8 +29086,8 @@
       "positions": [
         "RP"
       ],
-      "rank": 818,
-      "value": 23,
+      "rank": 824,
+      "value": 21,
       "age": 32.2,
       "source": "harryknowsball",
       "prospect": false,
@@ -29135,8 +29135,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 525,
-      "value": 192,
+      "rank": 526,
+      "value": 190,
       "age": 35.4,
       "source": "harryknowsball",
       "prospect": false,
@@ -29167,7 +29167,7 @@
         "SP",
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 33.4,
       "source": "harryknowsball",
@@ -29198,7 +29198,7 @@
       "positions": [
         "SP"
       ],
-      "rank": 497,
+      "rank": 498,
       "value": 221,
       "age": 28.9,
       "source": "harryknowsball",
@@ -29229,8 +29229,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 425,
-      "value": 315,
+      "rank": 434,
+      "value": 304,
       "age": 26.7,
       "source": "harryknowsball",
       "prospect": false,
@@ -29260,7 +29260,7 @@
       "positions": [
         "RP"
       ],
-      "rank": 839,
+      "rank": 840,
       "value": 10,
       "age": 38,
       "source": "harryknowsball",
@@ -29291,8 +29291,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 232,
-      "value": 798,
+      "rank": 234,
+      "value": 790,
       "age": 33.6,
       "source": "harryknowsball",
       "prospect": false,
@@ -29323,7 +29323,7 @@
         "SP"
       ],
       "rank": 142,
-      "value": 1340,
+      "value": 1331,
       "age": 24.9,
       "source": "harryknowsball",
       "prospect": false,
@@ -29371,8 +29371,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 167,
-      "value": 1144,
+      "rank": 168,
+      "value": 1139,
       "age": 23.3,
       "source": "harryknowsball",
       "prospect": false,
@@ -29402,8 +29402,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 560,
-      "value": 152,
+      "rank": 554,
+      "value": 155,
       "age": 21.8,
       "source": "harryknowsball",
       "prospect": true,
@@ -29433,8 +29433,8 @@
       "positions": [
         "SP"
       ],
-      "rank": 637,
-      "value": 98,
+      "rank": 640,
+      "value": 96,
       "age": 23.5,
       "source": "harryknowsball",
       "prospect": true,
@@ -29465,9 +29465,9 @@
         "SP",
         "RP"
       ],
-      "rank": 582,
+      "rank": 583,
       "value": 132,
-      "age": 23.2,
+      "age": 23.3,
       "source": "harryknowsball",
       "prospect": true,
       "level": "AAA"
