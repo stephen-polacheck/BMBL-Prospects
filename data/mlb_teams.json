@@ -6,7 +6,8 @@
     "nickname": "Diamondbacks",
     "primary": "#A71930",
     "secondary": "#E3D4AD",
-    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/ari.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/ari.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "logoroundel": "https://midfield.mlbstatic.com/v1/team/109/spots/400"
   },
   {
     "abbrev": "ATL",
@@ -15,7 +16,8 @@
     "nickname": "Braves",
     "primary": "#CE1141",
     "secondary": "#13274F",
-    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/atl.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/atl.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "logoroundel": "https://midfield.mlbstatic.com/v1/team/144/spots/400"
   },
   {
     "abbrev": "BAL",
@@ -24,7 +26,8 @@
     "nickname": "Orioles",
     "primary": "#DF4601",
     "secondary": "#000000",
-    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/bal.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/bal.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "logoroundel": "https://midfield.mlbstatic.com/v1/team/110/spots/400"
   },
   {
     "abbrev": "BOS",
@@ -33,7 +36,8 @@
     "nickname": "Red Sox",
     "primary": "#BD3039",
     "secondary": "#0C2340",
-    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/bos.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/bos.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "logoroundel": "https://midfield.mlbstatic.com/v1/team/111/spots/400"
   },
   {
     "abbrev": "CHC",
@@ -42,7 +46,8 @@
     "nickname": "Cubs",
     "primary": "#0E3386",
     "secondary": "#CC3433",
-    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/chc.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/chc.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "logoroundel": "https://midfield.mlbstatic.com/v1/team/112/spots/400"
   },
   {
     "abbrev": "CWS",
@@ -51,7 +56,8 @@
     "nickname": "White Sox",
     "primary": "#27251F",
     "secondary": "#C4CED4",
-    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/chw.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/chw.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "logoroundel": "https://midfield.mlbstatic.com/v1/team/145/spots/400"
   },
   {
     "abbrev": "CIN",
@@ -60,7 +66,8 @@
     "nickname": "Reds",
     "primary": "#C6011F",
     "secondary": "#000000",
-    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/cin.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/cin.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "logoroundel": "https://midfield.mlbstatic.com/v1/team/113/spots/400"
   },
   {
     "abbrev": "CLE",
@@ -69,7 +76,8 @@
     "nickname": "Guardians",
     "primary": "#00385D",
     "secondary": "#E50022",
-    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/cle.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/cle.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "logoroundel": "https://midfield.mlbstatic.com/v1/team/114/spots/400"
   },
   {
     "abbrev": "COL",
@@ -78,7 +86,8 @@
     "nickname": "Rockies",
     "primary": "#33006F",
     "secondary": "#C4CED4",
-    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/col.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/col.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "logoroundel": "https://midfield.mlbstatic.com/v1/team/115/spots/400"
   },
   {
     "abbrev": "DET",
@@ -87,7 +96,8 @@
     "nickname": "Tigers",
     "primary": "#0C2340",
     "secondary": "#FA4616",
-    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/det.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/det.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "logoroundel": "https://midfield.mlbstatic.com/v1/team/116/spots/400"
   },
   {
     "abbrev": "HOU",
@@ -96,7 +106,8 @@
     "nickname": "Astros",
     "primary": "#002D62",
     "secondary": "#EB6E1F",
-    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/hou.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/hou.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "logoroundel": "https://midfield.mlbstatic.com/v1/team/117/spots/400"
   },
   {
     "abbrev": "KC",
@@ -105,7 +116,8 @@
     "nickname": "Royals",
     "primary": "#004687",
     "secondary": "#BD9B60",
-    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/kc.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/kc.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "logoroundel": "https://midfield.mlbstatic.com/v1/team/118/spots/400"
   },
   {
     "abbrev": "LAA",
@@ -114,7 +126,8 @@
     "nickname": "Angels",
     "primary": "#BA0021",
     "secondary": "#003263",
-    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/laa.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/laa.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "logoroundel": "https://midfield.mlbstatic.com/v1/team/108/spots/400"
   },
   {
     "abbrev": "LAD",
@@ -123,7 +136,8 @@
     "nickname": "Dodgers",
     "primary": "#005A9C",
     "secondary": "#FFFFFF",
-    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/lad.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/lad.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "logoroundel": "https://midfield.mlbstatic.com/v1/team/119/spots/400"
   },
   {
     "abbrev": "MIA",
@@ -132,7 +146,8 @@
     "nickname": "Marlins",
     "primary": "#00A3E0",
     "secondary": "#EF3340",
-    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/mia.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/mia.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "logoroundel": "https://midfield.mlbstatic.com/v1/team/146/spots/400"
   },
   {
     "abbrev": "MIL",
@@ -141,7 +156,8 @@
     "nickname": "Brewers",
     "primary": "#12284B",
     "secondary": "#FFC52F",
-    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/mil.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/mil.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "logoroundel": "https://midfield.mlbstatic.com/v1/team/158/spots/400"
   },
   {
     "abbrev": "MIN",
@@ -150,7 +166,8 @@
     "nickname": "Twins",
     "primary": "#002B5C",
     "secondary": "#D31145",
-    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/min.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/min.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "logoroundel": "https://midfield.mlbstatic.com/v1/team/142/spots/400"
   },
   {
     "abbrev": "NYM",
@@ -159,7 +176,8 @@
     "nickname": "Mets",
     "primary": "#002D72",
     "secondary": "#FF5910",
-    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/nym.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/nym.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "logoroundel": "https://midfield.mlbstatic.com/v1/team/121/spots/400"
   },
   {
     "abbrev": "NYY",
@@ -168,7 +186,8 @@
     "nickname": "Yankees",
     "primary": "#0C2340",
     "secondary": "#C4CED4",
-    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/nyy.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/nyy.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "logoroundel": "https://midfield.mlbstatic.com/v1/team/147/spots/400"
   },
   {
     "abbrev": "ATH",
@@ -177,7 +196,8 @@
     "nickname": "Athletics",
     "primary": "#003831",
     "secondary": "#EFB21E",
-    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/oak.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/oak.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "logoroundel": "https://midfield.mlbstatic.com/v1/team/133/spots/400"
   },
   {
     "abbrev": "PHI",
@@ -186,7 +206,8 @@
     "nickname": "Phillies",
     "primary": "#E81828",
     "secondary": "#002D72",
-    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/phi.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/phi.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "logoroundel": "https://midfield.mlbstatic.com/v1/team/143/spots/400"
   },
   {
     "abbrev": "PIT",
@@ -195,7 +216,8 @@
     "nickname": "Pirates",
     "primary": "#FDB827",
     "secondary": "#27251F",
-    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/pit.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/pit.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "logoroundel": "https://midfield.mlbstatic.com/v1/team/134/spots/400"
   },
   {
     "abbrev": "SD",
@@ -204,7 +226,8 @@
     "nickname": "Padres",
     "primary": "#2F241D",
     "secondary": "#FFC425",
-    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sd.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sd.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "logoroundel": "https://midfield.mlbstatic.com/v1/team/135/spots/400"
   },
   {
     "abbrev": "SEA",
@@ -213,7 +236,8 @@
     "nickname": "Mariners",
     "primary": "#0C2C56",
     "secondary": "#005C5C",
-    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sea.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sea.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "logoroundel": "https://midfield.mlbstatic.com/v1/team/136/spots/400"
   },
   {
     "abbrev": "SF",
@@ -222,7 +246,8 @@
     "nickname": "Giants",
     "primary": "#FD5A1E",
     "secondary": "#27251F",
-    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sf.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sf.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "logoroundel": "https://midfield.mlbstatic.com/v1/team/137/spots/400"
   },
   {
     "abbrev": "STL",
@@ -231,7 +256,8 @@
     "nickname": "Cardinals",
     "primary": "#C41E3A",
     "secondary": "#0C2340",
-    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/stl.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/stl.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "logoroundel": "https://midfield.mlbstatic.com/v1/team/138/spots/400"
   },
   {
     "abbrev": "TB",
@@ -240,7 +266,8 @@
     "nickname": "Rays",
     "primary": "#092C5C",
     "secondary": "#8FBCE6",
-    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tb.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tb.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "logoroundel": "https://midfield.mlbstatic.com/v1/team/139/spots/400"
   },
   {
     "abbrev": "TEX",
@@ -249,7 +276,8 @@
     "nickname": "Rangers",
     "primary": "#003278",
     "secondary": "#C0111F",
-    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tex.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tex.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "logoroundel": "https://midfield.mlbstatic.com/v1/team/140/spots/400"
   },
   {
     "abbrev": "TOR",
@@ -258,7 +286,8 @@
     "nickname": "Blue Jays",
     "primary": "#134A8E",
     "secondary": "#1D2D5C",
-    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tor.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tor.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "logoroundel": "https://midfield.mlbstatic.com/v1/team/141/spots/400"
   },
   {
     "abbrev": "WSH",
@@ -267,6 +296,7 @@
     "nickname": "Nationals",
     "primary": "#AB0003",
     "secondary": "#14225A",
-    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/wsh.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    "logourl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/wsh.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+    "logoroundel": "https://midfield.mlbstatic.com/v1/team/120/spots/400"
   }
 ]
