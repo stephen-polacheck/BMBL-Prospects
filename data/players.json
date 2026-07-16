@@ -333,7 +333,7 @@
     ],
     "mlb_team": "ATH",
     "mlb_team_name": " Athletics",
-    "status": "NA"
+    "status": ""
   },
   {
     "team_id": 1,
@@ -4797,7 +4797,7 @@
     ],
     "mlb_team": "AZ",
     "mlb_team_name": "Arizona Diamondbacks",
-    "status": "DTD"
+    "status": "IL10"
   },
   {
     "team_id": 7,
@@ -6715,8 +6715,8 @@
     "eligible_positions": [
       "SP"
     ],
-    "mlb_team": "HOU",
-    "mlb_team_name": "Houston Astros",
+    "mlb_team": "MIL",
+    "mlb_team_name": "Milwaukee Brewers",
     "status": "IL15"
   },
   {
@@ -13469,7 +13469,7 @@
     ],
     "mlb_team": "ATH",
     "mlb_team_name": " Athletics",
-    "status": ""
+    "status": "NA"
   },
   {
     "team_id": 18,
@@ -14301,7 +14301,7 @@
     ],
     "mlb_team": "ATH",
     "mlb_team_name": " Athletics",
-    "status": ""
+    "status": "NA"
   },
   {
     "team_id": 19,
