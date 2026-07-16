@@ -533,7 +533,7 @@ img {
 
 .mlb-club-card {
 
-    background:white;
+    /* background:white; */
 
     border:6px solid;
 
@@ -567,9 +567,9 @@ img {
 
 .mlb-club-logo {
 
-    width:40px;
+    width:60px;
 
-    height:40px;
+    height:60px;
 
     object-fit:contain;
 

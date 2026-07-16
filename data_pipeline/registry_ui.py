@@ -1,4 +1,5 @@
 # streamlit run data_pipeline/registry_ui.py
+# python -m http.server
 
 import csv
 import json
