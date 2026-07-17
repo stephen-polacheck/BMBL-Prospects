@@ -4109,7 +4109,7 @@
     ],
     "mlb_team": "NYM",
     "mlb_team_name": "New York Mets",
-    "status": "DTD"
+    "status": ""
   },
   {
     "team_id": 6,
@@ -4749,7 +4749,7 @@
     ],
     "mlb_team": "AZ",
     "mlb_team_name": "Arizona Diamondbacks",
-    "status": ""
+    "status": "DTD"
   },
   {
     "team_id": 7,
@@ -10861,7 +10861,7 @@
     ],
     "mlb_team": "BAL",
     "mlb_team_name": "Baltimore Orioles",
-    "status": "NA"
+    "status": ""
   },
   {
     "team_id": 15,
@@ -11085,7 +11085,7 @@
     ],
     "mlb_team": "PHI",
     "mlb_team_name": "Philadelphia Phillies",
-    "status": ""
+    "status": "IL15"
   },
   {
     "team_id": 15,
@@ -13005,7 +13005,7 @@
     ],
     "mlb_team": "BAL",
     "mlb_team_name": "Baltimore Orioles",
-    "status": "DTD"
+    "status": "IL10"
   },
   {
     "team_id": 18,
@@ -13133,7 +13133,7 @@
     ],
     "mlb_team": "PHI",
     "mlb_team_name": "Philadelphia Phillies",
-    "status": "DTD"
+    "status": ""
   },
   {
     "team_id": 18,
@@ -13837,7 +13837,7 @@
     ],
     "mlb_team": "NYM",
     "mlb_team_name": "New York Mets",
-    "status": ""
+    "status": "DTD"
   },
   {
     "team_id": 19,
@@ -14733,7 +14733,7 @@
     ],
     "mlb_team": "NYM",
     "mlb_team_name": "New York Mets",
-    "status": "IL10"
+    "status": ""
   },
   {
     "team_id": 20,
