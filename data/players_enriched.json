@@ -737,8 +737,23 @@
     "mlb_team": "CHC",
     "mlb_team_name": "Chicago Cubs",
     "status": "NA",
-    "universal_id": null,
-    "hkb": null
+    "universal_id": "0000946",
+    "hkb": {
+      "id": "U5iqgBwB",
+      "name": "James Triantos",
+      "team": "CHC",
+      "positions": [
+        "2B",
+        "3B",
+        "OF"
+      ],
+      "rank": 552,
+      "value": 156,
+      "age": 23.5,
+      "source": "harryknowsball",
+      "prospect": true,
+      "level": "AAA"
+    }
   },
   {
     "team_id": 1,
@@ -1037,8 +1052,21 @@
     "mlb_team": "BOS",
     "mlb_team_name": "Boston Red Sox",
     "status": "",
-    "universal_id": null,
-    "hkb": null
+    "universal_id": "0000947",
+    "hkb": {
+      "id": "FWs4EQh2",
+      "name": "Justin Slaten",
+      "team": "BOS",
+      "positions": [
+        "RP"
+      ],
+      "rank": 839,
+      "value": 10,
+      "age": 28.8,
+      "source": "harryknowsball",
+      "prospect": false,
+      "level": "MLB"
+    }
   },
   {
     "team_id": 1,
@@ -1490,8 +1518,21 @@
     "mlb_team": "TOR",
     "mlb_team_name": "Toronto Blue Jays",
     "status": "NA",
-    "universal_id": null,
-    "hkb": null
+    "universal_id": "0000948",
+    "hkb": {
+      "id": "o6C3CZ9z",
+      "name": "Jake Bloss",
+      "team": "TOR",
+      "positions": [
+        "SP"
+      ],
+      "rank": 839,
+      "value": 10,
+      "age": 25.1,
+      "source": "harryknowsball",
+      "prospect": true,
+      "level": "AAA"
+    }
   },
   {
     "team_id": 2,
@@ -3367,8 +3408,22 @@
     "mlb_team": "DET",
     "mlb_team_name": "Detroit Tigers",
     "status": "",
-    "universal_id": null,
-    "hkb": null
+    "universal_id": "0000949",
+    "hkb": {
+      "id": "3d3mf2gC",
+      "name": "Eduardo Valencia",
+      "team": "DET",
+      "positions": [
+        "C",
+        "1B"
+      ],
+      "rank": 839,
+      "value": 10,
+      "age": 26.5,
+      "source": "harryknowsball",
+      "prospect": true,
+      "level": "MLB"
+    }
   },
   {
     "team_id": 3,
@@ -13411,8 +13466,23 @@
     "mlb_team": "CLE",
     "mlb_team_name": "Cleveland Guardians",
     "status": "",
-    "universal_id": null,
-    "hkb": null
+    "universal_id": "0000950",
+    "hkb": {
+      "id": "opJmdZYL",
+      "name": "Gabriel Arias",
+      "team": "CLE",
+      "positions": [
+        "2B",
+        "3B",
+        "SS"
+      ],
+      "rank": 839,
+      "value": 10,
+      "age": 26.4,
+      "source": "harryknowsball",
+      "prospect": false,
+      "level": "MLB"
+    }
   },
   {
     "team_id": 10,
@@ -13714,8 +13784,21 @@
     "mlb_team": "AZ",
     "mlb_team_name": "Arizona Diamondbacks",
     "status": "NA",
-    "universal_id": null,
-    "hkb": null
+    "universal_id": "0000951",
+    "hkb": {
+      "id": "E_jpxXB3",
+      "name": "Tyler Locklear",
+      "team": "AZ",
+      "positions": [
+        "1B"
+      ],
+      "rank": 839,
+      "value": 10,
+      "age": 25.6,
+      "source": "harryknowsball",
+      "prospect": false,
+      "level": "AAA"
+    }
   },
   {
     "team_id": 10,
@@ -22422,8 +22505,21 @@
     "mlb_team": "WSH",
     "mlb_team_name": "Washington Nationals",
     "status": "NA",
-    "universal_id": null,
-    "hkb": null
+    "universal_id": "0000952",
+    "hkb": {
+      "id": "gQHMqMnP",
+      "name": "Ronny Cruz",
+      "team": "WSH",
+      "positions": [
+        "SS"
+      ],
+      "rank": 415,
+      "value": 332,
+      "age": 19.9,
+      "source": "harryknowsball",
+      "prospect": true,
+      "level": "HIGH_A"
+    }
   },
   {
     "team_id": 16,
@@ -23124,8 +23220,21 @@
     "mlb_team": "COL",
     "mlb_team_name": "Colorado Rockies",
     "status": "",
-    "universal_id": null,
-    "hkb": null
+    "universal_id": "0000953",
+    "hkb": {
+      "id": "Ni1xn7v5",
+      "name": "Gabriel Hughes",
+      "team": "COL",
+      "positions": [
+        "SP"
+      ],
+      "rank": 839,
+      "value": 10,
+      "age": 24.9,
+      "source": "harryknowsball",
+      "prospect": true,
+      "level": "MLB"
+    }
   },
   {
     "team_id": 16,
@@ -23422,8 +23531,22 @@
     "mlb_team": "TB",
     "mlb_team_name": "Tampa Bay Rays",
     "status": "",
-    "universal_id": null,
-    "hkb": null
+    "universal_id": "0000954",
+    "hkb": {
+      "id": "LgrOBMLd",
+      "name": "Richie Palacios",
+      "team": "TB",
+      "positions": [
+        "2B",
+        "OF"
+      ],
+      "rank": 839,
+      "value": 10,
+      "age": 29.2,
+      "source": "harryknowsball",
+      "prospect": false,
+      "level": "MLB"
+    }
   },
   {
     "team_id": 17,
@@ -23503,8 +23626,21 @@
     "mlb_team": "TOR",
     "mlb_team_name": "Toronto Blue Jays",
     "status": "",
-    "universal_id": null,
-    "hkb": null
+    "universal_id": "0000955",
+    "hkb": {
+      "id": "IjgOGgNC",
+      "name": "Jonatan Clase",
+      "team": "TOR",
+      "positions": [
+        "OF"
+      ],
+      "rank": 839,
+      "value": 10,
+      "age": 24.2,
+      "source": "harryknowsball",
+      "prospect": false,
+      "level": "MLB"
+    }
   },
   {
     "team_id": 17,
@@ -25304,8 +25440,21 @@
     "mlb_team": "LAA",
     "mlb_team_name": "Los Angeles Angels",
     "status": "NA",
-    "universal_id": null,
-    "hkb": null
+    "universal_id": "0000956",
+    "hkb": {
+      "id": "5npeOnf0",
+      "name": "Hayden Alvarez",
+      "team": "LAA",
+      "positions": [
+        "OF"
+      ],
+      "rank": 839,
+      "value": 10,
+      "age": 19.3,
+      "source": "harryknowsball",
+      "prospect": true,
+      "level": "LOW_A"
+    }
   },
   {
     "team_id": 18,
@@ -25951,8 +26100,21 @@
     "mlb_team": "TEX",
     "mlb_team_name": "Texas Rangers",
     "status": "IL60",
-    "universal_id": null,
-    "hkb": null
+    "universal_id": "0000957",
+    "hkb": {
+      "id": "j5VEjDlk",
+      "name": "Jordan Montgomery",
+      "team": "TEX",
+      "positions": [
+        "SP"
+      ],
+      "rank": 839,
+      "value": 10,
+      "age": 33.6,
+      "source": "harryknowsball",
+      "prospect": false,
+      "level": "AAA"
+    }
   },
   {
     "team_id": 18,

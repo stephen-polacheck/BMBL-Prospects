@@ -12976,7 +12976,7 @@
   },
   {
     "hkb_id": "gQHMqMnP",
-    "universal_id": null,
+    "universal_id": "0000952",
     "name": "Ronny Cruz",
     "team": "WSH",
     "positions": [
@@ -12988,12 +12988,12 @@
     "prospect": true,
     "level": "HIGH_A",
     "fantasy": {
-      "player_id": null,
-      "team_id": null,
-      "team_name": null,
-      "nickname": null,
-      "primary_color": null,
-      "secondary_color": null
+      "player_id": 64629,
+      "team_id": 16,
+      "team_name": "SC Scrubs",
+      "nickname": "Scrubs",
+      "primary_color": "#4285f4",
+      "secondary_color": "#ff0000"
     },
     "mlb": {
       "abbrev": "WSH",
@@ -17248,7 +17248,7 @@
   },
   {
     "hkb_id": "U5iqgBwB",
-    "universal_id": null,
+    "universal_id": "0000946",
     "name": "James Triantos",
     "team": "CHC",
     "positions": [
@@ -17262,12 +17262,12 @@
     "prospect": true,
     "level": "AAA",
     "fantasy": {
-      "player_id": null,
-      "team_id": null,
-      "team_name": null,
-      "nickname": null,
-      "primary_color": null,
-      "secondary_color": null
+      "player_id": 12385,
+      "team_id": 1,
+      "team_name": "Sechler Run Tides",
+      "nickname": "Tides",
+      "primary_color": "#00184e",
+      "secondary_color": "#4285f4"
     },
     "mlb": {
       "abbrev": "CHC",
@@ -26361,7 +26361,7 @@
   },
   {
     "hkb_id": "Ni1xn7v5",
-    "universal_id": null,
+    "universal_id": "0000953",
     "name": "Gabriel Hughes",
     "team": "COL",
     "positions": [
@@ -26373,12 +26373,12 @@
     "prospect": true,
     "level": "MLB",
     "fantasy": {
-      "player_id": null,
-      "team_id": null,
-      "team_name": null,
-      "nickname": null,
-      "primary_color": null,
-      "secondary_color": null
+      "player_id": 60145,
+      "team_id": 16,
+      "team_name": "SC Scrubs",
+      "nickname": "Scrubs",
+      "primary_color": "#4285f4",
+      "secondary_color": "#ff0000"
     },
     "mlb": {
       "abbrev": "COL",
@@ -27608,7 +27608,7 @@
   },
   {
     "hkb_id": "3d3mf2gC",
-    "universal_id": null,
+    "universal_id": "0000949",
     "name": "Eduardo Valencia",
     "team": "DET",
     "positions": [
@@ -27621,12 +27621,12 @@
     "prospect": true,
     "level": "MLB",
     "fantasy": {
-      "player_id": null,
-      "team_id": null,
-      "team_name": null,
-      "nickname": null,
-      "primary_color": null,
-      "secondary_color": null
+      "player_id": 66382,
+      "team_id": 3,
+      "team_name": "Buck Ridge Whitetail",
+      "nickname": "Whitetail",
+      "primary_color": "#000000",
+      "secondary_color": "#ffffff"
     },
     "mlb": {
       "abbrev": "DET",
@@ -33030,7 +33030,7 @@
   },
   {
     "hkb_id": "5npeOnf0",
-    "universal_id": null,
+    "universal_id": "0000956",
     "name": "Hayden Alvarez",
     "team": "LAA",
     "positions": [
@@ -33042,12 +33042,12 @@
     "prospect": true,
     "level": "LOW_A",
     "fantasy": {
-      "player_id": null,
-      "team_id": null,
-      "team_name": null,
-      "nickname": null,
-      "primary_color": null,
-      "secondary_color": null
+      "player_id": 64903,
+      "team_id": 18,
+      "team_name": "Spokane Sasquatch",
+      "nickname": "Sasquatch",
+      "primary_color": "#311806",
+      "secondary_color": "#ffc425"
     },
     "mlb": {
       "abbrev": "LAA",
@@ -40201,7 +40201,7 @@
   },
   {
     "hkb_id": "LgrOBMLd",
-    "universal_id": null,
+    "universal_id": "0000954",
     "name": "Richie Palacios",
     "team": "TB",
     "positions": [
@@ -40214,12 +40214,12 @@
     "prospect": false,
     "level": "MLB",
     "fantasy": {
-      "player_id": null,
-      "team_id": null,
-      "team_name": null,
-      "nickname": null,
-      "primary_color": null,
-      "secondary_color": null
+      "player_id": 12316,
+      "team_id": 17,
+      "team_name": "Scranton Stranglers",
+      "nickname": "Stranglers",
+      "primary_color": "#000000",
+      "secondary_color": "#b7b7b7"
     },
     "mlb": {
       "abbrev": "TB",
@@ -41488,7 +41488,7 @@
   },
   {
     "hkb_id": "opJmdZYL",
-    "universal_id": null,
+    "universal_id": "0000950",
     "name": "Gabriel Arias",
     "team": "CLE",
     "positions": [
@@ -41502,12 +41502,12 @@
     "prospect": false,
     "level": "MLB",
     "fantasy": {
-      "player_id": null,
-      "team_id": null,
-      "team_name": null,
-      "nickname": null,
-      "primary_color": null,
-      "secondary_color": null
+      "player_id": 11524,
+      "team_id": 10,
+      "team_name": "Harleysville Hornets",
+      "nickname": "Hornets",
+      "primary_color": "#4b0076",
+      "secondary_color": "#ff5f1f"
     },
     "mlb": {
       "abbrev": "CLE",
@@ -43117,7 +43117,7 @@
   },
   {
     "hkb_id": "j5VEjDlk",
-    "universal_id": null,
+    "universal_id": "0000957",
     "name": "Jordan Montgomery",
     "team": "TEX",
     "positions": [
@@ -43129,12 +43129,12 @@
     "prospect": false,
     "level": "AAA",
     "fantasy": {
-      "player_id": null,
-      "team_id": null,
-      "team_name": null,
-      "nickname": null,
-      "primary_color": null,
-      "secondary_color": null
+      "player_id": 10660,
+      "team_id": 18,
+      "team_name": "Spokane Sasquatch",
+      "nickname": "Sasquatch",
+      "primary_color": "#311806",
+      "secondary_color": "#ffc425"
     },
     "mlb": {
       "abbrev": "TEX",
@@ -44739,7 +44739,7 @@
   },
   {
     "hkb_id": "FWs4EQh2",
-    "universal_id": null,
+    "universal_id": "0000947",
     "name": "Justin Slaten",
     "team": "BOS",
     "positions": [
@@ -44751,12 +44751,12 @@
     "prospect": false,
     "level": "MLB",
     "fantasy": {
-      "player_id": null,
-      "team_id": null,
-      "team_name": null,
-      "nickname": null,
-      "primary_color": null,
-      "secondary_color": null
+      "player_id": 63500,
+      "team_id": 1,
+      "team_name": "Sechler Run Tides",
+      "nickname": "Tides",
+      "primary_color": "#00184e",
+      "secondary_color": "#4285f4"
     },
     "mlb": {
       "abbrev": "BOS",
@@ -45524,7 +45524,7 @@
   },
   {
     "hkb_id": "IjgOGgNC",
-    "universal_id": null,
+    "universal_id": "0000955",
     "name": "Jonatan Clase",
     "team": "TOR",
     "positions": [
@@ -45536,12 +45536,12 @@
     "prospect": false,
     "level": "MLB",
     "fantasy": {
-      "player_id": null,
-      "team_id": null,
-      "team_name": null,
-      "nickname": null,
-      "primary_color": null,
-      "secondary_color": null
+      "player_id": 60000,
+      "team_id": 17,
+      "team_name": "Scranton Stranglers",
+      "nickname": "Stranglers",
+      "primary_color": "#000000",
+      "secondary_color": "#b7b7b7"
     },
     "mlb": {
       "abbrev": "TOR",
@@ -46177,7 +46177,7 @@
   },
   {
     "hkb_id": "E_jpxXB3",
-    "universal_id": null,
+    "universal_id": "0000951",
     "name": "Tyler Locklear",
     "team": "AZ",
     "positions": [
@@ -46189,12 +46189,12 @@
     "prospect": false,
     "level": "AAA",
     "fantasy": {
-      "player_id": null,
-      "team_id": null,
-      "team_name": null,
-      "nickname": null,
-      "primary_color": null,
-      "secondary_color": null
+      "player_id": 60581,
+      "team_id": 10,
+      "team_name": "Harleysville Hornets",
+      "nickname": "Hornets",
+      "primary_color": "#4b0076",
+      "secondary_color": "#ff5f1f"
     },
     "mlb": {
       "abbrev": "AZ",
@@ -47749,7 +47749,7 @@
   },
   {
     "hkb_id": "o6C3CZ9z",
-    "universal_id": null,
+    "universal_id": "0000948",
     "name": "Jake Bloss",
     "team": "TOR",
     "positions": [
@@ -47761,12 +47761,12 @@
     "prospect": true,
     "level": "AAA",
     "fantasy": {
-      "player_id": null,
-      "team_id": null,
-      "team_name": null,
-      "nickname": null,
-      "primary_color": null,
-      "secondary_color": null
+      "player_id": 62903,
+      "team_id": 1,
+      "team_name": "Sechler Run Tides",
+      "nickname": "Tides",
+      "primary_color": "#00184e",
+      "secondary_color": "#4285f4"
     },
     "mlb": {
       "abbrev": "TOR",

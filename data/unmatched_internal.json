@@ -1,53 +1,5 @@
 [
   {
-    "team_id": 1,
-    "team_name": "Sechler Run Tides",
-    "player_id": 12385,
-    "player_key": "469.p.12385",
-    "name": "James Triantos",
-    "first_name": "James",
-    "last_name": "Triantos",
-    "position": "2B",
-    "eligible_positions": [
-      "2B"
-    ],
-    "mlb_team": "CHC",
-    "mlb_team_name": "Chicago Cubs",
-    "status": "NA"
-  },
-  {
-    "team_id": 1,
-    "team_name": "Sechler Run Tides",
-    "player_id": 63500,
-    "player_key": "469.p.63500",
-    "name": "Justin Slaten",
-    "first_name": "Justin",
-    "last_name": "Slaten",
-    "position": "RP",
-    "eligible_positions": [
-      "RP"
-    ],
-    "mlb_team": "BOS",
-    "mlb_team_name": "Boston Red Sox",
-    "status": ""
-  },
-  {
-    "team_id": 1,
-    "team_name": "Sechler Run Tides",
-    "player_id": 62903,
-    "player_key": "469.p.62903",
-    "name": "Jake Bloss",
-    "first_name": "Jake",
-    "last_name": "Bloss",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "TOR",
-    "mlb_team_name": "Toronto Blue Jays",
-    "status": "NA"
-  },
-  {
     "team_id": 2,
     "team_name": "Atlantis Aliens",
     "player_id": 65037,
@@ -61,22 +13,6 @@
     ],
     "mlb_team": "LAA",
     "mlb_team_name": "Los Angeles Angels",
-    "status": ""
-  },
-  {
-    "team_id": 3,
-    "team_name": "Buck Ridge Whitetail",
-    "player_id": 66382,
-    "player_key": "469.p.66382",
-    "name": "Eduardo Valencia",
-    "first_name": "Eduardo",
-    "last_name": "Valencia",
-    "position": "C",
-    "eligible_positions": [
-      "C"
-    ],
-    "mlb_team": "DET",
-    "mlb_team_name": "Detroit Tigers",
     "status": ""
   },
   {
@@ -144,38 +80,6 @@
     "status": ""
   },
   {
-    "team_id": 10,
-    "team_name": "Harleysville Hornets",
-    "player_id": 11524,
-    "player_key": "469.p.11524",
-    "name": "Gabriel Arias",
-    "first_name": "Gabriel",
-    "last_name": "Arias",
-    "position": "2B",
-    "eligible_positions": [
-      "2B"
-    ],
-    "mlb_team": "CLE",
-    "mlb_team_name": "Cleveland Guardians",
-    "status": ""
-  },
-  {
-    "team_id": 10,
-    "team_name": "Harleysville Hornets",
-    "player_id": 60581,
-    "player_key": "469.p.60581",
-    "name": "Tyler Locklear",
-    "first_name": "Tyler",
-    "last_name": "Locklear",
-    "position": "1B",
-    "eligible_positions": [
-      "1B"
-    ],
-    "mlb_team": "AZ",
-    "mlb_team_name": "Arizona Diamondbacks",
-    "status": "NA"
-  },
-  {
     "team_id": 12,
     "team_name": "Erie Electric Eels",
     "player_id": 63444,
@@ -206,102 +110,6 @@
     "mlb_team": "KC",
     "mlb_team_name": "Kansas City Royals",
     "status": ""
-  },
-  {
-    "team_id": 16,
-    "team_name": "SC Scrubs",
-    "player_id": 64629,
-    "player_key": "469.p.64629",
-    "name": "Ronny Cruz",
-    "first_name": "Ronny",
-    "last_name": "Cruz",
-    "position": "SS",
-    "eligible_positions": [
-      "SS"
-    ],
-    "mlb_team": "WSH",
-    "mlb_team_name": "Washington Nationals",
-    "status": "NA"
-  },
-  {
-    "team_id": 16,
-    "team_name": "SC Scrubs",
-    "player_id": 60145,
-    "player_key": "469.p.60145",
-    "name": "Gabriel Hughes",
-    "first_name": "Gabriel",
-    "last_name": "Hughes",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "COL",
-    "mlb_team_name": "Colorado Rockies",
-    "status": ""
-  },
-  {
-    "team_id": 17,
-    "team_name": "Scranton Stranglers",
-    "player_id": 12316,
-    "player_key": "469.p.12316",
-    "name": "Richie Palacios",
-    "first_name": "Richie",
-    "last_name": "Palacios",
-    "position": "2B",
-    "eligible_positions": [
-      "2B"
-    ],
-    "mlb_team": "TB",
-    "mlb_team_name": "Tampa Bay Rays",
-    "status": ""
-  },
-  {
-    "team_id": 17,
-    "team_name": "Scranton Stranglers",
-    "player_id": 60000,
-    "player_key": "469.p.60000",
-    "name": "Jonatan Clase",
-    "first_name": "Jonatan",
-    "last_name": "Clase",
-    "position": "LF",
-    "eligible_positions": [
-      "LF"
-    ],
-    "mlb_team": "TOR",
-    "mlb_team_name": "Toronto Blue Jays",
-    "status": ""
-  },
-  {
-    "team_id": 18,
-    "team_name": "Spokane Sasquatch",
-    "player_id": 64903,
-    "player_key": "469.p.64903",
-    "name": "Hayden Alvarez",
-    "first_name": "Hayden",
-    "last_name": "Alvarez",
-    "position": "Util",
-    "eligible_positions": [
-      "Util"
-    ],
-    "mlb_team": "LAA",
-    "mlb_team_name": "Los Angeles Angels",
-    "status": "NA"
-  },
-  {
-    "team_id": 18,
-    "team_name": "Spokane Sasquatch",
-    "player_id": 10660,
-    "player_key": "469.p.10660",
-    "name": "Jordan Montgomery",
-    "first_name": "Jordan",
-    "last_name": "Montgomery",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "TEX",
-    "mlb_team_name": "Texas Rangers",
-    "status": "IL60"
   },
   {
     "team_id": 20,
