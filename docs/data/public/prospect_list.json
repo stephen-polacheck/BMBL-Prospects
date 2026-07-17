@@ -1713,34 +1713,34 @@
     }
   },
   {
-    "hkb_id": "5sdFhmHQ",
-    "universal_id": "0000723",
-    "name": "Logan Gilbert",
-    "team": "SEA",
+    "hkb_id": "vKKRN46q",
+    "universal_id": "0000006",
+    "name": "Kyle Schwarber",
+    "team": "PHI",
     "positions": [
-      "SP"
+      "UT"
     ],
     "rank": 55,
-    "value": 2887,
-    "age": 29.2,
+    "value": 2890,
+    "age": 33.4,
     "prospect": false,
     "level": "MLB",
     "fantasy": {
-      "player_id": 11381,
-      "team_id": 16,
-      "team_name": "SC Scrubs",
-      "nickname": "Scrubs",
-      "primary_color": "#4285f4",
-      "secondary_color": "#ff0000"
+      "player_id": 9861,
+      "team_id": 1,
+      "team_name": "Sechler Run Tides",
+      "nickname": "Tides",
+      "primary_color": "#00184e",
+      "secondary_color": "#4285f4"
     },
     "mlb": {
-      "abbrev": "SEA",
-      "name": "Seattle Mariners",
-      "city": "Seattle",
-      "nickname": "Mariners",
-      "primary": "#042855",
-      "secondary": "#00685E",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sea.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+      "abbrev": "PHI",
+      "name": "Philadelphia Phillies",
+      "city": "Philadelphia",
+      "nickname": "Phillies",
+      "primary": "#c3042d",
+      "secondary": "#ffffff",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/phi.png&scale=crop&cquality=40&location=origin&w=80&h=80"
     }
   },
   {
@@ -1775,34 +1775,34 @@
     }
   },
   {
-    "hkb_id": "vKKRN46q",
-    "universal_id": "0000006",
-    "name": "Kyle Schwarber",
-    "team": "PHI",
+    "hkb_id": "5sdFhmHQ",
+    "universal_id": "0000723",
+    "name": "Logan Gilbert",
+    "team": "SEA",
     "positions": [
-      "UT"
+      "SP"
     ],
     "rank": 57,
-    "value": 2882,
-    "age": 33.4,
+    "value": 2879,
+    "age": 29.2,
     "prospect": false,
     "level": "MLB",
     "fantasy": {
-      "player_id": 9861,
-      "team_id": 1,
-      "team_name": "Sechler Run Tides",
-      "nickname": "Tides",
-      "primary_color": "#00184e",
-      "secondary_color": "#4285f4"
+      "player_id": 11381,
+      "team_id": 16,
+      "team_name": "SC Scrubs",
+      "nickname": "Scrubs",
+      "primary_color": "#4285f4",
+      "secondary_color": "#ff0000"
     },
     "mlb": {
-      "abbrev": "PHI",
-      "name": "Philadelphia Phillies",
-      "city": "Philadelphia",
-      "nickname": "Phillies",
-      "primary": "#c3042d",
-      "secondary": "#ffffff",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/phi.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+      "abbrev": "SEA",
+      "name": "Seattle Mariners",
+      "city": "Seattle",
+      "nickname": "Mariners",
+      "primary": "#042855",
+      "secondary": "#00685E",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sea.png&scale=crop&cquality=40&location=origin&w=80&h=80"
     }
   },
   {
@@ -4237,12 +4237,43 @@
     }
   },
   {
+    "hkb_id": "ilQLBBNR",
+    "universal_id": "0000007",
+    "name": "A.J. Ewing",
+    "team": "NYM",
+    "positions": [
+      "OF"
+    ],
+    "rank": 135,
+    "value": 1389,
+    "age": 21.9,
+    "prospect": false,
+    "level": "MLB",
+    "fantasy": {
+      "player_id": 63129,
+      "team_id": 1,
+      "team_name": "Sechler Run Tides",
+      "nickname": "Tides",
+      "primary_color": "#00184e",
+      "secondary_color": "#4285f4"
+    },
+    "mlb": {
+      "abbrev": "NYM",
+      "name": "New York Mets",
+      "city": "New York",
+      "nickname": "Mets",
+      "primary": "#002973",
+      "secondary": "#ff5807",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/nym.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    }
+  },
+  {
     "hkb_id": "XL8GQhBH",
     "universal_id": null,
     "name": "2027 Early 1st",
     "team": null,
     "positions": [],
-    "rank": 135,
+    "rank": 136,
     "value": 1386,
     "age": null,
     "prospect": true,
@@ -4263,37 +4294,6 @@
       "primary": null,
       "secondary": null,
       "logo": null
-    }
-  },
-  {
-    "hkb_id": "ilQLBBNR",
-    "universal_id": "0000007",
-    "name": "A.J. Ewing",
-    "team": "NYM",
-    "positions": [
-      "OF"
-    ],
-    "rank": 136,
-    "value": 1385,
-    "age": 21.9,
-    "prospect": false,
-    "level": "MLB",
-    "fantasy": {
-      "player_id": 63129,
-      "team_id": 1,
-      "team_name": "Sechler Run Tides",
-      "nickname": "Tides",
-      "primary_color": "#00184e",
-      "secondary_color": "#4285f4"
-    },
-    "mlb": {
-      "abbrev": "NYM",
-      "name": "New York Mets",
-      "city": "New York",
-      "nickname": "Mets",
-      "primary": "#002973",
-      "secondary": "#ff5807",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/nym.png&scale=crop&cquality=40&location=origin&w=80&h=80"
     }
   },
   {
@@ -4646,7 +4646,7 @@
       "OF"
     ],
     "rank": 148,
-    "value": 1260,
+    "value": 1256,
     "age": 23.1,
     "prospect": true,
     "level": "AAA",
@@ -7629,6 +7629,37 @@
     }
   },
   {
+    "hkb_id": "_7w4tBi_",
+    "universal_id": "0000921",
+    "name": "Blake Snell",
+    "team": "LAD",
+    "positions": [
+      "SP"
+    ],
+    "rank": 244,
+    "value": 768,
+    "age": 33.6,
+    "prospect": false,
+    "level": "MLB",
+    "fantasy": {
+      "player_id": 10148,
+      "team_id": 20,
+      "team_name": "Cranston Chaos",
+      "nickname": "Chaos",
+      "primary_color": "#5271ff",
+      "secondary_color": "#ffffff"
+    },
+    "mlb": {
+      "abbrev": "LAD",
+      "name": "Los Angeles Dodgers",
+      "city": "Los Angeles",
+      "nickname": "Dodgers",
+      "primary": "#005a9d",
+      "secondary": "#FFFFFF",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/lad.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    }
+  },
+  {
     "hkb_id": "tTgeORtg",
     "universal_id": "0000390",
     "name": "Matt Shaw",
@@ -7658,37 +7689,6 @@
       "primary": "#063087",
       "secondary": "#cd3130",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/chc.png&scale=crop&cquality=40&location=origin&w=80&h=80"
-    }
-  },
-  {
-    "hkb_id": "_7w4tBi_",
-    "universal_id": "0000921",
-    "name": "Blake Snell",
-    "team": "LAD",
-    "positions": [
-      "SP"
-    ],
-    "rank": 244,
-    "value": 768,
-    "age": 33.6,
-    "prospect": false,
-    "level": "MLB",
-    "fantasy": {
-      "player_id": 10148,
-      "team_id": 20,
-      "team_name": "Cranston Chaos",
-      "nickname": "Chaos",
-      "primary_color": "#5271ff",
-      "secondary_color": "#ffffff"
-    },
-    "mlb": {
-      "abbrev": "LAD",
-      "name": "Los Angeles Dodgers",
-      "city": "Los Angeles",
-      "nickname": "Dodgers",
-      "primary": "#005a9d",
-      "secondary": "#FFFFFF",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/lad.png&scale=crop&cquality=40&location=origin&w=80&h=80"
     }
   },
   {
@@ -9202,11 +9202,11 @@
     "level": "AA",
     "fantasy": {
       "player_id": 64549,
-      "team_id": 3,
-      "team_name": "Buck Ridge Whitetail",
-      "nickname": "Whitetail",
-      "primary_color": "#000000",
-      "secondary_color": "#ffffff"
+      "team_id": 4,
+      "team_name": "Carson City Campers",
+      "nickname": "Campers",
+      "primary_color": "#001666",
+      "secondary_color": "#fc0065"
     },
     "mlb": {
       "abbrev": "WSH",
@@ -11008,37 +11008,6 @@
     }
   },
   {
-    "hkb_id": "fDckWVV3",
-    "universal_id": "0000332",
-    "name": "Masyn Winn",
-    "team": "STL",
-    "positions": [
-      "SS"
-    ],
-    "rank": 352,
-    "value": 427,
-    "age": 24.3,
-    "prospect": false,
-    "level": "MLB",
-    "fantasy": {
-      "player_id": 12025,
-      "team_id": 8,
-      "team_name": "Delco Diamond Dogs",
-      "nickname": "Diamond Dogs",
-      "primary_color": "#ffef00",
-      "secondary_color": "#000000"
-    },
-    "mlb": {
-      "abbrev": "STL",
-      "name": "St. Louis Cardinals",
-      "city": "St. Louis",
-      "nickname": "Cardinals",
-      "primary": "#bf030c",
-      "secondary": "#0C2340",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/stl.png&scale=crop&cquality=40&location=origin&w=80&h=80"
-    }
-  },
-  {
     "hkb_id": "ZjbWT92j",
     "universal_id": "0000004",
     "name": "Chase Meidroth",
@@ -11068,6 +11037,37 @@
       "primary": "#303030",
       "secondary": "#8D9093",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/chw.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    }
+  },
+  {
+    "hkb_id": "fDckWVV3",
+    "universal_id": "0000332",
+    "name": "Masyn Winn",
+    "team": "STL",
+    "positions": [
+      "SS"
+    ],
+    "rank": 352,
+    "value": 427,
+    "age": 24.3,
+    "prospect": false,
+    "level": "MLB",
+    "fantasy": {
+      "player_id": 12025,
+      "team_id": 8,
+      "team_name": "Delco Diamond Dogs",
+      "nickname": "Diamond Dogs",
+      "primary_color": "#ffef00",
+      "secondary_color": "#000000"
+    },
+    "mlb": {
+      "abbrev": "STL",
+      "name": "St. Louis Cardinals",
+      "city": "St. Louis",
+      "nickname": "Cardinals",
+      "primary": "#bf030c",
+      "secondary": "#0C2340",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/stl.png&scale=crop&cquality=40&location=origin&w=80&h=80"
     }
   },
   {
@@ -11102,38 +11102,6 @@
     }
   },
   {
-    "hkb_id": "S9Byvj3l",
-    "universal_id": "0000617",
-    "name": "Addison Barger",
-    "team": "TOR",
-    "positions": [
-      "3B",
-      "OF"
-    ],
-    "rank": 355,
-    "value": 420,
-    "age": 26.7,
-    "prospect": false,
-    "level": "MLB",
-    "fantasy": {
-      "player_id": 12741,
-      "team_id": 14,
-      "team_name": "New Hampshire Unicorns",
-      "nickname": "Unicorns",
-      "primary_color": "#fc0065",
-      "secondary_color": "#000000"
-    },
-    "mlb": {
-      "abbrev": "TOR",
-      "name": "Toronto Blue Jays",
-      "city": "Toronto",
-      "nickname": "Blue Jays",
-      "primary": "#0b498f",
-      "secondary": "#ffffff",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tor.png&scale=crop&cquality=40&location=origin&w=80&h=80"
-    }
-  },
-  {
     "hkb_id": "lsnGXahT",
     "universal_id": "0000032",
     "name": "Griffin Jax",
@@ -11163,6 +11131,38 @@
       "primary": "#02285c",
       "secondary": "#69B3E7",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tb.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    }
+  },
+  {
+    "hkb_id": "S9Byvj3l",
+    "universal_id": "0000617",
+    "name": "Addison Barger",
+    "team": "TOR",
+    "positions": [
+      "3B",
+      "OF"
+    ],
+    "rank": 355,
+    "value": 420,
+    "age": 26.7,
+    "prospect": false,
+    "level": "MLB",
+    "fantasy": {
+      "player_id": 12741,
+      "team_id": 14,
+      "team_name": "New Hampshire Unicorns",
+      "nickname": "Unicorns",
+      "primary_color": "#fc0065",
+      "secondary_color": "#000000"
+    },
+    "mlb": {
+      "abbrev": "TOR",
+      "name": "Toronto Blue Jays",
+      "city": "Toronto",
+      "nickname": "Blue Jays",
+      "primary": "#0b498f",
+      "secondary": "#ffffff",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tor.png&scale=crop&cquality=40&location=origin&w=80&h=80"
     }
   },
   {
@@ -11291,6 +11291,37 @@
     }
   },
   {
+    "hkb_id": "SRatyWGA",
+    "universal_id": null,
+    "name": "Joseph Dzierwa",
+    "team": "BAL",
+    "positions": [
+      "SP"
+    ],
+    "rank": 361,
+    "value": 406,
+    "age": 22.2,
+    "prospect": true,
+    "level": "AA",
+    "fantasy": {
+      "player_id": null,
+      "team_id": null,
+      "team_name": null,
+      "nickname": null,
+      "primary_color": null,
+      "secondary_color": null
+    },
+    "mlb": {
+      "abbrev": "BAL",
+      "name": "Baltimore Orioles",
+      "city": "Baltimore",
+      "nickname": "Orioles",
+      "primary": "#e04400",
+      "secondary": "#000000",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/bal.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    }
+  },
+  {
     "hkb_id": "p-dHqL9n",
     "universal_id": "0000555",
     "name": "Blaze Jordan",
@@ -11323,34 +11354,34 @@
     }
   },
   {
-    "hkb_id": "SRatyWGA",
-    "universal_id": null,
-    "name": "Joseph Dzierwa",
-    "team": "BAL",
+    "hkb_id": "JzKxO9jd",
+    "universal_id": "0000751",
+    "name": "JJ Bleday",
+    "team": "CIN",
     "positions": [
-      "SP"
+      "OF"
     ],
-    "rank": 361,
-    "value": 406,
-    "age": 22.2,
-    "prospect": true,
-    "level": "AA",
+    "rank": 363,
+    "value": 404,
+    "age": 28.7,
+    "prospect": false,
+    "level": "MLB",
     "fantasy": {
-      "player_id": null,
-      "team_id": null,
-      "team_name": null,
-      "nickname": null,
-      "primary_color": null,
-      "secondary_color": null
+      "player_id": 11782,
+      "team_id": 17,
+      "team_name": "Scranton Stranglers",
+      "nickname": "Stranglers",
+      "primary_color": "#000000",
+      "secondary_color": "#b7b7b7"
     },
     "mlb": {
-      "abbrev": "BAL",
-      "name": "Baltimore Orioles",
-      "city": "Baltimore",
-      "nickname": "Orioles",
-      "primary": "#e04400",
+      "abbrev": "CIN",
+      "name": "Cincinnati Reds",
+      "city": "Cincinnati",
+      "nickname": "Reds",
+      "primary": "#c70019",
       "secondary": "#000000",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/bal.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/cin.png&scale=crop&cquality=40&location=origin&w=80&h=80"
     }
   },
   {
@@ -11382,37 +11413,6 @@
       "primary": "#063087",
       "secondary": "#cd3130",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/chc.png&scale=crop&cquality=40&location=origin&w=80&h=80"
-    }
-  },
-  {
-    "hkb_id": "JzKxO9jd",
-    "universal_id": "0000751",
-    "name": "JJ Bleday",
-    "team": "CIN",
-    "positions": [
-      "OF"
-    ],
-    "rank": 363,
-    "value": 404,
-    "age": 28.7,
-    "prospect": false,
-    "level": "MLB",
-    "fantasy": {
-      "player_id": 11782,
-      "team_id": 17,
-      "team_name": "Scranton Stranglers",
-      "nickname": "Stranglers",
-      "primary_color": "#000000",
-      "secondary_color": "#b7b7b7"
-    },
-    "mlb": {
-      "abbrev": "CIN",
-      "name": "Cincinnati Reds",
-      "city": "Cincinnati",
-      "nickname": "Reds",
-      "primary": "#c70019",
-      "secondary": "#000000",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/cin.png&scale=crop&cquality=40&location=origin&w=80&h=80"
     }
   },
   {
@@ -12131,38 +12131,6 @@
     }
   },
   {
-    "hkb_id": "uv3REMnE",
-    "universal_id": "0000432",
-    "name": "Angel Genao",
-    "team": "CLE",
-    "positions": [
-      "3B",
-      "SS"
-    ],
-    "rank": 388,
-    "value": 365,
-    "age": 22.2,
-    "prospect": true,
-    "level": "AAA",
-    "fantasy": {
-      "player_id": 60143,
-      "team_id": 10,
-      "team_name": "Harleysville Hornets",
-      "nickname": "Hornets",
-      "primary_color": "#4b0076",
-      "secondary_color": "#ff5f1f"
-    },
-    "mlb": {
-      "abbrev": "CLE",
-      "name": "Cleveland Guardians",
-      "city": "Cleveland",
-      "nickname": "Guardians",
-      "primary": "#00275c",
-      "secondary": "#e41234",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/cle.png&scale=crop&cquality=40&location=origin&w=80&h=80"
-    }
-  },
-  {
     "hkb_id": "rBZAw_sv",
     "universal_id": "0000098",
     "name": "Curtis Mead",
@@ -12203,7 +12171,7 @@
     "positions": [
       "SP"
     ],
-    "rank": 390,
+    "rank": 389,
     "value": 364,
     "age": 29.5,
     "prospect": false,
@@ -12234,7 +12202,7 @@
     "positions": [
       "RP"
     ],
-    "rank": 391,
+    "rank": 390,
     "value": 363,
     "age": 38.4,
     "prospect": false,
@@ -12265,7 +12233,7 @@
     "positions": [
       "OF"
     ],
-    "rank": 391,
+    "rank": 390,
     "value": 363,
     "age": 33.3,
     "prospect": false,
@@ -12286,6 +12254,38 @@
       "primary": "#002e79",
       "secondary": "#BA0C2F",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tex.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    }
+  },
+  {
+    "hkb_id": "uv3REMnE",
+    "universal_id": "0000432",
+    "name": "Angel Genao",
+    "team": "CLE",
+    "positions": [
+      "3B",
+      "SS"
+    ],
+    "rank": 392,
+    "value": 362,
+    "age": 22.2,
+    "prospect": true,
+    "level": "AAA",
+    "fantasy": {
+      "player_id": 60143,
+      "team_id": 10,
+      "team_name": "Harleysville Hornets",
+      "nickname": "Hornets",
+      "primary_color": "#4b0076",
+      "secondary_color": "#ff5f1f"
+    },
+    "mlb": {
+      "abbrev": "CLE",
+      "name": "Cleveland Guardians",
+      "city": "Cleveland",
+      "nickname": "Guardians",
+      "primary": "#00275c",
+      "secondary": "#e41234",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/cle.png&scale=crop&cquality=40&location=origin&w=80&h=80"
     }
   },
   {
@@ -12416,6 +12416,37 @@
     }
   },
   {
+    "hkb_id": "aJIA_EXs",
+    "universal_id": "0000674",
+    "name": "Robbie Ray",
+    "team": "SF",
+    "positions": [
+      "SP"
+    ],
+    "rank": 397,
+    "value": 355,
+    "age": 34.8,
+    "prospect": false,
+    "level": "MLB",
+    "fantasy": {
+      "player_id": 9691,
+      "team_id": 15,
+      "team_name": "Orlando Oligarchs",
+      "nickname": "Oligarchs",
+      "primary_color": "#ff0000",
+      "secondary_color": "#c7b277"
+    },
+    "mlb": {
+      "abbrev": "SF",
+      "name": "San Francisco Giants",
+      "city": "San Francisco",
+      "nickname": "Giants",
+      "primary": "#fd5a18",
+      "secondary": "#000000",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sf.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    }
+  },
+  {
     "hkb_id": "ZQTOCYg0",
     "universal_id": "0000579",
     "name": "Carson Williams",
@@ -12485,7 +12516,7 @@
     "positions": [
       "SP"
     ],
-    "rank": 399,
+    "rank": 400,
     "value": 354,
     "age": 24.3,
     "prospect": true,
@@ -12506,37 +12537,6 @@
       "primary": "#002973",
       "secondary": "#ff5807",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/nym.png&scale=crop&cquality=40&location=origin&w=80&h=80"
-    }
-  },
-  {
-    "hkb_id": "aJIA_EXs",
-    "universal_id": "0000674",
-    "name": "Robbie Ray",
-    "team": "SF",
-    "positions": [
-      "SP"
-    ],
-    "rank": 400,
-    "value": 352,
-    "age": 34.8,
-    "prospect": false,
-    "level": "MLB",
-    "fantasy": {
-      "player_id": 9691,
-      "team_id": 15,
-      "team_name": "Orlando Oligarchs",
-      "nickname": "Oligarchs",
-      "primary_color": "#ff0000",
-      "secondary_color": "#c7b277"
-    },
-    "mlb": {
-      "abbrev": "SF",
-      "name": "San Francisco Giants",
-      "city": "San Francisco",
-      "nickname": "Giants",
-      "primary": "#fd5a18",
-      "secondary": "#000000",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sf.png&scale=crop&cquality=40&location=origin&w=80&h=80"
     }
   },
   {
@@ -13301,11 +13301,11 @@
     "level": "MLB",
     "fantasy": {
       "player_id": 10485,
-      "team_id": 4,
-      "team_name": "Carson City Campers",
-      "nickname": "Campers",
-      "primary_color": "#001666",
-      "secondary_color": "#fc0065"
+      "team_id": 3,
+      "team_name": "Buck Ridge Whitetail",
+      "nickname": "Whitetail",
+      "primary_color": "#000000",
+      "secondary_color": "#ffffff"
     },
     "mlb": {
       "abbrev": "PIT",
@@ -13874,37 +13874,6 @@
     }
   },
   {
-    "hkb_id": "RaDqcj6o",
-    "universal_id": "0000078",
-    "name": "Kendry Rojas",
-    "team": "MIN",
-    "positions": [
-      "SP"
-    ],
-    "rank": 444,
-    "value": 293,
-    "age": 23.6,
-    "prospect": true,
-    "level": "MLB",
-    "fantasy": {
-      "player_id": 63639,
-      "team_id": 2,
-      "team_name": "Atlantis Aliens",
-      "nickname": "Aliens",
-      "primary_color": "#00eaff",
-      "secondary_color": "#999999"
-    },
-    "mlb": {
-      "abbrev": "MIN",
-      "name": "Minnesota Twins",
-      "city": "Minnesota",
-      "nickname": "Twins",
-      "primary": "#00193e",
-      "secondary": "#d6002e",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/min.png&scale=crop&cquality=40&location=origin&w=80&h=80"
-    }
-  },
-  {
     "hkb_id": "No8RF5xb",
     "universal_id": "0000058",
     "name": "Yainer Diaz",
@@ -13912,7 +13881,7 @@
     "positions": [
       "C"
     ],
-    "rank": 445,
+    "rank": 444,
     "value": 292,
     "age": 27.8,
     "prospect": false,
@@ -13944,7 +13913,7 @@
       "1B",
       "OF"
     ],
-    "rank": 445,
+    "rank": 444,
     "value": 292,
     "age": 22.9,
     "prospect": true,
@@ -13968,6 +13937,37 @@
     }
   },
   {
+    "hkb_id": "RaDqcj6o",
+    "universal_id": "0000078",
+    "name": "Kendry Rojas",
+    "team": "MIN",
+    "positions": [
+      "SP"
+    ],
+    "rank": 446,
+    "value": 290,
+    "age": 23.6,
+    "prospect": true,
+    "level": "MLB",
+    "fantasy": {
+      "player_id": 63639,
+      "team_id": 2,
+      "team_name": "Atlantis Aliens",
+      "nickname": "Aliens",
+      "primary_color": "#00eaff",
+      "secondary_color": "#999999"
+    },
+    "mlb": {
+      "abbrev": "MIN",
+      "name": "Minnesota Twins",
+      "city": "Minnesota",
+      "nickname": "Twins",
+      "primary": "#00193e",
+      "secondary": "#d6002e",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/min.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    }
+  },
+  {
     "hkb_id": "sqs8wuy4",
     "universal_id": "0000470",
     "name": "Christian Walker",
@@ -13975,7 +13975,7 @@
     "positions": [
       "1B"
     ],
-    "rank": 447,
+    "rank": 446,
     "value": 290,
     "age": 35.3,
     "prospect": false,
@@ -13996,6 +13996,37 @@
       "primary": "#002962",
       "secondary": "#CF4520",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/hou.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    }
+  },
+  {
+    "hkb_id": "I4wAxa71",
+    "universal_id": "0000231",
+    "name": "Garrett Whitlock",
+    "team": "BOS",
+    "positions": [
+      "RP"
+    ],
+    "rank": 448,
+    "value": 289,
+    "age": 30.1,
+    "prospect": false,
+    "level": "MLB",
+    "fantasy": {
+      "player_id": 11358,
+      "team_id": 5,
+      "team_name": "Clemson Cougars",
+      "nickname": "Cougars",
+      "primary_color": "#ed7d31",
+      "secondary_color": "#7030a0"
+    },
+    "mlb": {
+      "abbrev": "BOS",
+      "name": "Boston Red Sox",
+      "city": "Boston",
+      "nickname": "Red Sox",
+      "primary": "#052755",
+      "secondary": "#be2c36",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/bos.png&scale=crop&cquality=40&location=origin&w=80&h=80"
     }
   },
   {
@@ -14038,7 +14069,7 @@
     "positions": [
       "SP"
     ],
-    "rank": 449,
+    "rank": 450,
     "value": 287,
     "age": 25.8,
     "prospect": true,
@@ -14062,37 +14093,6 @@
     }
   },
   {
-    "hkb_id": "I4wAxa71",
-    "universal_id": "0000231",
-    "name": "Garrett Whitlock",
-    "team": "BOS",
-    "positions": [
-      "RP"
-    ],
-    "rank": 450,
-    "value": 286,
-    "age": 30.1,
-    "prospect": false,
-    "level": "MLB",
-    "fantasy": {
-      "player_id": 11358,
-      "team_id": 5,
-      "team_name": "Clemson Cougars",
-      "nickname": "Cougars",
-      "primary_color": "#ed7d31",
-      "secondary_color": "#7030a0"
-    },
-    "mlb": {
-      "abbrev": "BOS",
-      "name": "Boston Red Sox",
-      "city": "Boston",
-      "nickname": "Red Sox",
-      "primary": "#052755",
-      "secondary": "#be2c36",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/bos.png&scale=crop&cquality=40&location=origin&w=80&h=80"
-    }
-  },
-  {
     "hkb_id": "tGXcSEqS",
     "universal_id": "0000384",
     "name": "Alex Freeland",
@@ -14101,7 +14101,7 @@
       "2B",
       "3B"
     ],
-    "rank": 450,
+    "rank": 451,
     "value": 286,
     "age": 24.9,
     "prospect": false,
@@ -15849,37 +15849,6 @@
     }
   },
   {
-    "hkb_id": "LqnoxpoV",
-    "universal_id": "0000786",
-    "name": "Clarke Schmidt",
-    "team": "NYY",
-    "positions": [
-      "SP"
-    ],
-    "rank": 507,
-    "value": 211,
-    "age": 30.4,
-    "prospect": false,
-    "level": "AA",
-    "fantasy": {
-      "player_id": 10926,
-      "team_id": 17,
-      "team_name": "Scranton Stranglers",
-      "nickname": "Stranglers",
-      "primary_color": "#000000",
-      "secondary_color": "#b7b7b7"
-    },
-    "mlb": {
-      "abbrev": "NYY",
-      "name": "New York Yankees",
-      "city": "New York",
-      "nickname": "Yankees",
-      "primary": "#0b1f46",
-      "secondary": "#ffffff",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/nyy.png&scale=crop&cquality=40&location=origin&w=80&h=80"
-    }
-  },
-  {
     "hkb_id": "6rGsf9-M",
     "universal_id": "0000592",
     "name": "Luis Castillo",
@@ -15908,6 +15877,37 @@
       "primary": "#042855",
       "secondary": "#00685E",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sea.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    }
+  },
+  {
+    "hkb_id": "LqnoxpoV",
+    "universal_id": "0000786",
+    "name": "Clarke Schmidt",
+    "team": "NYY",
+    "positions": [
+      "SP"
+    ],
+    "rank": 507,
+    "value": 211,
+    "age": 30.4,
+    "prospect": false,
+    "level": "AA",
+    "fantasy": {
+      "player_id": 10926,
+      "team_id": 17,
+      "team_name": "Scranton Stranglers",
+      "nickname": "Stranglers",
+      "primary_color": "#000000",
+      "secondary_color": "#b7b7b7"
+    },
+    "mlb": {
+      "abbrev": "NYY",
+      "name": "New York Yankees",
+      "city": "New York",
+      "nickname": "Yankees",
+      "primary": "#0b1f46",
+      "secondary": "#ffffff",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/nyy.png&scale=crop&cquality=40&location=origin&w=80&h=80"
     }
   },
   {
@@ -17247,37 +17247,6 @@
     }
   },
   {
-    "hkb_id": "CVfNznOD",
-    "universal_id": "0000060",
-    "name": "Tristan Peters",
-    "team": "CWS",
-    "positions": [
-      "OF"
-    ],
-    "rank": 552,
-    "value": 156,
-    "age": 26.4,
-    "prospect": false,
-    "level": "MLB",
-    "fantasy": {
-      "player_id": 60421,
-      "team_id": 2,
-      "team_name": "Atlantis Aliens",
-      "nickname": "Aliens",
-      "primary_color": "#00eaff",
-      "secondary_color": "#999999"
-    },
-    "mlb": {
-      "abbrev": "CWS",
-      "name": "Chicago White Sox",
-      "city": "Chicago",
-      "nickname": "White Sox",
-      "primary": "#303030",
-      "secondary": "#8D9093",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/chw.png&scale=crop&cquality=40&location=origin&w=80&h=80"
-    }
-  },
-  {
     "hkb_id": "U5iqgBwB",
     "universal_id": null,
     "name": "James Triantos",
@@ -17371,6 +17340,37 @@
       "primary": "#002e79",
       "secondary": "#BA0C2F",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tex.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    }
+  },
+  {
+    "hkb_id": "CVfNznOD",
+    "universal_id": "0000060",
+    "name": "Tristan Peters",
+    "team": "CWS",
+    "positions": [
+      "OF"
+    ],
+    "rank": 552,
+    "value": 156,
+    "age": 26.4,
+    "prospect": false,
+    "level": "MLB",
+    "fantasy": {
+      "player_id": 60421,
+      "team_id": 2,
+      "team_name": "Atlantis Aliens",
+      "nickname": "Aliens",
+      "primary_color": "#00eaff",
+      "secondary_color": "#999999"
+    },
+    "mlb": {
+      "abbrev": "CWS",
+      "name": "Chicago White Sox",
+      "city": "Chicago",
+      "nickname": "White Sox",
+      "primary": "#303030",
+      "secondary": "#8D9093",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/chw.png&scale=crop&cquality=40&location=origin&w=80&h=80"
     }
   },
   {
@@ -20130,37 +20130,6 @@
     }
   },
   {
-    "hkb_id": "jhnoMa7h",
-    "universal_id": null,
-    "name": "Johenssy Colome",
-    "team": "ATH",
-    "positions": [
-      "SS"
-    ],
-    "rank": 644,
-    "value": 95,
-    "age": 17.8,
-    "prospect": true,
-    "level": "ROOKIE_BALL",
-    "fantasy": {
-      "player_id": null,
-      "team_id": null,
-      "team_name": null,
-      "nickname": null,
-      "primary_color": null,
-      "secondary_color": null
-    },
-    "mlb": {
-      "abbrev": "ATH",
-      "name": "Oakland Athletics",
-      "city": "Oakland",
-      "nickname": "Athletics",
-      "primary": "#00352d",
-      "secondary": "#FFB81C",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/oak.png&scale=crop&cquality=40&location=origin&w=80&h=80"
-    }
-  },
-  {
     "hkb_id": "GcAmFlPh",
     "universal_id": "0000254",
     "name": "Murf Gray",
@@ -20327,7 +20296,7 @@
     "positions": [
       "SP"
     ],
-    "rank": 650,
+    "rank": 649,
     "value": 93,
     "age": 22,
     "prospect": true,
@@ -20351,6 +20320,37 @@
     }
   },
   {
+    "hkb_id": "jhnoMa7h",
+    "universal_id": null,
+    "name": "Johenssy Colome",
+    "team": "ATH",
+    "positions": [
+      "SS"
+    ],
+    "rank": 650,
+    "value": 92,
+    "age": 17.8,
+    "prospect": true,
+    "level": "ROOKIE_BALL",
+    "fantasy": {
+      "player_id": null,
+      "team_id": null,
+      "team_name": null,
+      "nickname": null,
+      "primary_color": null,
+      "secondary_color": null
+    },
+    "mlb": {
+      "abbrev": "ATH",
+      "name": "Oakland Athletics",
+      "city": "Oakland",
+      "nickname": "Athletics",
+      "primary": "#00352d",
+      "secondary": "#FFB81C",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/oak.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    }
+  },
+  {
     "hkb_id": "l8xaYxH0",
     "universal_id": "0000716",
     "name": "Starlyn Caba",
@@ -20358,7 +20358,7 @@
     "positions": [
       "SS"
     ],
-    "rank": 651,
+    "rank": 650,
     "value": 92,
     "age": 20.6,
     "prospect": true,
@@ -20382,6 +20382,39 @@
     }
   },
   {
+    "hkb_id": "hadITiRk",
+    "universal_id": "0000473",
+    "name": "Hyeseong Kim",
+    "team": "LAD",
+    "positions": [
+      "2B",
+      "SS",
+      "OF"
+    ],
+    "rank": 650,
+    "value": 92,
+    "age": 27.5,
+    "prospect": false,
+    "level": "MLB",
+    "fantasy": {
+      "player_id": 64858,
+      "team_id": 11,
+      "team_name": "Lancaster Lagers",
+      "nickname": "Lagers",
+      "primary_color": "#7030a0",
+      "secondary_color": "#c7b277"
+    },
+    "mlb": {
+      "abbrev": "LAD",
+      "name": "Los Angeles Dodgers",
+      "city": "Los Angeles",
+      "nickname": "Dodgers",
+      "primary": "#005a9d",
+      "secondary": "#FFFFFF",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/lad.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    }
+  },
+  {
     "hkb_id": "6nfLoFXB",
     "universal_id": null,
     "name": "Matt Wilkinson",
@@ -20389,7 +20422,7 @@
     "positions": [
       "SP"
     ],
-    "rank": 652,
+    "rank": 653,
     "value": 91,
     "age": 23.6,
     "prospect": true,
@@ -20421,7 +20454,7 @@
       "SP",
       "RP"
     ],
-    "rank": 653,
+    "rank": 654,
     "value": 90,
     "age": 26.6,
     "prospect": false,
@@ -20453,7 +20486,7 @@
       "3B",
       "SS"
     ],
-    "rank": 653,
+    "rank": 654,
     "value": 90,
     "age": 31.5,
     "prospect": false,
@@ -20474,39 +20507,6 @@
       "primary": "#042855",
       "secondary": "#00685E",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sea.png&scale=crop&cquality=40&location=origin&w=80&h=80"
-    }
-  },
-  {
-    "hkb_id": "hadITiRk",
-    "universal_id": "0000473",
-    "name": "Hyeseong Kim",
-    "team": "LAD",
-    "positions": [
-      "2B",
-      "SS",
-      "OF"
-    ],
-    "rank": 655,
-    "value": 89,
-    "age": 27.5,
-    "prospect": false,
-    "level": "MLB",
-    "fantasy": {
-      "player_id": 64858,
-      "team_id": 11,
-      "team_name": "Lancaster Lagers",
-      "nickname": "Lagers",
-      "primary_color": "#7030a0",
-      "secondary_color": "#c7b277"
-    },
-    "mlb": {
-      "abbrev": "LAD",
-      "name": "Los Angeles Dodgers",
-      "city": "Los Angeles",
-      "nickname": "Dodgers",
-      "primary": "#005a9d",
-      "secondary": "#FFFFFF",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/lad.png&scale=crop&cquality=40&location=origin&w=80&h=80"
     }
   },
   {
@@ -20711,11 +20711,11 @@
     "level": "MLB",
     "fantasy": {
       "player_id": 9896,
-      "team_id": 18,
-      "team_name": "Spokane Sasquatch",
-      "nickname": "Sasquatch",
-      "primary_color": "#311806",
-      "secondary_color": "#ffc425"
+      "team_id": 17,
+      "team_name": "Scranton Stranglers",
+      "nickname": "Stranglers",
+      "primary_color": "#000000",
+      "secondary_color": "#b7b7b7"
     },
     "mlb": {
       "abbrev": "TOR",
@@ -21437,12 +21437,12 @@
     "prospect": false,
     "level": "MLB",
     "fantasy": {
-      "player_id": 62194,
-      "team_id": 3,
-      "team_name": "Buck Ridge Whitetail",
-      "nickname": "Whitetail",
-      "primary_color": "#000000",
-      "secondary_color": "#ffffff"
+      "player_id": null,
+      "team_id": null,
+      "team_name": null,
+      "nickname": null,
+      "primary_color": null,
+      "secondary_color": null
     },
     "mlb": {
       "abbrev": "MIA",
@@ -22135,37 +22135,6 @@
     }
   },
   {
-    "hkb_id": "I3LDQ3zx",
-    "universal_id": "0000678",
-    "name": "Lucas Erceg",
-    "team": "KC",
-    "positions": [
-      "RP"
-    ],
-    "rank": 708,
-    "value": 67,
-    "age": 31.2,
-    "prospect": false,
-    "level": "MLB",
-    "fantasy": {
-      "player_id": 10659,
-      "team_id": 15,
-      "team_name": "Orlando Oligarchs",
-      "nickname": "Oligarchs",
-      "primary_color": "#ff0000",
-      "secondary_color": "#c7b277"
-    },
-    "mlb": {
-      "abbrev": "KC",
-      "name": "Kansas City Royals",
-      "city": "Kansas City",
-      "nickname": "Royals",
-      "primary": "#002da8",
-      "secondary": "#B9975B",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/kc.png&scale=crop&cquality=40&location=origin&w=80&h=80"
-    }
-  },
-  {
     "hkb_id": "tYpTFEuW",
     "universal_id": null,
     "name": "Andrew Salas",
@@ -22194,6 +22163,37 @@
       "primary": "#00a4e1",
       "secondary": "#000000",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/mia.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    }
+  },
+  {
+    "hkb_id": "I3LDQ3zx",
+    "universal_id": "0000678",
+    "name": "Lucas Erceg",
+    "team": "KC",
+    "positions": [
+      "RP"
+    ],
+    "rank": 708,
+    "value": 67,
+    "age": 31.2,
+    "prospect": false,
+    "level": "MLB",
+    "fantasy": {
+      "player_id": 10659,
+      "team_id": 12,
+      "team_name": "Erie Electric Eels",
+      "nickname": "Eels",
+      "primary_color": "#39baf4",
+      "secondary_color": "#f9db22"
+    },
+    "mlb": {
+      "abbrev": "KC",
+      "name": "Kansas City Royals",
+      "city": "Kansas City",
+      "nickname": "Royals",
+      "primary": "#002da8",
+      "secondary": "#B9975B",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/kc.png&scale=crop&cquality=40&location=origin&w=80&h=80"
     }
   },
   {
@@ -22259,6 +22259,37 @@
     }
   },
   {
+    "hkb_id": "aJaTiHLT",
+    "universal_id": "0000448",
+    "name": "Bishop Letson",
+    "team": "MIL",
+    "positions": [
+      "SP"
+    ],
+    "rank": 711,
+    "value": 65,
+    "age": 21.8,
+    "prospect": true,
+    "level": "AA",
+    "fantasy": {
+      "player_id": 62899,
+      "team_id": 10,
+      "team_name": "Harleysville Hornets",
+      "nickname": "Hornets",
+      "primary_color": "#4b0076",
+      "secondary_color": "#ff5f1f"
+    },
+    "mlb": {
+      "abbrev": "MIL",
+      "name": "Milwaukee Brewers",
+      "city": "Milwaukee",
+      "nickname": "Brewers",
+      "primary": "#0b244a",
+      "secondary": "#FFC72C",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/mil.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    }
+  },
+  {
     "hkb_id": "vwK6GYSc",
     "universal_id": "0000286",
     "name": "Mauricio Dub\u00f3n",
@@ -22293,37 +22324,6 @@
     }
   },
   {
-    "hkb_id": "aJaTiHLT",
-    "universal_id": "0000448",
-    "name": "Bishop Letson",
-    "team": "MIL",
-    "positions": [
-      "SP"
-    ],
-    "rank": 711,
-    "value": 65,
-    "age": 21.8,
-    "prospect": true,
-    "level": "AA",
-    "fantasy": {
-      "player_id": 62899,
-      "team_id": 10,
-      "team_name": "Harleysville Hornets",
-      "nickname": "Hornets",
-      "primary_color": "#4b0076",
-      "secondary_color": "#ff5f1f"
-    },
-    "mlb": {
-      "abbrev": "MIL",
-      "name": "Milwaukee Brewers",
-      "city": "Milwaukee",
-      "nickname": "Brewers",
-      "primary": "#0b244a",
-      "secondary": "#FFC72C",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/mil.png&scale=crop&cquality=40&location=origin&w=80&h=80"
-    }
-  },
-  {
     "hkb_id": "pz7nU_5Y",
     "universal_id": "0000025",
     "name": "Jeffrey Springs",
@@ -22352,37 +22352,6 @@
       "primary": "#00352d",
       "secondary": "#FFB81C",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/oak.png&scale=crop&cquality=40&location=origin&w=80&h=80"
-    }
-  },
-  {
-    "hkb_id": "UBHBSwvR",
-    "universal_id": "0000669",
-    "name": "Kane Kepley",
-    "team": "CHC",
-    "positions": [
-      "OF"
-    ],
-    "rank": 714,
-    "value": 64,
-    "age": 22.4,
-    "prospect": true,
-    "level": "HIGH_A",
-    "fantasy": {
-      "player_id": 65811,
-      "team_id": 15,
-      "team_name": "Orlando Oligarchs",
-      "nickname": "Oligarchs",
-      "primary_color": "#ff0000",
-      "secondary_color": "#c7b277"
-    },
-    "mlb": {
-      "abbrev": "CHC",
-      "name": "Chicago Cubs",
-      "city": "Chicago",
-      "nickname": "Cubs",
-      "primary": "#063087",
-      "secondary": "#cd3130",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/chc.png&scale=crop&cquality=40&location=origin&w=80&h=80"
     }
   },
   {
@@ -22417,34 +22386,34 @@
     }
   },
   {
-    "hkb_id": "HLyAfB3P",
-    "universal_id": null,
-    "name": "Dorian Soto",
-    "team": "BOS",
+    "hkb_id": "UBHBSwvR",
+    "universal_id": "0000669",
+    "name": "Kane Kepley",
+    "team": "CHC",
     "positions": [
-      "SS"
+      "OF"
     ],
     "rank": 714,
     "value": 64,
-    "age": 18.4,
+    "age": 22.4,
     "prospect": true,
-    "level": "ROOKIE_BALL",
+    "level": "HIGH_A",
     "fantasy": {
-      "player_id": null,
-      "team_id": null,
-      "team_name": null,
-      "nickname": null,
-      "primary_color": null,
-      "secondary_color": null
+      "player_id": 65811,
+      "team_id": 15,
+      "team_name": "Orlando Oligarchs",
+      "nickname": "Oligarchs",
+      "primary_color": "#ff0000",
+      "secondary_color": "#c7b277"
     },
     "mlb": {
-      "abbrev": "BOS",
-      "name": "Boston Red Sox",
-      "city": "Boston",
-      "nickname": "Red Sox",
-      "primary": "#052755",
-      "secondary": "#be2c36",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/bos.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+      "abbrev": "CHC",
+      "name": "Chicago Cubs",
+      "city": "Chicago",
+      "nickname": "Cubs",
+      "primary": "#063087",
+      "secondary": "#cd3130",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/chc.png&scale=crop&cquality=40&location=origin&w=80&h=80"
     }
   },
   {
@@ -22476,6 +22445,37 @@
       "primary": "#002da8",
       "secondary": "#B9975B",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/kc.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    }
+  },
+  {
+    "hkb_id": "HLyAfB3P",
+    "universal_id": null,
+    "name": "Dorian Soto",
+    "team": "BOS",
+    "positions": [
+      "SS"
+    ],
+    "rank": 714,
+    "value": 64,
+    "age": 18.4,
+    "prospect": true,
+    "level": "ROOKIE_BALL",
+    "fantasy": {
+      "player_id": null,
+      "team_id": null,
+      "team_name": null,
+      "nickname": null,
+      "primary_color": null,
+      "secondary_color": null
+    },
+    "mlb": {
+      "abbrev": "BOS",
+      "name": "Boston Red Sox",
+      "city": "Boston",
+      "nickname": "Red Sox",
+      "primary": "#052755",
+      "secondary": "#be2c36",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/bos.png&scale=crop&cquality=40&location=origin&w=80&h=80"
     }
   },
   {
@@ -22540,37 +22540,6 @@
     }
   },
   {
-    "hkb_id": "qCU8Sx-Y",
-    "universal_id": "0000071",
-    "name": "Kodai Senga",
-    "team": "NYM",
-    "positions": [
-      "SP"
-    ],
-    "rank": 721,
-    "value": 63,
-    "age": 33.5,
-    "prospect": false,
-    "level": "MLB",
-    "fantasy": {
-      "player_id": 12776,
-      "team_id": 2,
-      "team_name": "Atlantis Aliens",
-      "nickname": "Aliens",
-      "primary_color": "#00eaff",
-      "secondary_color": "#999999"
-    },
-    "mlb": {
-      "abbrev": "NYM",
-      "name": "New York Mets",
-      "city": "New York",
-      "nickname": "Mets",
-      "primary": "#002973",
-      "secondary": "#ff5807",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/nym.png&scale=crop&cquality=40&location=origin&w=80&h=80"
-    }
-  },
-  {
     "hkb_id": "kD3Rulvw",
     "universal_id": "0000360",
     "name": "Paul Sewald",
@@ -22599,6 +22568,37 @@
       "primary": "#303030",
       "secondary": "#ab1128",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/ari.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    }
+  },
+  {
+    "hkb_id": "qCU8Sx-Y",
+    "universal_id": "0000071",
+    "name": "Kodai Senga",
+    "team": "NYM",
+    "positions": [
+      "SP"
+    ],
+    "rank": 721,
+    "value": 63,
+    "age": 33.5,
+    "prospect": false,
+    "level": "MLB",
+    "fantasy": {
+      "player_id": 12776,
+      "team_id": 2,
+      "team_name": "Atlantis Aliens",
+      "nickname": "Aliens",
+      "primary_color": "#00eaff",
+      "secondary_color": "#999999"
+    },
+    "mlb": {
+      "abbrev": "NYM",
+      "name": "New York Mets",
+      "city": "New York",
+      "nickname": "Mets",
+      "primary": "#002973",
+      "secondary": "#ff5807",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/nym.png&scale=crop&cquality=40&location=origin&w=80&h=80"
     }
   },
   {
@@ -22697,37 +22697,6 @@
     }
   },
   {
-    "hkb_id": "60cFWNsq",
-    "universal_id": "0000906",
-    "name": "JD Dix",
-    "team": "AZ",
-    "positions": [
-      "2B"
-    ],
-    "rank": 726,
-    "value": 62,
-    "age": 20.8,
-    "prospect": true,
-    "level": "HIGH_A",
-    "fantasy": {
-      "player_id": null,
-      "team_id": null,
-      "team_name": null,
-      "nickname": null,
-      "primary_color": null,
-      "secondary_color": null
-    },
-    "mlb": {
-      "abbrev": "AZ",
-      "name": "Arizona Diamondbacks",
-      "city": "Arizona",
-      "nickname": "Diamondbacks",
-      "primary": "#303030",
-      "secondary": "#ab1128",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/ari.png&scale=crop&cquality=40&location=origin&w=80&h=80"
-    }
-  },
-  {
     "hkb_id": "1WsBz2cE",
     "universal_id": "0000222",
     "name": "JoJo Romero",
@@ -22756,6 +22725,37 @@
       "primary": "#bf030c",
       "secondary": "#0C2340",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/stl.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    }
+  },
+  {
+    "hkb_id": "60cFWNsq",
+    "universal_id": "0000906",
+    "name": "JD Dix",
+    "team": "AZ",
+    "positions": [
+      "2B"
+    ],
+    "rank": 726,
+    "value": 62,
+    "age": 20.8,
+    "prospect": true,
+    "level": "HIGH_A",
+    "fantasy": {
+      "player_id": null,
+      "team_id": null,
+      "team_name": null,
+      "nickname": null,
+      "primary_color": null,
+      "secondary_color": null
+    },
+    "mlb": {
+      "abbrev": "AZ",
+      "name": "Arizona Diamondbacks",
+      "city": "Arizona",
+      "nickname": "Diamondbacks",
+      "primary": "#303030",
+      "secondary": "#ab1128",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/ari.png&scale=crop&cquality=40&location=origin&w=80&h=80"
     }
   },
   {
@@ -22791,37 +22791,6 @@
     }
   },
   {
-    "hkb_id": "ChWHVxDd",
-    "universal_id": "0000934",
-    "name": "Cam Cannarella",
-    "team": "MIA",
-    "positions": [
-      "OF"
-    ],
-    "rank": 729,
-    "value": 60,
-    "age": 22.9,
-    "prospect": true,
-    "level": "AA",
-    "fantasy": {
-      "player_id": 65759,
-      "team_id": 6,
-      "team_name": "Cokeburg Miners",
-      "nickname": "Miners",
-      "primary_color": "#c7a533",
-      "secondary_color": "#000000"
-    },
-    "mlb": {
-      "abbrev": "MIA",
-      "name": "Miami Marlins",
-      "city": "Miami",
-      "nickname": "Marlins",
-      "primary": "#00a4e1",
-      "secondary": "#000000",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/mia.png&scale=crop&cquality=40&location=origin&w=80&h=80"
-    }
-  },
-  {
     "hkb_id": "eIar_6CI",
     "universal_id": "0000171",
     "name": "Brad Lord",
@@ -22851,6 +22820,37 @@
       "primary": "#ac0000",
       "secondary": "#041E42",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/wsh.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    }
+  },
+  {
+    "hkb_id": "ChWHVxDd",
+    "universal_id": "0000934",
+    "name": "Cam Cannarella",
+    "team": "MIA",
+    "positions": [
+      "OF"
+    ],
+    "rank": 729,
+    "value": 60,
+    "age": 22.9,
+    "prospect": true,
+    "level": "AA",
+    "fantasy": {
+      "player_id": 65759,
+      "team_id": 6,
+      "team_name": "Cokeburg Miners",
+      "nickname": "Miners",
+      "primary_color": "#c7a533",
+      "secondary_color": "#000000"
+    },
+    "mlb": {
+      "abbrev": "MIA",
+      "name": "Miami Marlins",
+      "city": "Miami",
+      "nickname": "Marlins",
+      "primary": "#00a4e1",
+      "secondary": "#000000",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/mia.png&scale=crop&cquality=40&location=origin&w=80&h=80"
     }
   },
   {
@@ -23665,37 +23665,6 @@
     }
   },
   {
-    "hkb_id": "NBw-Oe6K",
-    "universal_id": "0000288",
-    "name": "Lourdes Gurriel Jr.",
-    "team": "AZ",
-    "positions": [
-      "OF"
-    ],
-    "rank": 757,
-    "value": 46,
-    "age": 32.8,
-    "prospect": false,
-    "level": "MLB",
-    "fantasy": {
-      "player_id": 10616,
-      "team_id": 7,
-      "team_name": "Danville Sweet Corn",
-      "nickname": "Sweet Corn",
-      "primary_color": "#0f7900",
-      "secondary_color": "#ffb300"
-    },
-    "mlb": {
-      "abbrev": "AZ",
-      "name": "Arizona Diamondbacks",
-      "city": "Arizona",
-      "nickname": "Diamondbacks",
-      "primary": "#303030",
-      "secondary": "#ab1128",
-      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/ari.png&scale=crop&cquality=40&location=origin&w=80&h=80"
-    }
-  },
-  {
     "hkb_id": "0OWAJbRZ",
     "universal_id": "0000810",
     "name": "Anthony Santander",
@@ -23725,6 +23694,37 @@
       "primary": "#0b498f",
       "secondary": "#ffffff",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tor.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+    }
+  },
+  {
+    "hkb_id": "NBw-Oe6K",
+    "universal_id": "0000288",
+    "name": "Lourdes Gurriel Jr.",
+    "team": "AZ",
+    "positions": [
+      "OF"
+    ],
+    "rank": 757,
+    "value": 46,
+    "age": 32.8,
+    "prospect": false,
+    "level": "MLB",
+    "fantasy": {
+      "player_id": 10616,
+      "team_id": 7,
+      "team_name": "Danville Sweet Corn",
+      "nickname": "Sweet Corn",
+      "primary_color": "#0f7900",
+      "secondary_color": "#ffb300"
+    },
+    "mlb": {
+      "abbrev": "AZ",
+      "name": "Arizona Diamondbacks",
+      "city": "Arizona",
+      "nickname": "Diamondbacks",
+      "primary": "#303030",
+      "secondary": "#ab1128",
+      "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/ari.png&scale=crop&cquality=40&location=origin&w=80&h=80"
     }
   },
   {
@@ -24712,12 +24712,12 @@
     "prospect": false,
     "level": "MLB",
     "fantasy": {
-      "player_id": 10869,
-      "team_id": 18,
-      "team_name": "Spokane Sasquatch",
-      "nickname": "Sasquatch",
-      "primary_color": "#311806",
-      "secondary_color": "#ffc425"
+      "player_id": null,
+      "team_id": null,
+      "team_name": null,
+      "nickname": null,
+      "primary_color": null,
+      "secondary_color": null
     },
     "mlb": {
       "abbrev": "ATH",
@@ -24898,12 +24898,12 @@
     "prospect": false,
     "level": "MLB",
     "fantasy": {
-      "player_id": 10418,
-      "team_id": 15,
-      "team_name": "Orlando Oligarchs",
-      "nickname": "Oligarchs",
-      "primary_color": "#ff0000",
-      "secondary_color": "#c7b277"
+      "player_id": null,
+      "team_id": null,
+      "team_name": null,
+      "nickname": null,
+      "primary_color": null,
+      "secondary_color": null
     },
     "mlb": {
       "abbrev": "PHI",
@@ -25617,12 +25617,12 @@
     "prospect": false,
     "level": "MLB",
     "fantasy": {
-      "player_id": 61627,
-      "team_id": 2,
-      "team_name": "Atlantis Aliens",
-      "nickname": "Aliens",
-      "primary_color": "#00eaff",
-      "secondary_color": "#999999"
+      "player_id": null,
+      "team_id": null,
+      "team_name": null,
+      "nickname": null,
+      "primary_color": null,
+      "secondary_color": null
     },
     "mlb": {
       "abbrev": "SF",
@@ -29974,12 +29974,12 @@
     "prospect": true,
     "level": "HIGH_A",
     "fantasy": {
-      "player_id": 64353,
-      "team_id": 1,
-      "team_name": "Sechler Run Tides",
-      "nickname": "Tides",
-      "primary_color": "#00184e",
-      "secondary_color": "#4285f4"
+      "player_id": null,
+      "team_id": null,
+      "team_name": null,
+      "nickname": null,
+      "primary_color": null,
+      "secondary_color": null
     },
     "mlb": {
       "abbrev": "BAL",
@@ -31947,12 +31947,12 @@
     "prospect": false,
     "level": "MLB",
     "fantasy": {
-      "player_id": 61375,
-      "team_id": 16,
-      "team_name": "SC Scrubs",
-      "nickname": "Scrubs",
-      "primary_color": "#4285f4",
-      "secondary_color": "#ff0000"
+      "player_id": null,
+      "team_id": null,
+      "team_name": null,
+      "nickname": null,
+      "primary_color": null,
+      "secondary_color": null
     },
     "mlb": {
       "abbrev": "LAA",
@@ -33485,12 +33485,12 @@
     "prospect": false,
     "level": "MLB",
     "fantasy": {
-      "player_id": 61987,
-      "team_id": 4,
-      "team_name": "Carson City Campers",
-      "nickname": "Campers",
-      "primary_color": "#001666",
-      "secondary_color": "#fc0065"
+      "player_id": null,
+      "team_id": null,
+      "team_name": null,
+      "nickname": null,
+      "primary_color": null,
+      "secondary_color": null
     },
     "mlb": {
       "abbrev": "TOR",
@@ -34241,12 +34241,12 @@
     "prospect": false,
     "level": "MLB",
     "fantasy": {
-      "player_id": 10779,
-      "team_id": 2,
-      "team_name": "Atlantis Aliens",
-      "nickname": "Aliens",
-      "primary_color": "#00eaff",
-      "secondary_color": "#999999"
+      "player_id": null,
+      "team_id": null,
+      "team_name": null,
+      "nickname": null,
+      "primary_color": null,
+      "secondary_color": null
     },
     "mlb": {
       "abbrev": "DET",
@@ -38360,12 +38360,12 @@
     "prospect": true,
     "level": "AAA",
     "fantasy": {
-      "player_id": 65322,
-      "team_id": 1,
-      "team_name": "Sechler Run Tides",
-      "nickname": "Tides",
-      "primary_color": "#00184e",
-      "secondary_color": "#4285f4"
+      "player_id": null,
+      "team_id": null,
+      "team_name": null,
+      "nickname": null,
+      "primary_color": null,
+      "secondary_color": null
     },
     "mlb": {
       "abbrev": "BAL",
@@ -38738,12 +38738,12 @@
     "prospect": false,
     "level": "MLB",
     "fantasy": {
-      "player_id": 9173,
-      "team_id": 4,
-      "team_name": "Carson City Campers",
-      "nickname": "Campers",
-      "primary_color": "#001666",
-      "secondary_color": "#fc0065"
+      "player_id": null,
+      "team_id": null,
+      "team_name": null,
+      "nickname": null,
+      "primary_color": null,
+      "secondary_color": null
     },
     "mlb": {
       "abbrev": "WSH",
@@ -40025,12 +40025,12 @@
     "prospect": false,
     "level": "MLB",
     "fantasy": {
-      "player_id": 12758,
-      "team_id": 17,
-      "team_name": "Scranton Stranglers",
-      "nickname": "Stranglers",
-      "primary_color": "#000000",
-      "secondary_color": "#b7b7b7"
+      "player_id": null,
+      "team_id": null,
+      "team_name": null,
+      "nickname": null,
+      "primary_color": null,
+      "secondary_color": null
     },
     "mlb": {
       "abbrev": "PIT",
@@ -40435,12 +40435,12 @@
     "prospect": false,
     "level": "MLB",
     "fantasy": {
-      "player_id": 11231,
-      "team_id": 4,
-      "team_name": "Carson City Campers",
-      "nickname": "Campers",
-      "primary_color": "#001666",
-      "secondary_color": "#fc0065"
+      "player_id": null,
+      "team_id": null,
+      "team_name": null,
+      "nickname": null,
+      "primary_color": null,
+      "secondary_color": null
     },
     "mlb": {
       "abbrev": "SD",
@@ -43409,12 +43409,12 @@
     "prospect": false,
     "level": "MLB",
     "fantasy": {
-      "player_id": 11536,
-      "team_id": 12,
-      "team_name": "Erie Electric Eels",
-      "nickname": "Eels",
-      "primary_color": "#39baf4",
-      "secondary_color": "#f9db22"
+      "player_id": null,
+      "team_id": null,
+      "team_name": null,
+      "nickname": null,
+      "primary_color": null,
+      "secondary_color": null
     },
     "mlb": {
       "abbrev": "NYY",
@@ -46127,12 +46127,12 @@
     "prospect": false,
     "level": "MLB",
     "fantasy": {
-      "player_id": 10865,
-      "team_id": 16,
-      "team_name": "SC Scrubs",
-      "nickname": "Scrubs",
-      "primary_color": "#4285f4",
-      "secondary_color": "#ff0000"
+      "player_id": null,
+      "team_id": null,
+      "team_name": null,
+      "nickname": null,
+      "primary_color": null,
+      "secondary_color": null
     },
     "mlb": {
       "abbrev": "LAA",
@@ -47449,12 +47449,12 @@
     "prospect": false,
     "level": "MLB",
     "fantasy": {
-      "player_id": 62078,
-      "team_id": 17,
-      "team_name": "Scranton Stranglers",
-      "nickname": "Stranglers",
-      "primary_color": "#000000",
-      "secondary_color": "#b7b7b7"
+      "player_id": null,
+      "team_id": null,
+      "team_name": null,
+      "nickname": null,
+      "primary_color": null,
+      "secondary_color": null
     },
     "mlb": {
       "abbrev": "NYY",
@@ -50135,12 +50135,12 @@
     "prospect": false,
     "level": "MLB",
     "fantasy": {
-      "player_id": 12714,
-      "team_id": 17,
-      "team_name": "Scranton Stranglers",
-      "nickname": "Stranglers",
-      "primary_color": "#000000",
-      "secondary_color": "#b7b7b7"
+      "player_id": null,
+      "team_id": null,
+      "team_name": null,
+      "nickname": null,
+      "primary_color": null,
+      "secondary_color": null
     },
     "mlb": {
       "abbrev": "TOR",
@@ -54544,12 +54544,12 @@
     "prospect": false,
     "level": "MLB",
     "fantasy": {
-      "player_id": 63868,
-      "team_id": 13,
-      "team_name": "Montco Marshmallows",
-      "nickname": "Marshmallows",
-      "primary_color": "#b7b7b7",
-      "secondary_color": "#ffffff"
+      "player_id": null,
+      "team_id": null,
+      "team_name": null,
+      "nickname": null,
+      "primary_color": null,
+      "secondary_color": null
     },
     "mlb": {
       "abbrev": "HOU",

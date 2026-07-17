@@ -14175,5 +14175,185 @@
     "locked": true,
     "created": "2026-07-13T13:41:53.187023",
     "updated": "2026-07-13T13:41:53.187057"
+  },
+  "0000946": {
+    "universal_id": "0000946",
+    "canonical_name": "James Triantos",
+    "canonical_team": "CHC",
+    "internal_ids": [
+      12385
+    ],
+    "hkb_ids": [
+      "U5iqgBwB"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-17T13:02:55.451758",
+    "updated": "2026-07-17T13:02:55.451965"
+  },
+  "0000947": {
+    "universal_id": "0000947",
+    "canonical_name": "Justin Slaten",
+    "canonical_team": "BOS",
+    "internal_ids": [
+      63500
+    ],
+    "hkb_ids": [
+      "FWs4EQh2"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-17T13:02:56.410520",
+    "updated": "2026-07-17T13:02:56.410576"
+  },
+  "0000948": {
+    "universal_id": "0000948",
+    "canonical_name": "Jake Bloss",
+    "canonical_team": "TOR",
+    "internal_ids": [
+      62903
+    ],
+    "hkb_ids": [
+      "o6C3CZ9z"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-17T13:02:57.219851",
+    "updated": "2026-07-17T13:02:57.219940"
+  },
+  "0000949": {
+    "universal_id": "0000949",
+    "canonical_name": "Eduardo Valencia",
+    "canonical_team": "DET",
+    "internal_ids": [
+      66382
+    ],
+    "hkb_ids": [
+      "3d3mf2gC"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-17T13:02:59.106891",
+    "updated": "2026-07-17T13:02:59.106967"
+  },
+  "0000950": {
+    "universal_id": "0000950",
+    "canonical_name": "Gabriel Arias",
+    "canonical_team": "CLE",
+    "internal_ids": [
+      11524
+    ],
+    "hkb_ids": [
+      "opJmdZYL"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-17T13:03:08.763952",
+    "updated": "2026-07-17T13:03:08.764007"
+  },
+  "0000951": {
+    "universal_id": "0000951",
+    "canonical_name": "Tyler Locklear",
+    "canonical_team": "AZ",
+    "internal_ids": [
+      60581
+    ],
+    "hkb_ids": [
+      "E_jpxXB3"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-17T13:03:10.012436",
+    "updated": "2026-07-17T13:03:10.012524"
+  },
+  "0000952": {
+    "universal_id": "0000952",
+    "canonical_name": "Ronny Cruz",
+    "canonical_team": "WSH",
+    "internal_ids": [
+      64629
+    ],
+    "hkb_ids": [
+      "gQHMqMnP"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-17T13:03:13.081288",
+    "updated": "2026-07-17T13:03:13.081322"
+  },
+  "0000953": {
+    "universal_id": "0000953",
+    "canonical_name": "Gabriel Hughes",
+    "canonical_team": "COL",
+    "internal_ids": [
+      60145
+    ],
+    "hkb_ids": [
+      "Ni1xn7v5"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-17T13:03:14.320411",
+    "updated": "2026-07-17T13:03:14.320497"
+  },
+  "0000954": {
+    "universal_id": "0000954",
+    "canonical_name": "Richie Palacios",
+    "canonical_team": "TB",
+    "internal_ids": [
+      12316
+    ],
+    "hkb_ids": [
+      "LgrOBMLd"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-17T13:03:15.486844",
+    "updated": "2026-07-17T13:03:15.486984"
+  },
+  "0000955": {
+    "universal_id": "0000955",
+    "canonical_name": "Jonatan Clase",
+    "canonical_team": "TOR",
+    "internal_ids": [
+      60000
+    ],
+    "hkb_ids": [
+      "IjgOGgNC"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-17T13:03:16.739707",
+    "updated": "2026-07-17T13:03:16.739798"
+  },
+  "0000956": {
+    "universal_id": "0000956",
+    "canonical_name": "Hayden Alvarez",
+    "canonical_team": "LAA",
+    "internal_ids": [
+      64903
+    ],
+    "hkb_ids": [
+      "5npeOnf0"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-17T13:03:17.856075",
+    "updated": "2026-07-17T13:03:17.856167"
+  },
+  "0000957": {
+    "universal_id": "0000957",
+    "canonical_name": "Jordan Montgomery",
+    "canonical_team": "TEX",
+    "internal_ids": [
+      10660
+    ],
+    "hkb_ids": [
+      "j5VEjDlk"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-17T13:03:19.116651",
+    "updated": "2026-07-17T13:03:19.116723"
   }
 }

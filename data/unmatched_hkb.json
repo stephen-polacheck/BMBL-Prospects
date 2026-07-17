@@ -4,7 +4,7 @@
     "name": "2027 Early 1st",
     "team": null,
     "positions": [],
-    "rank": 135,
+    "rank": 136,
     "value": 1386,
     "age": null,
     "source": "harryknowsball",
@@ -125,20 +125,6 @@
     "source": "harryknowsball",
     "prospect": true,
     "level": null
-  },
-  {
-    "id": "gQHMqMnP",
-    "name": "Ronny Cruz",
-    "team": "WSH",
-    "positions": [
-      "SS"
-    ],
-    "rank": 415,
-    "value": 332,
-    "age": 19.9,
-    "source": "harryknowsball",
-    "prospect": true,
-    "level": "HIGH_A"
   },
   {
     "id": "U27Kfe3R",
@@ -368,22 +354,6 @@
     "source": "harryknowsball",
     "prospect": true,
     "level": null
-  },
-  {
-    "id": "U5iqgBwB",
-    "name": "James Triantos",
-    "team": "CHC",
-    "positions": [
-      "2B",
-      "3B",
-      "OF"
-    ],
-    "rank": 552,
-    "value": 156,
-    "age": 23.5,
-    "source": "harryknowsball",
-    "prospect": true,
-    "level": "AAA"
   },
   {
     "id": "5b1QSESr",
@@ -731,8 +701,8 @@
     "positions": [
       "SS"
     ],
-    "rank": 644,
-    "value": 95,
+    "rank": 650,
+    "value": 92,
     "age": 17.8,
     "source": "harryknowsball",
     "prospect": true,
@@ -745,7 +715,7 @@
     "positions": [
       "SP"
     ],
-    "rank": 652,
+    "rank": 653,
     "value": 91,
     "age": 23.6,
     "source": "harryknowsball",
@@ -850,6 +820,24 @@
     "source": "harryknowsball",
     "prospect": true,
     "level": "AA"
+  },
+  {
+    "id": "9cDxxyG8",
+    "name": "Javier Sanoja",
+    "team": "MIA",
+    "positions": [
+      "2B",
+      "3B",
+      "SS",
+      "OF",
+      "RP"
+    ],
+    "rank": 684,
+    "value": 77,
+    "age": 23.9,
+    "source": "harryknowsball",
+    "prospect": false,
+    "level": "MLB"
   },
   {
     "id": "0QvprRcq",
@@ -1200,6 +1188,20 @@
     "level": "ROOKIE_BALL"
   },
   {
+    "id": "iZZ2dzzC",
+    "name": "Aaron Civale",
+    "team": "ATH",
+    "positions": [
+      "SP"
+    ],
+    "rank": 790,
+    "value": 35,
+    "age": 31.1,
+    "source": "harryknowsball",
+    "prospect": false,
+    "level": "MLB"
+  },
+  {
     "id": "CDHw2Zoq",
     "name": "Brendan Summerhill",
     "team": "TB",
@@ -1236,6 +1238,20 @@
     "rank": 794,
     "value": 34,
     "age": 26.5,
+    "source": "harryknowsball",
+    "prospect": false,
+    "level": "MLB"
+  },
+  {
+    "id": "rEKNrrX4",
+    "name": "Brad Keller",
+    "team": "PHI",
+    "positions": [
+      "RP"
+    ],
+    "rank": 794,
+    "value": 34,
+    "age": 30.9,
     "source": "harryknowsball",
     "prospect": false,
     "level": "MLB"
@@ -1311,6 +1327,20 @@
     "source": "harryknowsball",
     "prospect": true,
     "level": "HIGH_A"
+  },
+  {
+    "id": "-OR0huIy",
+    "name": "Ryan Walker",
+    "team": "SF",
+    "positions": [
+      "RP"
+    ],
+    "rank": 818,
+    "value": 23,
+    "age": 30.6,
+    "source": "harryknowsball",
+    "prospect": false,
+    "level": "MLB"
   },
   {
     "id": "i7WwFgPp",
@@ -1408,20 +1438,6 @@
     "rank": 839,
     "value": 10,
     "age": 26.9,
-    "source": "harryknowsball",
-    "prospect": true,
-    "level": "MLB"
-  },
-  {
-    "id": "Ni1xn7v5",
-    "name": "Gabriel Hughes",
-    "team": "COL",
-    "positions": [
-      "SP"
-    ],
-    "rank": 839,
-    "value": 10,
-    "age": 24.9,
     "source": "harryknowsball",
     "prospect": true,
     "level": "MLB"
@@ -1893,21 +1909,6 @@
     "source": "harryknowsball",
     "prospect": true,
     "level": "LOW_A"
-  },
-  {
-    "id": "3d3mf2gC",
-    "name": "Eduardo Valencia",
-    "team": "DET",
-    "positions": [
-      "C",
-      "1B"
-    ],
-    "rank": 839,
-    "value": 10,
-    "age": 26.5,
-    "source": "harryknowsball",
-    "prospect": true,
-    "level": "MLB"
   },
   {
     "id": "IyEhWZL7",
@@ -2828,6 +2829,20 @@
     "level": "AA"
   },
   {
+    "id": "pf8TvPCh",
+    "name": "Boston Bateman",
+    "team": "BAL",
+    "positions": [
+      "SP"
+    ],
+    "rank": 839,
+    "value": 10,
+    "age": 20.8,
+    "source": "harryknowsball",
+    "prospect": true,
+    "level": "HIGH_A"
+  },
+  {
     "id": "D3AHwZym",
     "name": "Ethan Anderson",
     "team": "BAL",
@@ -3543,6 +3558,20 @@
     "level": "LOW_A"
   },
   {
+    "id": "357GkSjZ",
+    "name": "Ryan Zeferjahn",
+    "team": "LAA",
+    "positions": [
+      "RP"
+    ],
+    "rank": 839,
+    "value": 10,
+    "age": 28.4,
+    "source": "harryknowsball",
+    "prospect": false,
+    "level": "MLB"
+  },
+  {
     "id": "UVaPuulx",
     "name": "Leo Rivas",
     "team": "SEA",
@@ -3958,20 +3987,6 @@
     "level": "LOW_A"
   },
   {
-    "id": "5npeOnf0",
-    "name": "Hayden Alvarez",
-    "team": "LAA",
-    "positions": [
-      "OF"
-    ],
-    "rank": 839,
-    "value": 10,
-    "age": 19.3,
-    "source": "harryknowsball",
-    "prospect": true,
-    "level": "LOW_A"
-  },
-  {
     "id": "B9q5itoE",
     "name": "Tim Tawa",
     "team": "AZ",
@@ -4060,6 +4075,21 @@
     "source": "harryknowsball",
     "prospect": true,
     "level": "AA"
+  },
+  {
+    "id": "1395ZGLH",
+    "name": "Mason Fluharty",
+    "team": "TOR",
+    "positions": [
+      "SP",
+      "RP"
+    ],
+    "rank": 839,
+    "value": 10,
+    "age": 24.9,
+    "source": "harryknowsball",
+    "prospect": false,
+    "level": "MLB"
   },
   {
     "id": "ZNCmrw9T",
@@ -4332,6 +4362,21 @@
     "rank": 839,
     "value": 10,
     "age": 25.4,
+    "source": "harryknowsball",
+    "prospect": false,
+    "level": "MLB"
+  },
+  {
+    "id": "AHIj68oe",
+    "name": "Drew Anderson",
+    "team": "DET",
+    "positions": [
+      "SP",
+      "RP"
+    ],
+    "rank": 839,
+    "value": 10,
+    "age": 32.3,
     "source": "harryknowsball",
     "prospect": false,
     "level": "MLB"
@@ -5898,6 +5943,20 @@
     "level": "AAA"
   },
   {
+    "id": "ggulB3CK",
+    "name": "Nestor German",
+    "team": "BAL",
+    "positions": [
+      "SP"
+    ],
+    "rank": 839,
+    "value": 10,
+    "age": 24.4,
+    "source": "harryknowsball",
+    "prospect": true,
+    "level": "AAA"
+  },
+  {
     "id": "cQtnxcA4",
     "name": "Mavis Graves",
     "team": "PHI",
@@ -5998,6 +6057,21 @@
     "source": "harryknowsball",
     "prospect": false,
     "level": "AAA"
+  },
+  {
+    "id": "_0I_fhLA",
+    "name": "Miles Mikolas",
+    "team": "WSH",
+    "positions": [
+      "SP",
+      "RP"
+    ],
+    "rank": 839,
+    "value": 10,
+    "age": 37.9,
+    "source": "harryknowsball",
+    "prospect": false,
+    "level": "MLB"
   },
   {
     "id": "nYgu1lF2",
@@ -6427,6 +6501,23 @@
     "level": "MLB"
   },
   {
+    "id": "8305cYlf",
+    "name": "Jared Triolo",
+    "team": "PIT",
+    "positions": [
+      "1B",
+      "2B",
+      "3B",
+      "SS"
+    ],
+    "rank": 839,
+    "value": 10,
+    "age": 28.4,
+    "source": "harryknowsball",
+    "prospect": false,
+    "level": "MLB"
+  },
+  {
     "id": "H_6Z50-m",
     "name": "Jason Foley",
     "team": "SF",
@@ -6499,21 +6590,6 @@
     "level": "MLB"
   },
   {
-    "id": "LgrOBMLd",
-    "name": "Richie Palacios",
-    "team": "TB",
-    "positions": [
-      "2B",
-      "OF"
-    ],
-    "rank": 839,
-    "value": 10,
-    "age": 29.2,
-    "source": "harryknowsball",
-    "prospect": false,
-    "level": "MLB"
-  },
-  {
     "id": "a_07K6Hp",
     "name": "Darell Hernaiz",
     "team": "ATH",
@@ -6568,6 +6644,20 @@
     "rank": 839,
     "value": 10,
     "age": 40.3,
+    "source": "harryknowsball",
+    "prospect": false,
+    "level": "MLB"
+  },
+  {
+    "id": "IkYhPl0w",
+    "name": "Ty France",
+    "team": "SD",
+    "positions": [
+      "1B"
+    ],
+    "rank": 839,
+    "value": 10,
+    "age": 32,
     "source": "harryknowsball",
     "prospect": false,
     "level": "MLB"
@@ -6851,22 +6941,6 @@
     "rank": 839,
     "value": 10,
     "age": 29.4,
-    "source": "harryknowsball",
-    "prospect": false,
-    "level": "MLB"
-  },
-  {
-    "id": "opJmdZYL",
-    "name": "Gabriel Arias",
-    "team": "CLE",
-    "positions": [
-      "2B",
-      "3B",
-      "SS"
-    ],
-    "rank": 839,
-    "value": 10,
-    "age": 26.4,
     "source": "harryknowsball",
     "prospect": false,
     "level": "MLB"
@@ -7417,20 +7491,6 @@
     "level": "MLB"
   },
   {
-    "id": "j5VEjDlk",
-    "name": "Jordan Montgomery",
-    "team": "TEX",
-    "positions": [
-      "SP"
-    ],
-    "rank": 839,
-    "value": 10,
-    "age": 33.6,
-    "source": "harryknowsball",
-    "prospect": false,
-    "level": "AAA"
-  },
-  {
     "id": "zYrr0ajY",
     "name": "Alexis Díaz",
     "team": "TEX",
@@ -7497,6 +7557,20 @@
     "rank": 839,
     "value": 10,
     "age": 27,
+    "source": "harryknowsball",
+    "prospect": false,
+    "level": "MLB"
+  },
+  {
+    "id": "K-eGAeCY",
+    "name": "Camilo Doval",
+    "team": "NYY",
+    "positions": [
+      "RP"
+    ],
+    "rank": 839,
+    "value": 10,
+    "age": 29,
     "source": "harryknowsball",
     "prospect": false,
     "level": "MLB"
@@ -7913,20 +7987,6 @@
     "level": "MLB"
   },
   {
-    "id": "FWs4EQh2",
-    "name": "Justin Slaten",
-    "team": "BOS",
-    "positions": [
-      "RP"
-    ],
-    "rank": 839,
-    "value": 10,
-    "age": 28.8,
-    "source": "harryknowsball",
-    "prospect": false,
-    "level": "MLB"
-  },
-  {
     "id": "rhes1OEi",
     "name": "Caleb Ferguson",
     "team": "CIN",
@@ -8215,20 +8275,6 @@
     "level": "MLB"
   },
   {
-    "id": "IjgOGgNC",
-    "name": "Jonatan Clase",
-    "team": "TOR",
-    "positions": [
-      "OF"
-    ],
-    "rank": 839,
-    "value": 10,
-    "age": 24.2,
-    "source": "harryknowsball",
-    "prospect": false,
-    "level": "MLB"
-  },
-  {
     "id": "avz7yZQr",
     "name": "Anthony Rizzo",
     "team": "NYY",
@@ -8441,18 +8487,18 @@
     "level": "AAA"
   },
   {
-    "id": "E_jpxXB3",
-    "name": "Tyler Locklear",
-    "team": "AZ",
+    "id": "Yz_VdSsi",
+    "name": "Jose Siri",
+    "team": "LAA",
     "positions": [
-      "1B"
+      "OF"
     ],
     "rank": 839,
     "value": 10,
-    "age": 25.6,
+    "age": 30.9,
     "source": "harryknowsball",
     "prospect": false,
-    "level": "AAA"
+    "level": "MLB"
   },
   {
     "id": "t_upqA6M",
@@ -8860,6 +8906,23 @@
     "level": "MLB"
   },
   {
+    "id": "kebxBmch",
+    "name": "Max Schuemann",
+    "team": "NYY",
+    "positions": [
+      "2B",
+      "3B",
+      "SS",
+      "OF"
+    ],
+    "rank": 839,
+    "value": 10,
+    "age": 29.1,
+    "source": "harryknowsball",
+    "prospect": false,
+    "level": "MLB"
+  },
+  {
     "id": "MCkthF9i",
     "name": "Enmanuel Bonilla",
     "team": "TOR",
@@ -8972,20 +9035,6 @@
     "source": "harryknowsball",
     "prospect": true,
     "level": "MLB"
-  },
-  {
-    "id": "o6C3CZ9z",
-    "name": "Jake Bloss",
-    "team": "TOR",
-    "positions": [
-      "SP"
-    ],
-    "rank": 839,
-    "value": 10,
-    "age": 25.1,
-    "source": "harryknowsball",
-    "prospect": true,
-    "level": "AAA"
   },
   {
     "id": "xSb7nPyS",
@@ -9984,6 +10033,20 @@
     "source": "harryknowsball",
     "prospect": true,
     "level": "AAA"
+  },
+  {
+    "id": "GagJPRob",
+    "name": "Nathan Lukes",
+    "team": "TOR",
+    "positions": [
+      "OF"
+    ],
+    "rank": 839,
+    "value": 10,
+    "age": 32,
+    "source": "harryknowsball",
+    "prospect": false,
+    "level": "MLB"
   },
   {
     "id": "tZ0PJ0Co",
@@ -11589,6 +11652,21 @@
     "source": "harryknowsball",
     "prospect": true,
     "level": "HIGH_A"
+  },
+  {
+    "id": "tu8DhgKR",
+    "name": "A.J. Blubaugh",
+    "team": "HOU",
+    "positions": [
+      "SP",
+      "RP"
+    ],
+    "rank": 839,
+    "value": 10,
+    "age": 26,
+    "source": "harryknowsball",
+    "prospect": false,
+    "level": "MLB"
   },
   {
     "id": "25qf-rkQ",
