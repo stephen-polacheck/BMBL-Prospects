@@ -13,7 +13,7 @@ from yfpy.query import YahooFantasySportsQuery
 # ----------------------------
 league_id = "883"
 game_code = "mlb"
-week = 16  # can be any valid week in season
+week = 18  # can be any valid week in season
 
 query = YahooFantasySportsQuery(
     league_id,
