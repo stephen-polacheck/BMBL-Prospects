@@ -16,6 +16,22 @@
     "status": ""
   },
   {
+    "team_id": 2,
+    "team_name": "Atlantis Aliens",
+    "player_id": 63064,
+    "player_key": "469.p.63064",
+    "name": "George Klassen",
+    "first_name": "George",
+    "last_name": "Klassen",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "LAA",
+    "mlb_team_name": "Los Angeles Angels",
+    "status": "NA"
+  },
+  {
     "team_id": 4,
     "team_name": "Carson City Campers",
     "player_id": 9336,
@@ -96,19 +112,19 @@
     "status": "NA"
   },
   {
-    "team_id": 16,
-    "team_name": "SC Scrubs",
-    "player_id": 61637,
-    "player_key": "469.p.61637",
-    "name": "Tyler Tolbert",
-    "first_name": "Tyler",
-    "last_name": "Tolbert",
-    "position": "SS",
+    "team_id": 17,
+    "team_name": "Scranton Stranglers",
+    "player_id": 60064,
+    "player_key": "469.p.60064",
+    "name": "Tim Tawa",
+    "first_name": "Tim",
+    "last_name": "Tawa",
+    "position": "1B",
     "eligible_positions": [
-      "SS"
+      "1B"
     ],
-    "mlb_team": "KC",
-    "mlb_team_name": "Kansas City Royals",
+    "mlb_team": "AZ",
+    "mlb_team_name": "Arizona Diamondbacks",
     "status": ""
   },
   {
