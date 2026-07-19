@@ -50,6 +50,22 @@
   {
     "team_id": 4,
     "team_name": "Carson City Campers",
+    "player_id": 62895,
+    "player_key": "469.p.62895",
+    "name": "Khristian Curtis",
+    "first_name": "Khristian",
+    "last_name": "Curtis",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "PIT",
+    "mlb_team_name": "Pittsburgh Pirates",
+    "status": ""
+  },
+  {
+    "team_id": 4,
+    "team_name": "Carson City Campers",
     "player_id": 10889,
     "player_key": "469.p.10889",
     "name": "Richard Lovelady",
@@ -77,6 +93,22 @@
     ],
     "mlb_team": "TEX",
     "mlb_team_name": "Texas Rangers",
+    "status": ""
+  },
+  {
+    "team_id": 7,
+    "team_name": "Danville Sweet Corn",
+    "player_id": 60139,
+    "player_key": "469.p.60139",
+    "name": "Logan Allen",
+    "first_name": "Logan",
+    "last_name": "Allen",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "CLE",
+    "mlb_team_name": "Cleveland Guardians",
     "status": ""
   },
   {
