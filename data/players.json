@@ -34,6 +34,22 @@
   {
     "team_id": 1,
     "team_name": "Sechler Run Tides",
+    "player_id": 63023,
+    "player_key": "469.p.63023",
+    "name": "Luke Keaschall",
+    "first_name": "Luke",
+    "last_name": "Keaschall",
+    "position": "2B",
+    "eligible_positions": [
+      "2B"
+    ],
+    "mlb_team": "MIN",
+    "mlb_team_name": "Minnesota Twins",
+    "status": ""
+  },
+  {
+    "team_id": 1,
+    "team_name": "Sechler Run Tides",
     "player_id": 12544,
     "player_key": "469.p.12544",
     "name": "Casey Schmitt",
@@ -45,22 +61,6 @@
     ],
     "mlb_team": "SF",
     "mlb_team_name": "San Francisco Giants",
-    "status": ""
-  },
-  {
-    "team_id": 1,
-    "team_name": "Sechler Run Tides",
-    "player_id": 11356,
-    "player_key": "469.p.11356",
-    "name": "Anthony Seigler",
-    "first_name": "Anthony",
-    "last_name": "Seigler",
-    "position": "2B",
-    "eligible_positions": [
-      "2B"
-    ],
-    "mlb_team": "BOS",
-    "mlb_team_name": "Boston Red Sox",
     "status": ""
   },
   {
@@ -114,17 +114,17 @@
   {
     "team_id": 1,
     "team_name": "Sechler Run Tides",
-    "player_id": 63023,
-    "player_key": "469.p.63023",
-    "name": "Luke Keaschall",
-    "first_name": "Luke",
-    "last_name": "Keaschall",
-    "position": "2B",
+    "player_id": 11555,
+    "player_key": "469.p.11555",
+    "name": "Griffin Conine",
+    "first_name": "Griffin",
+    "last_name": "Conine",
+    "position": "LF",
     "eligible_positions": [
-      "2B"
+      "LF"
     ],
-    "mlb_team": "MIN",
-    "mlb_team_name": "Minnesota Twins",
+    "mlb_team": "MIA",
+    "mlb_team_name": "Miami Marlins",
     "status": ""
   },
   {
@@ -162,33 +162,17 @@
   {
     "team_id": 1,
     "team_name": "Sechler Run Tides",
-    "player_id": 63000,
-    "player_key": "469.p.63000",
-    "name": "Cooper Pratt",
-    "first_name": "Cooper",
-    "last_name": "Pratt",
-    "position": "SS",
+    "player_id": 11692,
+    "player_key": "469.p.11692",
+    "name": "Jake Cronenworth",
+    "first_name": "Jake",
+    "last_name": "Cronenworth",
+    "position": "1B",
     "eligible_positions": [
-      "SS"
+      "1B"
     ],
-    "mlb_team": "MIL",
-    "mlb_team_name": "Milwaukee Brewers",
-    "status": ""
-  },
-  {
-    "team_id": 1,
-    "team_name": "Sechler Run Tides",
-    "player_id": 11555,
-    "player_key": "469.p.11555",
-    "name": "Griffin Conine",
-    "first_name": "Griffin",
-    "last_name": "Conine",
-    "position": "LF",
-    "eligible_positions": [
-      "LF"
-    ],
-    "mlb_team": "MIA",
-    "mlb_team_name": "Miami Marlins",
+    "mlb_team": "SD",
+    "mlb_team_name": "San Diego Padres",
     "status": ""
   },
   {
@@ -210,17 +194,33 @@
   {
     "team_id": 1,
     "team_name": "Sechler Run Tides",
-    "player_id": 11692,
-    "player_key": "469.p.11692",
-    "name": "Jake Cronenworth",
-    "first_name": "Jake",
-    "last_name": "Cronenworth",
-    "position": "1B",
+    "player_id": 11356,
+    "player_key": "469.p.11356",
+    "name": "Anthony Seigler",
+    "first_name": "Anthony",
+    "last_name": "Seigler",
+    "position": "2B",
     "eligible_positions": [
-      "1B"
+      "2B"
     ],
-    "mlb_team": "SD",
-    "mlb_team_name": "San Diego Padres",
+    "mlb_team": "BOS",
+    "mlb_team_name": "Boston Red Sox",
+    "status": ""
+  },
+  {
+    "team_id": 1,
+    "team_name": "Sechler Run Tides",
+    "player_id": 63000,
+    "player_key": "469.p.63000",
+    "name": "Cooper Pratt",
+    "first_name": "Cooper",
+    "last_name": "Pratt",
+    "position": "SS",
+    "eligible_positions": [
+      "SS"
+    ],
+    "mlb_team": "MIL",
+    "mlb_team_name": "Milwaukee Brewers",
     "status": ""
   },
   {
@@ -386,38 +386,6 @@
   {
     "team_id": 1,
     "team_name": "Sechler Run Tides",
-    "player_id": 10549,
-    "player_key": "469.p.10549",
-    "name": "Grant Holmes",
-    "first_name": "Grant",
-    "last_name": "Holmes",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "ATL",
-    "mlb_team_name": "Atlanta Braves",
-    "status": ""
-  },
-  {
-    "team_id": 1,
-    "team_name": "Sechler Run Tides",
-    "player_id": 64374,
-    "player_key": "469.p.64374",
-    "name": "Gage Jump",
-    "first_name": "Gage",
-    "last_name": "Jump",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "ATH",
-    "mlb_team_name": " Athletics",
-    "status": ""
-  },
-  {
-    "team_id": 1,
-    "team_name": "Sechler Run Tides",
     "player_id": 11327,
     "player_key": "469.p.11327",
     "name": "Jose Soriano",
@@ -434,33 +402,65 @@
   {
     "team_id": 1,
     "team_name": "Sechler Run Tides",
-    "player_id": 10402,
-    "player_key": "469.p.10402",
-    "name": "German Marquez",
-    "first_name": "German",
-    "last_name": "Marquez",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "SD",
-    "mlb_team_name": "San Diego Padres",
-    "status": ""
-  },
-  {
-    "team_id": 1,
-    "team_name": "Sechler Run Tides",
-    "player_id": 11235,
-    "player_key": "469.p.11235",
-    "name": "Logan Webb",
-    "first_name": "Logan",
-    "last_name": "Webb",
+    "player_id": 60389,
+    "player_key": "469.p.60389",
+    "name": "Trevor McDonald",
+    "first_name": "Trevor",
+    "last_name": "McDonald",
     "position": "SP",
     "eligible_positions": [
       "SP"
     ],
     "mlb_team": "SF",
     "mlb_team_name": "San Francisco Giants",
+    "status": ""
+  },
+  {
+    "team_id": 1,
+    "team_name": "Sechler Run Tides",
+    "player_id": 10592,
+    "player_key": "469.p.10592",
+    "name": "Jack Flaherty",
+    "first_name": "Jack",
+    "last_name": "Flaherty",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "DET",
+    "mlb_team_name": "Detroit Tigers",
+    "status": ""
+  },
+  {
+    "team_id": 1,
+    "team_name": "Sechler Run Tides",
+    "player_id": 9329,
+    "player_key": "469.p.9329",
+    "name": "Michael Wacha",
+    "first_name": "Michael",
+    "last_name": "Wacha",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "KC",
+    "mlb_team_name": "Kansas City Royals",
+    "status": ""
+  },
+  {
+    "team_id": 1,
+    "team_name": "Sechler Run Tides",
+    "player_id": 11121,
+    "player_key": "469.p.11121",
+    "name": "Jeffrey Springs",
+    "first_name": "Jeffrey",
+    "last_name": "Springs",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "ATH",
+    "mlb_team_name": " Athletics",
     "status": ""
   },
   {
@@ -546,33 +546,17 @@
   {
     "team_id": 1,
     "team_name": "Sechler Run Tides",
-    "player_id": 60389,
-    "player_key": "469.p.60389",
-    "name": "Trevor McDonald",
-    "first_name": "Trevor",
-    "last_name": "McDonald",
+    "player_id": 10402,
+    "player_key": "469.p.10402",
+    "name": "German Marquez",
+    "first_name": "German",
+    "last_name": "Marquez",
     "position": "SP",
     "eligible_positions": [
       "SP"
     ],
-    "mlb_team": "SF",
-    "mlb_team_name": "San Francisco Giants",
-    "status": ""
-  },
-  {
-    "team_id": 1,
-    "team_name": "Sechler Run Tides",
-    "player_id": 12591,
-    "player_key": "469.p.12591",
-    "name": "Andre Pallante",
-    "first_name": "Andre",
-    "last_name": "Pallante",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "STL",
-    "mlb_team_name": "St. Louis Cardinals",
+    "mlb_team": "SD",
+    "mlb_team_name": "San Diego Padres",
     "status": ""
   },
   {
@@ -594,43 +578,59 @@
   {
     "team_id": 1,
     "team_name": "Sechler Run Tides",
-    "player_id": 10592,
-    "player_key": "469.p.10592",
-    "name": "Jack Flaherty",
-    "first_name": "Jack",
-    "last_name": "Flaherty",
+    "player_id": 12591,
+    "player_key": "469.p.12591",
+    "name": "Andre Pallante",
+    "first_name": "Andre",
+    "last_name": "Pallante",
     "position": "SP",
     "eligible_positions": [
       "SP"
     ],
-    "mlb_team": "DET",
-    "mlb_team_name": "Detroit Tigers",
+    "mlb_team": "STL",
+    "mlb_team_name": "St. Louis Cardinals",
     "status": ""
   },
   {
     "team_id": 1,
     "team_name": "Sechler Run Tides",
-    "player_id": 9329,
-    "player_key": "469.p.9329",
-    "name": "Michael Wacha",
-    "first_name": "Michael",
-    "last_name": "Wacha",
+    "player_id": 11235,
+    "player_key": "469.p.11235",
+    "name": "Logan Webb",
+    "first_name": "Logan",
+    "last_name": "Webb",
     "position": "SP",
     "eligible_positions": [
       "SP"
     ],
-    "mlb_team": "KC",
-    "mlb_team_name": "Kansas City Royals",
+    "mlb_team": "SF",
+    "mlb_team_name": "San Francisco Giants",
     "status": ""
   },
   {
     "team_id": 1,
     "team_name": "Sechler Run Tides",
-    "player_id": 11121,
-    "player_key": "469.p.11121",
-    "name": "Jeffrey Springs",
-    "first_name": "Jeffrey",
-    "last_name": "Springs",
+    "player_id": 10549,
+    "player_key": "469.p.10549",
+    "name": "Grant Holmes",
+    "first_name": "Grant",
+    "last_name": "Holmes",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "ATL",
+    "mlb_team_name": "Atlanta Braves",
+    "status": ""
+  },
+  {
+    "team_id": 1,
+    "team_name": "Sechler Run Tides",
+    "player_id": 64374,
+    "player_key": "469.p.64374",
+    "name": "Gage Jump",
+    "first_name": "Gage",
+    "last_name": "Jump",
     "position": "SP",
     "eligible_positions": [
       "SP"
@@ -669,7 +669,7 @@
     ],
     "mlb_team": "SD",
     "mlb_team_name": "San Diego Padres",
-    "status": "IL15"
+    "status": ""
   },
   {
     "team_id": 1,
@@ -802,18 +802,18 @@
   {
     "team_id": 2,
     "team_name": "Atlantis Aliens",
-    "player_id": 10916,
-    "player_key": "469.p.10916",
-    "name": "Royce Lewis",
-    "first_name": "Royce",
-    "last_name": "Lewis",
+    "player_id": 8875,
+    "player_key": "469.p.8875",
+    "name": "Bryce Harper",
+    "first_name": "Bryce",
+    "last_name": "Harper",
     "position": "1B",
     "eligible_positions": [
       "1B"
     ],
-    "mlb_team": "MIN",
-    "mlb_team_name": "Minnesota Twins",
-    "status": "DTD"
+    "mlb_team": "PHI",
+    "mlb_team_name": "Philadelphia Phillies",
+    "status": ""
   },
   {
     "team_id": 2,
@@ -946,33 +946,17 @@
   {
     "team_id": 2,
     "team_name": "Atlantis Aliens",
-    "player_id": 8875,
-    "player_key": "469.p.8875",
-    "name": "Bryce Harper",
-    "first_name": "Bryce",
-    "last_name": "Harper",
+    "player_id": 10916,
+    "player_key": "469.p.10916",
+    "name": "Royce Lewis",
+    "first_name": "Royce",
+    "last_name": "Lewis",
     "position": "1B",
     "eligible_positions": [
       "1B"
     ],
-    "mlb_team": "PHI",
-    "mlb_team_name": "Philadelphia Phillies",
-    "status": ""
-  },
-  {
-    "team_id": 2,
-    "team_name": "Atlantis Aliens",
-    "player_id": 61887,
-    "player_key": "469.p.61887",
-    "name": "Nathan Church",
-    "first_name": "Nathan",
-    "last_name": "Church",
-    "position": "LF",
-    "eligible_positions": [
-      "LF"
-    ],
-    "mlb_team": "STL",
-    "mlb_team_name": "St. Louis Cardinals",
+    "mlb_team": "MIN",
+    "mlb_team_name": "Minnesota Twins",
     "status": ""
   },
   {
@@ -1006,6 +990,22 @@
     "mlb_team": "BOS",
     "mlb_team_name": "Boston Red Sox",
     "status": "IL60"
+  },
+  {
+    "team_id": 2,
+    "team_name": "Atlantis Aliens",
+    "player_id": 61844,
+    "player_key": "469.p.61844",
+    "name": "Wade Meckler",
+    "first_name": "Wade",
+    "last_name": "Meckler",
+    "position": "LF",
+    "eligible_positions": [
+      "LF"
+    ],
+    "mlb_team": "LAA",
+    "mlb_team_name": "Los Angeles Angels",
+    "status": ""
   },
   {
     "team_id": 2,
@@ -1122,38 +1122,6 @@
   {
     "team_id": 2,
     "team_name": "Atlantis Aliens",
-    "player_id": 12554,
-    "player_key": "469.p.12554",
-    "name": "Taj Bradley",
-    "first_name": "Taj",
-    "last_name": "Bradley",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "MIN",
-    "mlb_team_name": "Minnesota Twins",
-    "status": ""
-  },
-  {
-    "team_id": 2,
-    "team_name": "Atlantis Aliens",
-    "player_id": 10513,
-    "player_key": "469.p.10513",
-    "name": "Braxton Garrett",
-    "first_name": "Braxton",
-    "last_name": "Garrett",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "MIA",
-    "mlb_team_name": "Miami Marlins",
-    "status": "NA"
-  },
-  {
-    "team_id": 2,
-    "team_name": "Atlantis Aliens",
     "player_id": 12776,
     "player_key": "469.p.12776",
     "name": "Kodai Senga",
@@ -1181,6 +1149,38 @@
     ],
     "mlb_team": "NYY",
     "mlb_team_name": "New York Yankees",
+    "status": ""
+  },
+  {
+    "team_id": 2,
+    "team_name": "Atlantis Aliens",
+    "player_id": 60211,
+    "player_key": "469.p.60211",
+    "name": "Noah Cameron",
+    "first_name": "Noah",
+    "last_name": "Cameron",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "KC",
+    "mlb_team_name": "Kansas City Royals",
+    "status": ""
+  },
+  {
+    "team_id": 2,
+    "team_name": "Atlantis Aliens",
+    "player_id": 62642,
+    "player_key": "469.p.62642",
+    "name": "Jacob Lopez",
+    "first_name": "Jacob",
+    "last_name": "Lopez",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "ATH",
+    "mlb_team_name": " Athletics",
     "status": ""
   },
   {
@@ -1218,22 +1218,6 @@
   {
     "team_id": 2,
     "team_name": "Atlantis Aliens",
-    "player_id": 65037,
-    "player_key": "469.p.65037",
-    "name": "Samy Natera Jr.",
-    "first_name": "Samy",
-    "last_name": "Natera Jr.",
-    "position": "RP",
-    "eligible_positions": [
-      "RP"
-    ],
-    "mlb_team": "LAA",
-    "mlb_team_name": "Los Angeles Angels",
-    "status": ""
-  },
-  {
-    "team_id": 2,
-    "team_name": "Atlantis Aliens",
     "player_id": 64394,
     "player_key": "469.p.64394",
     "name": "Payton Tolle",
@@ -1266,34 +1250,34 @@
   {
     "team_id": 2,
     "team_name": "Atlantis Aliens",
-    "player_id": 60211,
-    "player_key": "469.p.60211",
-    "name": "Noah Cameron",
-    "first_name": "Noah",
-    "last_name": "Cameron",
+    "player_id": 12554,
+    "player_key": "469.p.12554",
+    "name": "Taj Bradley",
+    "first_name": "Taj",
+    "last_name": "Bradley",
     "position": "SP",
     "eligible_positions": [
       "SP"
     ],
-    "mlb_team": "KC",
-    "mlb_team_name": "Kansas City Royals",
+    "mlb_team": "MIN",
+    "mlb_team_name": "Minnesota Twins",
     "status": ""
   },
   {
     "team_id": 2,
     "team_name": "Atlantis Aliens",
-    "player_id": 62642,
-    "player_key": "469.p.62642",
-    "name": "Jacob Lopez",
-    "first_name": "Jacob",
-    "last_name": "Lopez",
+    "player_id": 10513,
+    "player_key": "469.p.10513",
+    "name": "Braxton Garrett",
+    "first_name": "Braxton",
+    "last_name": "Garrett",
     "position": "SP",
     "eligible_positions": [
       "SP"
     ],
-    "mlb_team": "ATH",
-    "mlb_team_name": " Athletics",
-    "status": ""
+    "mlb_team": "MIA",
+    "mlb_team_name": "Miami Marlins",
+    "status": "NA"
   },
   {
     "team_id": 2,
@@ -1357,6 +1341,22 @@
     ],
     "mlb_team": "LAA",
     "mlb_team_name": "Los Angeles Angels",
+    "status": "NA"
+  },
+  {
+    "team_id": 2,
+    "team_name": "Atlantis Aliens",
+    "player_id": 64508,
+    "player_key": "469.p.64508",
+    "name": "Brandon Clarke",
+    "first_name": "Brandon",
+    "last_name": "Clarke",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "STL",
+    "mlb_team_name": "St. Louis Cardinals",
     "status": "NA"
   },
   {
@@ -1714,22 +1714,6 @@
   {
     "team_id": 3,
     "team_name": "Buck Ridge Whitetail",
-    "player_id": 11349,
-    "player_key": "469.p.11349",
-    "name": "Francisco Alvarez",
-    "first_name": "Francisco",
-    "last_name": "Alvarez",
-    "position": "C",
-    "eligible_positions": [
-      "C"
-    ],
-    "mlb_team": "NYM",
-    "mlb_team_name": "New York Mets",
-    "status": ""
-  },
-  {
-    "team_id": 3,
-    "team_name": "Buck Ridge Whitetail",
     "player_id": 12467,
     "player_key": "469.p.12467",
     "name": "Kahlil Watson",
@@ -1794,17 +1778,17 @@
   {
     "team_id": 3,
     "team_name": "Buck Ridge Whitetail",
-    "player_id": 66382,
-    "player_key": "469.p.66382",
-    "name": "Eduardo Valencia",
-    "first_name": "Eduardo",
-    "last_name": "Valencia",
+    "player_id": 11349,
+    "player_key": "469.p.11349",
+    "name": "Francisco Alvarez",
+    "first_name": "Francisco",
+    "last_name": "Alvarez",
     "position": "C",
     "eligible_positions": [
       "C"
     ],
-    "mlb_team": "DET",
-    "mlb_team_name": "Detroit Tigers",
+    "mlb_team": "NYM",
+    "mlb_team_name": "New York Mets",
     "status": ""
   },
   {
@@ -1854,6 +1838,22 @@
     "mlb_team": "SF",
     "mlb_team_name": "San Francisco Giants",
     "status": "NA"
+  },
+  {
+    "team_id": 3,
+    "team_name": "Buck Ridge Whitetail",
+    "player_id": 11231,
+    "player_key": "469.p.11231",
+    "name": "Ty France",
+    "first_name": "Ty",
+    "last_name": "France",
+    "position": "1B",
+    "eligible_positions": [
+      "1B"
+    ],
+    "mlb_team": "SD",
+    "mlb_team_name": "San Diego Padres",
+    "status": ""
   },
   {
     "team_id": 3,
@@ -2061,7 +2061,7 @@
     ],
     "mlb_team": "TEX",
     "mlb_team_name": "Texas Rangers",
-    "status": "DTD"
+    "status": ""
   },
   {
     "team_id": 3,
@@ -2354,6 +2354,22 @@
   {
     "team_id": 4,
     "team_name": "Carson City Campers",
+    "player_id": 12080,
+    "player_key": "469.p.12080",
+    "name": "Justin Foscue",
+    "first_name": "Justin",
+    "last_name": "Foscue",
+    "position": "1B",
+    "eligible_positions": [
+      "1B"
+    ],
+    "mlb_team": "TEX",
+    "mlb_team_name": "Texas Rangers",
+    "status": ""
+  },
+  {
+    "team_id": 4,
+    "team_name": "Carson City Campers",
     "player_id": 12049,
     "player_key": "469.p.12049",
     "name": "Nick Gonzales",
@@ -2370,6 +2386,22 @@
   {
     "team_id": 4,
     "team_name": "Carson City Campers",
+    "player_id": 11731,
+    "player_key": "469.p.11731",
+    "name": "Gunnar Henderson",
+    "first_name": "Gunnar",
+    "last_name": "Henderson",
+    "position": "SS",
+    "eligible_positions": [
+      "SS"
+    ],
+    "mlb_team": "BAL",
+    "mlb_team_name": "Baltimore Orioles",
+    "status": ""
+  },
+  {
+    "team_id": 4,
+    "team_name": "Carson City Campers",
     "player_id": 12144,
     "player_key": "469.p.12144",
     "name": "Nick Loftin",
@@ -2381,38 +2413,6 @@
     ],
     "mlb_team": "KC",
     "mlb_team_name": "Kansas City Royals",
-    "status": ""
-  },
-  {
-    "team_id": 4,
-    "team_name": "Carson City Campers",
-    "player_id": 12374,
-    "player_key": "469.p.12374",
-    "name": "Joey Ortiz",
-    "first_name": "Joey",
-    "last_name": "Ortiz",
-    "position": "3B",
-    "eligible_positions": [
-      "3B"
-    ],
-    "mlb_team": "MIL",
-    "mlb_team_name": "Milwaukee Brewers",
-    "status": ""
-  },
-  {
-    "team_id": 4,
-    "team_name": "Carson City Campers",
-    "player_id": 60622,
-    "player_key": "469.p.60622",
-    "name": "Troy Johnston",
-    "first_name": "Troy",
-    "last_name": "Johnston",
-    "position": "1B",
-    "eligible_positions": [
-      "1B"
-    ],
-    "mlb_team": "COL",
-    "mlb_team_name": "Colorado Rockies",
     "status": ""
   },
   {
@@ -2450,33 +2450,17 @@
   {
     "team_id": 4,
     "team_name": "Carson City Campers",
-    "player_id": 12080,
-    "player_key": "469.p.12080",
-    "name": "Justin Foscue",
-    "first_name": "Justin",
-    "last_name": "Foscue",
-    "position": "1B",
+    "player_id": 12374,
+    "player_key": "469.p.12374",
+    "name": "Joey Ortiz",
+    "first_name": "Joey",
+    "last_name": "Ortiz",
+    "position": "3B",
     "eligible_positions": [
-      "1B"
+      "3B"
     ],
-    "mlb_team": "TEX",
-    "mlb_team_name": "Texas Rangers",
-    "status": ""
-  },
-  {
-    "team_id": 4,
-    "team_name": "Carson City Campers",
-    "player_id": 11731,
-    "player_key": "469.p.11731",
-    "name": "Gunnar Henderson",
-    "first_name": "Gunnar",
-    "last_name": "Henderson",
-    "position": "SS",
-    "eligible_positions": [
-      "SS"
-    ],
-    "mlb_team": "BAL",
-    "mlb_team_name": "Baltimore Orioles",
+    "mlb_team": "MIL",
+    "mlb_team_name": "Milwaukee Brewers",
     "status": ""
   },
   {
@@ -2493,6 +2477,22 @@
     ],
     "mlb_team": "CHC",
     "mlb_team_name": "Chicago Cubs",
+    "status": ""
+  },
+  {
+    "team_id": 4,
+    "team_name": "Carson City Campers",
+    "player_id": 60622,
+    "player_key": "469.p.60622",
+    "name": "Troy Johnston",
+    "first_name": "Troy",
+    "last_name": "Johnston",
+    "position": "1B",
+    "eligible_positions": [
+      "1B"
+    ],
+    "mlb_team": "COL",
+    "mlb_team_name": "Colorado Rockies",
     "status": ""
   },
   {
@@ -2722,22 +2722,6 @@
   {
     "team_id": 4,
     "team_name": "Carson City Campers",
-    "player_id": 10538,
-    "player_key": "469.p.10538",
-    "name": "Anthony Kay",
-    "first_name": "Anthony",
-    "last_name": "Kay",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "CWS",
-    "mlb_team_name": "Chicago White Sox",
-    "status": ""
-  },
-  {
-    "team_id": 4,
-    "team_name": "Carson City Campers",
     "player_id": 10862,
     "player_key": "469.p.10862",
     "name": "Hunter Greene",
@@ -2781,6 +2765,22 @@
     ],
     "mlb_team": "MIL",
     "mlb_team_name": "Milwaukee Brewers",
+    "status": ""
+  },
+  {
+    "team_id": 4,
+    "team_name": "Carson City Campers",
+    "player_id": 12263,
+    "player_key": "469.p.12263",
+    "name": "Janson Junk",
+    "first_name": "Janson",
+    "last_name": "Junk",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "MIA",
+    "mlb_team_name": "Miami Marlins",
     "status": ""
   },
   {
@@ -2866,18 +2866,34 @@
   {
     "team_id": 4,
     "team_name": "Carson City Campers",
-    "player_id": 12263,
-    "player_key": "469.p.12263",
-    "name": "Janson Junk",
-    "first_name": "Janson",
-    "last_name": "Junk",
+    "player_id": 10538,
+    "player_key": "469.p.10538",
+    "name": "Anthony Kay",
+    "first_name": "Anthony",
+    "last_name": "Kay",
     "position": "SP",
     "eligible_positions": [
       "SP"
     ],
-    "mlb_team": "MIA",
-    "mlb_team_name": "Miami Marlins",
+    "mlb_team": "CWS",
+    "mlb_team_name": "Chicago White Sox",
     "status": ""
+  },
+  {
+    "team_id": 4,
+    "team_name": "Carson City Campers",
+    "player_id": 62895,
+    "player_key": "469.p.62895",
+    "name": "Khristian Curtis",
+    "first_name": "Khristian",
+    "last_name": "Curtis",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "PIT",
+    "mlb_team_name": "Pittsburgh Pirates",
+    "status": "NA"
   },
   {
     "team_id": 4,
@@ -2910,22 +2926,6 @@
     "mlb_team": "SF",
     "mlb_team_name": "San Francisco Giants",
     "status": "NA"
-  },
-  {
-    "team_id": 4,
-    "team_name": "Carson City Campers",
-    "player_id": 62895,
-    "player_key": "469.p.62895",
-    "name": "Khristian Curtis",
-    "first_name": "Khristian",
-    "last_name": "Curtis",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "PIT",
-    "mlb_team_name": "Pittsburgh Pirates",
-    "status": ""
   },
   {
     "team_id": 4,
@@ -2973,7 +2973,7 @@
     ],
     "mlb_team": "WSH",
     "mlb_team_name": "Washington Nationals",
-    "status": "IL15"
+    "status": "IL60"
   },
   {
     "team_id": 4,
@@ -3981,7 +3981,7 @@
     ],
     "mlb_team": "KC",
     "mlb_team_name": "Kansas City Royals",
-    "status": ""
+    "status": "DTD"
   },
   {
     "team_id": 6,
@@ -4397,7 +4397,7 @@
     ],
     "mlb_team": "NYY",
     "mlb_team_name": "New York Yankees",
-    "status": "NA"
+    "status": ""
   },
   {
     "team_id": 6,
@@ -4866,22 +4866,6 @@
   {
     "team_id": 7,
     "team_name": "Danville Sweet Corn",
-    "player_id": 63960,
-    "player_key": "469.p.63960",
-    "name": "Andrew Alvarez",
-    "first_name": "Andrew",
-    "last_name": "Alvarez",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "WSH",
-    "mlb_team_name": "Washington Nationals",
-    "status": ""
-  },
-  {
-    "team_id": 7,
-    "team_name": "Danville Sweet Corn",
     "player_id": 11823,
     "player_key": "469.p.11823",
     "name": "Joey Cantillo",
@@ -4942,6 +4926,22 @@
     "mlb_team": "CWS",
     "mlb_team_name": "Chicago White Sox",
     "status": ""
+  },
+  {
+    "team_id": 7,
+    "team_name": "Danville Sweet Corn",
+    "player_id": 11083,
+    "player_key": "469.p.11083",
+    "name": "Casey Mize",
+    "first_name": "Casey",
+    "last_name": "Mize",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "DET",
+    "mlb_team_name": "Detroit Tigers",
+    "status": "DTD"
   },
   {
     "team_id": 7,
@@ -5026,17 +5026,17 @@
   {
     "team_id": 7,
     "team_name": "Danville Sweet Corn",
-    "player_id": 11083,
-    "player_key": "469.p.11083",
-    "name": "Casey Mize",
-    "first_name": "Casey",
-    "last_name": "Mize",
+    "player_id": 63960,
+    "player_key": "469.p.63960",
+    "name": "Andrew Alvarez",
+    "first_name": "Andrew",
+    "last_name": "Alvarez",
     "position": "SP",
     "eligible_positions": [
       "SP"
     ],
-    "mlb_team": "DET",
-    "mlb_team_name": "Detroit Tigers",
+    "mlb_team": "WSH",
+    "mlb_team_name": "Washington Nationals",
     "status": ""
   },
   {
@@ -5133,7 +5133,7 @@
     ],
     "mlb_team": "CLE",
     "mlb_team_name": "Cleveland Guardians",
-    "status": ""
+    "status": "NA"
   },
   {
     "team_id": 7,
@@ -5506,22 +5506,6 @@
   {
     "team_id": 8,
     "team_name": "Delco Diamond Dogs",
-    "player_id": 64427,
-    "player_key": "469.p.64427",
-    "name": "Jared Jones",
-    "first_name": "Jared",
-    "last_name": "Jones",
-    "position": "1B",
-    "eligible_positions": [
-      "1B"
-    ],
-    "mlb_team": "PIT",
-    "mlb_team_name": "Pittsburgh Pirates",
-    "status": "NA"
-  },
-  {
-    "team_id": 8,
-    "team_name": "Delco Diamond Dogs",
     "player_id": 12488,
     "player_key": "469.p.12488",
     "name": "Carlos Cortes",
@@ -5614,6 +5598,22 @@
     "mlb_team": "BAL",
     "mlb_team_name": "Baltimore Orioles",
     "status": "IL60"
+  },
+  {
+    "team_id": 8,
+    "team_name": "Delco Diamond Dogs",
+    "player_id": 64427,
+    "player_key": "469.p.64427",
+    "name": "Jared Jones",
+    "first_name": "Jared",
+    "last_name": "Jones",
+    "position": "1B",
+    "eligible_positions": [
+      "1B"
+    ],
+    "mlb_team": "PIT",
+    "mlb_team_name": "Pittsburgh Pirates",
+    "status": "NA"
   },
   {
     "team_id": 8,
@@ -5869,7 +5869,7 @@
     ],
     "mlb_team": "LAD",
     "mlb_team_name": "Los Angeles Dodgers",
-    "status": ""
+    "status": "IL"
   },
   {
     "team_id": 8,
@@ -5902,6 +5902,22 @@
     "mlb_team": "LAA",
     "mlb_team_name": "Los Angeles Angels",
     "status": ""
+  },
+  {
+    "team_id": 8,
+    "team_name": "Delco Diamond Dogs",
+    "player_id": 60070,
+    "player_key": "469.p.60070",
+    "name": "Owen Murphy",
+    "first_name": "Owen",
+    "last_name": "Murphy",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "ATL",
+    "mlb_team_name": "Atlanta Braves",
+    "status": "NA"
   },
   {
     "team_id": 8,
@@ -5982,22 +5998,6 @@
     "mlb_team": "SD",
     "mlb_team_name": "San Diego Padres",
     "status": "NA"
-  },
-  {
-    "team_id": 8,
-    "team_name": "Delco Diamond Dogs",
-    "player_id": 60070,
-    "player_key": "469.p.60070",
-    "name": "Owen Murphy",
-    "first_name": "Owen",
-    "last_name": "Murphy",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "ATL",
-    "mlb_team_name": "Atlanta Braves",
-    "status": ""
   },
   {
     "team_id": 8,
@@ -6546,22 +6546,6 @@
   {
     "team_id": 9,
     "team_name": "Devon Stallions",
-    "player_id": 63720,
-    "player_key": "469.p.63720",
-    "name": "Justin Sterner",
-    "first_name": "Justin",
-    "last_name": "Sterner",
-    "position": "RP",
-    "eligible_positions": [
-      "RP"
-    ],
-    "mlb_team": "ATH",
-    "mlb_team_name": " Athletics",
-    "status": "IL15"
-  },
-  {
-    "team_id": 9,
-    "team_name": "Devon Stallions",
     "player_id": 63515,
     "player_key": "469.p.63515",
     "name": "Yuki Matsui",
@@ -6622,6 +6606,22 @@
     "mlb_team": "MIL",
     "mlb_team_name": "Milwaukee Brewers",
     "status": ""
+  },
+  {
+    "team_id": 9,
+    "team_name": "Devon Stallions",
+    "player_id": 63720,
+    "player_key": "469.p.63720",
+    "name": "Justin Sterner",
+    "first_name": "Justin",
+    "last_name": "Sterner",
+    "position": "RP",
+    "eligible_positions": [
+      "RP"
+    ],
+    "mlb_team": "ATH",
+    "mlb_team_name": " Athletics",
+    "status": "IL15"
   },
   {
     "team_id": 9,
@@ -7351,9 +7351,9 @@
     "name": "Will Klein",
     "first_name": "Will",
     "last_name": "Klein",
-    "position": "RP",
+    "position": "SP",
     "eligible_positions": [
-      "RP"
+      "SP"
     ],
     "mlb_team": "LAD",
     "mlb_team_name": "Los Angeles Dodgers",
@@ -8290,17 +8290,17 @@
   {
     "team_id": 12,
     "team_name": "Erie Electric Eels",
-    "player_id": 11118,
-    "player_key": "469.p.11118",
-    "name": "Jeff McNeil",
-    "first_name": "Jeff",
-    "last_name": "McNeil",
-    "position": "2B",
+    "player_id": 10868,
+    "player_key": "469.p.10868",
+    "name": "Willi Castro",
+    "first_name": "Willi",
+    "last_name": "Castro",
+    "position": "1B",
     "eligible_positions": [
-      "2B"
+      "1B"
     ],
-    "mlb_team": "ATH",
-    "mlb_team_name": " Athletics",
+    "mlb_team": "COL",
+    "mlb_team_name": "Colorado Rockies",
     "status": ""
   },
   {
@@ -8370,17 +8370,17 @@
   {
     "team_id": 12,
     "team_name": "Erie Electric Eels",
-    "player_id": 10868,
-    "player_key": "469.p.10868",
-    "name": "Willi Castro",
-    "first_name": "Willi",
-    "last_name": "Castro",
-    "position": "1B",
+    "player_id": 11118,
+    "player_key": "469.p.11118",
+    "name": "Jeff McNeil",
+    "first_name": "Jeff",
+    "last_name": "McNeil",
+    "position": "2B",
     "eligible_positions": [
-      "1B"
+      "2B"
     ],
-    "mlb_team": "COL",
-    "mlb_team_name": "Colorado Rockies",
+    "mlb_team": "ATH",
+    "mlb_team_name": " Athletics",
     "status": ""
   },
   {
@@ -8749,7 +8749,7 @@
     ],
     "mlb_team": "HOU",
     "mlb_team_name": "Houston Astros",
-    "status": ""
+    "status": "NA"
   },
   {
     "team_id": 12,
@@ -10146,17 +10146,17 @@
   {
     "team_id": 14,
     "team_name": "New Hampshire Unicorns",
-    "player_id": 60907,
-    "player_key": "469.p.60907",
-    "name": "Jared Jones",
-    "first_name": "Jared",
-    "last_name": "Jones",
+    "player_id": 12523,
+    "player_key": "469.p.12523",
+    "name": "Robert Gasser",
+    "first_name": "Robert",
+    "last_name": "Gasser",
     "position": "SP",
     "eligible_positions": [
       "SP"
     ],
-    "mlb_team": "PIT",
-    "mlb_team_name": "Pittsburgh Pirates",
+    "mlb_team": "MIL",
+    "mlb_team_name": "Milwaukee Brewers",
     "status": ""
   },
   {
@@ -10242,6 +10242,22 @@
   {
     "team_id": 14,
     "team_name": "New Hampshire Unicorns",
+    "player_id": 60907,
+    "player_key": "469.p.60907",
+    "name": "Jared Jones",
+    "first_name": "Jared",
+    "last_name": "Jones",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "PIT",
+    "mlb_team_name": "Pittsburgh Pirates",
+    "status": ""
+  },
+  {
+    "team_id": 14,
+    "team_name": "New Hampshire Unicorns",
     "player_id": 10444,
     "player_key": "469.p.10444",
     "name": "Bryan Hudson",
@@ -10253,22 +10269,6 @@
     ],
     "mlb_team": "CWS",
     "mlb_team_name": "Chicago White Sox",
-    "status": ""
-  },
-  {
-    "team_id": 14,
-    "team_name": "New Hampshire Unicorns",
-    "player_id": 12523,
-    "player_key": "469.p.12523",
-    "name": "Robert Gasser",
-    "first_name": "Robert",
-    "last_name": "Gasser",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "MIL",
-    "mlb_team_name": "Milwaukee Brewers",
     "status": ""
   },
   {
@@ -10333,7 +10333,7 @@
     ],
     "mlb_team": "DET",
     "mlb_team_name": "Detroit Tigers",
-    "status": "IL15"
+    "status": "IL60"
   },
   {
     "team_id": 14,
@@ -10498,17 +10498,17 @@
   {
     "team_id": 15,
     "team_name": "Orlando Oligarchs",
-    "player_id": 11596,
-    "player_key": "469.p.11596",
-    "name": "Tommy Edman",
-    "first_name": "Tommy",
-    "last_name": "Edman",
+    "player_id": 11343,
+    "player_key": "469.p.11343",
+    "name": "Brice Turang",
+    "first_name": "Brice",
+    "last_name": "Turang",
     "position": "2B",
     "eligible_positions": [
       "2B"
     ],
-    "mlb_team": "LAD",
-    "mlb_team_name": "Los Angeles Dodgers",
+    "mlb_team": "MIL",
+    "mlb_team_name": "Milwaukee Brewers",
     "status": ""
   },
   {
@@ -10594,6 +10594,54 @@
   {
     "team_id": 15,
     "team_name": "Orlando Oligarchs",
+    "player_id": 63648,
+    "player_key": "469.p.63648",
+    "name": "Liam Hicks",
+    "first_name": "Liam",
+    "last_name": "Hicks",
+    "position": "C",
+    "eligible_positions": [
+      "C"
+    ],
+    "mlb_team": "MIA",
+    "mlb_team_name": "Miami Marlins",
+    "status": ""
+  },
+  {
+    "team_id": 15,
+    "team_name": "Orlando Oligarchs",
+    "player_id": 11596,
+    "player_key": "469.p.11596",
+    "name": "Tommy Edman",
+    "first_name": "Tommy",
+    "last_name": "Edman",
+    "position": "2B",
+    "eligible_positions": [
+      "2B"
+    ],
+    "mlb_team": "LAD",
+    "mlb_team_name": "Los Angeles Dodgers",
+    "status": ""
+  },
+  {
+    "team_id": 15,
+    "team_name": "Orlando Oligarchs",
+    "player_id": 12657,
+    "player_key": "469.p.12657",
+    "name": "Michael Massey",
+    "first_name": "Michael",
+    "last_name": "Massey",
+    "position": "2B",
+    "eligible_positions": [
+      "2B"
+    ],
+    "mlb_team": "KC",
+    "mlb_team_name": "Kansas City Royals",
+    "status": ""
+  },
+  {
+    "team_id": 15,
+    "team_name": "Orlando Oligarchs",
     "player_id": 11378,
     "player_key": "469.p.11378",
     "name": "Esteury Ruiz",
@@ -10622,54 +10670,6 @@
     "mlb_team": "BAL",
     "mlb_team_name": "Baltimore Orioles",
     "status": ""
-  },
-  {
-    "team_id": 15,
-    "team_name": "Orlando Oligarchs",
-    "player_id": 12657,
-    "player_key": "469.p.12657",
-    "name": "Michael Massey",
-    "first_name": "Michael",
-    "last_name": "Massey",
-    "position": "2B",
-    "eligible_positions": [
-      "2B"
-    ],
-    "mlb_team": "KC",
-    "mlb_team_name": "Kansas City Royals",
-    "status": ""
-  },
-  {
-    "team_id": 15,
-    "team_name": "Orlando Oligarchs",
-    "player_id": 63648,
-    "player_key": "469.p.63648",
-    "name": "Liam Hicks",
-    "first_name": "Liam",
-    "last_name": "Hicks",
-    "position": "C",
-    "eligible_positions": [
-      "C"
-    ],
-    "mlb_team": "MIA",
-    "mlb_team_name": "Miami Marlins",
-    "status": ""
-  },
-  {
-    "team_id": 15,
-    "team_name": "Orlando Oligarchs",
-    "player_id": 11343,
-    "player_key": "469.p.11343",
-    "name": "Brice Turang",
-    "first_name": "Brice",
-    "last_name": "Turang",
-    "position": "2B",
-    "eligible_positions": [
-      "2B"
-    ],
-    "mlb_team": "MIL",
-    "mlb_team_name": "Milwaukee Brewers",
-    "status": "DTD"
   },
   {
     "team_id": 15,
@@ -10866,22 +10866,6 @@
   {
     "team_id": 15,
     "team_name": "Orlando Oligarchs",
-    "player_id": 11251,
-    "player_key": "469.p.11251",
-    "name": "Merrill Kelly",
-    "first_name": "Merrill",
-    "last_name": "Kelly",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "AZ",
-    "mlb_team_name": "Arizona Diamondbacks",
-    "status": ""
-  },
-  {
-    "team_id": 15,
-    "team_name": "Orlando Oligarchs",
     "player_id": 10152,
     "player_key": "469.p.10152",
     "name": "Reynaldo Lopez",
@@ -10898,18 +10882,34 @@
   {
     "team_id": 15,
     "team_name": "Orlando Oligarchs",
-    "player_id": 11478,
-    "player_key": "469.p.11478",
-    "name": "Patrick Sandoval",
-    "first_name": "Patrick",
-    "last_name": "Sandoval",
+    "player_id": 60430,
+    "player_key": "469.p.60430",
+    "name": "Mitch Bratt",
+    "first_name": "Mitch",
+    "last_name": "Bratt",
     "position": "SP",
     "eligible_positions": [
       "SP"
     ],
-    "mlb_team": "BOS",
-    "mlb_team_name": "Boston Red Sox",
+    "mlb_team": "AZ",
+    "mlb_team_name": "Arizona Diamondbacks",
     "status": ""
+  },
+  {
+    "team_id": 15,
+    "team_name": "Orlando Oligarchs",
+    "player_id": 9123,
+    "player_key": "469.p.9123",
+    "name": "Jameson Taillon",
+    "first_name": "Jameson",
+    "last_name": "Taillon",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "CHC",
+    "mlb_team_name": "Chicago Cubs",
+    "status": "IL15"
   },
   {
     "team_id": 15,
@@ -10994,6 +10994,38 @@
   {
     "team_id": 15,
     "team_name": "Orlando Oligarchs",
+    "player_id": 11478,
+    "player_key": "469.p.11478",
+    "name": "Patrick Sandoval",
+    "first_name": "Patrick",
+    "last_name": "Sandoval",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "BOS",
+    "mlb_team_name": "Boston Red Sox",
+    "status": ""
+  },
+  {
+    "team_id": 15,
+    "team_name": "Orlando Oligarchs",
+    "player_id": 11251,
+    "player_key": "469.p.11251",
+    "name": "Merrill Kelly",
+    "first_name": "Merrill",
+    "last_name": "Kelly",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "AZ",
+    "mlb_team_name": "Arizona Diamondbacks",
+    "status": ""
+  },
+  {
+    "team_id": 15,
+    "team_name": "Orlando Oligarchs",
     "player_id": 65029,
     "player_key": "469.p.65029",
     "name": "Spencer Miles",
@@ -11037,38 +11069,6 @@
     ],
     "mlb_team": "LAA",
     "mlb_team_name": "Los Angeles Angels",
-    "status": ""
-  },
-  {
-    "team_id": 15,
-    "team_name": "Orlando Oligarchs",
-    "player_id": 9123,
-    "player_key": "469.p.9123",
-    "name": "Jameson Taillon",
-    "first_name": "Jameson",
-    "last_name": "Taillon",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "CHC",
-    "mlb_team_name": "Chicago Cubs",
-    "status": "IL15"
-  },
-  {
-    "team_id": 15,
-    "team_name": "Orlando Oligarchs",
-    "player_id": 60430,
-    "player_key": "469.p.60430",
-    "name": "Mitch Bratt",
-    "first_name": "Mitch",
-    "last_name": "Bratt",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "AZ",
-    "mlb_team_name": "Arizona Diamondbacks",
     "status": ""
   },
   {
@@ -11213,7 +11213,7 @@
     ],
     "mlb_team": "KC",
     "mlb_team_name": "Kansas City Royals",
-    "status": "NA"
+    "status": "IL15"
   },
   {
     "team_id": 15,
@@ -11682,22 +11682,6 @@
   {
     "team_id": 16,
     "team_name": "SC Scrubs",
-    "player_id": 64813,
-    "player_key": "469.p.64813",
-    "name": "Brandon Young",
-    "first_name": "Brandon",
-    "last_name": "Young",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "BAL",
-    "mlb_team_name": "Baltimore Orioles",
-    "status": ""
-  },
-  {
-    "team_id": 16,
-    "team_name": "SC Scrubs",
     "player_id": 11381,
     "player_key": "469.p.11381",
     "name": "Logan Gilbert",
@@ -11730,33 +11714,49 @@
   {
     "team_id": 16,
     "team_name": "SC Scrubs",
-    "player_id": 12265,
-    "player_key": "469.p.12265",
-    "name": "Ryan Feltner",
-    "first_name": "Ryan",
-    "last_name": "Feltner",
+    "player_id": 12333,
+    "player_key": "469.p.12333",
+    "name": "JP Sears",
+    "first_name": "JP",
+    "last_name": "Sears",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "SD",
+    "mlb_team_name": "San Diego Padres",
+    "status": ""
+  },
+  {
+    "team_id": 16,
+    "team_name": "SC Scrubs",
+    "player_id": 11988,
+    "player_key": "469.p.11988",
+    "name": "Emerson Hancock",
+    "first_name": "Emerson",
+    "last_name": "Hancock",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "SEA",
+    "mlb_team_name": "Seattle Mariners",
+    "status": ""
+  },
+  {
+    "team_id": 16,
+    "team_name": "SC Scrubs",
+    "player_id": 9863,
+    "player_key": "469.p.9863",
+    "name": "Kyle Freeland",
+    "first_name": "Kyle",
+    "last_name": "Freeland",
     "position": "SP",
     "eligible_positions": [
       "SP"
     ],
     "mlb_team": "COL",
     "mlb_team_name": "Colorado Rockies",
-    "status": ""
-  },
-  {
-    "team_id": 16,
-    "team_name": "SC Scrubs",
-    "player_id": 64367,
-    "player_key": "469.p.64367",
-    "name": "Ryan Johnson",
-    "first_name": "Ryan",
-    "last_name": "Johnson",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "LAA",
-    "mlb_team_name": "Los Angeles Angels",
     "status": ""
   },
   {
@@ -11842,6 +11842,54 @@
   {
     "team_id": 16,
     "team_name": "SC Scrubs",
+    "player_id": 64367,
+    "player_key": "469.p.64367",
+    "name": "Ryan Johnson",
+    "first_name": "Ryan",
+    "last_name": "Johnson",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "LAA",
+    "mlb_team_name": "Los Angeles Angels",
+    "status": ""
+  },
+  {
+    "team_id": 16,
+    "team_name": "SC Scrubs",
+    "player_id": 64813,
+    "player_key": "469.p.64813",
+    "name": "Brandon Young",
+    "first_name": "Brandon",
+    "last_name": "Young",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "BAL",
+    "mlb_team_name": "Baltimore Orioles",
+    "status": ""
+  },
+  {
+    "team_id": 16,
+    "team_name": "SC Scrubs",
+    "player_id": 12265,
+    "player_key": "469.p.12265",
+    "name": "Ryan Feltner",
+    "first_name": "Ryan",
+    "last_name": "Feltner",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "COL",
+    "mlb_team_name": "Colorado Rockies",
+    "status": ""
+  },
+  {
+    "team_id": 16,
+    "team_name": "SC Scrubs",
     "player_id": 60145,
     "player_key": "469.p.60145",
     "name": "Gabriel Hughes",
@@ -11858,59 +11906,11 @@
   {
     "team_id": 16,
     "team_name": "SC Scrubs",
-    "player_id": 9863,
-    "player_key": "469.p.9863",
-    "name": "Kyle Freeland",
-    "first_name": "Kyle",
-    "last_name": "Freeland",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "COL",
-    "mlb_team_name": "Colorado Rockies",
-    "status": ""
-  },
-  {
-    "team_id": 16,
-    "team_name": "SC Scrubs",
     "player_id": 10509,
     "player_key": "469.p.10509",
     "name": "Walker Buehler",
     "first_name": "Walker",
     "last_name": "Buehler",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "SD",
-    "mlb_team_name": "San Diego Padres",
-    "status": ""
-  },
-  {
-    "team_id": 16,
-    "team_name": "SC Scrubs",
-    "player_id": 11988,
-    "player_key": "469.p.11988",
-    "name": "Emerson Hancock",
-    "first_name": "Emerson",
-    "last_name": "Hancock",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "SEA",
-    "mlb_team_name": "Seattle Mariners",
-    "status": ""
-  },
-  {
-    "team_id": 16,
-    "team_name": "SC Scrubs",
-    "player_id": 12333,
-    "player_key": "469.p.12333",
-    "name": "JP Sears",
-    "first_name": "JP",
-    "last_name": "Sears",
     "position": "SP",
     "eligible_positions": [
       "SP"
@@ -12013,7 +12013,7 @@
     ],
     "mlb_team": "BAL",
     "mlb_team_name": "Baltimore Orioles",
-    "status": "IL15"
+    "status": "IL60"
   },
   {
     "team_id": 16,
@@ -12386,38 +12386,6 @@
   {
     "team_id": 17,
     "team_name": "Scranton Stranglers",
-    "player_id": 12549,
-    "player_key": "469.p.12549",
-    "name": "Michael McGreevy",
-    "first_name": "Michael",
-    "last_name": "McGreevy",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "STL",
-    "mlb_team_name": "St. Louis Cardinals",
-    "status": ""
-  },
-  {
-    "team_id": 17,
-    "team_name": "Scranton Stranglers",
-    "player_id": 60056,
-    "player_key": "469.p.60056",
-    "name": "Brandon Pfaadt",
-    "first_name": "Brandon",
-    "last_name": "Pfaadt",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "AZ",
-    "mlb_team_name": "Arizona Diamondbacks",
-    "status": ""
-  },
-  {
-    "team_id": 17,
-    "team_name": "Scranton Stranglers",
     "player_id": 11398,
     "player_key": "469.p.11398",
     "name": "Shane McClanahan",
@@ -12461,6 +12429,38 @@
     ],
     "mlb_team": "BAL",
     "mlb_team_name": "Baltimore Orioles",
+    "status": ""
+  },
+  {
+    "team_id": 17,
+    "team_name": "Scranton Stranglers",
+    "player_id": 60295,
+    "player_key": "469.p.60295",
+    "name": "Will Warren",
+    "first_name": "Will",
+    "last_name": "Warren",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "NYY",
+    "mlb_team_name": "New York Yankees",
+    "status": ""
+  },
+  {
+    "team_id": 17,
+    "team_name": "Scranton Stranglers",
+    "player_id": 11706,
+    "player_key": "469.p.11706",
+    "name": "Cristopher Sanchez",
+    "first_name": "Cristopher",
+    "last_name": "Sanchez",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "PHI",
+    "mlb_team_name": "Philadelphia Phillies",
     "status": ""
   },
   {
@@ -12546,6 +12546,38 @@
   {
     "team_id": 17,
     "team_name": "Scranton Stranglers",
+    "player_id": 12549,
+    "player_key": "469.p.12549",
+    "name": "Michael McGreevy",
+    "first_name": "Michael",
+    "last_name": "McGreevy",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "STL",
+    "mlb_team_name": "St. Louis Cardinals",
+    "status": ""
+  },
+  {
+    "team_id": 17,
+    "team_name": "Scranton Stranglers",
+    "player_id": 60056,
+    "player_key": "469.p.60056",
+    "name": "Brandon Pfaadt",
+    "first_name": "Brandon",
+    "last_name": "Pfaadt",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "AZ",
+    "mlb_team_name": "Arizona Diamondbacks",
+    "status": ""
+  },
+  {
+    "team_id": 17,
+    "team_name": "Scranton Stranglers",
     "player_id": 60292,
     "player_key": "469.p.60292",
     "name": "Christian Scott",
@@ -12589,38 +12621,6 @@
     ],
     "mlb_team": "MIL",
     "mlb_team_name": "Milwaukee Brewers",
-    "status": ""
-  },
-  {
-    "team_id": 17,
-    "team_name": "Scranton Stranglers",
-    "player_id": 60295,
-    "player_key": "469.p.60295",
-    "name": "Will Warren",
-    "first_name": "Will",
-    "last_name": "Warren",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "NYY",
-    "mlb_team_name": "New York Yankees",
-    "status": ""
-  },
-  {
-    "team_id": 17,
-    "team_name": "Scranton Stranglers",
-    "player_id": 11706,
-    "player_key": "469.p.11706",
-    "name": "Cristopher Sanchez",
-    "first_name": "Cristopher",
-    "last_name": "Sanchez",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "PHI",
-    "mlb_team_name": "Philadelphia Phillies",
     "status": ""
   },
   {
@@ -12802,14 +12802,14 @@
   {
     "team_id": 18,
     "team_name": "Spokane Sasquatch",
-    "player_id": 11125,
-    "player_key": "469.p.11125",
-    "name": "Brandon Lowe",
-    "first_name": "Brandon",
-    "last_name": "Lowe",
-    "position": "2B",
+    "player_id": 62982,
+    "player_key": "469.p.62982",
+    "name": "Jacob Gonzalez",
+    "first_name": "Jacob",
+    "last_name": "Gonzalez",
+    "position": "1B",
     "eligible_positions": [
-      "2B"
+      "1B"
     ],
     "mlb_team": "PIT",
     "mlb_team_name": "Pittsburgh Pirates",
@@ -12877,7 +12877,7 @@
     ],
     "mlb_team": "AZ",
     "mlb_team_name": "Arizona Diamondbacks",
-    "status": ""
+    "status": "DTD"
   },
   {
     "team_id": 18,
@@ -12914,6 +12914,22 @@
   {
     "team_id": 18,
     "team_name": "Spokane Sasquatch",
+    "player_id": 60317,
+    "player_key": "469.p.60317",
+    "name": "Justin Crawford",
+    "first_name": "Justin",
+    "last_name": "Crawford",
+    "position": "CF",
+    "eligible_positions": [
+      "CF"
+    ],
+    "mlb_team": "PHI",
+    "mlb_team_name": "Philadelphia Phillies",
+    "status": ""
+  },
+  {
+    "team_id": 18,
+    "team_name": "Spokane Sasquatch",
     "player_id": 64285,
     "player_key": "469.p.64285",
     "name": "Pedro Ramirez",
@@ -12930,17 +12946,17 @@
   {
     "team_id": 18,
     "team_name": "Spokane Sasquatch",
-    "player_id": 60317,
-    "player_key": "469.p.60317",
-    "name": "Justin Crawford",
-    "first_name": "Justin",
-    "last_name": "Crawford",
-    "position": "CF",
+    "player_id": 11125,
+    "player_key": "469.p.11125",
+    "name": "Brandon Lowe",
+    "first_name": "Brandon",
+    "last_name": "Lowe",
+    "position": "2B",
     "eligible_positions": [
-      "CF"
+      "2B"
     ],
-    "mlb_team": "PHI",
-    "mlb_team_name": "Philadelphia Phillies",
+    "mlb_team": "PIT",
+    "mlb_team_name": "Pittsburgh Pirates",
     "status": ""
   },
   {
@@ -13006,22 +13022,6 @@
     "mlb_team": "WSH",
     "mlb_team_name": "Washington Nationals",
     "status": "NA"
-  },
-  {
-    "team_id": 18,
-    "team_name": "Spokane Sasquatch",
-    "player_id": 62982,
-    "player_key": "469.p.62982",
-    "name": "Jacob Gonzalez",
-    "first_name": "Jacob",
-    "last_name": "Gonzalez",
-    "position": "1B",
-    "eligible_positions": [
-      "1B"
-    ],
-    "mlb_team": "PIT",
-    "mlb_team_name": "Pittsburgh Pirates",
-    "status": ""
   },
   {
     "team_id": 18,
@@ -13549,7 +13549,7 @@
     ],
     "mlb_team": "BAL",
     "mlb_team_name": "Baltimore Orioles",
-    "status": ""
+    "status": "DTD"
   },
   {
     "team_id": 19,
@@ -14674,22 +14674,6 @@
   {
     "team_id": 20,
     "team_name": "Cranston Chaos",
-    "player_id": 62678,
-    "player_key": "469.p.62678",
-    "name": "PJ Poulin",
-    "first_name": "PJ",
-    "last_name": "Poulin",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "WSH",
-    "mlb_team_name": "Washington Nationals",
-    "status": ""
-  },
-  {
-    "team_id": 20,
-    "team_name": "Cranston Chaos",
     "player_id": 10011,
     "player_key": "469.p.10011",
     "name": "Matthew Boyd",
@@ -14701,6 +14685,22 @@
     ],
     "mlb_team": "CHC",
     "mlb_team_name": "Chicago Cubs",
+    "status": ""
+  },
+  {
+    "team_id": 20,
+    "team_name": "Cranston Chaos",
+    "player_id": 12096,
+    "player_key": "469.p.12096",
+    "name": "Bailey Ober",
+    "first_name": "Bailey",
+    "last_name": "Ober",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "MIN",
+    "mlb_team_name": "Minnesota Twins",
     "status": ""
   },
   {
@@ -14786,22 +14786,6 @@
   {
     "team_id": 20,
     "team_name": "Cranston Chaos",
-    "player_id": 12096,
-    "player_key": "469.p.12096",
-    "name": "Bailey Ober",
-    "first_name": "Bailey",
-    "last_name": "Ober",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "MIN",
-    "mlb_team_name": "Minnesota Twins",
-    "status": ""
-  },
-  {
-    "team_id": 20,
-    "team_name": "Cranston Chaos",
     "player_id": 10229,
     "player_key": "469.p.10229",
     "name": "Erick Fedde",
@@ -14846,6 +14830,22 @@
     "mlb_team": "LAA",
     "mlb_team_name": "Los Angeles Angels",
     "status": ""
+  },
+  {
+    "team_id": 20,
+    "team_name": "Cranston Chaos",
+    "player_id": 62678,
+    "player_key": "469.p.62678",
+    "name": "PJ Poulin",
+    "first_name": "PJ",
+    "last_name": "Poulin",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "WSH",
+    "mlb_team_name": "Washington Nationals",
+    "status": "IL15"
   },
   {
     "team_id": 20,

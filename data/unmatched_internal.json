@@ -2,14 +2,14 @@
   {
     "team_id": 2,
     "team_name": "Atlantis Aliens",
-    "player_id": 65037,
-    "player_key": "469.p.65037",
-    "name": "Samy Natera Jr.",
-    "first_name": "Samy",
-    "last_name": "Natera Jr.",
-    "position": "RP",
+    "player_id": 61844,
+    "player_key": "469.p.61844",
+    "name": "Wade Meckler",
+    "first_name": "Wade",
+    "last_name": "Meckler",
+    "position": "LF",
     "eligible_positions": [
-      "RP"
+      "LF"
     ],
     "mlb_team": "LAA",
     "mlb_team_name": "Los Angeles Angels",
@@ -29,6 +29,22 @@
     ],
     "mlb_team": "LAA",
     "mlb_team_name": "Los Angeles Angels",
+    "status": "NA"
+  },
+  {
+    "team_id": 2,
+    "team_name": "Atlantis Aliens",
+    "player_id": 64508,
+    "player_key": "469.p.64508",
+    "name": "Brandon Clarke",
+    "first_name": "Brandon",
+    "last_name": "Clarke",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "STL",
+    "mlb_team_name": "St. Louis Cardinals",
     "status": "NA"
   },
   {
@@ -61,7 +77,7 @@
     ],
     "mlb_team": "PIT",
     "mlb_team_name": "Pittsburgh Pirates",
-    "status": ""
+    "status": "NA"
   },
   {
     "team_id": 4,
@@ -77,7 +93,7 @@
     ],
     "mlb_team": "WSH",
     "mlb_team_name": "Washington Nationals",
-    "status": "IL15"
+    "status": "IL60"
   },
   {
     "team_id": 6,
@@ -109,7 +125,7 @@
     ],
     "mlb_team": "CLE",
     "mlb_team_name": "Cleveland Guardians",
-    "status": ""
+    "status": "NA"
   },
   {
     "team_id": 10,
@@ -162,22 +178,6 @@
   {
     "team_id": 20,
     "team_name": "Cranston Chaos",
-    "player_id": 62678,
-    "player_key": "469.p.62678",
-    "name": "PJ Poulin",
-    "first_name": "PJ",
-    "last_name": "Poulin",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "WSH",
-    "mlb_team_name": "Washington Nationals",
-    "status": ""
-  },
-  {
-    "team_id": 20,
-    "team_name": "Cranston Chaos",
     "player_id": 11203,
     "player_key": "469.p.11203",
     "name": "Jimmy Herget",
@@ -190,6 +190,22 @@
     "mlb_team": "COL",
     "mlb_team_name": "Colorado Rockies",
     "status": ""
+  },
+  {
+    "team_id": 20,
+    "team_name": "Cranston Chaos",
+    "player_id": 62678,
+    "player_key": "469.p.62678",
+    "name": "PJ Poulin",
+    "first_name": "PJ",
+    "last_name": "Poulin",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "WSH",
+    "mlb_team_name": "Washington Nationals",
+    "status": "IL15"
   },
   {
     "team_id": 20,
