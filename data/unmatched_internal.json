@@ -160,6 +160,22 @@
     "status": "NA"
   },
   {
+    "team_id": 16,
+    "team_name": "SC Scrubs",
+    "player_id": 65774,
+    "player_key": "469.p.65774",
+    "name": "Alex Lodise",
+    "first_name": "Alex",
+    "last_name": "Lodise",
+    "position": "SS",
+    "eligible_positions": [
+      "SS"
+    ],
+    "mlb_team": "ATL",
+    "mlb_team_name": "Atlanta Braves",
+    "status": "NA"
+  },
+  {
     "team_id": 17,
     "team_name": "Scranton Stranglers",
     "player_id": 60064,
