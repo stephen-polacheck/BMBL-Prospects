@@ -1,133 +1,5 @@
 [
   {
-    "team_id": 1,
-    "team_name": "Sechler Run Tides",
-    "player_id": 60285,
-    "player_key": "469.p.60285",
-    "name": "Jacob Reimer",
-    "first_name": "Jacob",
-    "last_name": "Reimer",
-    "position": "1B",
-    "eligible_positions": [
-      "1B"
-    ],
-    "mlb_team": "NYM",
-    "mlb_team_name": "New York Mets",
-    "status": "NA"
-  },
-  {
-    "team_id": 1,
-    "team_name": "Sechler Run Tides",
-    "player_id": 11648,
-    "player_key": "469.p.11648",
-    "name": "Cole Sulser",
-    "first_name": "Cole",
-    "last_name": "Sulser",
-    "position": "RP",
-    "eligible_positions": [
-      "RP"
-    ],
-    "mlb_team": "TB",
-    "mlb_team_name": "Tampa Bay Rays",
-    "status": ""
-  },
-  {
-    "team_id": 1,
-    "team_name": "Sechler Run Tides",
-    "player_id": 62763,
-    "player_key": "469.p.62763",
-    "name": "Alex Clemmey",
-    "first_name": "Alex",
-    "last_name": "Clemmey",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "WSH",
-    "mlb_team_name": "Washington Nationals",
-    "status": "NA"
-  },
-  {
-    "team_id": 2,
-    "team_name": "Atlantis Aliens",
-    "player_id": 61844,
-    "player_key": "469.p.61844",
-    "name": "Wade Meckler",
-    "first_name": "Wade",
-    "last_name": "Meckler",
-    "position": "LF",
-    "eligible_positions": [
-      "LF"
-    ],
-    "mlb_team": "LAA",
-    "mlb_team_name": "Los Angeles Angels",
-    "status": ""
-  },
-  {
-    "team_id": 2,
-    "team_name": "Atlantis Aliens",
-    "player_id": 63064,
-    "player_key": "469.p.63064",
-    "name": "George Klassen",
-    "first_name": "George",
-    "last_name": "Klassen",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "LAA",
-    "mlb_team_name": "Los Angeles Angels",
-    "status": "NA"
-  },
-  {
-    "team_id": 2,
-    "team_name": "Atlantis Aliens",
-    "player_id": 64508,
-    "player_key": "469.p.64508",
-    "name": "Brandon Clarke",
-    "first_name": "Brandon",
-    "last_name": "Clarke",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "STL",
-    "mlb_team_name": "St. Louis Cardinals",
-    "status": "NA"
-  },
-  {
-    "team_id": 4,
-    "team_name": "Carson City Campers",
-    "player_id": 12054,
-    "player_key": "469.p.12054",
-    "name": "Patrick Bailey",
-    "first_name": "Patrick",
-    "last_name": "Bailey",
-    "position": "C",
-    "eligible_positions": [
-      "C"
-    ],
-    "mlb_team": "CLE",
-    "mlb_team_name": "Cleveland Guardians",
-    "status": ""
-  },
-  {
-    "team_id": 4,
-    "team_name": "Carson City Campers",
-    "player_id": 60246,
-    "player_key": "469.p.60246",
-    "name": "Victor Mesa Jr.",
-    "first_name": "Victor",
-    "last_name": "Mesa Jr.",
-    "position": "RF",
-    "eligible_positions": [
-      "RF"
-    ],
-    "mlb_team": "TB",
-    "mlb_team_name": "Tampa Bay Rays",
-    "status": ""
-  },
-  {
     "team_id": 4,
     "team_name": "Carson City Campers",
     "player_id": 62895,
@@ -208,22 +80,6 @@
     "status": ""
   },
   {
-    "team_id": 7,
-    "team_name": "Danville Sweet Corn",
-    "player_id": 60139,
-    "player_key": "469.p.60139",
-    "name": "Logan Allen",
-    "first_name": "Logan",
-    "last_name": "Allen",
-    "position": "SP",
-    "eligible_positions": [
-      "SP"
-    ],
-    "mlb_team": "CLE",
-    "mlb_team_name": "Cleveland Guardians",
-    "status": "NA"
-  },
-  {
     "team_id": 10,
     "team_name": "Harleysville Hornets",
     "player_id": 11321,
@@ -258,22 +114,6 @@
   {
     "team_id": 16,
     "team_name": "SC Scrubs",
-    "player_id": 65774,
-    "player_key": "469.p.65774",
-    "name": "Alex Lodise",
-    "first_name": "Alex",
-    "last_name": "Lodise",
-    "position": "SS",
-    "eligible_positions": [
-      "SS"
-    ],
-    "mlb_team": "ATL",
-    "mlb_team_name": "Atlanta Braves",
-    "status": "NA"
-  },
-  {
-    "team_id": 16,
-    "team_name": "SC Scrubs",
     "player_id": 12756,
     "player_key": "469.p.12756",
     "name": "Tom Cosgrove",
@@ -285,22 +125,6 @@
     ],
     "mlb_team": "WSH",
     "mlb_team_name": "Washington Nationals",
-    "status": ""
-  },
-  {
-    "team_id": 17,
-    "team_name": "Scranton Stranglers",
-    "player_id": 60064,
-    "player_key": "469.p.60064",
-    "name": "Tim Tawa",
-    "first_name": "Tim",
-    "last_name": "Tawa",
-    "position": "1B",
-    "eligible_positions": [
-      "1B"
-    ],
-    "mlb_team": "AZ",
-    "mlb_team_name": "Arizona Diamondbacks",
     "status": ""
   },
   {
