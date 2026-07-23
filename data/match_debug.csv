@@ -49,7 +49,7 @@ MATCHED,0000045,63187,Jack Wenninger,NYM,mL8Bjej5,Jack Wenninger,NYM,Existing re
 MATCHED,0000046,64481,Khal Stephen,CLE,XKox7OBw,Khal Stephen,CLE,Existing registry mapping
 SUGGESTED_MATCH,,62763,Alex Clemmey,WSH,X_UZUjGM,Alex Clemmey,WSH,Name/team match. Awaiting registry approval
 MATCHED,0000058,12435,Yainer Diaz,HOU,No8RF5xb,Yainer Diaz,HOU,Existing registry mapping
-MATCHED,0000050,8875,Bryce Harper,PHI,eFO_k2w_,Bryce Harper,PHI,Existing registry mapping
+MATCHED,0000062,10916,Royce Lewis,MIN,dszlwD0H,Royce Lewis,MIN,Existing registry mapping
 MATCHED,0000051,12688,Spencer Steer,CIN,RBcdCb5U,Spencer Steer,CIN,Existing registry mapping
 MATCHED,0000052,60419,Junior Caminero,TB,IhaFkRsx,Junior Caminero,TB,Existing registry mapping
 MATCHED,0000064,62976,Jacob Wilson,ATH,TaU61NOf,Jacob Wilson,ATH,Existing registry mapping
@@ -57,11 +57,11 @@ MATCHED,0000057,8996,Jose Altuve,HOU,XKCuJ9EU,Jose Altuve,HOU,Existing registry 
 MATCHED,0000060,60421,Tristan Peters,CWS,CVfNznOD,Tristan Peters,CWS,Existing registry mapping
 MATCHED,0000061,12588,Seiya Suzuki,CHC,RlJRrKac,Seiya Suzuki,CHC,Existing registry mapping
 MATCHED,0000053,11822,CJ Abrams,WSH,c2FA9g5T,CJ Abrams,WSH,Existing registry mapping
-SUGGESTED_MATCH,,61844,Wade Meckler,LAA,OfA2WXwf,Wade Meckler,LAA,Name/team match. Awaiting registry approval
 MATCHED,0000049,12409,Hunter Goodman,COL,xJa3AqjQ,Hunter Goodman,COL,Existing registry mapping
-MATCHED,0000062,10916,Royce Lewis,MIN,dszlwD0H,Royce Lewis,MIN,Existing registry mapping
-MATCHED,0000056,11754,Tyler Freeman,COL,CfTWfnGB,Tyler Freeman,COL,Existing registry mapping
 MATCHED,0000063,11279,Triston Casas,BOS,rMp5DGc7,Triston Casas,BOS,Existing registry mapping
+SUGGESTED_MATCH,,61844,Wade Meckler,LAA,OfA2WXwf,Wade Meckler,LAA,Name/team match. Awaiting registry approval
+MATCHED,0000050,8875,Bryce Harper,PHI,eFO_k2w_,Bryce Harper,PHI,Existing registry mapping
+MATCHED,0000056,11754,Tyler Freeman,COL,CfTWfnGB,Tyler Freeman,COL,Existing registry mapping
 MATCHED,0000055,12136,Brenton Doyle,COL,FGZrfy8h,Brenton Doyle,COL,Existing registry mapping
 MATCHED,0000665,64369,Mike Sirota,LAD,RAFUfRW5,Mike Sirota,LAD,Existing registry mapping
 MATCHED,0000065,65809,Taitn Gray,TB,fylU1kdb,Taitn Gray,TB,Existing registry mapping
@@ -69,21 +69,21 @@ MATCHED,0000066,63641,Zyhir Hope,LAD,U4a-Cbdn,Zyhir Hope,LAD,Existing registry m
 MATCHED,0000067,63654,Nelson Rada,LAA,ptWW3PVB,Nelson Rada,LAA,Existing registry mapping
 MATCHED,0000068,65758,Caden Bodine,TB,HAtKZwKX,Caden Bodine,TB,Existing registry mapping
 MATCHED,0000080,12540,Bryce Miller,SEA,_oMhOEZT,Bryce Miller,SEA,Existing registry mapping
-MATCHED,0000070,60137,Tanner Bibee,CLE,1KE4Z3cu,Tanner Bibee,CLE,Existing registry mapping
 MATCHED,0000927,62642,Jacob Lopez,ATH,XD14pbGz,Jacob Lopez,ATH,Existing registry mapping
 MATCHED,0000073,11379,Ryan Weathers,NYY,_Zg7CDeU,Ryan Weathers,NYY,Existing registry mapping
-MATCHED,0000079,12118,Slade Cecconi,CLE,mC_4SLvU,Slade Cecconi,CLE,Existing registry mapping
-MATCHED,0000071,12776,Kodai Senga,NYM,qCU8Sx-Y,Kodai Senga,NYM,Existing registry mapping
-MATCHED,0000074,11626,Kevin Ginkel,AZ,YGWIJ9Q8,Kevin Ginkel,AZ,Existing registry mapping
-MATCHED,0000082,64394,Payton Tolle,BOS,TYYXy8is,Payton Tolle,BOS,Existing registry mapping
-MATCHED,0000077,11717,Trevor Megill,MIL,wKHuU-cj,Trevor Megill,MIL,Existing registry mapping
-SUGGESTED_MATCH,,63064,George Klassen,LAA,BcJGBjs8,George Klassen,LAA,Name/team match. Awaiting registry approval
-MATCHED,0000078,63639,Kendry Rojas,MIN,RaDqcj6o,Kendry Rojas,MIN,Existing registry mapping
-SUGGESTED_MATCH,,64508,Brandon Clarke,STL,ZIBgWEew,Brandon Clarke,STL,Name/team match. Awaiting registry approval
 MATCHED,0000081,12554,Taj Bradley,MIN,hOXeohIh,Taj Bradley,MIN,Existing registry mapping
 MATCHED,0000072,60211,Noah Cameron,KC,3OTT0TNR,Noah Cameron,KC,Existing registry mapping
+MATCHED,0000071,12776,Kodai Senga,NYM,qCU8Sx-Y,Kodai Senga,NYM,Existing registry mapping
+MATCHED,0000082,64394,Payton Tolle,BOS,TYYXy8is,Payton Tolle,BOS,Existing registry mapping
+MATCHED,0000077,11717,Trevor Megill,MIL,wKHuU-cj,Trevor Megill,MIL,Existing registry mapping
+MATCHED,0000078,63639,Kendry Rojas,MIN,RaDqcj6o,Kendry Rojas,MIN,Existing registry mapping
+MATCHED,0000074,11626,Kevin Ginkel,AZ,YGWIJ9Q8,Kevin Ginkel,AZ,Existing registry mapping
 MATCHED,0000091,10513,Braxton Garrett,MIA,SLxpctAa,Braxton Garrett,MIA,Existing registry mapping
 MATCHED,0000069,9882,Aaron Nola,PHI,xfwagl6V,Aaron Nola,PHI,Existing registry mapping
+MATCHED,0000070,60137,Tanner Bibee,CLE,1KE4Z3cu,Tanner Bibee,CLE,Existing registry mapping
+MATCHED,0000079,12118,Slade Cecconi,CLE,mC_4SLvU,Slade Cecconi,CLE,Existing registry mapping
+SUGGESTED_MATCH,,63064,George Klassen,LAA,BcJGBjs8,George Klassen,LAA,Name/team match. Awaiting registry approval
+SUGGESTED_MATCH,,64508,Brandon Clarke,STL,ZIBgWEew,Brandon Clarke,STL,Name/team match. Awaiting registry approval
 MATCHED,0000928,12305,Randy Rodriguez,SF,ZuAnU7v5,Randy Rodriguez,SF,Existing registry mapping
 MATCHED,0000083,9616,Tyler Glasnow,LAD,l-3s_uTx,Tyler Glasnow,LAD,Existing registry mapping
 MATCHED,0000084,10274,Carlos Estevez,KC,WsDMxAxh,Carlos Estévez,KC,Existing registry mapping
@@ -333,17 +333,17 @@ MATCHED,0000327,60191,Miguel Ullola,HOU,MMFX75tR,Miguel Ullola,HOU,Existing regi
 MATCHED,0000322,60658,Cade Povich,BAL,h-33uoDD,Cade Povich,BAL,Existing registry mapping
 MATCHED,0000328,11928,Dillon Dingler,DET,ygT8uez2,Dillon Dingler,DET,Existing registry mapping
 MATCHED,0000329,64312,Jac Caglianone,KC,H0JCSr2Y,Jac Caglianone,KC,Existing registry mapping
-MATCHED,0000330,10964,Luis Garcia Jr.,WSH,7fHrrvf3,Luis García Jr.,WSH,Existing registry mapping
+MATCHED,0000337,64169,Sung-Mun Song,SD,Rl6a1trp,Sung-Mun Song,SD,Existing registry mapping
 MATCHED,0000331,11892,Ernie Clement,TOR,wJOnX7Zo,Ernie Clement,TOR,Existing registry mapping
 MATCHED,0000332,12025,Masyn Winn,STL,fDckWVV3,Masyn Winn,STL,Existing registry mapping
 MATCHED,0000341,12667,Kerry Carpenter,DET,e8h3Yusd,Kerry Carpenter,DET,Existing registry mapping
 MATCHED,0000334,12157,Pete Crow-Armstrong,CHC,nANRzPFy,Pete Crow-Armstrong,CHC,Existing registry mapping
-MATCHED,0000338,10893,Jo Adell,LAA,yQIFePz6,Jo Adell,LAA,Existing registry mapping
-MATCHED,0000335,11796,Brett Baty,NYM,AaI5dHjo,Brett Baty,NYM,Existing registry mapping
-MATCHED,0000340,10159,Andrew Benintendi,CWS,JqYjVUnC,Andrew Benintendi,CWS,Existing registry mapping
 MATCHED,0000333,10119,Mike Yastrzemski,ATL,caAFCUvL,Mike Yastrzemski,ATL,Existing registry mapping
-MATCHED,0000337,64169,Sung-Mun Song,SD,Rl6a1trp,Sung-Mun Song,SD,Existing registry mapping
+MATCHED,0000340,10159,Andrew Benintendi,CWS,JqYjVUnC,Andrew Benintendi,CWS,Existing registry mapping
 MATCHED,0000342,12026,Austin Martin,MIN,bTQOlONQ,Austin Martin,MIN,Existing registry mapping
+MATCHED,0000335,11796,Brett Baty,NYM,AaI5dHjo,Brett Baty,NYM,Existing registry mapping
+MATCHED,0000330,10964,Luis Garcia Jr.,WSH,7fHrrvf3,Luis García Jr.,WSH,Existing registry mapping
+MATCHED,0000338,10893,Jo Adell,LAA,yQIFePz6,Jo Adell,LAA,Existing registry mapping
 MATCHED,0000344,12488,Carlos Cortes,ATH,HtHFKnXv,Carlos Cortes,ATH,Existing registry mapping
 MATCHED,0000345,10566,Ke'Bryan Hayes,CIN,i6h9nLe8,Ke'Bryan Hayes,CIN,Existing registry mapping
 MATCHED,0000339,12390,Matt McLain,CIN,7cG7XVe7,Matt McLain,CIN,Existing registry mapping
@@ -560,7 +560,7 @@ MATCHED,0000551,60350,Jairo Iriarte,CWS,YNvkqIQI,Jairo Iriarte,CWS,Existing regi
 MATCHED,0000552,65791,J.D. Thompson,MIL,8jDSU3Ml,J.D. Thompson,MIL,Existing registry mapping
 MATCHED,0000569,11794,Ryan Jeffers,MIN,Id_vQ7hk,Ryan Jeffers,MIN,Existing registry mapping
 MATCHED,0000561,8967,Paul Goldschmidt,NYY,ViRUin5O,Paul Goldschmidt,NYY,Existing registry mapping
-MATCHED,0000565,11448,Brayan Rocchio,CLE,4V3OjmjX,Brayan Rocchio,CLE,Existing registry mapping
+MATCHED,0000554,60776,Jose Caballero,NYY,0qY4Fr0p,José Caballero,NYY,Existing registry mapping
 MATCHED,0000555,12124,Blaze Jordan,STL,p-dHqL9n,Blaze Jordan,STL,Existing registry mapping
 MATCHED,0000563,12393,Elly De La Cruz,CIN,7CSkljUr,Elly De La Cruz,CIN,Existing registry mapping
 MATCHED,0000567,10215,Tyler O'Neill,BAL,BnSs7-hJ,Tyler O'Neill,BAL,Existing registry mapping
@@ -568,10 +568,10 @@ MATCHED,0000558,12730,Ceddanne Rafaela,BOS,kdsnarYW,Ceddanne Rafaela,BOS,Existin
 MATCHED,0000559,12557,Heriberto Hernandez,MIA,YzffKWuM,Heriberto Hernandez,MIA,Existing registry mapping
 MATCHED,0000560,12056,Michael Harris II,ATL,pvvbGRpt,Michael Harris II,ATL,Existing registry mapping
 MATCHED,0000566,9385,Marcell Ozuna,PIT,hl_qTzxP,Marcell Ozuna,PIT,Existing registry mapping
+MATCHED,0000565,11448,Brayan Rocchio,CLE,4V3OjmjX,Brayan Rocchio,CLE,Existing registry mapping
 MATCHED,0000553,10879,Gavin Sheets,SD,vhOu8CP9,Gavin Sheets,SD,Existing registry mapping
 MATCHED,0000556,11891,Taylor Walls,TB,CAIsjjfp,Taylor Walls,TB,Existing registry mapping
 MATCHED,0000564,9883,Josh Bell,MIN,4acgGy94,Josh Bell,MIN,Existing registry mapping
-MATCHED,0000554,60776,Jose Caballero,NYY,0qY4Fr0p,José Caballero,NYY,Existing registry mapping
 MATCHED,0000562,12454,Denzer Guzman,LAA,PhZO4EQs,Denzer Guzman,LAA,Existing registry mapping
 MATCHED,0000568,11370,Oneil Cruz,PIT,vIf0ld_9,Oneil Cruz,PIT,Existing registry mapping
 MATCHED,0000570,9573,Carlos Correa,HOU,-a5WW8SF,Carlos Correa,HOU,Existing registry mapping
@@ -586,22 +586,22 @@ MATCHED,0000577,65780,Charles Davalan,LAD,F2uHIwud,Charles Davalan,LAD,Existing 
 MATCHED,0000578,12133,Zac Veen,COL,4tb751Sn,Zac Veen,COL,Existing registry mapping
 MATCHED,0000579,12556,Carson Williams,TB,ZQTOCYg0,Carson Williams,TB,Existing registry mapping
 MATCHED,0000580,8780,Chris Sale,ATL,cm3i2kSH,Chris Sale,ATL,Existing registry mapping
-MATCHED,0000594,11763,Tarik Skubal,DET,iTi0KaMv,Tarik Skubal,DET,Existing registry mapping
-MATCHED,0000582,10867,Shane Bieber,TOR,YRJtMK2F,Shane Bieber,TOR,Existing registry mapping
 MATCHED,0000592,10514,Luis Castillo,SEA,6rGsf9-M,Luis Castillo,SEA,Existing registry mapping
-MATCHED,0000581,12658,Huascar Brazoban,NYM,6s2KwAWY,Huascar Brazoban,NYM,Existing registry mapping
-MATCHED,0000590,12114,Tyler Wells,BAL,O7LCsvm4,Tyler Wells,BAL,Existing registry mapping
-MATCHED,0000591,9868,Sean Newcomb,CWS,yo33AfSm,Sean Newcomb,CWS,Existing registry mapping
-MATCHED,0000586,12158,J.T. Ginn,ATH,qqoaB_Xo,J.T. Ginn,ATH,Existing registry mapping
-MATCHED,0000587,12616,Colin Holderman,CLE,ZdgxTrj5,Colin Holderman,CLE,Existing registry mapping
-MATCHED,0000588,10217,Luke Weaver,NYM,AGYNQhPm,Luke Weaver,NYM,Existing registry mapping
-MATCHED,0000589,10467,Peter Lambert,HOU,2jRRxIpl,Peter Lambert,HOU,Existing registry mapping
 MATCHED,0000584,10894,Griffin Canning,SD,aeg3vbWR,Griffin Canning,SD,Existing registry mapping
 MATCHED,0000583,64985,Cam Schlittler,NYY,MumsuJ0n,Cam Schlittler,NYY,Existing registry mapping
 MATCHED,0000593,62972,Paul Skenes,PIT,jlWywUPe,Paul Skenes,PIT,Existing registry mapping
+MATCHED,0000591,9868,Sean Newcomb,CWS,yo33AfSm,Sean Newcomb,CWS,Existing registry mapping
+MATCHED,0000587,12616,Colin Holderman,CLE,ZdgxTrj5,Colin Holderman,CLE,Existing registry mapping
+MATCHED,0000581,12658,Huascar Brazoban,NYM,6s2KwAWY,Huascar Brazoban,NYM,Existing registry mapping
+MATCHED,0000590,12114,Tyler Wells,BAL,O7LCsvm4,Tyler Wells,BAL,Existing registry mapping
+MATCHED,0000588,10217,Luke Weaver,NYM,AGYNQhPm,Luke Weaver,NYM,Existing registry mapping
+MATCHED,0000589,10467,Peter Lambert,HOU,2jRRxIpl,Peter Lambert,HOU,Existing registry mapping
+MATCHED,0000594,11763,Tarik Skubal,DET,iTi0KaMv,Tarik Skubal,DET,Existing registry mapping
+MATCHED,0000582,10867,Shane Bieber,TOR,YRJtMK2F,Shane Bieber,TOR,Existing registry mapping
 MATCHED,0000596,12590,Ronel Blanco,HOU,VHn863gK,Ronel Blanco,HOU,Existing registry mapping
 MATCHED,0000595,11009,Jason Adam,SD,CGfKayIr,Jason Adam,SD,Existing registry mapping
 MATCHED,0000597,10683,Nick Pivetta,SD,T1RSIoCh,Nick Pivetta,SD,Existing registry mapping
+MATCHED,0000586,12158,J.T. Ginn,ATH,qqoaB_Xo,J.T. Ginn,ATH,Existing registry mapping
 MATCHED,0000598,64342,Bryce Cunningham,NYY,jExxNG3E,Bryce Cunningham,NYY,Existing registry mapping
 MATCHED,0000599,65737,Tyler Bremner,LAA,ORotepaw,Tyler Bremner,LAA,Existing registry mapping
 MATCHED,0000600,65755,Patrick Forbes,AZ,7C2CIip0,Patrick Forbes,AZ,Existing registry mapping
@@ -611,11 +611,11 @@ MATCHED,0000612,11747,Tyler Callihan,PIT,I0pjl8DQ,Tyler Callihan,PIT,Existing re
 MATCHED,0000604,11700,Zach McKinstry,DET,t0kK9Tj7,Zach McKinstry,DET,Existing registry mapping
 MATCHED,0000605,12534,Edwin Arroyo,CIN,u4OGPBH0,Edwin Arroyo,CIN,Existing registry mapping
 MATCHED,0000616,62973,Wyatt Langford,TEX,bkH5FFIj,Wyatt Langford,TEX,Existing registry mapping
-MATCHED,0000607,60138,Chase DeLauter,CLE,O6hcs_pL,Chase DeLauter,CLE,Existing registry mapping
+MATCHED,0000603,11309,Kody Clemens,MIN,1UwevZDy,Kody Clemens,MIN,Existing registry mapping
 MATCHED,0000610,64329,Carson Benge,NYM,wCpHU0Jo,Carson Benge,NYM,Existing registry mapping
 MATCHED,0000609,60061,Dominic Canzone,SEA,pOth0iKh,Dominic Canzone,SEA,Existing registry mapping
 MATCHED,0000611,10877,Jake Burger,TEX,SHCHBL4t,Jake Burger,TEX,Existing registry mapping
-MATCHED,0000603,11309,Kody Clemens,MIN,1UwevZDy,Kody Clemens,MIN,Existing registry mapping
+MATCHED,0000607,60138,Chase DeLauter,CLE,O6hcs_pL,Chase DeLauter,CLE,Existing registry mapping
 MATCHED,0000606,10875,Ryan Vilade,TB,HFsQWtAf,Ryan Vilade,TB,Existing registry mapping
 MATCHED,0000608,11347,Trevor Larnach,MIN,0U3bF2es,Trevor Larnach,MIN,Existing registry mapping
 MATCHED,0000613,60170,Jace Jung,DET,iugbfipC,Jace Jung,DET,Existing registry mapping
@@ -628,21 +628,21 @@ MATCHED,0000621,62978,Arjun Nimmala,TOR,PYcZnd2y,Arjun Nimmala,TOR,Existing regi
 MATCHED,0000622,65750,Gavin Fien,WSH,vcAgfOOL,Gavin Fien,WSH,Existing registry mapping
 MATCHED,0000623,65743,Devin Taylor,ATH,swc3lYyn,Devin Taylor,ATH,Existing registry mapping
 MATCHED,0000624,65738,Daniel Pierce,TB,kBT3oxzh,Daniel Pierce,TB,Existing registry mapping
-MATCHED,0000625,9168,Patrick Corbin,TOR,u1Jo26X4,Patrick Corbin,TOR,Existing registry mapping
 MATCHED,0000635,10444,Bryan Hudson,CWS,aGcdeonU,Bryan Hudson,CWS,Existing registry mapping
 MATCHED,0000636,12169,Carmen Mlodzinski,PIT,kbtX0KOq,Carmen Mlodzinski,PIT,Existing registry mapping
+MATCHED,0000343,60907,Jared Jones,PIT,EAONk8Sh,Jared Jones,PIT,Existing registry mapping
 MATCHED,0000626,11397,Matthew Liberatore,STL,sR5CohxE,Matthew Liberatore,STL,Existing registry mapping
-MATCHED,0000627,66492,Tatsuya Imai,HOU,0STkbSzT,Tatsuya Imai,HOU,Existing registry mapping
+MATCHED,0000628,12523,Robert Gasser,MIL,8ZZGtGIS,Robert Gasser,MIL,Existing registry mapping
 MATCHED,0000632,10985,Tyler Kinley,ATL,fHTZEB-i,Tyler Kinley,ATL,Existing registry mapping
 MATCHED,0000633,10145,Tyron Guerrero,BOS,FO73D0mG,Tyron Guerrero,BOS,Existing registry mapping
 MATCHED,0000631,11597,Pete Fairbanks,MIA,kKjpvhMR,Pete Fairbanks,MIA,Existing registry mapping
 MATCHED,0000637,63091,Erik Sabrowski,CLE,iL7TH9oT,Erik Sabrowski,CLE,Existing registry mapping
 MATCHED,0000634,12387,Caleb Kilian,SF,tU1qwLhV,Caleb Kilian,SF,Existing registry mapping
-MATCHED,0000630,10176,Antonio Senzatela,COL,vOgHcMJZ,Antonio Senzatela,COL,Existing registry mapping
-MATCHED,0000628,12523,Robert Gasser,MIL,8ZZGtGIS,Robert Gasser,MIL,Existing registry mapping
-MATCHED,0000343,60907,Jared Jones,PIT,EAONk8Sh,Jared Jones,PIT,Existing registry mapping
-MATCHED,0000638,60175,Troy Melton,DET,By8VOWW0,Troy Melton,DET,Existing registry mapping
 MATCHED,0000629,63577,River Ryan,LAD,dnhkn7Nv,River Ryan,LAD,Existing registry mapping
+MATCHED,0000625,9168,Patrick Corbin,TOR,u1Jo26X4,Patrick Corbin,TOR,Existing registry mapping
+MATCHED,0000630,10176,Antonio Senzatela,COL,vOgHcMJZ,Antonio Senzatela,COL,Existing registry mapping
+MATCHED,0000638,60175,Troy Melton,DET,By8VOWW0,Troy Melton,DET,Existing registry mapping
+MATCHED,0000627,66492,Tatsuya Imai,HOU,0STkbSzT,Tatsuya Imai,HOU,Existing registry mapping
 MATCHED,0000639,12110,Will Vest,DET,YwjwkOJj,Will Vest,DET,Existing registry mapping
 MATCHED,0000640,11838,Johan Oviedo,BOS,prQxYVBm,Johan Oviedo,BOS,Existing registry mapping
 MATCHED,0000641,10526,Cody Ponce,TOR,fRcMWBiP,Cody Ponce,TOR,Existing registry mapping
@@ -660,10 +660,10 @@ MATCHED,0000652,10056,Trea Turner,PHI,xBQT-Lta,Trea Turner,PHI,Existing registry
 MATCHED,0000659,11735,Jarren Duran,BOS,rwWUB5IO,Jarren Duran,BOS,Existing registry mapping
 MATCHED,0000059,11104,Randy Arozarena,SEA,TowmN01T,Randy Arozarena,SEA,Existing registry mapping
 MATCHED,0000655,10504,Cody Bellinger,NYY,ZiG9QxMT,Cody Bellinger,NYY,Existing registry mapping
-MATCHED,0000654,11596,Tommy Edman,LAD,2FuE6kpt,Tommy Edman,LAD,Existing registry mapping
 MATCHED,0000657,9339,George Springer,TOR,mYVVQBtE,George Springer,TOR,Existing registry mapping
-MATCHED,0000660,62119,Jakob Marsee,MIA,RiEs4jVj,Jakob Marsee,MIA,Existing registry mapping
 MATCHED,0000653,12657,Michael Massey,KC,9sgskULN,Michael Massey,KC,Existing registry mapping
+MATCHED,0000654,11596,Tommy Edman,LAD,2FuE6kpt,Tommy Edman,LAD,Existing registry mapping
+MATCHED,0000660,62119,Jakob Marsee,MIA,RiEs4jVj,Jakob Marsee,MIA,Existing registry mapping
 MATCHED,0000656,63648,Liam Hicks,MIA,6E0LkzYu,Liam Hicks,MIA,Existing registry mapping
 MATCHED,0000658,11378,Esteury Ruiz,MIA,ixw8IViz,Esteury Ruiz,MIA,Existing registry mapping
 MATCHED,0000664,60131,Christian Encarnacion-Strand,BAL,uyMxkWd4,Christian Encarnacion-Strand,BAL,Existing registry mapping
@@ -676,18 +676,18 @@ MATCHED,0000668,65000,Bo Davidson,SF,pqEydA68,Bo Davidson,SF,Existing registry m
 MATCHED,0000669,65811,Kane Kepley,CHC,UBHBSwvR,Kane Kepley,CHC,Existing registry mapping
 MATCHED,0000670,66490,Raudi Rodriguez,LAA,2V7mTJNd,Raudi Rodriguez,LAA,Existing registry mapping
 MATCHED,0000681,11661,Michael King,SD,twJdmDiL,Michael King,SD,Existing registry mapping
-MATCHED,0000672,63581,Justin Wrobleski,LAD,GDH8iiOG,Justin Wrobleski,LAD,Existing registry mapping
 MATCHED,0000683,60223,Walbert Urena,LAA,M883GO5r,Walbert Urena,LAA,Existing registry mapping
 MATCHED,0000673,65029,Spencer Miles,TOR,Y8VUI79L,Spencer Miles,TOR,Existing registry mapping
 MATCHED,0000675,11251,Merrill Kelly,AZ,aWI5oZ4O,Merrill Kelly,AZ,Existing registry mapping
+MATCHED,0000695,60430,Mitch Bratt,AZ,j2Emc5Wj,Mitch Bratt,AZ,Existing registry mapping
 MATCHED,0000676,11806,Yoendrys Gomez,MIN,x8xY4xiZ,Yoendrys Gomez,MIN,Existing registry mapping
 MATCHED,0000677,11920,Alex Vesia,LAD,IOtaK6eK,Alex Vesia,LAD,Existing registry mapping
 MATCHED,0000679,11998,Bryan Baker,TB,tcLPiQxw,Bryan Baker,TB,Existing registry mapping
 MATCHED,0000680,12092,Eduard Bazardo,SEA,DxelDQj6,Eduard Bazardo,SEA,Existing registry mapping
 MATCHED,0000937,12737,Keaton Winn,SF,YkZvxl2b,Keaton Winn,SF,Existing registry mapping
+MATCHED,0000672,63581,Justin Wrobleski,LAD,GDH8iiOG,Justin Wrobleski,LAD,Existing registry mapping
 MATCHED,0000671,10152,Reynaldo Lopez,ATL,VwBd0YFi,Reynaldo López,ATL,Existing registry mapping
 MATCHED,0000685,9123,Jameson Taillon,CHC,ZuiXD4gk,Jameson Taillon,CHC,Existing registry mapping
-MATCHED,0000695,60430,Mitch Bratt,AZ,j2Emc5Wj,Mitch Bratt,AZ,Existing registry mapping
 MATCHED,0000674,9691,Robbie Ray,SF,aJIA_EXs,Robbie Ray,SF,Existing registry mapping
 MATCHED,0000693,11478,Patrick Sandoval,BOS,viF46bho,Patrick Sandoval,BOS,Existing registry mapping
 MATCHED,0000684,10423,Michael Soroka,AZ,5DeOXx9P,Michael Soroka,AZ,Existing registry mapping
@@ -753,7 +753,7 @@ MATCHED,0000743,10946,Ryan Helsley,BAL,ukOvzi6i,Ryan Helsley,BAL,Existing regist
 MATCHED,0000744,63190,Brody Hopkins,TB,8tqDXe4j,Brody Hopkins,TB,Existing registry mapping
 MATCHED,0000746,12530,Brandon Valenzuela,TOR,n4YX5ABy,Brandon Valenzuela,TOR,Existing registry mapping
 MATCHED,0000747,9605,Matt Olson,ATL,wUOMZU_L,Matt Olson,ATL,Existing registry mapping
-MATCHED,0000748,12501,Max Muncy,ATH,ZtxqkzZV,Max Muncy,ATH,Existing registry mapping
+SUGGESTED_MATCH,,60064,Tim Tawa,AZ,B9q5itoE,Tim Tawa,AZ,Name/team match. Awaiting registry approval
 MATCHED,0000749,10420,Austin Riley,ATL,mXEYFLGV,Austin Riley,ATL,Existing registry mapping
 MATCHED,0000750,12413,Colson Montgomery,CWS,sMXrWwy0,Colson Montgomery,CWS,Existing registry mapping
 MATCHED,0000756,64150,Esmerlyn Valdez,PIT,KHahdHRJ,Esmerlyn Valdez,PIT,Existing registry mapping
@@ -761,7 +761,7 @@ MATCHED,0000751,11782,JJ Bleday,CIN,JzKxO9jd,JJ Bleday,CIN,Existing registry map
 MATCHED,0000753,10600,Jake Bauers,MIL,5yG2Zjdk,Jake Bauers,MIL,Existing registry mapping
 MATCHED,0000754,11781,Miguel Vargas,CWS,HAgfs2QP,Miguel Vargas,CWS,Existing registry mapping
 MATCHED,0000755,62957,Bryce Eldridge,SF,3GO1SV7m,Bryce Eldridge,SF,Existing registry mapping
-SUGGESTED_MATCH,,60064,Tim Tawa,AZ,B9q5itoE,Tim Tawa,AZ,Name/team match. Awaiting registry approval
+MATCHED,0000748,12501,Max Muncy,ATH,ZtxqkzZV,Max Muncy,ATH,Existing registry mapping
 MATCHED,0000757,9414,Joc Pederson,TEX,pY2ypoBZ,Joc Pederson,TEX,Existing registry mapping
 MATCHED,0000763,11802,Kevin Alcantara,CHC,LUVfP2iJ,Kevin Alcántara,CHC,Existing registry mapping
 MATCHED,0000615,11348,Luke Raley,SEA,e6HRZHBW,Luke Raley,SEA,Existing registry mapping
@@ -772,22 +772,22 @@ MATCHED,0000765,60279,Jett Williams,MIL,wXCJTI-f,Jett Williams,MIL,Existing regi
 MATCHED,0000766,64967,Eduardo Quintero,LAD,bJbSPjuI,Eduardo Quintero,LAD,Existing registry mapping
 MATCHED,0000767,65735,Kayson Cunningham,AZ,Dqq5Q3ey,Kayson Cunningham,AZ,Existing registry mapping
 MATCHED,0000768,12539,Gabriel Gonzalez,MIN,QIs0EVJX,Gabriel Gonzalez,MIN,Existing registry mapping
-MATCHED,0000781,63027,Grant Taylor,CWS,NtN4nNEk,Grant Taylor,CWS,Existing registry mapping
-MATCHED,0000770,60650,Landen Roupp,SF,NH80Zs90,Landen Roupp,SF,Existing registry mapping
-MATCHED,0000773,60292,Christian Scott,NYM,WaosWQFM,Christian Scott,NYM,Existing registry mapping
-MATCHED,0000771,12549,Michael McGreevy,STL,bBUeLrth,Michael McGreevy,STL,Existing registry mapping
 MATCHED,0000780,12682,Javier Assad,CHC,H5Hj-71Z,Javier Assad,CHC,Existing registry mapping
+MATCHED,0000769,11398,Shane McClanahan,TB,DGGdD6d6,Shane McClanahan,TB,Existing registry mapping
+MATCHED,0000781,63027,Grant Taylor,CWS,NtN4nNEk,Grant Taylor,CWS,Existing registry mapping
+MATCHED,0000772,60295,Will Warren,NYY,aYJHAf3K,Will Warren,NYY,Existing registry mapping
+MATCHED,0000778,11706,Cristopher Sanchez,PHI,cd6CbYEE,Cristopher Sánchez,PHI,Existing registry mapping
 MATCHED,0000775,12505,Mason Miller,SD,ya2ZsUXP,Mason Miller,SD,Existing registry mapping
 MATCHED,0000776,12768,Kevin Kelly,TB,akspmccI,Kevin Kelly,TB,Existing registry mapping
 MATCHED,0000777,12014,Clayton Beeter,WSH,TCYHSWUq,Clayton Beeter,WSH,Existing registry mapping
 MATCHED,0000822,9896,Jeff Hoffman,TOR,11nzTfDv,Jeff Hoffman,TOR,Existing registry mapping
 MATCHED,0000783,60042,Parker Messick,CLE,lOC-J8KF,Parker Messick,CLE,Existing registry mapping
+MATCHED,0000774,60056,Brandon Pfaadt,AZ,4iwAPmEI,Brandon Pfaadt,AZ,Existing registry mapping
+MATCHED,0000773,60292,Christian Scott,NYM,WaosWQFM,Christian Scott,NYM,Existing registry mapping
+MATCHED,0000771,12549,Michael McGreevy,STL,bBUeLrth,Michael McGreevy,STL,Existing registry mapping
+MATCHED,0000770,60650,Landen Roupp,SF,NH80Zs90,Landen Roupp,SF,Existing registry mapping
 MATCHED,0000782,63017,Brandon Sproat,MIL,7B8q7GMI,Brandon Sproat,MIL,Existing registry mapping
 MATCHED,0000779,12345,Kyle Bradish,BAL,7wRhRlzR,Kyle Bradish,BAL,Existing registry mapping
-MATCHED,0000772,60295,Will Warren,NYY,aYJHAf3K,Will Warren,NYY,Existing registry mapping
-MATCHED,0000778,11706,Cristopher Sanchez,PHI,cd6CbYEE,Cristopher Sánchez,PHI,Existing registry mapping
-MATCHED,0000774,60056,Brandon Pfaadt,AZ,4iwAPmEI,Brandon Pfaadt,AZ,Existing registry mapping
-MATCHED,0000769,11398,Shane McClanahan,TB,DGGdD6d6,Shane McClanahan,TB,Existing registry mapping
 MATCHED,0000785,12278,Matt Brash,SEA,CEN2CGQ6,Matt Brash,SEA,Existing registry mapping
 MATCHED,0000786,10926,Clarke Schmidt,NYY,LqnoxpoV,Clarke Schmidt,NYY,Existing registry mapping
 MATCHED,0000788,60218,Ben Joyce,LAA,TXhoGBU_,Ben Joyce,LAA,Existing registry mapping
@@ -844,7 +844,6 @@ MATCHED,0000834,65845,Malachi Witherspoon,DET,9qONjxpN,Malachi Witherspoon,DET,E
 MATCHED,0000835,66426,Kevin Defrank,MIA,T57txKoc,Kevin Defrank,MIA,Existing registry mapping
 MATCHED,0000836,60455,Jarlin Susana,WSH,dBR1WmJa,Jarlin Susana,WSH,Existing registry mapping
 MATCHED,0000837,62992,Travis Sykora,WSH,g8n2XgxD,Travis Sykora,WSH,Existing registry mapping
-MATCHED,0000838,60092,Samuel Basallo,BAL,MDr_7C0W,Samuel Basallo,BAL,Existing registry mapping
 MATCHED,0000839,8658,Freddie Freeman,LAD,hwTCsaot,Freddie Freeman,LAD,Existing registry mapping
 MATCHED,0000840,10036,Ketel Marte,AZ,cErjFC5Y,Ketel Marte,AZ,Existing registry mapping
 MATCHED,0000841,11850,Josh Jung,TEX,vG43YYMY,Josh Jung,TEX,Existing registry mapping
@@ -857,6 +856,7 @@ MATCHED,0000846,64542,Sean Keys,TOR,xiahvkKf,Sean Keys,TOR,Existing registry map
 MATCHED,0000849,10522,Trent Grisham,NYY,-2O788kh,Trent Grisham,NYY,Existing registry mapping
 MATCHED,0000848,62953,Nolan Schanuel,LAA,8-pMkx0Y,Nolan Schanuel,LAA,Existing registry mapping
 MATCHED,0000944,65500,Justin Gonzales,BOS,OH1Bl6Jr,Justin Gonzales,BOS,Existing registry mapping
+MATCHED,0000838,60092,Samuel Basallo,BAL,MDr_7C0W,Samuel Basallo,BAL,Existing registry mapping
 MATCHED,0000847,12127,Owen Caissie,MIA,yJMCYPkC,Owen Caissie,MIA,Existing registry mapping
 MATCHED,0000844,64318,Konnor Griffin,PIT,XQAIQ8Yr,Konnor Griffin,PIT,Existing registry mapping
 MATCHED,0000850,9584,Corey Seager,TEX,RzCShWdC,Corey Seager,TEX,Existing registry mapping
@@ -899,11 +899,11 @@ MATCHED,0000887,64317,JJ Wetherholt,STL,S8102oJb,JJ Wetherholt,STL,Existing regi
 MATCHED,0000895,10557,Mickey Moniak,COL,REbxBRdX,Mickey Moniak,COL,Existing registry mapping
 MATCHED,0000894,10577,Bryan Reynolds,PIT,Xt6hq-30,Bryan Reynolds,PIT,Existing registry mapping
 MATCHED,0000889,11238,Lane Thomas,KC,q4bBaUTS,Lane Thomas,KC,Existing registry mapping
-MATCHED,0000886,10881,Isaac Paredes,HOU,DfZ0U2RB,Isaac Paredes,HOU,Existing registry mapping
 MATCHED,0000891,12309,Jonathan Aranda,TB,4dtPBfxF,Jonathan Aranda,TB,Existing registry mapping
+MATCHED,0000885,10919,Andres Gimenez,TOR,rtJdZGaZ,Andrés Giménez,TOR,Existing registry mapping
+MATCHED,0000886,10881,Isaac Paredes,HOU,DfZ0U2RB,Isaac Paredes,HOU,Existing registry mapping
 MATCHED,0000888,10366,Teoscar Hernandez,LAD,uT6uI2os,Teoscar Hernández,LAD,Existing registry mapping
 MATCHED,0000890,12369,Colton Cowser,BAL,Q6oLBjHr,Colton Cowser,BAL,Existing registry mapping
-MATCHED,0000885,10919,Andres Gimenez,TOR,rtJdZGaZ,Andrés Giménez,TOR,Existing registry mapping
 MATCHED,0000902,60256,Luis Lara,MIL,82mzy1mD,Luis Lara,MIL,Existing registry mapping
 MATCHED,0000900,60091,Dylan Beavers,BAL,VAjoryRj,Dylan Beavers,BAL,Existing registry mapping
 MATCHED,0000899,9517,Marcus Semien,NYM,5SHQXgI1,Marcus Semien,NYM,Existing registry mapping
@@ -916,16 +916,16 @@ MATCHED,0000908,10597,Sandy Alcantara,MIA,6gKk6mIf,Sandy Alcantara,MIA,Existing 
 MATCHED,0000909,60116,Shane Drohan,MIL,jVfQS2ZX,Shane Drohan,MIL,Existing registry mapping
 MATCHED,0000910,9121,Gerrit Cole,NYY,XGhjc3o9,Gerrit Cole,NYY,Existing registry mapping
 MATCHED,0000821,10011,Matthew Boyd,CHC,fheTzm0D,Matthew Boyd,CHC,Existing registry mapping
-MATCHED,0000912,10229,Erick Fedde,CWS,jSRfA2l4,Erick Fedde,CWS,Existing registry mapping
+NO_MATCH,,11203,Jimmy Herget,COL,,,,No HKB player found
 MATCHED,0000913,12275,Dylan Lee,ATL,FgDPtbFk,Dylan Lee,ATL,Existing registry mapping
 MATCHED,0000914,10574,Adrian Morejon,SD,Th5qlwAy,Adrian Morejon,SD,Existing registry mapping
 MATCHED,0000915,11195,Jacob Webb,CHC,Yn0TQjEe,Jacob Webb,CHC,Existing registry mapping
 MATCHED,0000916,11704,Garrett Cleavinger,TB,ZsLOIbBN,Garrett Cleavinger,TB,Existing registry mapping
-NO_MATCH,,11203,Jimmy Herget,COL,,,,No HKB player found
+MATCHED,0000940,61375,Ryan Zeferjahn,LAA,357GkSjZ,Ryan Zeferjahn,LAA,Existing registry mapping
+MATCHED,0000912,10229,Erick Fedde,CWS,jSRfA2l4,Erick Fedde,CWS,Existing registry mapping
 MATCHED,0000920,12096,Bailey Ober,MIN,S3JYpd8i,Bailey Ober,MIN,Existing registry mapping
 MATCHED,0000911,10898,Dustin May,STL,vu2mg4IT,Dustin May,STL,Existing registry mapping
 MATCHED,0000919,11277,Grayson Rodriguez,LAA,u8aFiM-C,Grayson Rodriguez,LAA,Existing registry mapping
-MATCHED,0000940,61375,Ryan Zeferjahn,LAA,357GkSjZ,Ryan Zeferjahn,LAA,Existing registry mapping
 NO_MATCH,,62678,PJ Poulin,WSH,,,,No HKB player found
 MATCHED,0000918,9672,Blake Treinen,LAD,7sMPGWyz,Blake Treinen,LAD,Existing registry mapping
 MATCHED,0000921,10148,Blake Snell,LAD,_7w4tBi_,Blake Snell,LAD,Existing registry mapping

@@ -13,7 +13,6 @@ from yfpy.query import YahooFantasySportsQuery
 # ----------------------------
 league_id = "883"
 game_code = "mlb"
-week = 18  # can be any valid week in season
 
 query = YahooFantasySportsQuery(
     league_id,
@@ -21,6 +20,28 @@ query = YahooFantasySportsQuery(
     env_file_location=project_dir,
     save_token_data_to_env_file=True
 )
+
+def get_current_week(query, team_id, max_weeks=28):
+    last_valid = 1
+
+    for w in range(1, max_weeks + 1):
+        try:
+            roster = query.get_team_roster_by_week(team_id, w)
+
+            # If we got a roster with players, this week exists.
+            if getattr(roster, "players", None) is not None:
+                last_valid = w
+            else:
+                break
+
+        except Exception:
+            break
+
+    return last_valid
+
+
+
+
 
 # ----------------------------
 # HELPERS
@@ -42,6 +63,12 @@ def safe_get(obj, attr, default=None):
 # BUILD TEAMS
 # ----------------------------
 teams = query.get_league_teams()
+
+# Use the first team to determine the current week
+week = get_current_week(query, teams[0].team_id)
+
+print(f"Using Yahoo week {week}")
+
 
 all_players = []
 

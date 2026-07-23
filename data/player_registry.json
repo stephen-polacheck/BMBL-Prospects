@@ -14355,5 +14355,170 @@
     "locked": true,
     "created": "2026-07-17T13:03:19.116651",
     "updated": "2026-07-17T13:03:19.116723"
+  },
+  "0000958": {
+    "universal_id": "0000958",
+    "canonical_name": "Jacob Reimer",
+    "canonical_team": "NYM",
+    "internal_ids": [
+      60285
+    ],
+    "hkb_ids": [
+      "3HBW0kdF"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-23T17:08:07.407390",
+    "updated": "2026-07-23T17:08:07.407469"
+  },
+  "0000959": {
+    "universal_id": "0000959",
+    "canonical_name": "Cole Sulser",
+    "canonical_team": "TB",
+    "internal_ids": [
+      11648
+    ],
+    "hkb_ids": [
+      "6yYzCYRD"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-23T17:08:08.596993",
+    "updated": "2026-07-23T17:08:08.597057"
+  },
+  "0000960": {
+    "universal_id": "0000960",
+    "canonical_name": "Alex Clemmey",
+    "canonical_team": "WSH",
+    "internal_ids": [
+      62763
+    ],
+    "hkb_ids": [
+      "X_UZUjGM"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-23T17:08:14.223475",
+    "updated": "2026-07-23T17:08:14.223602"
+  },
+  "0000961": {
+    "universal_id": "0000961",
+    "canonical_name": "Wade Meckler",
+    "canonical_team": "LAA",
+    "internal_ids": [
+      61844
+    ],
+    "hkb_ids": [
+      "OfA2WXwf"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-23T17:08:15.229366",
+    "updated": "2026-07-23T17:08:15.229418"
+  },
+  "0000962": {
+    "universal_id": "0000962",
+    "canonical_name": "George Klassen",
+    "canonical_team": "LAA",
+    "internal_ids": [
+      63064
+    ],
+    "hkb_ids": [
+      "BcJGBjs8"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-23T17:08:16.449800",
+    "updated": "2026-07-23T17:08:16.449878"
+  },
+  "0000963": {
+    "universal_id": "0000963",
+    "canonical_name": "Brandon Clarke",
+    "canonical_team": "STL",
+    "internal_ids": [
+      64508
+    ],
+    "hkb_ids": [
+      "ZIBgWEew"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-23T17:08:17.413267",
+    "updated": "2026-07-23T17:08:17.413358"
+  },
+  "0000964": {
+    "universal_id": "0000964",
+    "canonical_name": "Patrick Bailey",
+    "canonical_team": "CLE",
+    "internal_ids": [
+      12054
+    ],
+    "hkb_ids": [
+      "4KsqeAh1"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-23T17:08:18.309799",
+    "updated": "2026-07-23T17:08:18.309871"
+  },
+  "0000965": {
+    "universal_id": "0000965",
+    "canonical_name": "Victor Mesa Jr.",
+    "canonical_team": "TB",
+    "internal_ids": [
+      60246
+    ],
+    "hkb_ids": [
+      "JwQwOe8r"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-23T17:08:19.429396",
+    "updated": "2026-07-23T17:08:19.429452"
+  },
+  "0000966": {
+    "universal_id": "0000966",
+    "canonical_name": "Logan Allen",
+    "canonical_team": "CLE",
+    "internal_ids": [
+      60139
+    ],
+    "hkb_ids": [
+      "Ig0JBXPe"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-23T17:08:25.205474",
+    "updated": "2026-07-23T17:08:25.205534"
+  },
+  "0000967": {
+    "universal_id": "0000967",
+    "canonical_name": "Alex Lodise",
+    "canonical_team": "ATL",
+    "internal_ids": [
+      65774
+    ],
+    "hkb_ids": [
+      "rER4cZwO"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-23T17:08:29.149093",
+    "updated": "2026-07-23T17:08:29.149150"
+  },
+  "0000968": {
+    "universal_id": "0000968",
+    "canonical_name": "Tim Tawa",
+    "canonical_team": "AZ",
+    "internal_ids": [
+      60064
+    ],
+    "hkb_ids": [
+      "B9q5itoE"
+    ],
+    "aliases": [],
+    "locked": true,
+    "created": "2026-07-23T17:08:31.398011",
+    "updated": "2026-07-23T17:08:31.398055"
   }
 }
