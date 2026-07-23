@@ -18,6 +18,22 @@
   {
     "team_id": 1,
     "team_name": "Sechler Run Tides",
+    "player_id": 11648,
+    "player_key": "469.p.11648",
+    "name": "Cole Sulser",
+    "first_name": "Cole",
+    "last_name": "Sulser",
+    "position": "RP",
+    "eligible_positions": [
+      "RP"
+    ],
+    "mlb_team": "TB",
+    "mlb_team_name": "Tampa Bay Rays",
+    "status": ""
+  },
+  {
+    "team_id": 1,
+    "team_name": "Sechler Run Tides",
     "player_id": 62763,
     "player_key": "469.p.62763",
     "name": "Alex Clemmey",
@@ -82,22 +98,6 @@
   {
     "team_id": 4,
     "team_name": "Carson City Campers",
-    "player_id": 60246,
-    "player_key": "469.p.60246",
-    "name": "Victor Mesa Jr.",
-    "first_name": "Victor",
-    "last_name": "Mesa Jr.",
-    "position": "RF",
-    "eligible_positions": [
-      "RF"
-    ],
-    "mlb_team": "TB",
-    "mlb_team_name": "Tampa Bay Rays",
-    "status": ""
-  },
-  {
-    "team_id": 4,
-    "team_name": "Carson City Campers",
     "player_id": 12054,
     "player_key": "469.p.12054",
     "name": "Patrick Bailey",
@@ -109,6 +109,22 @@
     ],
     "mlb_team": "CLE",
     "mlb_team_name": "Cleveland Guardians",
+    "status": ""
+  },
+  {
+    "team_id": 4,
+    "team_name": "Carson City Campers",
+    "player_id": 60246,
+    "player_key": "469.p.60246",
+    "name": "Victor Mesa Jr.",
+    "first_name": "Victor",
+    "last_name": "Mesa Jr.",
+    "position": "RF",
+    "eligible_positions": [
+      "RF"
+    ],
+    "mlb_team": "TB",
+    "mlb_team_name": "Tampa Bay Rays",
     "status": ""
   },
   {
@@ -157,6 +173,38 @@
     ],
     "mlb_team": "TEX",
     "mlb_team_name": "Texas Rangers",
+    "status": ""
+  },
+  {
+    "team_id": 6,
+    "team_name": "Cokeburg Miners",
+    "player_id": 65037,
+    "player_key": "469.p.65037",
+    "name": "Samy Natera Jr.",
+    "first_name": "Samy",
+    "last_name": "Natera Jr.",
+    "position": "RP",
+    "eligible_positions": [
+      "RP"
+    ],
+    "mlb_team": "LAA",
+    "mlb_team_name": "Los Angeles Angels",
+    "status": ""
+  },
+  {
+    "team_id": 7,
+    "team_name": "Danville Sweet Corn",
+    "player_id": 65522,
+    "player_key": "469.p.65522",
+    "name": "Jim Jarvis",
+    "first_name": "Jim",
+    "last_name": "Jarvis",
+    "position": "SS",
+    "eligible_positions": [
+      "SS"
+    ],
+    "mlb_team": "ATL",
+    "mlb_team_name": "Atlanta Braves",
     "status": ""
   },
   {
