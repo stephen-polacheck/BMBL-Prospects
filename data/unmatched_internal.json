@@ -1,5 +1,37 @@
 [
   {
+    "team_id": 2,
+    "team_name": "Atlantis Aliens",
+    "player_id": 60319,
+    "player_key": "469.p.60319",
+    "name": "Hao-Yu Lee",
+    "first_name": "Hao-Yu",
+    "last_name": "Lee",
+    "position": "2B",
+    "eligible_positions": [
+      "2B"
+    ],
+    "mlb_team": "DET",
+    "mlb_team_name": "Detroit Tigers",
+    "status": ""
+  },
+  {
+    "team_id": 2,
+    "team_name": "Atlantis Aliens",
+    "player_id": 66433,
+    "player_key": "469.p.66433",
+    "name": "Ramon Marquez",
+    "first_name": "Ramon",
+    "last_name": "Marquez",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "PHI",
+    "mlb_team_name": "Philadelphia Phillies",
+    "status": "NA"
+  },
+  {
     "team_id": 4,
     "team_name": "Carson City Campers",
     "player_id": 62895,
@@ -162,6 +194,22 @@
   {
     "team_id": 14,
     "team_name": "New Hampshire Unicorns",
+    "player_id": 12452,
+    "player_key": "469.p.12452",
+    "name": "Sam Bachman",
+    "first_name": "Sam",
+    "last_name": "Bachman",
+    "position": "RP",
+    "eligible_positions": [
+      "RP"
+    ],
+    "mlb_team": "LAA",
+    "mlb_team_name": "Los Angeles Angels",
+    "status": ""
+  },
+  {
+    "team_id": 14,
+    "team_name": "New Hampshire Unicorns",
     "player_id": 62467,
     "player_key": "469.p.62467",
     "name": "Juan Morillo",
@@ -178,18 +226,18 @@
   {
     "team_id": 14,
     "team_name": "New Hampshire Unicorns",
-    "player_id": 12452,
-    "player_key": "469.p.12452",
-    "name": "Sam Bachman",
-    "first_name": "Sam",
-    "last_name": "Bachman",
-    "position": "RP",
+    "player_id": 8193,
+    "player_key": "469.p.8193",
+    "name": "Max Scherzer",
+    "first_name": "Max",
+    "last_name": "Scherzer",
+    "position": "SP",
     "eligible_positions": [
-      "RP"
+      "SP"
     ],
-    "mlb_team": "LAA",
-    "mlb_team_name": "Los Angeles Angels",
-    "status": ""
+    "mlb_team": "TOR",
+    "mlb_team_name": "Toronto Blue Jays",
+    "status": "IL15"
   },
   {
     "team_id": 16,
