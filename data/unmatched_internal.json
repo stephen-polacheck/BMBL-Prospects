@@ -112,6 +112,38 @@
     "status": ""
   },
   {
+    "team_id": 6,
+    "team_name": "Cokeburg Miners",
+    "player_id": 65010,
+    "player_key": "469.p.65010",
+    "name": "Kohl Drake",
+    "first_name": "Kohl",
+    "last_name": "Drake",
+    "position": "SP",
+    "eligible_positions": [
+      "SP"
+    ],
+    "mlb_team": "AZ",
+    "mlb_team_name": "Arizona Diamondbacks",
+    "status": ""
+  },
+  {
+    "team_id": 7,
+    "team_name": "Danville Sweet Corn",
+    "player_id": 61600,
+    "player_key": "469.p.61600",
+    "name": "Andruw Monasterio",
+    "first_name": "Andruw",
+    "last_name": "Monasterio",
+    "position": "1B",
+    "eligible_positions": [
+      "1B"
+    ],
+    "mlb_team": "BOS",
+    "mlb_team_name": "Boston Red Sox",
+    "status": ""
+  },
+  {
     "team_id": 7,
     "team_name": "Danville Sweet Corn",
     "player_id": 65522,
@@ -253,6 +285,22 @@
     ],
     "mlb_team": "WSH",
     "mlb_team_name": "Washington Nationals",
+    "status": ""
+  },
+  {
+    "team_id": 17,
+    "team_name": "Scranton Stranglers",
+    "player_id": 11210,
+    "player_key": "469.p.11210",
+    "name": "Luis Rengifo",
+    "first_name": "Luis",
+    "last_name": "Rengifo",
+    "position": "2B",
+    "eligible_positions": [
+      "2B"
+    ],
+    "mlb_team": "SD",
+    "mlb_team_name": "San Diego Padres",
     "status": ""
   },
   {
